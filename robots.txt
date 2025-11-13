@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bramb000.github.io/sitemap.xml
