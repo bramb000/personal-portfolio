@@ -3,7 +3,7 @@
     <title>Bramha Dalvi</title>
     <link href="https://bramha.work/feed.xml" rel="self" />
     <link href="https://bramha.work" />
-    <updated>2025-11-13T21:56:01+11:00</updated>
+    <updated>2025-11-13T22:10:13+11:00</updated>
     <author>
         <name>Bramha</name>
     </author>
@@ -55,7 +55,7 @@
 <p class="align-left">My Role : UX/UI Designer</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p>Team Size : 2 UX Designers | 2 UI Artists | 2 UI Engineers</p>
+<p>Team Size : 2 UX Designers | 2 UI Artists | 4 UI Engineers</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:heading --></p>
 <h2 class="wp-block-heading">Context</h2>
@@ -149,7 +149,7 @@
 <p><!-- /wp:list-item --></p>
 <p><!-- /wp:list --></p>
 <p><!-- wp:image {"id":87,"width":"634px","height":"auto","sizeSlug":"large","linkDestination":"none","align":"center"} --></p>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://bramha.work/media/posts/6/unnamed-1.jpg" alt="" width="403" height="274" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/6/responsive/unnamed-1-xs.jpg 300w ,https://bramha.work/media/posts/6/responsive/unnamed-1-sm.jpg 480w ,https://bramha.work/media/posts/6/responsive/unnamed-1-md.jpg 768w ,https://bramha.work/media/posts/6/responsive/unnamed-1-lg.jpg 1024w"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://bramha.work/media/posts/6/unnamed-1.jpg" alt="" width="465" height="316" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/6/responsive/unnamed-1-xs.jpg 300w ,https://bramha.work/media/posts/6/responsive/unnamed-1-sm.jpg 480w ,https://bramha.work/media/posts/6/responsive/unnamed-1-md.jpg 768w ,https://bramha.work/media/posts/6/responsive/unnamed-1-lg.jpg 1024w"></figure>
 <p><!-- /wp:image --></p>
 <p><!-- wp:paragraph --></p>
 <p>The app on an iPad pro vs a Samsung galaxy phone</p>
@@ -182,29 +182,31 @@
 <p><!-- /wp:jetpack/layout-grid --></p>
 <p><!-- wp:paragraph --></p>
 <p>The tricky part was making a responsive UI was the 3 dimensional objects in a virtual space. For that, I worked very closely with the UI engineers to develop a system where an anchor point was projected from the 3D dimension space into a 2D space on the screen, and the anchor point was then subjected to laws of bounds. Once the appropriate 2D anchor point was calculated for any screen, the camera adjusted in such a way that the 3D projection of it aligned as closely as possible. The result was a reactive camera system that could be configured like a 2D UI and the camera would adapt automatically. It would automatically know how much to zoom in or out and how to move left and right to make sure all the 3D objects appeared at the correct places on the screen no matter the aspect ratio and screen resolution of the device, whether it was a nearly square Ipad or a really tall phone. The MVP of this solution achieved usable display results on over 8 types of aspect ratios and different devices which broadly encompassed 90% of the devices or screens we expected the app to be used on</p>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://bramha.work/media/posts/6/unnamed-2.jpg" alt="" width="232" height="274" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/6/responsive/unnamed-2-xs.jpg 300w ,https://bramha.work/media/posts/6/responsive/unnamed-2-sm.jpg 480w ,https://bramha.work/media/posts/6/responsive/unnamed-2-md.jpg 768w ,https://bramha.work/media/posts/6/responsive/unnamed-2-lg.jpg 1024w"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://bramha.work/media/posts/6/unnamed-2.jpg" alt="" width="335" height="396" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/6/responsive/unnamed-2-xs.jpg 300w ,https://bramha.work/media/posts/6/responsive/unnamed-2-sm.jpg 480w ,https://bramha.work/media/posts/6/responsive/unnamed-2-md.jpg 768w ,https://bramha.work/media/posts/6/responsive/unnamed-2-lg.jpg 1024w"></figure>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"id":94,"width":"448px","height":"auto","aspectRatio":"0.8465466722478024","sizeSlug":"large","linkDestination":"none","align":"center"} --></p>
 <p><!-- /wp:image --></p>
 <p><!-- wp:jetpack/layout-grid {"column1DesktopSpan":6,"column1TabletSpan":4,"column1MobileSpan":4,"column2DesktopSpan":6,"column2TabletSpan":4,"column2MobileSpan":4,"className":"column1-desktop-grid__span-6 column1-desktop-grid__row-1 column2-desktop-grid__span-6 column2-desktop-grid__start-7 column2-desktop-grid__row-1 column1-tablet-grid__span-4 column1-tablet-grid__row-1 column2-tablet-grid__span-4 column2-tablet-grid__start-5 column2-tablet-grid__row-1 column1-mobile-grid__span-4 column1-mobile-grid__row-1 column2-mobile-grid__span-4 column2-mobile-grid__row-2"} --></p>
 <div class="wp-block-jetpack-layout-grid column1-desktop-grid__span-6 column1-desktop-grid__row-1 column2-desktop-grid__span-6 column2-desktop-grid__start-7 column2-desktop-grid__row-1 column1-tablet-grid__span-4 column1-tablet-grid__row-1 column2-tablet-grid__span-4 column2-tablet-grid__start-5 column2-tablet-grid__row-1 column1-mobile-grid__span-4 column1-mobile-grid__row-1 column2-mobile-grid__span-4 column2-mobile-grid__row-2">
 <p><!-- wp:jetpack/layout-grid-column --></p>
-<div class="wp-block-jetpack-layout-grid-column wp-block-jetpack-layout-grid__padding-none"><figure class="post__image post__image--center"><img loading="lazy"  src="https://bramha.work/media/posts/6/IMG_0459.png" alt="" width="366" height="274" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/6/responsive/IMG_0459-xs.png 300w ,https://bramha.work/media/posts/6/responsive/IMG_0459-sm.png 480w ,https://bramha.work/media/posts/6/responsive/IMG_0459-md.png 768w ,https://bramha.work/media/posts/6/responsive/IMG_0459-lg.png 1024w"></figure></div>
+<div class="wp-block-jetpack-layout-grid-column wp-block-jetpack-layout-grid__padding-none">
+<figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/6/IMG_0459.png" alt="" width="511" height="382" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/6/responsive/IMG_0459-xs.png 300w ,https://bramha.work/media/posts/6/responsive/IMG_0459-sm.png 480w ,https://bramha.work/media/posts/6/responsive/IMG_0459-md.png 768w ,https://bramha.work/media/posts/6/responsive/IMG_0459-lg.png 1024w">
+<figcaption>Ipad Pro 13"</figcaption>
+</figure>
+</div>
 <p><!-- /wp:jetpack/layout-grid-column --></p>
 <p><!-- wp:jetpack/layout-grid-column --></p>
-<div class="align-center">Ipad Pro 13"</div>
-<div class="wp-block-jetpack-layout-grid-column wp-block-jetpack-layout-grid__padding-none"><figure class="post__image post__image--center"><img loading="lazy"  src="https://bramha.work/media/posts/6/IMG-20251109-WA0017.jpg" alt="" width="588" height="274" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/6/responsive/IMG-20251109-WA0017-xs.jpg 300w ,https://bramha.work/media/posts/6/responsive/IMG-20251109-WA0017-sm.jpg 480w ,https://bramha.work/media/posts/6/responsive/IMG-20251109-WA0017-md.jpg 768w ,https://bramha.work/media/posts/6/responsive/IMG-20251109-WA0017-lg.jpg 1024w"></figure></div>
+<div class="wp-block-jetpack-layout-grid-column wp-block-jetpack-layout-grid__padding-none">
+<figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/6/IMG-20251109-WA0017.jpg" alt="" width="588" height="274" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/6/responsive/IMG-20251109-WA0017-xs.jpg 300w ,https://bramha.work/media/posts/6/responsive/IMG-20251109-WA0017-sm.jpg 480w ,https://bramha.work/media/posts/6/responsive/IMG-20251109-WA0017-md.jpg 768w ,https://bramha.work/media/posts/6/responsive/IMG-20251109-WA0017-lg.jpg 1024w">
+<figcaption>Samsung Galaxy Phone 6.3"</figcaption>
+</figure>
+</div>
 <p><!-- /wp:jetpack/layout-grid-column --></p>
 </div>
 <p><!-- /wp:jetpack/layout-grid --></p>
 <p><!-- wp:jetpack/layout-grid {"column1DesktopSpan":6,"column1TabletSpan":4,"column1MobileSpan":4,"column2DesktopSpan":6,"column2TabletSpan":4,"column2MobileSpan":4,"className":"column1-desktop-grid__span-6 column1-desktop-grid__row-1 column2-desktop-grid__span-6 column2-desktop-grid__start-7 column2-desktop-grid__row-1 column1-tablet-grid__span-4 column1-tablet-grid__row-1 column2-tablet-grid__span-4 column2-tablet-grid__start-5 column2-tablet-grid__row-1 column1-mobile-grid__span-4 column1-mobile-grid__row-1 column2-mobile-grid__span-4 column2-mobile-grid__row-2"} --></p>
 <div class="wp-block-jetpack-layout-grid column1-desktop-grid__span-6 column1-desktop-grid__row-1 column2-desktop-grid__span-6 column2-desktop-grid__start-7 column2-desktop-grid__row-1 column1-tablet-grid__span-4 column1-tablet-grid__row-1 column2-tablet-grid__span-4 column2-tablet-grid__start-5 column2-tablet-grid__row-1 column1-mobile-grid__span-4 column1-mobile-grid__row-1 column2-mobile-grid__span-4 column2-mobile-grid__row-2">
 <p><!-- wp:jetpack/layout-grid-column --></p>
-<div class="wp-block-jetpack-layout-grid-column wp-block-jetpack-layout-grid__padding-none align-center">
-<p><!-- wp:image {"id":138,"sizeSlug":"large","linkDestination":"none","align":"right"} --></p>
-Samsung Galaxy Phone 6.3"
-<p><!-- /wp:image --></p>
-</div>
 <p><!-- /wp:jetpack/layout-grid-column --></p>
 <p><!-- wp:jetpack/layout-grid-column --></p>
 <div class="wp-block-jetpack-layout-grid-column wp-block-jetpack-layout-grid__padding-none"><span style="font-size: inherit;">The original Rocksmith+ experience was also built with only PC in mind, so a lot of the component had to undergo changes to be intuitive for mobile devices.</span></div>
