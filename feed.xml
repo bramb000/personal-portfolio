@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Bramha Dalvi</title>
-    <link href="https://bramb000.github.io/personal-portfolio/feed.xml" rel="self" />
-    <link href="https://bramb000.github.io/personal-portfolio" />
+    <link href="https://bramha.work/feed.xml" rel="self" />
+    <link href="https://bramha.work" />
     <updated>2025-11-13T21:56:01+11:00</updated>
     <author>
         <name>Bramha</name>
     </author>
-    <id>https://bramb000.github.io/personal-portfolio</id>
+    <id>https://bramha.work</id>
 
     <entry>
         <title>Vibe Prototyping a feed for Immutable Play</title>
         <author>
             <name>Bramha</name>
         </author>
-        <link href="https://bramb000.github.io/personal-portfolio/vibe-prototyping/"/>
-        <id>https://bramb000.github.io/personal-portfolio/vibe-prototyping/</id>
+        <link href="https://bramha.work/vibe-prototyping/"/>
+        <id>https://bramha.work/vibe-prototyping/</id>
 
         <updated>2025-11-13T20:19:25+11:00</updated>
             <summary></summary>
@@ -44,8 +44,8 @@
         <author>
             <name>Bramha</name>
         </author>
-        <link href="https://bramb000.github.io/personal-portfolio/rocksmith-mobile/"/>
-        <id>https://bramb000.github.io/personal-portfolio/rocksmith-mobile/</id>
+        <link href="https://bramha.work/rocksmith-mobile/"/>
+        <id>https://bramha.work/rocksmith-mobile/</id>
 
         <updated>2025-11-07T20:40:04+11:00</updated>
             <summary></summary>
@@ -62,7 +62,7 @@
 <p><!-- /wp:heading --></p>
 <p><!-- wp:paragraph --></p>
 <p>I joined the team in 2020. Rocksmith+ was in pre-production and the Ubisoft wanted a global release on mobile, PC, and next gen game consoles (at that time, it was the Playstation 5 and Xbox Series X). Very few people on the UX team had prior experience building a mobile user experiences.</p>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://bramb000.github.io/personal-portfolio/media/posts/6/rocksmith-tv.jpg" alt="" width="545" height="187" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramb000.github.io/personal-portfolio/media/posts/6/responsive/rocksmith-tv-xs.jpg 300w ,https://bramb000.github.io/personal-portfolio/media/posts/6/responsive/rocksmith-tv-sm.jpg 480w ,https://bramb000.github.io/personal-portfolio/media/posts/6/responsive/rocksmith-tv-md.jpg 768w ,https://bramb000.github.io/personal-portfolio/media/posts/6/responsive/rocksmith-tv-lg.jpg 1024w"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://bramha.work/media/posts/6/rocksmith-tv.jpg" alt="" width="545" height="187" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/6/responsive/rocksmith-tv-xs.jpg 300w ,https://bramha.work/media/posts/6/responsive/rocksmith-tv-sm.jpg 480w ,https://bramha.work/media/posts/6/responsive/rocksmith-tv-md.jpg 768w ,https://bramha.work/media/posts/6/responsive/rocksmith-tv-lg.jpg 1024w"></figure>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"id":165,"width":"822px","height":"auto","sizeSlug":"large","linkDestination":"none","align":"center"} --></p>
 <p><!-- /wp:image --></p>
@@ -110,10 +110,10 @@
 <p><!-- wp:image {"id":56,"width":"697px","height":"auto","sizeSlug":"large","linkDestination":"none","align":"center"} --></p>
 <p><!-- /wp:image --></p>
 <p><!-- wp:image {"id":58,"width":"700px","height":"auto","sizeSlug":"large","linkDestination":"none","align":"center"} --></p>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://bramb000.github.io/personal-portfolio/media/posts/6/Rocksmith-Mobile.png" alt="" width="487" height="274" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramb000.github.io/personal-portfolio/media/posts/6/responsive/Rocksmith-Mobile-xs.png 300w ,https://bramb000.github.io/personal-portfolio/media/posts/6/responsive/Rocksmith-Mobile-sm.png 480w ,https://bramb000.github.io/personal-portfolio/media/posts/6/responsive/Rocksmith-Mobile-md.png 768w ,https://bramb000.github.io/personal-portfolio/media/posts/6/responsive/Rocksmith-Mobile-lg.png 1024w"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://bramha.work/media/posts/6/Rocksmith-Mobile.png" alt="" width="487" height="274" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/6/responsive/Rocksmith-Mobile-xs.png 300w ,https://bramha.work/media/posts/6/responsive/Rocksmith-Mobile-sm.png 480w ,https://bramha.work/media/posts/6/responsive/Rocksmith-Mobile-md.png 768w ,https://bramha.work/media/posts/6/responsive/Rocksmith-Mobile-lg.png 1024w"></figure>
 <p><!-- /wp:image --></p>
 <p><!-- wp:paragraph --></p>
-<figure class="post__image post__image--center"><img loading="lazy" src="https://bramb000.github.io/personal-portfolio/media/posts/6/Screenshot-2025-11-09-084220.png" alt="" width="488" height="274" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramb000.github.io/personal-portfolio/media/posts/6/responsive/Screenshot-2025-11-09-084220-xs.png 300w ,https://bramb000.github.io/personal-portfolio/media/posts/6/responsive/Screenshot-2025-11-09-084220-sm.png 480w ,https://bramb000.github.io/personal-portfolio/media/posts/6/responsive/Screenshot-2025-11-09-084220-md.png 768w ,https://bramb000.github.io/personal-portfolio/media/posts/6/responsive/Screenshot-2025-11-09-084220-lg.png 1024w">
+<figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/6/Screenshot-2025-11-09-084220.png" alt="" width="488" height="274" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/6/responsive/Screenshot-2025-11-09-084220-xs.png 300w ,https://bramha.work/media/posts/6/responsive/Screenshot-2025-11-09-084220-sm.png 480w ,https://bramha.work/media/posts/6/responsive/Screenshot-2025-11-09-084220-md.png 768w ,https://bramha.work/media/posts/6/responsive/Screenshot-2025-11-09-084220-lg.png 1024w">
 <figcaption>Originally, these tests were done with internal and external volunteers. This screenshot is taken from a review of Rocksmith+ mobile for visualisation purposes</figcaption>
 </figure>
 <p>What I quickly realised was that the UI cannot be one size fits all for this experience. Users need tons of customisability to change the experience to their needs</p>
@@ -149,7 +149,7 @@
 <p><!-- /wp:list-item --></p>
 <p><!-- /wp:list --></p>
 <p><!-- wp:image {"id":87,"width":"634px","height":"auto","sizeSlug":"large","linkDestination":"none","align":"center"} --></p>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://bramb000.github.io/personal-portfolio/media/posts/6/unnamed-1.jpg" alt="" width="403" height="274" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramb000.github.io/personal-portfolio/media/posts/6/responsive/unnamed-1-xs.jpg 300w ,https://bramb000.github.io/personal-portfolio/media/posts/6/responsive/unnamed-1-sm.jpg 480w ,https://bramb000.github.io/personal-portfolio/media/posts/6/responsive/unnamed-1-md.jpg 768w ,https://bramb000.github.io/personal-portfolio/media/posts/6/responsive/unnamed-1-lg.jpg 1024w"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://bramha.work/media/posts/6/unnamed-1.jpg" alt="" width="403" height="274" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/6/responsive/unnamed-1-xs.jpg 300w ,https://bramha.work/media/posts/6/responsive/unnamed-1-sm.jpg 480w ,https://bramha.work/media/posts/6/responsive/unnamed-1-md.jpg 768w ,https://bramha.work/media/posts/6/responsive/unnamed-1-lg.jpg 1024w"></figure>
 <p><!-- /wp:image --></p>
 <p><!-- wp:paragraph --></p>
 <p>The app on an iPad pro vs a Samsung galaxy phone</p>
@@ -160,14 +160,14 @@
 <div class="wp-block-jetpack-layout-grid-column wp-block-jetpack-layout-grid__padding-none is-vertically-aligned-center">
 <p><!-- wp:image {"id":109,"width":"410px","height":"auto","aspectRatio":"1.3333224798124512","sizeSlug":"large","linkDestination":"none","align":"right"} --></p>
 <div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="2">
-<figure class="gallery__item"><a href="https://bramb000.github.io/personal-portfolio/media/posts/6/gallery/IMG-20251109-WA0002-2.jpg" data-size="640x480"><img loading="lazy" src="https://bramb000.github.io/personal-portfolio/media/posts/6/gallery/IMG-20251109-WA0002-2-thumbnail.jpg" alt="" width="640" height="480"></a></figure>
-<figure class="gallery__item"><a href="https://bramb000.github.io/personal-portfolio/media/posts/6/gallery/IMG-20251109-WA0009-2.jpg" data-size="640x480"><img loading="lazy" src="https://bramb000.github.io/personal-portfolio/media/posts/6/gallery/IMG-20251109-WA0009-2-thumbnail.jpg" alt="" width="640" height="480"></a></figure>
-<figure class="gallery__item"><a href="https://bramb000.github.io/personal-portfolio/media/posts/6/gallery/IMG-20251109-WA0006-2.jpg" data-size="640x480"><img loading="lazy" src="https://bramb000.github.io/personal-portfolio/media/posts/6/gallery/IMG-20251109-WA0006-2-thumbnail.jpg" alt="" width="640" height="480"></a></figure>
-<figure class="gallery__item"><a href="https://bramb000.github.io/personal-portfolio/media/posts/6/gallery/IMG-20251109-WA0011-2.jpg" data-size="640x480"><img loading="lazy" src="https://bramb000.github.io/personal-portfolio/media/posts/6/gallery/IMG-20251109-WA0011-2-thumbnail.jpg" alt="" width="640" height="480"></a></figure>
-<figure class="gallery__item"><a href="https://bramb000.github.io/personal-portfolio/media/posts/6/gallery/IMG-20251109-WA0004-2.jpg" data-size="640x480"><img loading="lazy" src="https://bramb000.github.io/personal-portfolio/media/posts/6/gallery/IMG-20251109-WA0004-2-thumbnail.jpg" alt="" width="640" height="480"></a></figure>
-<figure class="gallery__item"><a href="https://bramb000.github.io/personal-portfolio/media/posts/6/gallery/IMG-20251109-WA0010-2.jpg" data-size="640x480"><img loading="lazy" src="https://bramb000.github.io/personal-portfolio/media/posts/6/gallery/IMG-20251109-WA0010-2-thumbnail.jpg" alt="" width="640" height="480"></a></figure>
-<figure class="gallery__item"><a href="https://bramb000.github.io/personal-portfolio/media/posts/6/gallery/IMG-20251109-WA0005.jpg" data-size="640x480"><img loading="lazy" src="https://bramb000.github.io/personal-portfolio/media/posts/6/gallery/IMG-20251109-WA0005-thumbnail.jpg" alt="" width="640" height="480"></a></figure>
-<figure class="gallery__item"><a href="https://bramb000.github.io/personal-portfolio/media/posts/6/gallery/IMG-20251109-WA0012-2.jpg" data-size="640x480"><img loading="lazy" src="https://bramb000.github.io/personal-portfolio/media/posts/6/gallery/IMG-20251109-WA0012-2-thumbnail.jpg" alt="" width="640" height="480"></a></figure>
+<figure class="gallery__item"><a href="https://bramha.work/media/posts/6/gallery/IMG-20251109-WA0002-2.jpg" data-size="640x480"><img loading="lazy" src="https://bramha.work/media/posts/6/gallery/IMG-20251109-WA0002-2-thumbnail.jpg" alt="" width="640" height="480"></a></figure>
+<figure class="gallery__item"><a href="https://bramha.work/media/posts/6/gallery/IMG-20251109-WA0009-2.jpg" data-size="640x480"><img loading="lazy" src="https://bramha.work/media/posts/6/gallery/IMG-20251109-WA0009-2-thumbnail.jpg" alt="" width="640" height="480"></a></figure>
+<figure class="gallery__item"><a href="https://bramha.work/media/posts/6/gallery/IMG-20251109-WA0006-2.jpg" data-size="640x480"><img loading="lazy" src="https://bramha.work/media/posts/6/gallery/IMG-20251109-WA0006-2-thumbnail.jpg" alt="" width="640" height="480"></a></figure>
+<figure class="gallery__item"><a href="https://bramha.work/media/posts/6/gallery/IMG-20251109-WA0011-2.jpg" data-size="640x480"><img loading="lazy" src="https://bramha.work/media/posts/6/gallery/IMG-20251109-WA0011-2-thumbnail.jpg" alt="" width="640" height="480"></a></figure>
+<figure class="gallery__item"><a href="https://bramha.work/media/posts/6/gallery/IMG-20251109-WA0004-2.jpg" data-size="640x480"><img loading="lazy" src="https://bramha.work/media/posts/6/gallery/IMG-20251109-WA0004-2-thumbnail.jpg" alt="" width="640" height="480"></a></figure>
+<figure class="gallery__item"><a href="https://bramha.work/media/posts/6/gallery/IMG-20251109-WA0010-2.jpg" data-size="640x480"><img loading="lazy" src="https://bramha.work/media/posts/6/gallery/IMG-20251109-WA0010-2-thumbnail.jpg" alt="" width="640" height="480"></a></figure>
+<figure class="gallery__item"><a href="https://bramha.work/media/posts/6/gallery/IMG-20251109-WA0005.jpg" data-size="640x480"><img loading="lazy" src="https://bramha.work/media/posts/6/gallery/IMG-20251109-WA0005-thumbnail.jpg" alt="" width="640" height="480"></a></figure>
+<figure class="gallery__item"><a href="https://bramha.work/media/posts/6/gallery/IMG-20251109-WA0012-2.jpg" data-size="640x480"><img loading="lazy" src="https://bramha.work/media/posts/6/gallery/IMG-20251109-WA0012-2-thumbnail.jpg" alt="" width="640" height="480"></a></figure>
 </div></div>
 <p><!-- /wp:image --></p>
 </div>
@@ -182,18 +182,18 @@
 <p><!-- /wp:jetpack/layout-grid --></p>
 <p><!-- wp:paragraph --></p>
 <p>The tricky part was making a responsive UI was the 3 dimensional objects in a virtual space. For that, I worked very closely with the UI engineers to develop a system where an anchor point was projected from the 3D dimension space into a 2D space on the screen, and the anchor point was then subjected to laws of bounds. Once the appropriate 2D anchor point was calculated for any screen, the camera adjusted in such a way that the 3D projection of it aligned as closely as possible. The result was a reactive camera system that could be configured like a 2D UI and the camera would adapt automatically. It would automatically know how much to zoom in or out and how to move left and right to make sure all the 3D objects appeared at the correct places on the screen no matter the aspect ratio and screen resolution of the device, whether it was a nearly square Ipad or a really tall phone. The MVP of this solution achieved usable display results on over 8 types of aspect ratios and different devices which broadly encompassed 90% of the devices or screens we expected the app to be used on</p>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://bramb000.github.io/personal-portfolio/media/posts/6/unnamed-2.jpg" alt="" width="232" height="274" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramb000.github.io/personal-portfolio/media/posts/6/responsive/unnamed-2-xs.jpg 300w ,https://bramb000.github.io/personal-portfolio/media/posts/6/responsive/unnamed-2-sm.jpg 480w ,https://bramb000.github.io/personal-portfolio/media/posts/6/responsive/unnamed-2-md.jpg 768w ,https://bramb000.github.io/personal-portfolio/media/posts/6/responsive/unnamed-2-lg.jpg 1024w"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://bramha.work/media/posts/6/unnamed-2.jpg" alt="" width="232" height="274" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/6/responsive/unnamed-2-xs.jpg 300w ,https://bramha.work/media/posts/6/responsive/unnamed-2-sm.jpg 480w ,https://bramha.work/media/posts/6/responsive/unnamed-2-md.jpg 768w ,https://bramha.work/media/posts/6/responsive/unnamed-2-lg.jpg 1024w"></figure>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"id":94,"width":"448px","height":"auto","aspectRatio":"0.8465466722478024","sizeSlug":"large","linkDestination":"none","align":"center"} --></p>
 <p><!-- /wp:image --></p>
 <p><!-- wp:jetpack/layout-grid {"column1DesktopSpan":6,"column1TabletSpan":4,"column1MobileSpan":4,"column2DesktopSpan":6,"column2TabletSpan":4,"column2MobileSpan":4,"className":"column1-desktop-grid__span-6 column1-desktop-grid__row-1 column2-desktop-grid__span-6 column2-desktop-grid__start-7 column2-desktop-grid__row-1 column1-tablet-grid__span-4 column1-tablet-grid__row-1 column2-tablet-grid__span-4 column2-tablet-grid__start-5 column2-tablet-grid__row-1 column1-mobile-grid__span-4 column1-mobile-grid__row-1 column2-mobile-grid__span-4 column2-mobile-grid__row-2"} --></p>
 <div class="wp-block-jetpack-layout-grid column1-desktop-grid__span-6 column1-desktop-grid__row-1 column2-desktop-grid__span-6 column2-desktop-grid__start-7 column2-desktop-grid__row-1 column1-tablet-grid__span-4 column1-tablet-grid__row-1 column2-tablet-grid__span-4 column2-tablet-grid__start-5 column2-tablet-grid__row-1 column1-mobile-grid__span-4 column1-mobile-grid__row-1 column2-mobile-grid__span-4 column2-mobile-grid__row-2">
 <p><!-- wp:jetpack/layout-grid-column --></p>
-<div class="wp-block-jetpack-layout-grid-column wp-block-jetpack-layout-grid__padding-none"><figure class="post__image post__image--center"><img loading="lazy"  src="https://bramb000.github.io/personal-portfolio/media/posts/6/IMG_0459.png" alt="" width="366" height="274" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramb000.github.io/personal-portfolio/media/posts/6/responsive/IMG_0459-xs.png 300w ,https://bramb000.github.io/personal-portfolio/media/posts/6/responsive/IMG_0459-sm.png 480w ,https://bramb000.github.io/personal-portfolio/media/posts/6/responsive/IMG_0459-md.png 768w ,https://bramb000.github.io/personal-portfolio/media/posts/6/responsive/IMG_0459-lg.png 1024w"></figure></div>
+<div class="wp-block-jetpack-layout-grid-column wp-block-jetpack-layout-grid__padding-none"><figure class="post__image post__image--center"><img loading="lazy"  src="https://bramha.work/media/posts/6/IMG_0459.png" alt="" width="366" height="274" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/6/responsive/IMG_0459-xs.png 300w ,https://bramha.work/media/posts/6/responsive/IMG_0459-sm.png 480w ,https://bramha.work/media/posts/6/responsive/IMG_0459-md.png 768w ,https://bramha.work/media/posts/6/responsive/IMG_0459-lg.png 1024w"></figure></div>
 <p><!-- /wp:jetpack/layout-grid-column --></p>
 <p><!-- wp:jetpack/layout-grid-column --></p>
 <div class="align-center">Ipad Pro 13"</div>
-<div class="wp-block-jetpack-layout-grid-column wp-block-jetpack-layout-grid__padding-none"><figure class="post__image post__image--center"><img loading="lazy"  src="https://bramb000.github.io/personal-portfolio/media/posts/6/IMG-20251109-WA0017.jpg" alt="" width="588" height="274" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramb000.github.io/personal-portfolio/media/posts/6/responsive/IMG-20251109-WA0017-xs.jpg 300w ,https://bramb000.github.io/personal-portfolio/media/posts/6/responsive/IMG-20251109-WA0017-sm.jpg 480w ,https://bramb000.github.io/personal-portfolio/media/posts/6/responsive/IMG-20251109-WA0017-md.jpg 768w ,https://bramb000.github.io/personal-portfolio/media/posts/6/responsive/IMG-20251109-WA0017-lg.jpg 1024w"></figure></div>
+<div class="wp-block-jetpack-layout-grid-column wp-block-jetpack-layout-grid__padding-none"><figure class="post__image post__image--center"><img loading="lazy"  src="https://bramha.work/media/posts/6/IMG-20251109-WA0017.jpg" alt="" width="588" height="274" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/6/responsive/IMG-20251109-WA0017-xs.jpg 300w ,https://bramha.work/media/posts/6/responsive/IMG-20251109-WA0017-sm.jpg 480w ,https://bramha.work/media/posts/6/responsive/IMG-20251109-WA0017-md.jpg 768w ,https://bramha.work/media/posts/6/responsive/IMG-20251109-WA0017-lg.jpg 1024w"></figure></div>
 <p><!-- /wp:jetpack/layout-grid-column --></p>
 </div>
 <p><!-- /wp:jetpack/layout-grid --></p>
@@ -212,13 +212,13 @@ Samsung Galaxy Phone 6.3"
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>For example, on a PC you would scroll through a carousel by clicking left and right arrows. You would do the same on a game console by using the bumper buttons. But on a touch device, do you remember the last time you clicked a button to scroll? Instead you will see your feed extends beyond the screen, and you simply scroll to access those items outside the screen. The UI is built to lead to and teach these natural behaviours that Rocksmith's prototype version was missing as it was built PC first. A large part of my role was making all these small changes to the global design system and its component libraries to improve intuitiveness on mobile, PC, and consoles.</p>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://bramb000.github.io/personal-portfolio/media/posts/6/unnamed-3-3.jpg" alt="" width="630" height="274" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramb000.github.io/personal-portfolio/media/posts/6/responsive/unnamed-3-3-xs.jpg 300w ,https://bramb000.github.io/personal-portfolio/media/posts/6/responsive/unnamed-3-3-sm.jpg 480w ,https://bramb000.github.io/personal-portfolio/media/posts/6/responsive/unnamed-3-3-md.jpg 768w ,https://bramb000.github.io/personal-portfolio/media/posts/6/responsive/unnamed-3-3-lg.jpg 1024w"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://bramha.work/media/posts/6/unnamed-3-3.jpg" alt="" width="630" height="274" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/6/responsive/unnamed-3-3-xs.jpg 300w ,https://bramha.work/media/posts/6/responsive/unnamed-3-3-sm.jpg 480w ,https://bramha.work/media/posts/6/responsive/unnamed-3-3-md.jpg 768w ,https://bramha.work/media/posts/6/responsive/unnamed-3-3-lg.jpg 1024w"></figure>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"id":98,"width":"690px","height":"auto","sizeSlug":"large","linkDestination":"none","align":"center"} --></p>
 <p><!-- /wp:image --></p>
 <p><!-- wp:paragraph --></p>
 <p>Accessibility was a core tenet of the experience we set out to design, this included the ability to users to customise the experience to their needs. One of the first accessibility feature we developed was allowing users to modify the scale of their UI to fine tune their mobile and tablet experience based on how far they kept their device. The distance between player and device heavily changed based on whether they were advanced guitar players or beginners, whether they played easy or difficult songs, whether they played bass or guitar, whether they played a full 34" bass or some other size, or if they played different guitars, whether they had equipment such as pedals, amps, or headphones attached. </p>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://bramb000.github.io/personal-portfolio/media/posts/6/IMG-20251109-WA0022.jpg" alt="" width="588" height="274" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramb000.github.io/personal-portfolio/media/posts/6/responsive/IMG-20251109-WA0022-xs.jpg 300w ,https://bramb000.github.io/personal-portfolio/media/posts/6/responsive/IMG-20251109-WA0022-sm.jpg 480w ,https://bramb000.github.io/personal-portfolio/media/posts/6/responsive/IMG-20251109-WA0022-md.jpg 768w ,https://bramb000.github.io/personal-portfolio/media/posts/6/responsive/IMG-20251109-WA0022-lg.jpg 1024w"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://bramha.work/media/posts/6/IMG-20251109-WA0022.jpg" alt="" width="588" height="274" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/6/responsive/IMG-20251109-WA0022-xs.jpg 300w ,https://bramha.work/media/posts/6/responsive/IMG-20251109-WA0022-sm.jpg 480w ,https://bramha.work/media/posts/6/responsive/IMG-20251109-WA0022-md.jpg 768w ,https://bramha.work/media/posts/6/responsive/IMG-20251109-WA0022-lg.jpg 1024w"></figure>
 <div class="wp-block-jetpack-layout-grid column1-desktop-grid__span-6 column1-desktop-grid__row-1 column2-desktop-grid__span-6 column2-desktop-grid__start-7 column2-desktop-grid__row-1 column1-tablet-grid__span-4 column1-tablet-grid__row-1 column2-tablet-grid__span-4 column2-tablet-grid__start-5 column2-tablet-grid__row-1 column1-mobile-grid__span-4 column1-mobile-grid__row-1 column2-mobile-grid__span-4 column2-mobile-grid__row-2">
 <p><!-- /wp:jetpack/layout-grid-column --></p>
 <p><!-- wp:jetpack/layout-grid-column --></p>
@@ -233,12 +233,12 @@ Samsung Galaxy Phone 6.3"
 <div class="wp-block-jetpack-layout-grid-column wp-block-jetpack-layout-grid__padding-none">
 <p><!-- wp:image {"id":128,"sizeSlug":"large","linkDestination":"none","align":"left"} --></p>
 <div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="2">
-<figure class="gallery__item"><a href="https://bramb000.github.io/personal-portfolio/media/posts/6/gallery/IMG-20251109-WA0023.jpg" data-size="1600x746"><img loading="lazy" src="https://bramb000.github.io/personal-portfolio/media/posts/6/gallery/IMG-20251109-WA0023-thumbnail.jpg" alt="" width="768" height="358"></a></figure>
-<figure class="gallery__item"><a href="https://bramb000.github.io/personal-portfolio/media/posts/6/gallery/IMG-20251109-WA0017.jpg" data-size="2048x955"><img loading="lazy" src="https://bramb000.github.io/personal-portfolio/media/posts/6/gallery/IMG-20251109-WA0017-thumbnail.jpg" alt="" width="768" height="358"></a></figure>
-<figure class="gallery__item"><a href="https://bramb000.github.io/personal-portfolio/media/posts/6/gallery/IMG-20251109-WA0024.jpg" data-size="1600x746"><img loading="lazy" src="https://bramb000.github.io/personal-portfolio/media/posts/6/gallery/IMG-20251109-WA0024-thumbnail.jpg" alt="" width="768" height="358"></a></figure>
-<figure class="gallery__item"><a href="https://bramb000.github.io/personal-portfolio/media/posts/6/gallery/IMG-20251109-WA0018.jpg" data-size="2048x955"><img loading="lazy" src="https://bramb000.github.io/personal-portfolio/media/posts/6/gallery/IMG-20251109-WA0018-thumbnail.jpg" alt="" width="768" height="358"></a></figure>
+<figure class="gallery__item"><a href="https://bramha.work/media/posts/6/gallery/IMG-20251109-WA0023.jpg" data-size="1600x746"><img loading="lazy" src="https://bramha.work/media/posts/6/gallery/IMG-20251109-WA0023-thumbnail.jpg" alt="" width="768" height="358"></a></figure>
+<figure class="gallery__item"><a href="https://bramha.work/media/posts/6/gallery/IMG-20251109-WA0017.jpg" data-size="2048x955"><img loading="lazy" src="https://bramha.work/media/posts/6/gallery/IMG-20251109-WA0017-thumbnail.jpg" alt="" width="768" height="358"></a></figure>
+<figure class="gallery__item"><a href="https://bramha.work/media/posts/6/gallery/IMG-20251109-WA0024.jpg" data-size="1600x746"><img loading="lazy" src="https://bramha.work/media/posts/6/gallery/IMG-20251109-WA0024-thumbnail.jpg" alt="" width="768" height="358"></a></figure>
+<figure class="gallery__item"><a href="https://bramha.work/media/posts/6/gallery/IMG-20251109-WA0018.jpg" data-size="2048x955"><img loading="lazy" src="https://bramha.work/media/posts/6/gallery/IMG-20251109-WA0018-thumbnail.jpg" alt="" width="768" height="358"></a></figure>
 </div></div>
-<figure class="wp-block-image alignleft size-large"><figure class="wp-image-128"><img loading="lazy"  src="https://bramb000.github.io/personal-portfolio/media/posts/6/img-20251109-wa0014-1.jpg" alt="" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramb000.github.io/personal-portfolio/media/posts/6/responsive/img-20251109-wa0014-1-xs.jpg 300w ,https://bramb000.github.io/personal-portfolio/media/posts/6/responsive/img-20251109-wa0014-1-sm.jpg 480w ,https://bramb000.github.io/personal-portfolio/media/posts/6/responsive/img-20251109-wa0014-1-md.jpg 768w ,https://bramb000.github.io/personal-portfolio/media/posts/6/responsive/img-20251109-wa0014-1-lg.jpg 1024w"></figure></figure>
+<figure class="wp-block-image alignleft size-large"><figure class="wp-image-128"><img loading="lazy"  src="https://bramha.work/media/posts/6/img-20251109-wa0014-1.jpg" alt="" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/6/responsive/img-20251109-wa0014-1-xs.jpg 300w ,https://bramha.work/media/posts/6/responsive/img-20251109-wa0014-1-sm.jpg 480w ,https://bramha.work/media/posts/6/responsive/img-20251109-wa0014-1-md.jpg 768w ,https://bramha.work/media/posts/6/responsive/img-20251109-wa0014-1-lg.jpg 1024w"></figure></figure>
 <p><!-- /wp:image --></p>
 </div>
 <p><!-- /wp:jetpack/layout-grid-column --></p>
@@ -468,8 +468,8 @@ Samsung Galaxy Phone 6.3"
         <author>
             <name>Bramha</name>
         </author>
-        <link href="https://bramb000.github.io/personal-portfolio/tutorial-improvements-for-gods-unchained/"/>
-        <id>https://bramb000.github.io/personal-portfolio/tutorial-improvements-for-gods-unchained/</id>
+        <link href="https://bramha.work/tutorial-improvements-for-gods-unchained/"/>
+        <id>https://bramha.work/tutorial-improvements-for-gods-unchained/</id>
 
         <updated>2025-11-07T20:39:41+11:00</updated>
             <summary></summary>
@@ -486,8 +486,8 @@ Samsung Galaxy Phone 6.3"
         <author>
             <name>Bramha</name>
         </author>
-        <link href="https://bramb000.github.io/personal-portfolio/afk-rewards-for-guild-of-guardians/"/>
-        <id>https://bramb000.github.io/personal-portfolio/afk-rewards-for-guild-of-guardians/</id>
+        <link href="https://bramha.work/afk-rewards-for-guild-of-guardians/"/>
+        <id>https://bramha.work/afk-rewards-for-guild-of-guardians/</id>
 
         <updated>2025-11-07T20:34:33+11:00</updated>
             <summary type="html">
@@ -525,7 +525,7 @@ Samsung Galaxy Phone 6.3"
 <p>The average sessions per day in a user's first 7 days from install was 1.3. That's good! But is it? An average does not often tell the full story. Instead, this was the full story.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"id":84,"width":"561px","height":"auto","sizeSlug":"full","linkDestination":"none","align":"center"} --></p>
-<figure class="wp-block-image aligncenter size-full is-resized wp-image-84 post__image"><img loading="lazy" style="width: 561px; height: auto;" src="https://bramb000.github.io/personal-portfolio/media/posts/4/unnamed-4.jpg" alt="" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramb000.github.io/personal-portfolio/media/posts/4/responsive/unnamed-4-xs.jpg 300w ,https://bramb000.github.io/personal-portfolio/media/posts/4/responsive/unnamed-4-sm.jpg 480w ,https://bramb000.github.io/personal-portfolio/media/posts/4/responsive/unnamed-4-md.jpg 768w ,https://bramb000.github.io/personal-portfolio/media/posts/4/responsive/unnamed-4-lg.jpg 1024w"></figure>
+<figure class="wp-block-image aligncenter size-full is-resized wp-image-84 post__image"><img loading="lazy" style="width: 561px; height: auto;" src="https://bramha.work/media/posts/4/unnamed-4.jpg" alt="" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/unnamed-4-xs.jpg 300w ,https://bramha.work/media/posts/4/responsive/unnamed-4-sm.jpg 480w ,https://bramha.work/media/posts/4/responsive/unnamed-4-md.jpg 768w ,https://bramha.work/media/posts/4/responsive/unnamed-4-lg.jpg 1024w"></figure>
 <p><!-- /wp:image --></p>
 <p><!-- wp:paragraph --></p>
 <p>There were two segments of users, some who played a lot, more than 1.3 times per day, and some who played less than 1.3. So if you're playing an average of less than 1, that means you're not playing everyday. That's not forming any habits. In nerd terms, this is a bimodal distribution and very few players are actually having the "average" experience, and those below the average where definitely not sticking around.</p>
@@ -571,7 +571,7 @@ Samsung Galaxy Phone 6.3"
 <p>The average sessions per day in a user's first 7 days from install was 1.3. That's good! But is it? An average does not often tell the full story. Instead, this was the full story.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"id":84,"width":"561px","height":"auto","sizeSlug":"full","linkDestination":"none","align":"center"} --></p>
-<figure class="wp-block-image aligncenter size-full is-resized wp-image-84 post__image"><img loading="lazy" style="width: 561px; height: auto;" src="https://bramb000.github.io/personal-portfolio/media/posts/4/unnamed-4.jpg" alt="" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramb000.github.io/personal-portfolio/media/posts/4/responsive/unnamed-4-xs.jpg 300w ,https://bramb000.github.io/personal-portfolio/media/posts/4/responsive/unnamed-4-sm.jpg 480w ,https://bramb000.github.io/personal-portfolio/media/posts/4/responsive/unnamed-4-md.jpg 768w ,https://bramb000.github.io/personal-portfolio/media/posts/4/responsive/unnamed-4-lg.jpg 1024w"></figure>
+<figure class="wp-block-image aligncenter size-full is-resized wp-image-84 post__image"><img loading="lazy" style="width: 561px; height: auto;" src="https://bramha.work/media/posts/4/unnamed-4.jpg" alt="" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/unnamed-4-xs.jpg 300w ,https://bramha.work/media/posts/4/responsive/unnamed-4-sm.jpg 480w ,https://bramha.work/media/posts/4/responsive/unnamed-4-md.jpg 768w ,https://bramha.work/media/posts/4/responsive/unnamed-4-lg.jpg 1024w"></figure>
 <p><!-- /wp:image --></p>
 <p><!-- wp:paragraph --></p>
 <p>There were two segments of users, some who played a lot, more than 1.3 times per day, and some who played less than 1.3. So if you're playing an average of less than 1, that means you're not playing everyday. That's not forming any habits. In nerd terms, this is a bimodal distribution and very few players are actually having the "average" experience, and those below the average where definitely not sticking around.</p>
@@ -623,16 +623,16 @@ Samsung Galaxy Phone 6.3"
 <p>I asked the community manager for permission and pasted the following question in Discord</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"id":87,"sizeSlug":"full","linkDestination":"none","align":"center"} --></p>
-<figure class="wp-block-image aligncenter size-full wp-image-87 post__image"><img loading="lazy" src="https://bramb000.github.io/personal-portfolio/media/posts/4/Discord-Question.png" alt="" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramb000.github.io/personal-portfolio/media/posts/4/responsive/Discord-Question-xs.png 300w ,https://bramb000.github.io/personal-portfolio/media/posts/4/responsive/Discord-Question-sm.png 480w ,https://bramb000.github.io/personal-portfolio/media/posts/4/responsive/Discord-Question-md.png 768w ,https://bramb000.github.io/personal-portfolio/media/posts/4/responsive/Discord-Question-lg.png 1024w"></figure>
+<figure class="wp-block-image aligncenter size-full wp-image-87 post__image"><img loading="lazy" src="https://bramha.work/media/posts/4/Discord-Question.png" alt="" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Discord-Question-xs.png 300w ,https://bramha.work/media/posts/4/responsive/Discord-Question-sm.png 480w ,https://bramha.work/media/posts/4/responsive/Discord-Question-md.png 768w ,https://bramha.work/media/posts/4/responsive/Discord-Question-lg.png 1024w"></figure>
 <p><!-- /wp:image --></p>
 <p><!-- wp:paragraph --></p>
 <p>And came in hundreds of responses</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"id":89,"sizeSlug":"full","linkDestination":"none","align":"center"} --></p>
-<figure class="wp-block-image aligncenter size-full wp-image-89 post__image"><img loading="lazy" src="https://bramb000.github.io/personal-portfolio/media/posts/4/Discord-responses-3.png" alt="" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramb000.github.io/personal-portfolio/media/posts/4/responsive/Discord-responses-3-xs.png 300w ,https://bramb000.github.io/personal-portfolio/media/posts/4/responsive/Discord-responses-3-sm.png 480w ,https://bramb000.github.io/personal-portfolio/media/posts/4/responsive/Discord-responses-3-md.png 768w ,https://bramb000.github.io/personal-portfolio/media/posts/4/responsive/Discord-responses-3-lg.png 1024w"></figure>
+<figure class="wp-block-image aligncenter size-full wp-image-89 post__image"><img loading="lazy" src="https://bramha.work/media/posts/4/Discord-responses-3.png" alt="" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Discord-responses-3-xs.png 300w ,https://bramha.work/media/posts/4/responsive/Discord-responses-3-sm.png 480w ,https://bramha.work/media/posts/4/responsive/Discord-responses-3-md.png 768w ,https://bramha.work/media/posts/4/responsive/Discord-responses-3-lg.png 1024w"></figure>
 <p><!-- /wp:image --></p>
 <p><!-- wp:image {"id":90,"width":"607px","height":"auto","sizeSlug":"full","linkDestination":"none","align":"center"} --></p>
-<figure class="wp-block-image aligncenter size-full is-resized wp-image-90 post__image"><img loading="lazy" style="width: 607px; height: auto;" src="https://bramb000.github.io/personal-portfolio/media/posts/4/Discord-Responses.png" alt="" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramb000.github.io/personal-portfolio/media/posts/4/responsive/Discord-Responses-xs.png 300w ,https://bramb000.github.io/personal-portfolio/media/posts/4/responsive/Discord-Responses-sm.png 480w ,https://bramb000.github.io/personal-portfolio/media/posts/4/responsive/Discord-Responses-md.png 768w ,https://bramb000.github.io/personal-portfolio/media/posts/4/responsive/Discord-Responses-lg.png 1024w"></figure>
+<figure class="wp-block-image aligncenter size-full is-resized wp-image-90 post__image"><img loading="lazy" style="width: 607px; height: auto;" src="https://bramha.work/media/posts/4/Discord-Responses.png" alt="" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Discord-Responses-xs.png 300w ,https://bramha.work/media/posts/4/responsive/Discord-Responses-sm.png 480w ,https://bramha.work/media/posts/4/responsive/Discord-Responses-md.png 768w ,https://bramha.work/media/posts/4/responsive/Discord-Responses-lg.png 1024w"></figure>
 <p><!-- /wp:image --></p>
 <p><!-- wp:paragraph --></p>
 <p>There was a question about how the game fits in people's lifestyle. Due to consent reasons I cannot post answers, but interestingly the some recurring themes were</p>
@@ -665,7 +665,7 @@ Samsung Galaxy Phone 6.3"
 <p>In the original flow, users had to come back to take an action and be rewarded. This did not generate any anticipation excitement at the end of your previous session for you to not forget this game and want to come back.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"id":92,"sizeSlug":"full","linkDestination":"none","align":"center"} --></p>
-<figure class="wp-block-image aligncenter size-full wp-image-92 post__image"><img loading="lazy" src="https://bramb000.github.io/personal-portfolio/media/posts/4/Screenshot_20251110_172144_Guild-of-Guardians.png" alt="" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramb000.github.io/personal-portfolio/media/posts/4/responsive/Screenshot_20251110_172144_Guild-of-Guardians-xs.png 300w ,https://bramb000.github.io/personal-portfolio/media/posts/4/responsive/Screenshot_20251110_172144_Guild-of-Guardians-sm.png 480w ,https://bramb000.github.io/personal-portfolio/media/posts/4/responsive/Screenshot_20251110_172144_Guild-of-Guardians-md.png 768w ,https://bramb000.github.io/personal-portfolio/media/posts/4/responsive/Screenshot_20251110_172144_Guild-of-Guardians-lg.png 1024w">
+<figure class="wp-block-image aligncenter size-full wp-image-92 post__image"><img loading="lazy" src="https://bramha.work/media/posts/4/Screenshot_20251110_172144_Guild-of-Guardians.png" alt="" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Screenshot_20251110_172144_Guild-of-Guardians-xs.png 300w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251110_172144_Guild-of-Guardians-sm.png 480w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251110_172144_Guild-of-Guardians-md.png 768w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251110_172144_Guild-of-Guardians-lg.png 1024w">
 <figcaption class="wp-element-caption">Users had to come back after at least an hour to spend energy. Who finds that exciting?</figcaption>
 </figure>
 <p><!-- /wp:image --></p>
@@ -673,12 +673,12 @@ Samsung Galaxy Phone 6.3"
 <p>So we simply moved the fantasy in such a way that at the end of your session, we just let users know that rewards are accumulating and they should come back before these rewards overflow and spill out</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"id":91,"sizeSlug":"full","linkDestination":"none","align":"center"} --></p>
-<figure class="wp-block-image aligncenter size-full wp-image-91 post__image"><img loading="lazy" src="https://bramb000.github.io/personal-portfolio/media/posts/4/Screenshot_20251110_170833_Guild-of-Guardians.png" alt="" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramb000.github.io/personal-portfolio/media/posts/4/responsive/Screenshot_20251110_170833_Guild-of-Guardians-xs.png 300w ,https://bramb000.github.io/personal-portfolio/media/posts/4/responsive/Screenshot_20251110_170833_Guild-of-Guardians-sm.png 480w ,https://bramb000.github.io/personal-portfolio/media/posts/4/responsive/Screenshot_20251110_170833_Guild-of-Guardians-md.png 768w ,https://bramb000.github.io/personal-portfolio/media/posts/4/responsive/Screenshot_20251110_170833_Guild-of-Guardians-lg.png 1024w">
+<figure class="wp-block-image aligncenter size-full wp-image-91 post__image"><img loading="lazy" src="https://bramha.work/media/posts/4/Screenshot_20251110_170833_Guild-of-Guardians.png" alt="" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Screenshot_20251110_170833_Guild-of-Guardians-xs.png 300w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251110_170833_Guild-of-Guardians-sm.png 480w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251110_170833_Guild-of-Guardians-md.png 768w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251110_170833_Guild-of-Guardians-lg.png 1024w">
 <figcaption class="wp-element-caption">Now, rewards are being collected for you. And if you return again within the remaining time, they will be waiting for you. (this is a mockup without dynamic animations and placeholder text)</figcaption>
 </figure>
 <p><!-- /wp:image --></p>
 <p><!-- wp:image {"id":108,"sizeSlug":"full","linkDestination":"none"} --></p>
-<figure class="wp-block-image size-full wp-image-108 post__image"><img loading="lazy" src="https://bramb000.github.io/personal-portfolio/media/posts/4/storyboard-for-setting-up-next-session.jpg" alt="" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramb000.github.io/personal-portfolio/media/posts/4/responsive/storyboard-for-setting-up-next-session-xs.jpg 300w ,https://bramb000.github.io/personal-portfolio/media/posts/4/responsive/storyboard-for-setting-up-next-session-sm.jpg 480w ,https://bramb000.github.io/personal-portfolio/media/posts/4/responsive/storyboard-for-setting-up-next-session-md.jpg 768w ,https://bramb000.github.io/personal-portfolio/media/posts/4/responsive/storyboard-for-setting-up-next-session-lg.jpg 1024w"></figure>
+<figure class="wp-block-image size-full wp-image-108 post__image"><img loading="lazy" src="https://bramha.work/media/posts/4/storyboard-for-setting-up-next-session.jpg" alt="" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/storyboard-for-setting-up-next-session-xs.jpg 300w ,https://bramha.work/media/posts/4/responsive/storyboard-for-setting-up-next-session-sm.jpg 480w ,https://bramha.work/media/posts/4/responsive/storyboard-for-setting-up-next-session-md.jpg 768w ,https://bramha.work/media/posts/4/responsive/storyboard-for-setting-up-next-session-lg.jpg 1024w"></figure>
 <p><!-- /wp:image --></p>
 <p><!-- wp:paragraph --></p>
 <p><!-- /wp:paragraph --></p>
@@ -689,7 +689,7 @@ Samsung Galaxy Phone 6.3"
 <p><span style="color: #7f7f7f;"><em>While to the user the change was as simple not needing energy by rather having things collected for you, under the hood we changed a lot of numbers to make sure that when players came back, they had just the exact amount of gold for that new shiny sword. This created a satisfying moment upon return to immediately then get a sword and go kill a bigger bad guy. This was a pretty invisible change to most of the noob players that we were building this for to make their experience smoother and kinder.</em></span></p>
 <p><span style="color: #838383;"><em><!-- /wp:paragraph --></em></span></p>
 <p><span style="color: #838383;"><em><!-- wp:image {"id":93,"sizeSlug":"full","linkDestination":"none"} --></em></span></p>
-<figure class="wp-block-image size-full wp-image-93 post__image"><img loading="lazy" src="https://bramb000.github.io/personal-portfolio/media/posts/4/GoG-Numebrs.png" alt="" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramb000.github.io/personal-portfolio/media/posts/4/responsive/GoG-Numebrs-xs.png 300w ,https://bramb000.github.io/personal-portfolio/media/posts/4/responsive/GoG-Numebrs-sm.png 480w ,https://bramb000.github.io/personal-portfolio/media/posts/4/responsive/GoG-Numebrs-md.png 768w ,https://bramb000.github.io/personal-portfolio/media/posts/4/responsive/GoG-Numebrs-lg.png 1024w"></figure>
+<figure class="wp-block-image size-full wp-image-93 post__image"><img loading="lazy" src="https://bramha.work/media/posts/4/GoG-Numebrs.png" alt="" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/GoG-Numebrs-xs.png 300w ,https://bramha.work/media/posts/4/responsive/GoG-Numebrs-sm.png 480w ,https://bramha.work/media/posts/4/responsive/GoG-Numebrs-md.png 768w ,https://bramha.work/media/posts/4/responsive/GoG-Numebrs-lg.png 1024w"></figure>
 <p><!-- /wp:image --> <!-- /wp:details --></p>
 <p><!-- wp:paragraph --></p>
 <p><!-- /wp:paragraph --></p>
@@ -718,7 +718,7 @@ Samsung Galaxy Phone 6.3"
 <p><!-- wp:group {"style":{"spacing":{"blockGap":"12px"}},"layout":{"type":"constrained"}} --></p>
 <div class="wp-block-group">
 <p><!-- wp:image {"lightbox":{"enabled":false},"id":94,"width":"60px","aspectRatio":"1","scale":"cover","sizeSlug":"full","linkDestination":"custom","align":"center","style":{"border":{"radius":"100px"}}} --></p>
-<figure class="wp-block-image aligncenter size-full is-resized has-custom-border"><figure class="wp-image-94"><img loading="lazy"  style="border-radius: 100px; aspect-ratio: 1; object-fit: cover; width: 60px;" src="https://bramb000.github.io/personal-portfolio/media/posts/4/josiah.jpeg" alt="" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramb000.github.io/personal-portfolio/media/posts/4/responsive/josiah-xs.jpeg 300w ,https://bramb000.github.io/personal-portfolio/media/posts/4/responsive/josiah-sm.jpeg 480w ,https://bramb000.github.io/personal-portfolio/media/posts/4/responsive/josiah-md.jpeg 768w ,https://bramb000.github.io/personal-portfolio/media/posts/4/responsive/josiah-lg.jpeg 1024w"></figure></figure>
+<figure class="wp-block-image aligncenter size-full is-resized has-custom-border"><figure class="wp-image-94"><img loading="lazy"  style="border-radius: 100px; aspect-ratio: 1; object-fit: cover; width: 60px;" src="https://bramha.work/media/posts/4/josiah.jpeg" alt="" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/josiah-xs.jpeg 300w ,https://bramha.work/media/posts/4/responsive/josiah-sm.jpeg 480w ,https://bramha.work/media/posts/4/responsive/josiah-md.jpeg 768w ,https://bramha.work/media/posts/4/responsive/josiah-lg.jpeg 1024w"></figure></figure>
 <p><!-- /wp:image --></p>
 <p><!-- wp:heading {"textAlign":"center","level":3,"className":"is-testimonial-name","style":{"typography":{"lineHeight":"1"}},"fontSize":"small"} --></p>
 <h3 class="wp-block-heading has-text-align-center is-testimonial-name has-small-font-size" style="line-height: 1;"><em>Josiah Wallace, Senior Game Design Manager</em></h3>
@@ -742,7 +742,7 @@ Samsung Galaxy Phone 6.3"
 <p><!-- wp:group {"style":{"spacing":{"blockGap":"12px"}},"layout":{"type":"constrained"}} --></p>
 <div class="wp-block-group">
 <p><!-- wp:image {"lightbox":{"enabled":false},"id":117,"width":"60px","aspectRatio":"1","scale":"cover","sizeSlug":"full","linkDestination":"custom","align":"center","style":{"border":{"radius":"100px"}}} --></p>
-<figure class="wp-block-image aligncenter size-full is-resized has-custom-border"><figure class="wp-image-117"><img loading="lazy"  style="border-radius: 100px; aspect-ratio: 1; object-fit: cover; width: 60px;" src="https://bramb000.github.io/personal-portfolio/media/posts/4/Dan.jpeg" alt="" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramb000.github.io/personal-portfolio/media/posts/4/responsive/Dan-xs.jpeg 300w ,https://bramb000.github.io/personal-portfolio/media/posts/4/responsive/Dan-sm.jpeg 480w ,https://bramb000.github.io/personal-portfolio/media/posts/4/responsive/Dan-md.jpeg 768w ,https://bramb000.github.io/personal-portfolio/media/posts/4/responsive/Dan-lg.jpeg 1024w"></figure></figure>
+<figure class="wp-block-image aligncenter size-full is-resized has-custom-border"><figure class="wp-image-117"><img loading="lazy"  style="border-radius: 100px; aspect-ratio: 1; object-fit: cover; width: 60px;" src="https://bramha.work/media/posts/4/Dan.jpeg" alt="" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Dan-xs.jpeg 300w ,https://bramha.work/media/posts/4/responsive/Dan-sm.jpeg 480w ,https://bramha.work/media/posts/4/responsive/Dan-md.jpeg 768w ,https://bramha.work/media/posts/4/responsive/Dan-lg.jpeg 1024w"></figure></figure>
 <p><!-- /wp:image --></p>
 <p><!-- wp:heading {"textAlign":"center","level":3,"className":"is-testimonial-name","style":{"typography":{"lineHeight":"1"}},"fontSize":"small"} --></p>
 <h3 class="wp-block-heading has-text-align-center is-testimonial-name has-small-font-size" style="line-height: 1;"><em>Daniel Paez, Executive Producer</em></h3>
