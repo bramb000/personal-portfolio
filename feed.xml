@@ -3,7 +3,7 @@
     <title>Bramha Dalvi</title>
     <link href="https://bramha.work/feed.xml" rel="self" />
     <link href="https://bramha.work" />
-    <updated>2025-11-13T22:12:17+11:00</updated>
+    <updated>2025-11-14T09:36:31+11:00</updated>
     <author>
         <name>Bramha</name>
     </author>
@@ -25,11 +25,11 @@
 <p>My Role : Feature Owner</p>
 <p>Team : 1 Designer | 1 Product Manager</p>
 <p>The org's head of product was researching what new features could be added to boost engagement and create repeat visits to <a target="_blank" rel="noopener noreferrer">https://play.immutable.com</a> to acquire and retain users to deliver to other business as B2B2C value.</p>
-<p>One of the top ideas on the table was a tiktok style feed that would aggregate global video game news and interperse that feed with Immutable products and games, very similar to the tiktok algorith that splits organic content to paid content in a loose 75/25 ratio. </p>
+<p>One of the top ideas on the table was a tiktok style feed that would aggregate global video game news and interperse that feed with Immutable products and games, very similar to the tiktok algorithm that splits organic content to revenue generating content (ads and sales) in a loose 75/25 ratio. </p>
 <hr>
 <h1>Action</h1>
-<p>As just a team of two, I proposed we could just build a prototype for internal testing. I was able to leverage Claude and build a prototype in less than a day that aggregated games news from Youtube, Twitch, and RSS feeds for video game publications (e.g. - IGN) and interperse that with content of games built on Immutable from Youtube. This allowed us to quickly test what is a healthy ratio of organic vs inorganic content and what barebones features are table stakes.</p>
-<p>Within just a day, I was able to prototype a simple web experience using js for frontend that leverages public APIs provided by these services. All of this was done using Claude in Cursor. I then deployed the webapp on Netlify so I could easily share it to anyone who needed to test it internally or externally.</p>
+<p>As just a team of two, I proposed we could just build a prototype for internal testing instead of attempting to get feedback on a classic working Figma prototype. I was able to leverage Claude and build a prototype in less than a day that aggregated games news from Youtube, Twitch, and RSS feeds for video game publications (e.g. - IGN) and interperse that with content of games built on Immutable from Youtube. This allowed us to quickly test what is a healthy ratio of organic vs inorganic content and what barebones features are table stakes.</p>
+<p>Within just a day, I was able to prototype a simple web experience using javascript for frontend that leverages public APIs provided by these services. All of this was done using Claude in Cursor. I then deployed the webapp on Netlify so I could easily share it to anyone who needed to test it internally or externally.</p>
 <p>You can test the prototype yourself here<br><a href="https://gamerfeed.netlify.app/" target="_blank" rel="noopener noreferrer">https://gamerfeed.netlify.app/</a><a target="_blank" rel="noopener noreferrer"></a></p>
 <p>GitHub repository<br><a href="https://github.com/bramb000/games-news-feed" target="_blank" rel="noopener noreferrer">https://github.com/bramb000/games-news-feed</a></p>
 <p>Within 4 days we were able to quickly validate the requirements and scope of this project which was greatly assisted by a working, browser based prototype.</p>
@@ -487,7 +487,7 @@
         </content>
     </entry>
     <entry>
-        <title>AFK Rewards for Guild of Guardians</title>
+        <title>Increasing User Retention for Guild of Guardians</title>
         <author>
             <name>Bramha</name>
         </author>
@@ -501,7 +501,7 @@
 <h1>Context</h1>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p>My Role : Lead Feature Designer / Product Owner</p>
+<p>My Role : Product Owner / Product Manager</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>Team Size : 1 UI Designer | 1 UI Engineer | 1 Full Stack Engineer | 1 Junior Game / Product Designer</p>
@@ -530,7 +530,7 @@
 <p>The average sessions per day in a user's first 7 days from install was 1.3. That's good! But is it? An average does not often tell the full story. Instead, this was the full story.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"id":84,"width":"561px","height":"auto","sizeSlug":"full","linkDestination":"none","align":"center"} --></p>
-<figure class="wp-block-image aligncenter size-full is-resized wp-image-84 post__image"><img loading="lazy" style="width: 561px; height: auto;" src="https://bramha.work/media/posts/4/unnamed-4.jpg" alt="" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/unnamed-4-xs.jpg 300w ,https://bramha.work/media/posts/4/responsive/unnamed-4-sm.jpg 480w ,https://bramha.work/media/posts/4/responsive/unnamed-4-md.jpg 768w ,https://bramha.work/media/posts/4/responsive/unnamed-4-lg.jpg 1024w"></figure>
+<figure class="wp-block-image aligncenter size-full is-resized wp-image-84 post__image post__image--center"><img loading="lazy" style="width: 561px; height: auto;" src="https://bramha.work/media/posts/4/unnamed-4.jpg" alt="" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/unnamed-4-xs.jpg 300w ,https://bramha.work/media/posts/4/responsive/unnamed-4-sm.jpg 480w ,https://bramha.work/media/posts/4/responsive/unnamed-4-md.jpg 768w ,https://bramha.work/media/posts/4/responsive/unnamed-4-lg.jpg 1024w"></figure>
 <p><!-- /wp:image --></p>
 <p><!-- wp:paragraph --></p>
 <p>There were two segments of users, some who played a lot, more than 1.3 times per day, and some who played less than 1.3. So if you're playing an average of less than 1, that means you're not playing everyday. That's not forming any habits. In nerd terms, this is a bimodal distribution and very few players are actually having the "average" experience, and those below the average where definitely not sticking around.</p>
@@ -547,7 +547,7 @@
 <h1>Context</h1>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p>My Role : Lead Feature Designer / Product Owner</p>
+<p>My Role : Product Owner / Product Manager</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>Team Size : 1 UI Designer | 1 UI Engineer | 1 Full Stack Engineer | 1 Junior Game / Product Designer</p>
@@ -576,7 +576,7 @@
 <p>The average sessions per day in a user's first 7 days from install was 1.3. That's good! But is it? An average does not often tell the full story. Instead, this was the full story.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"id":84,"width":"561px","height":"auto","sizeSlug":"full","linkDestination":"none","align":"center"} --></p>
-<figure class="wp-block-image aligncenter size-full is-resized wp-image-84 post__image"><img loading="lazy" style="width: 561px; height: auto;" src="https://bramha.work/media/posts/4/unnamed-4.jpg" alt="" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/unnamed-4-xs.jpg 300w ,https://bramha.work/media/posts/4/responsive/unnamed-4-sm.jpg 480w ,https://bramha.work/media/posts/4/responsive/unnamed-4-md.jpg 768w ,https://bramha.work/media/posts/4/responsive/unnamed-4-lg.jpg 1024w"></figure>
+<figure class="wp-block-image aligncenter size-full is-resized wp-image-84 post__image post__image--center"><img loading="lazy" style="width: 561px; height: auto;" src="https://bramha.work/media/posts/4/unnamed-4.jpg" alt="" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/unnamed-4-xs.jpg 300w ,https://bramha.work/media/posts/4/responsive/unnamed-4-sm.jpg 480w ,https://bramha.work/media/posts/4/responsive/unnamed-4-md.jpg 768w ,https://bramha.work/media/posts/4/responsive/unnamed-4-lg.jpg 1024w"></figure>
 <p><!-- /wp:image --></p>
 <p><!-- wp:paragraph --></p>
 <p>There were two segments of users, some who played a lot, more than 1.3 times per day, and some who played less than 1.3. So if you're playing an average of less than 1, that means you're not playing everyday. That's not forming any habits. In nerd terms, this is a bimodal distribution and very few players are actually having the "average" experience, and those below the average where definitely not sticking around.</p>
@@ -628,16 +628,16 @@
 <p>I asked the community manager for permission and pasted the following question in Discord</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"id":87,"sizeSlug":"full","linkDestination":"none","align":"center"} --></p>
-<figure class="wp-block-image aligncenter size-full wp-image-87 post__image"><img loading="lazy" src="https://bramha.work/media/posts/4/Discord-Question.png" alt="" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Discord-Question-xs.png 300w ,https://bramha.work/media/posts/4/responsive/Discord-Question-sm.png 480w ,https://bramha.work/media/posts/4/responsive/Discord-Question-md.png 768w ,https://bramha.work/media/posts/4/responsive/Discord-Question-lg.png 1024w"></figure>
+<figure class="wp-block-image aligncenter size-full wp-image-87 post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/Discord-Question.png" alt="" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Discord-Question-xs.png 300w ,https://bramha.work/media/posts/4/responsive/Discord-Question-sm.png 480w ,https://bramha.work/media/posts/4/responsive/Discord-Question-md.png 768w ,https://bramha.work/media/posts/4/responsive/Discord-Question-lg.png 1024w"></figure>
 <p><!-- /wp:image --></p>
 <p><!-- wp:paragraph --></p>
 <p>And came in hundreds of responses</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"id":89,"sizeSlug":"full","linkDestination":"none","align":"center"} --></p>
-<figure class="wp-block-image aligncenter size-full wp-image-89 post__image"><img loading="lazy" src="https://bramha.work/media/posts/4/Discord-responses-3.png" alt="" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Discord-responses-3-xs.png 300w ,https://bramha.work/media/posts/4/responsive/Discord-responses-3-sm.png 480w ,https://bramha.work/media/posts/4/responsive/Discord-responses-3-md.png 768w ,https://bramha.work/media/posts/4/responsive/Discord-responses-3-lg.png 1024w"></figure>
+<figure class="wp-block-image aligncenter size-full wp-image-89 post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/Discord-responses-3.png" alt="" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Discord-responses-3-xs.png 300w ,https://bramha.work/media/posts/4/responsive/Discord-responses-3-sm.png 480w ,https://bramha.work/media/posts/4/responsive/Discord-responses-3-md.png 768w ,https://bramha.work/media/posts/4/responsive/Discord-responses-3-lg.png 1024w"></figure>
 <p><!-- /wp:image --></p>
 <p><!-- wp:image {"id":90,"width":"607px","height":"auto","sizeSlug":"full","linkDestination":"none","align":"center"} --></p>
-<figure class="wp-block-image aligncenter size-full is-resized wp-image-90 post__image"><img loading="lazy" style="width: 607px; height: auto;" src="https://bramha.work/media/posts/4/Discord-Responses.png" alt="" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Discord-Responses-xs.png 300w ,https://bramha.work/media/posts/4/responsive/Discord-Responses-sm.png 480w ,https://bramha.work/media/posts/4/responsive/Discord-Responses-md.png 768w ,https://bramha.work/media/posts/4/responsive/Discord-Responses-lg.png 1024w"></figure>
+<figure class="wp-block-image aligncenter size-full is-resized wp-image-90 post__image post__image--center"><img loading="lazy" style="width: 607px; height: auto;" src="https://bramha.work/media/posts/4/Discord-Responses.png" alt="" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Discord-Responses-xs.png 300w ,https://bramha.work/media/posts/4/responsive/Discord-Responses-sm.png 480w ,https://bramha.work/media/posts/4/responsive/Discord-Responses-md.png 768w ,https://bramha.work/media/posts/4/responsive/Discord-Responses-lg.png 1024w"></figure>
 <p><!-- /wp:image --></p>
 <p><!-- wp:paragraph --></p>
 <p>There was a question about how the game fits in people's lifestyle. Due to consent reasons I cannot post answers, but interestingly the some recurring themes were</p>
@@ -670,7 +670,7 @@
 <p>In the original flow, users had to come back to take an action and be rewarded. This did not generate any anticipation excitement at the end of your previous session for you to not forget this game and want to come back.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"id":92,"sizeSlug":"full","linkDestination":"none","align":"center"} --></p>
-<figure class="wp-block-image aligncenter size-full wp-image-92 post__image"><img loading="lazy" src="https://bramha.work/media/posts/4/Screenshot_20251110_172144_Guild-of-Guardians.png" alt="" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Screenshot_20251110_172144_Guild-of-Guardians-xs.png 300w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251110_172144_Guild-of-Guardians-sm.png 480w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251110_172144_Guild-of-Guardians-md.png 768w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251110_172144_Guild-of-Guardians-lg.png 1024w">
+<figure class="wp-block-image aligncenter size-full wp-image-92 post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/Screenshot_20251110_172144_Guild-of-Guardians.png" alt="" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Screenshot_20251110_172144_Guild-of-Guardians-xs.png 300w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251110_172144_Guild-of-Guardians-sm.png 480w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251110_172144_Guild-of-Guardians-md.png 768w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251110_172144_Guild-of-Guardians-lg.png 1024w">
 <figcaption class="wp-element-caption">Users had to come back after at least an hour to spend energy. Who finds that exciting?</figcaption>
 </figure>
 <p><!-- /wp:image --></p>
@@ -678,12 +678,12 @@
 <p>So we simply moved the fantasy in such a way that at the end of your session, we just let users know that rewards are accumulating and they should come back before these rewards overflow and spill out</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"id":91,"sizeSlug":"full","linkDestination":"none","align":"center"} --></p>
-<figure class="wp-block-image aligncenter size-full wp-image-91 post__image"><img loading="lazy" src="https://bramha.work/media/posts/4/Screenshot_20251110_170833_Guild-of-Guardians.png" alt="" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Screenshot_20251110_170833_Guild-of-Guardians-xs.png 300w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251110_170833_Guild-of-Guardians-sm.png 480w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251110_170833_Guild-of-Guardians-md.png 768w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251110_170833_Guild-of-Guardians-lg.png 1024w">
+<figure class="wp-block-image aligncenter size-full wp-image-91 post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/Screenshot_20251110_170833_Guild-of-Guardians.png" alt="" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Screenshot_20251110_170833_Guild-of-Guardians-xs.png 300w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251110_170833_Guild-of-Guardians-sm.png 480w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251110_170833_Guild-of-Guardians-md.png 768w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251110_170833_Guild-of-Guardians-lg.png 1024w">
 <figcaption class="wp-element-caption">Now, rewards are being collected for you. And if you return again within the remaining time, they will be waiting for you. (this is a mockup without dynamic animations and placeholder text)</figcaption>
 </figure>
 <p><!-- /wp:image --></p>
 <p><!-- wp:image {"id":108,"sizeSlug":"full","linkDestination":"none"} --></p>
-<figure class="wp-block-image size-full wp-image-108 post__image"><img loading="lazy" src="https://bramha.work/media/posts/4/storyboard-for-setting-up-next-session.jpg" alt="" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/storyboard-for-setting-up-next-session-xs.jpg 300w ,https://bramha.work/media/posts/4/responsive/storyboard-for-setting-up-next-session-sm.jpg 480w ,https://bramha.work/media/posts/4/responsive/storyboard-for-setting-up-next-session-md.jpg 768w ,https://bramha.work/media/posts/4/responsive/storyboard-for-setting-up-next-session-lg.jpg 1024w"></figure>
+<figure class="wp-block-image size-full wp-image-108 post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/storyboard-for-setting-up-next-session.jpg" alt="" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/storyboard-for-setting-up-next-session-xs.jpg 300w ,https://bramha.work/media/posts/4/responsive/storyboard-for-setting-up-next-session-sm.jpg 480w ,https://bramha.work/media/posts/4/responsive/storyboard-for-setting-up-next-session-md.jpg 768w ,https://bramha.work/media/posts/4/responsive/storyboard-for-setting-up-next-session-lg.jpg 1024w"></figure>
 <p><!-- /wp:image --></p>
 <p><!-- wp:paragraph --></p>
 <p><!-- /wp:paragraph --></p>
@@ -691,10 +691,10 @@
 <details class="wp-block-details">
 <summary>Some more nerd math if you're into video game user experience</summary>
 <!-- wp:paragraph {"placeholder":"Type / to add a hidden block"} --></details>
-<p><span style="color: #7f7f7f;"><em>While to the user the change was as simple not needing energy by rather having things collected for you, under the hood we changed a lot of numbers to make sure that when players came back, they had just the exact amount of gold for that new shiny sword. This created a satisfying moment upon return to immediately then get a sword and go kill a bigger bad guy. This was a pretty invisible change to most of the noob players that we were building this for to make their experience smoother and kinder.</em></span></p>
+<p><span style="color: #7f7f7f;"><em>While to the user the change was as simple not needing energy by rather having things collected for you, under the hood we changed a lot of numbers to make sure that when players came back, they had just the exact amount of gold for that new shiny sword. This created a satisfying moment upon return to immediately then get a sword and go kill a bigger bad guy. This was a pretty invisible but highly impactful, under the hood change to most of the noob players that we were building this for to make their experience smoother and kinder.</em></span></p>
 <p><span style="color: #838383;"><em><!-- /wp:paragraph --></em></span></p>
 <p><span style="color: #838383;"><em><!-- wp:image {"id":93,"sizeSlug":"full","linkDestination":"none"} --></em></span></p>
-<figure class="wp-block-image size-full wp-image-93 post__image"><img loading="lazy" src="https://bramha.work/media/posts/4/GoG-Numebrs.png" alt="" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/GoG-Numebrs-xs.png 300w ,https://bramha.work/media/posts/4/responsive/GoG-Numebrs-sm.png 480w ,https://bramha.work/media/posts/4/responsive/GoG-Numebrs-md.png 768w ,https://bramha.work/media/posts/4/responsive/GoG-Numebrs-lg.png 1024w"></figure>
+<figure class="wp-block-image size-full wp-image-93 post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/GoG-Numebrs.png" alt="" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/GoG-Numebrs-xs.png 300w ,https://bramha.work/media/posts/4/responsive/GoG-Numebrs-sm.png 480w ,https://bramha.work/media/posts/4/responsive/GoG-Numebrs-md.png 768w ,https://bramha.work/media/posts/4/responsive/GoG-Numebrs-lg.png 1024w"></figure>
 <p><!-- /wp:image --> <!-- /wp:details --></p>
 <p><!-- wp:paragraph --></p>
 <p><!-- /wp:paragraph --></p>
