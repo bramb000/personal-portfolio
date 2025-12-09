@@ -3,7 +3,7 @@
     <title>Bramha Dalvi</title>
     <link href="https://bramha.work/feed.xml" rel="self" />
     <link href="https://bramha.work" />
-    <updated>2025-12-09T21:34:26+11:00</updated>
+    <updated>2025-12-09T21:37:27+11:00</updated>
     <author>
         <name>Bramha</name>
     </author>
@@ -76,7 +76,7 @@
 <h2 id="1cc4" class="acr abd ty bg abe ls acs lt lv lw act lx lz iy acu iz jc mc acv md mg mh acw mi ml acx bl" data-selectable-paragraph="">Batman : Arkham City</h2>
 <p id="c6c9" class="pw-post-body-paragraph yr ys ty yt b up abv yv yw ur abw yy yz za abx zc zd ze aby zg zh zi abz zk zl zm fo bl" data-selectable-paragraph="">Batman was never made for large scale traversal. His first outing under Rocksteady was a fairly linear, stealth game called Arkham Asylum, where he took advantage of ducts and overhead vantage points. He used his grappling gun to access spaces outside human reaches, and glided across architectural gorges to reach the other side. It was believable when the game was situated in the small and tight Arkham Asylum.<br>When Batman moved on to Arkham City, it was a different story. The same grappling hook was now used to traverse across a gigantic city, the gliding was used to cover distances spanning multiple city blocks. No Batman movie or comic is dominantly about Batman covering huge distances without his Bat-mobile, yet Arkham Asylum’s most dominant activity is traversing the city to reach locations. Yes, it is more dominant that the actual stealth, the star of the gameplay. Let us analyse the 3Cs of Arkham City and understand why it is not the best example when it comes to large scale traversal.</p>
 <p id="0b91" class="pw-post-body-paragraph yr ys ty yt b up yu yv yw ur yx yy yz za zb zc zd ze zf zg zh zi zj zk zl zm fo bl" data-selectable-paragraph=""><strong class="yt lr">Character</strong><br>Batman is a huge character. He is bulky, muscular, and wears a gigantic bat costume with pointy ears. He has tons of gadgets and has the grace of a monster truck (except when he is fighting). Also he is an actually huge character, taking a 3rd of the screen.</p>
-<figure class="post__image"><img loading="lazy" src="https://miro.medium.com/v2/resize:fit:875/1*CKM_RYQy1L4UKEe4zxmfGQ.jpeg" data-is-external-image="true">
+<figure class="post__image post__image--center"><img loading="lazy" src="https://miro.medium.com/v2/resize:fit:875/1*CKM_RYQy1L4UKEe4zxmfGQ.jpeg" data-is-external-image="true">
 <figcaption>Having an entire third dedicated to the character creates a sense of weight, mass, and claustrophobia</figcaption>
 </figure>
 <p id="b9f8" class="pw-post-body-paragraph yr ys ty yt b up yu yv yw ur yx yy yz za zb zc zd ze zf zg zh zi zj zk zl zm fo bl" data-selectable-paragraph="">Batman has a grappling hook that he can shoot towards a grappling point. The hooks sinks in at such a point and drags him towards it. Batman can cancel the motion at any point and drop into a free fall, but he cannot change direction.<br>He is slightly more controllable when gliding, where he can change direction and pull a few maneuvers like diving to build up momentum before unfurling his cape and gaining a lot of height. He can also shoot his grapple while gliding, and use the momentum of the grapple gun to launch himself over huge distances. The launch is a huge affordance in a city where height differences between streets and rooftops is a lot.</p>
@@ -98,8 +98,8 @@
 <div class="ac cr">
 <div class="xx cp xy co xz cn se aca sf acb hb bi">
 <div class="zn zo zp zq zr ac gv">
-<p><img loading="lazy" src="https://miro.medium.com/v2/resize:fit:2400/1*dtkHhgL7ho_oPhfLZ_rDOw.jpeg" data-is-external-image="true"></p>
-<figure class="post__image"><img loading="lazy" src="https://miro.medium.com/v2/resize:fit:2700/1*wikwLk3DHMsbg2KtC7H7UQ.jpeg" data-is-external-image="true">
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://miro.medium.com/v2/resize:fit:2400/1*dtkHhgL7ho_oPhfLZ_rDOw.jpeg" width="702" height="395" data-is-external-image="true"></figure>
+<figure class="post__image post__image--center"><img loading="lazy" src="https://miro.medium.com/v2/resize:fit:2700/1*wikwLk3DHMsbg2KtC7H7UQ.jpeg" data-is-external-image="true">
 <figcaption>Arkham City has a terracing effect while verticality of NYC is uniform for large chunks of area</figcaption>
 </figure>
 </div>
@@ -110,7 +110,7 @@
 <div class="hb bi hc hd he hf">
 <p id="ddd5" class="pw-post-body-paragraph yr ys ty yt b up yu yv yw ur yx yy yz za zb zc zd ze zf zg zh zi zj zk zl zm fo bl" data-selectable-paragraph="">While Batman’s motion originates from aiming and shooting a grapple hook at different distances and achieving verticality to launch himself, Spider-Man shows a more rhythmic horizontal motion where shooting webs is the rhythm rather than generating the force for launch and motion. Batman does not swing, he generates force so he can glide. Spider-Man swings, which introduces rhythm to the motion. This creates the first and a fundamental difference between the two games’ traversal and 3Cs. While I have no experience in Level Design, as a Gameplay Designer it is exceptionally important for the players to be able to experience spaces and volumes in a fun way.</p>
 <p id="f07f" class="pw-post-body-paragraph yr ys ty yt b up yu yv yw ur yx yy yz za zb zc zd ze zf zg zh zi zj zk zl zm fo bl" data-selectable-paragraph=""><strong class="yt lr">Character</strong><br>Spider-Man is a slim, lean, agile, and an athletic character. A huge part of Spider-Man is not only reaching from A to B, but the style in which he does it. Complex, athletic movements coupled with tight gymnastics is how Spider-Man has always moved, and the game encapsulates it very well.</p>
-<figure class="post__image"><img loading="lazy" src="https://miro.medium.com/v2/resize:fit:875/1*6kIUSxtJhBz8XHDn3rQVNA.jpeg" data-is-external-image="true">
+<figure class="post__image post__image--center"><img loading="lazy" src="https://miro.medium.com/v2/resize:fit:875/1*6kIUSxtJhBz8XHDn3rQVNA.jpeg" data-is-external-image="true">
 <figcaption>Spider-Man is a nimble and small character, allowing players to contextualise him within his surroundings. This brings a lot of emphasis to the space he is currently in</figcaption>
 </figure>
 <p id="87e3" class="pw-post-body-paragraph yr ys ty yt b up yu yv yw ur yx yy yz za zb zc zd ze zf zg zh zi zj zk zl zm fo bl" data-selectable-paragraph="">Much like Batman, Spider Man can launch himself from wherever he stands. But unlike Batman, he is free to choose and change his direction right from the start.<br>Spider-Man actually achieves different horizontal velocities while swinging at different vertical heights. While this completely defies physics, this gives players a reason to vary their own sense of verticality. It is quite relaxed and leisurely at higher altitudes, which actually enhances the amazing view. Whereas the speed gained is amazing and thrilling at lower altitudes, which is massively enhanced by the challenge of dodging incoming traffic and slight loss of control due to the increased velocity.</p>
@@ -145,8 +145,8 @@
 </figure>
 <p id="773b" class="pw-post-body-paragraph yr ys ty yt b up yu yv yw ur yx yy yz za zb zc zd ze zf zg zh zi zj zk zl zm fo bl" data-selectable-paragraph="">With such a simple yet doubly faceted approach to camera, it’s no surprise that the cinematic scope of the camera is not lost regardless of Spider-Man existing and being used in a video games.</p>
 <p id="bcc6" class="pw-post-body-paragraph yr ys ty yt b up yv yw ur yy yz za zc zd ze zg zh zi zk zl fx zm fo bl" data-selectable-paragraph=""><strong class="yt lr">Achieving the feel of beautiful motion</strong></p>
-<figure class="zn zo zp zq zr zs zy zz paragraph-image">
-<div class="zy zz acz"><figure class="bi yc acl c"><source srcset="https://miro.medium.com/v2/resize:fit:640/format:webp/1*wrLWctCdqy9w8EyPxHP2EA.gif 640w, https://miro.medium.com/v2/resize:fit:720/format:webp/1*wrLWctCdqy9w8EyPxHP2EA.gif 720w, https://miro.medium.com/v2/resize:fit:750/format:webp/1*wrLWctCdqy9w8EyPxHP2EA.gif 750w, https://miro.medium.com/v2/resize:fit:786/format:webp/1*wrLWctCdqy9w8EyPxHP2EA.gif 786w, https://miro.medium.com/v2/resize:fit:828/format:webp/1*wrLWctCdqy9w8EyPxHP2EA.gif 828w, https://miro.medium.com/v2/resize:fit:1100/format:webp/1*wrLWctCdqy9w8EyPxHP2EA.gif 1100w, https://miro.medium.com/v2/resize:fit:1200/format:webp/1*wrLWctCdqy9w8EyPxHP2EA.gif 1200w" sizes="(min-resolution: 4dppx) and (max-width: 700px) 50vw, (-webkit-min-device-pixel-ratio: 4) and (max-width: 700px) 50vw, (min-resolution: 3dppx) and (max-width: 700px) 67vw, (-webkit-min-device-pixel-ratio: 3) and (max-width: 700px) 65vw, (min-resolution: 2.5dppx) and (max-width: 700px) 80vw, (-webkit-min-device-pixel-ratio: 2.5) and (max-width: 700px) 80vw, (min-resolution: 2dppx) and (max-width: 700px) 100vw, (-webkit-min-device-pixel-ratio: 2) and (max-width: 700px) 100vw, 600px" type="image/webp"><source data-testid="og" srcset="https://miro.medium.com/v2/resize:fit:640/1*wrLWctCdqy9w8EyPxHP2EA.gif 640w, https://miro.medium.com/v2/resize:fit:720/1*wrLWctCdqy9w8EyPxHP2EA.gif 720w, https://miro.medium.com/v2/resize:fit:750/1*wrLWctCdqy9w8EyPxHP2EA.gif 750w, https://miro.medium.com/v2/resize:fit:786/1*wrLWctCdqy9w8EyPxHP2EA.gif 786w, https://miro.medium.com/v2/resize:fit:828/1*wrLWctCdqy9w8EyPxHP2EA.gif 828w, https://miro.medium.com/v2/resize:fit:1100/1*wrLWctCdqy9w8EyPxHP2EA.gif 1100w, https://miro.medium.com/v2/resize:fit:1200/1*wrLWctCdqy9w8EyPxHP2EA.gif 1200w" sizes="(min-resolution: 4dppx) and (max-width: 700px) 50vw, (-webkit-min-device-pixel-ratio: 4) and (max-width: 700px) 50vw, (min-resolution: 3dppx) and (max-width: 700px) 67vw, (-webkit-min-device-pixel-ratio: 3) and (max-width: 700px) 65vw, (min-resolution: 2.5dppx) and (max-width: 700px) 80vw, (-webkit-min-device-pixel-ratio: 2.5) and (max-width: 700px) 80vw, (min-resolution: 2dppx) and (max-width: 700px) 100vw, (-webkit-min-device-pixel-ratio: 2) and (max-width: 700px) 100vw, 600px"><img  role="presentation" src="https://miro.medium.com/v2/resize:fit:750/1*wrLWctCdqy9w8EyPxHP2EA.gif" alt="" width="600" height="400" loading="lazy" data-is-external-image="true"></figure></picture></div>
+<figure class="zn zo zp zq zr zs zy zz paragraph-image bi yc acl c post__image">
+<div class="zy zz acz"><picture><source srcset="https://miro.medium.com/v2/resize:fit:640/format:webp/1*wrLWctCdqy9w8EyPxHP2EA.gif 640w, https://miro.medium.com/v2/resize:fit:720/format:webp/1*wrLWctCdqy9w8EyPxHP2EA.gif 720w, https://miro.medium.com/v2/resize:fit:750/format:webp/1*wrLWctCdqy9w8EyPxHP2EA.gif 750w, https://miro.medium.com/v2/resize:fit:786/format:webp/1*wrLWctCdqy9w8EyPxHP2EA.gif 786w, https://miro.medium.com/v2/resize:fit:828/format:webp/1*wrLWctCdqy9w8EyPxHP2EA.gif 828w, https://miro.medium.com/v2/resize:fit:1100/format:webp/1*wrLWctCdqy9w8EyPxHP2EA.gif 1100w, https://miro.medium.com/v2/resize:fit:1200/format:webp/1*wrLWctCdqy9w8EyPxHP2EA.gif 1200w" sizes="(min-resolution: 4dppx) and (max-width: 700px) 50vw, (-webkit-min-device-pixel-ratio: 4) and (max-width: 700px) 50vw, (min-resolution: 3dppx) and (max-width: 700px) 67vw, (-webkit-min-device-pixel-ratio: 3) and (max-width: 700px) 65vw, (min-resolution: 2.5dppx) and (max-width: 700px) 80vw, (-webkit-min-device-pixel-ratio: 2.5) and (max-width: 700px) 80vw, (min-resolution: 2dppx) and (max-width: 700px) 100vw, (-webkit-min-device-pixel-ratio: 2) and (max-width: 700px) 100vw, 600px" type="image/webp"><source data-testid="og" srcset="https://miro.medium.com/v2/resize:fit:640/1*wrLWctCdqy9w8EyPxHP2EA.gif 640w, https://miro.medium.com/v2/resize:fit:720/1*wrLWctCdqy9w8EyPxHP2EA.gif 720w, https://miro.medium.com/v2/resize:fit:750/1*wrLWctCdqy9w8EyPxHP2EA.gif 750w, https://miro.medium.com/v2/resize:fit:786/1*wrLWctCdqy9w8EyPxHP2EA.gif 786w, https://miro.medium.com/v2/resize:fit:828/1*wrLWctCdqy9w8EyPxHP2EA.gif 828w, https://miro.medium.com/v2/resize:fit:1100/1*wrLWctCdqy9w8EyPxHP2EA.gif 1100w, https://miro.medium.com/v2/resize:fit:1200/1*wrLWctCdqy9w8EyPxHP2EA.gif 1200w" sizes="(min-resolution: 4dppx) and (max-width: 700px) 50vw, (-webkit-min-device-pixel-ratio: 4) and (max-width: 700px) 50vw, (min-resolution: 3dppx) and (max-width: 700px) 67vw, (-webkit-min-device-pixel-ratio: 3) and (max-width: 700px) 65vw, (min-resolution: 2.5dppx) and (max-width: 700px) 80vw, (-webkit-min-device-pixel-ratio: 2.5) and (max-width: 700px) 80vw, (min-resolution: 2dppx) and (max-width: 700px) 100vw, (-webkit-min-device-pixel-ratio: 2) and (max-width: 700px) 100vw, 600px"><img role="presentation" src="https://miro.medium.com/v2/resize:fit:750/1*wrLWctCdqy9w8EyPxHP2EA.gif" alt="" width="600" height="400" loading="lazy" data-is-external-image="true"></picture></div>
 <figcaption class="zv zw zx zy zz aba abb bg b bh ab dy" data-selectable-paragraph="">Carefully calibrated distance between Spider-Man and the camera, along with some cinematic angles</figcaption>
 </figure>
 <p id="3a55" class="pw-post-body-paragraph yr ys ty yt b up yu yv yw ur yx yy yz za zb zc zd ze zf zg zh zi zj zk zl zm fo bl" data-selectable-paragraph="">While there are many nuances, this is the core rhythm of the camera movement. The camera has a slight spring to amplify or reduce the distance, creating a sense of acceleration or deceleration. Meanwhile a very subtle and periodic pan in the vertical direction shows off the rooftops above and streets below to create awe and thrill alternately. Here are two stills from the game capturing the same feel.</p>
@@ -272,7 +272,7 @@
 <div class="ac cr">
 <div class="xx cp xy co xz cn se aca sf acb hb bi">
 <div class="zn zo zp zq zr ac gv"> </div>
-<div><img loading="lazy" src="https://miro.medium.com/v2/resize:fit:1600/0*rT-KmcV4QrP2CFmI.jpg" data-is-external-image="true"></div>
+<div><figure class="post__image post__image--center"><img loading="lazy"  src="https://miro.medium.com/v2/resize:fit:1600/0*rT-KmcV4QrP2CFmI.jpg" width="702" height="702" data-is-external-image="true"></figure></div>
 </div>
 </div>
 </div>
@@ -280,6 +280,7 @@
 <div class="hb bi hc hd he hf">
 <p id="00f0" class="pw-post-body-paragraph yr ys ty yt b up yu yv yw ur yx yy yz za zb zc zd ze zf zg zh zi zj zk zl zm fo bl" data-selectable-paragraph="">Humans have a tendency of seeking fun in monotonous activities. We balance on rail tracks, we avoid cracks in the pavement while happily skipping over tiles. Sometimes we even seek company so we can chat while we walk to our destinations. It’s just human nature to seek fun and variety during activities that are largely one dimensional in complexity.</p>
 <p id="cccb" class="pw-post-body-paragraph yr ys ty yt b up yu yv yw ur yx yy yz za zb zc zd ze zf zg zh zi zj zk zl zm fo bl" data-selectable-paragraph="">As designers, it is our duty to decipher behaviour, tendencies, and motivations so that we can best create fun experiences out of the oridnary.</p>
+<p data-selectable-paragraph=""> </p>
 </div>
 </div>
             ]]>
@@ -299,7 +300,7 @@
             <![CDATA[
                 <h1>Context</h1>
 <p>My Role : Feature Owner</p>
-<p>Team : 1 Designer | 1 Product Manager</p>
+<p>Rest of the team : 1 Product Manager</p>
 <p>The org's head of product was researching what new features could be added to boost engagement and create repeat visits to <a target="_blank" rel="noopener noreferrer">https://play.immutable.com</a> to acquire and retain users to deliver to other business as B2B2C value.</p>
 <p>One of the top ideas on the table was a tiktok style feed that would aggregate global video game news and interperse that feed with Immutable products and games, very similar to the tiktok algorithm that splits organic content to revenue generating content (ads and sales) in a loose 75/25 ratio. </p>
 <hr>
@@ -334,7 +335,7 @@
 <p class="align-left">My Role : UX/UI Designer</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p>Team Size : 2 UX Designers | 2 UI Artists | 4 UI Engineers</p>
+<p>Rest of the team : 2 UX Designers | 2 UI Artists | 4 UI Engineers</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:heading --></p>
 <h2 class="wp-block-heading">Context</h2>
@@ -732,7 +733,7 @@
 <p>My Role : Feature Owner / Lead Feature Designer</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p>Team Size : 1 UI Designer | 1 UI Engineer | 1 Full Stack Engineer | 1 Junior Game / Feature Designer</p>
+<p>Rest of the team : 1 UI Designer | 1 UI Engineer | 1 Full Stack Engineer | 1 Junior Game / Feature Designer</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>Guild of Guardians is a hardcore RPG game where users create teams of 5 guardians to duke it out against monsters, enemies, and other players. In the first 7 to 10 days, the users are expected to play the Adventure mode where they explore the story, learn about the characters, and fight some easy monsters to learn about the game. They need to earn gold to strengthen their equipment and collect souls to level up their heroes.</p>
@@ -778,7 +779,7 @@
 <p>My Role : Feature Owner / Lead Feature Designer</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p>Team Size : 1 UI Designer | 1 UI Engineer | 1 Full Stack Engineer | 1 Junior Game / Feature Designer</p>
+<p>Rest of the team : 1 UI Designer | 1 UI Engineer | 1 Full Stack Engineer | 1 Junior Game / Feature Designer</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>Guild of Guardians is a hardcore RPG game where users create teams of 5 guardians to duke it out against monsters, enemies, and other players. In the first 7 to 10 days, the users are expected to play the Adventure mode where they explore the story, learn about the characters, and fight some easy monsters to learn about the game. They need to earn gold to strengthen their equipment and collect souls to level up their heroes.</p>
