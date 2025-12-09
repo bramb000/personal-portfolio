@@ -3,12 +3,47 @@
     <title>Bramha Dalvi</title>
     <link href="https://bramha.work/feed.xml" rel="self" />
     <link href="https://bramha.work" />
-    <updated>2025-12-10T06:44:25+11:00</updated>
+    <updated>2025-12-10T09:05:28+11:00</updated>
     <author>
         <name>Bramha</name>
     </author>
     <id>https://bramha.work</id>
 
+    <entry>
+        <title>Using AI for clearer and precise team communication</title>
+        <author>
+            <name>Bramha</name>
+        </author>
+        <link href="https://bramha.work/using-ai-for-clearer-and-precise-team-communication/"/>
+        <id>https://bramha.work/using-ai-for-clearer-and-precise-team-communication/</id>
+
+        <updated>2025-12-10T07:24:13+11:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <h1>Context</h1>
+<p>My Role : Feature Owner and Developer</p>
+<p>Rest of the team : I was the only one on this mini-project</p>
+<p>Our team had undergone many structural changes and had about 14 headcount. Since the scope of our project was larger than the team size and we were unwilling to reduce scope and bar for quality, we had to automate many functions that did not have a clear owner.</p>
+<p>One of the main problems was maintaining sources of truth for design, stakeholders from marketing to QA needed to know the latest changes to the design documents. As we did not have a dedicated project manager, I opted to build an AI tools that would answer all questions.</p>
+<hr>
+<h1>Action</h1>
+<p>Using N8N and Slack, I build Bramha Bot. This is a Slack integrated tool that can answer all project management and design questions by reading the project management tracker and all associated design documents.</p>
+<figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/13/image.png" alt="" width="1573" height="697" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/13/responsive/image-xs.png 300w ,https://bramha.work/media/posts/13/responsive/image-sm.png 480w ,https://bramha.work/media/posts/13/responsive/image-md.png 768w ,https://bramha.work/media/posts/13/responsive/image-lg.png 1024w">
+<figcaption>AI used in an N8N workflow</figcaption>
+</figure>
+<p>You can simply ask questions like "@Bramha Bot, when will the new leaderboard feature release?" for clarity on dates. But imagine you're a marketing person and you want to know the design intent of the feature to be able to create better communication material, then you can also ask "@Bramha Bot, how are players expected to interact with this feature" and the bot will answer based on what it knows is written in the document by the original human designer</p>
+<p>Here is a screenshot of a real Slack message that the AI agent replies to with correct answers regarding schedule and design questions</p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://bramha.work/media/posts/13/Frame-9.png" alt="" width="345" height="1277" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/13/responsive/Frame-9-xs.png 300w ,https://bramha.work/media/posts/13/responsive/Frame-9-sm.png 480w ,https://bramha.work/media/posts/13/responsive/Frame-9-md.png 768w ,https://bramha.work/media/posts/13/responsive/Frame-9-lg.png 1024w"></figure>
+<hr>
+<h1>Result</h1>
+<p>From the first day, the AI Agent was getting 30 mentions a day! It was very popular in the team and the personal mentions per person with questions such as "Hey what are the dates for this event" or "Hey can you quickly explain to me how Feature Y will work" reduced by over 50%, allowing everyone to focus on their craft and delivering output instead of answering questions. Because of the conversational nature of the bot, it saved hours of time for people who would have to self serve their questions by reading 20+ page documents.</p>
+<hr>
+<h1>Learning</h1>
+<p>A big part of design is to communicate clearly and spread your ideas and provide context amongst the team. I am always interested in using new tools and technologies for levelling up processes and communication to maintain quality of output and make my team's life easier.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>How interactions make you immerse and feel like you&#x27;re Spider-Man</title>
         <author>
@@ -733,7 +768,7 @@
 <p>My Role : Feature Owner / Lead Feature Designer</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p>Rest of the team : 1 UI Designer | 1 UI Engineer | 1 Full Stack Engineer | 1 Junior Game / Feature Designer</p>
+<p>Rest of the team : 1 UI Designer | 1 UI Engineer | 1 Full Stack Engineer | 1 Senior Game / Feature Designer</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>Guild of Guardians is a hardcore RPG game where users create teams of 5 guardians to duke it out against monsters, enemies, and other players. In the first 7 to 10 days, the users are expected to play the Adventure mode where they explore the story, learn about the characters, and fight some easy monsters to learn about the game. They need to earn gold to strengthen their equipment and collect souls to level up their heroes.</p>
@@ -779,7 +814,7 @@
 <p>My Role : Feature Owner / Lead Feature Designer</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p>Rest of the team : 1 UI Designer | 1 UI Engineer | 1 Full Stack Engineer | 1 Junior Game / Feature Designer</p>
+<p>Rest of the team : 1 UI Designer | 1 UI Engineer | 1 Full Stack Engineer | 1 Senior Game / Feature Designer</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>Guild of Guardians is a hardcore RPG game where users create teams of 5 guardians to duke it out against monsters, enemies, and other players. In the first 7 to 10 days, the users are expected to play the Adventure mode where they explore the story, learn about the characters, and fight some easy monsters to learn about the game. They need to earn gold to strengthen their equipment and collect souls to level up their heroes.</p>
@@ -920,7 +955,7 @@
 <details class="wp-block-details">
 <summary>Some more nerd math if you're into using game economy and progression to model UX design, not just visual and UI design</summary>
 <!-- wp:paragraph {"placeholder":"Type / to add a hidden block"} --></details>
-<p><span style="color: #7f7f7f;"><em>While to the user the change was as simple not needing energy by rather having things collected for you, under the hood we changed a lot of numbers to make sure that when players came back, they had just the exact amount of gold for that new shiny sword. This created a satisfying moment upon return to immediately then get a sword and go kill a bigger bad guy. This was a pretty invisible but highly impactful, under the hood, change to most of the noob players that we were building this for to make their experience smoother and kinder.</em></span></p>
+<p><span style="color: #7f7f7f;"><em>While to the user the change was as simple not needing energy by rather having things collected for you, under the hood we changed a lot of numbers to make sure that when players came back, they had just the exact amount of gold for that new shiny sword. This created a satisfying moment upon return to immediately then get a sword and go kill a bigger bad guy. This was a pretty invisible but highly impactful, under the hood, change to make progression feel smoother and delightful.</em></span></p>
 <figure class="post__image post__image--full"><img loading="lazy" src="https://bramha.work/media/posts/4/IMG_0495.png" alt="" width="2732" height="1271" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/IMG_0495-xs.png 300w ,https://bramha.work/media/posts/4/responsive/IMG_0495-sm.png 480w ,https://bramha.work/media/posts/4/responsive/IMG_0495-md.png 768w ,https://bramha.work/media/posts/4/responsive/IMG_0495-lg.png 1024w">
 <figcaption>User experience is a lot about feelings and sometimes those feelings are beyond the influence of pure visual design</figcaption>
 </figure>
@@ -930,21 +965,53 @@
 <p><!-- wp:paragraph --></p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<h1>Result</h1>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>We saw our D7 retention increase by nearly 20% within the first week. The bimodal distribution became a normal distribution, and we lost fewer users to this issue.</p>
-<figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/IMG_0490.png" alt="" width="1350" height="1126" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/IMG_0490-xs.png 300w ,https://bramha.work/media/posts/4/responsive/IMG_0490-sm.png 480w ,https://bramha.work/media/posts/4/responsive/IMG_0490-md.png 768w ,https://bramha.work/media/posts/4/responsive/IMG_0490-lg.png 1024w">
-<figcaption>The "average" is lower but the outcome is more consistent for more players than before</figcaption>
-</figure>
+<figure class="post__image post__image--center"></figure>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:separator --></p>
 <hr class="wp-block-separator has-alpha-channel-opacity"><!-- /wp:separator -->
 <p><!-- wp:paragraph --></p>
+<p>After this feature, I found out through the data that players would get stuck at specific dungeons in the campaign mode. This was a major contributing factor to low D7 retention. After analysing the data of what heroes they were using to fight, it turned out they were using the wrong strategic teams. I went around the office and asked employees who did not work on Guild of Guardians on their unbiased feedback. Many of them replied with not knowing why an enemy was powerful to then be able to infer what is the best team of heroes to use against them. After a quick workshop with my team, the easiest and simplest solution we arrived to was adding a reccomendation system to the progression.</p>
+<div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="2">
+<figure class="gallery__item"><a href="https://bramha.work/media/posts/4/gallery/Screenshot_20250828_080318_Guild-of-Guardians-2.png" data-size="2316x1080"><img loading="lazy" src="https://bramha.work/media/posts/4/gallery/Screenshot_20250828_080318_Guild-of-Guardians-2-thumbnail.png" alt="" width="768" height="358"></a>
+<figcaption>Before - players had no clue what heroes to use</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://bramha.work/media/posts/4/gallery/Screenshot_20251105_150237_Guild-of-Guardians-2.png" data-size="2316x1080"><img loading="lazy" src="https://bramha.work/media/posts/4/gallery/Screenshot_20251105_150237_Guild-of-Guardians-2-thumbnail.png" alt="" width="768" height="358"></a>
+<figcaption>After - players had some reccomendation based on other players' performance</figcaption>
+</figure>
+</div></div>
+<p>We had qualitative insights from players using surveys on some of the main reasons they quit the game in the first 7 days. Many players said that despite enjoying the game, they did not feel a sense of progression in the campaign. Additionally whenever they lost in a dungeon, they had to begin from the first dungeon. This design was an ill fit for a mobile game. So I championed and designed a new progression system and the UI for it to instill a sense of goals and a path of progression. Additionally I designed new a new dungeon progression system that used checkpoints so players can instantly reattempt the dungeon that they lost at instead of having to begin from the start.</p>
+<div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="2">
+<figure class="gallery__item"><a href="https://bramha.work/media/posts/4/gallery/Screenshot_20250915_114738_Guild-of-Guardians.png" data-size="2316x1080"><img loading="lazy" src="https://bramha.work/media/posts/4/gallery/Screenshot_20250915_114738_Guild-of-Guardians-thumbnail.png" alt="" width="768" height="358"></a>
+<figcaption>Before - players said that they had no sense of progression, and if they lost at room 13 of a dungeon they had to reattempt from the start</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://bramha.work/media/posts/4/gallery/Screenshot_20251105_150223_Guild-of-Guardians-1.png" data-size="2316x1080"><img loading="lazy" src="https://bramha.work/media/posts/4/gallery/Screenshot_20251105_150223_Guild-of-Guardians-1-thumbnail.png" alt="" width="768" height="358"></a>
+<figcaption>After - a clear progression path. And if players lost at room 13, they could reattempt from room 13</figcaption>
+</figure>
+</div></div>
+<p>The next piece was to add a goal fulfilled at the end of the 7 days to build aniticipation and increase the odds of retaining to day 7. Since our game had a plethora of legendary heroes that players wanted and would open gacha for and hope to get, I created a 7 day reward that let you pick 1 legendary guardian. This let players experience choice and autonomy at the end of long commitement, and the hypothesis was that delayed gratification would make players stay longer than day 7 in anticiaption of further dopamine rushes. The UI design for this feature was specifically chosen to look like a countdown calendar so the players had something to look forward to not only the next day, but a bumper reward in the next week.</p>
+<figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/Screenshot_20251210_075732_Guild-of-Guardians.png" alt="" width="2316" height="1080" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Screenshot_20251210_075732_Guild-of-Guardians-xs.png 300w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251210_075732_Guild-of-Guardians-sm.png 480w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251210_075732_Guild-of-Guardians-md.png 768w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251210_075732_Guild-of-Guardians-lg.png 1024w">
+<figcaption>Daily instant gratification rewards to create micro goals and a big delayed gratification reward at the end of the week with clear goals, context, and progress to creat macro goals</figcaption>
+</figure>
+<p>One of the final changes that I added was a moment of delight at getting the players first legendary hero. Originally players had to wait to get one from gacha, but I added an explicit scripted moment to get the first legendary hero after defeating the first boss. This decision was not informed by data as it is hard to analyse something that does not exist, so we A/B tested this implementation to see the impact. The players who got to experience this showed 68% higher likelihood of retaining to D7, which was made obvious by seeing the usage data of that legendary hero to clear out the first few dungeons. After the success of this moment of delight, I added a introductory offer with clear messaging to be paired with the delight for players who wished to fast track their progress in the campaign. Compared to our old, outdated introductory offer, it performed 342% better against new players</p>
+<figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/Screenshot_20251117_090321_Guild-of-Guardians.png" alt="" width="2316" height="1080" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Screenshot_20251117_090321_Guild-of-Guardians-xs.png 300w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251117_090321_Guild-of-Guardians-sm.png 480w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251117_090321_Guild-of-Guardians-md.png 768w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251117_090321_Guild-of-Guardians-lg.png 1024w">
+<figcaption>The old offer had no context and was not paired with a moment of delight. Data showed that 99% of players closed the popup in under 1 second</figcaption>
+</figure>
+<figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/New-Offer.png" alt="" width="2316" height="1080" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/New-Offer-xs.png 300w ,https://bramha.work/media/posts/4/responsive/New-Offer-sm.png 480w ,https://bramha.work/media/posts/4/responsive/New-Offer-md.png 768w ,https://bramha.work/media/posts/4/responsive/New-Offer-lg.png 1024w">
+<figcaption>The new offer had context and clear value proposition along with better presentation. I was confident in it's ability to outperform the old offer</figcaption>
+</figure>
+<h1>Result</h1>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>We saw our D7 retention increase by nearly 20% by the time all features were shipped. The bimodal distribution became a normal distribution, and fewer overall players churned from these issues. While it is difficult to attribute the results to any single change, we collected enough qualitative feedback via surveys to refine individual designs.</p>
+<figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/IMG_0490.png" alt="" width="1350" height="1126" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/IMG_0490-xs.png 300w ,https://bramha.work/media/posts/4/responsive/IMG_0490-sm.png 480w ,https://bramha.work/media/posts/4/responsive/IMG_0490-md.png 768w ,https://bramha.work/media/posts/4/responsive/IMG_0490-lg.png 1024w">
+<figcaption>The "average" is lower but the outcome is more consistent for more players than before with overall higher retention</figcaption>
+</figure>
+<p>We also knew through linear regression analysis that session length was a good indicator of retention and all these changes were resulting in higher average session legnth in the first 7 days of a players' user journey. </p>
+<p>Additionally using free content to grab the players attention followed by a surgically place offer with very clear messaging and value proposition increased our D7 LTV (money made from a player within their first 7 days from creating an account) by over 12%! This was a double win for the team.</p>
 <h1>Learning</h1>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p>While there were many visual iterations and the golden path was updated many times in testing, I was most proud of being able to highlight that many user needs are solved by out of the box (screen) thinking. The screen is just an abstraction, have we really checked their lives and habits to see if our products are failing in ways that we can't see? Solving real user needs requires looking past the screen and understanding the user.</p>
+<p>This was a major block of work that took multiple months and was shipped over multiple releases. The discovery phase started by undertanding that what players are lacking is beyond the screen, it's a mismatch of the game's user experience and their habits and lifestyle. Once we understood that, we knew we had to make critical changes to features besides just updating the UI. But with insights backed by data, we could confidently commit to this long endeavour to deliver value with constant iteration and see each addition and iteration having an impact on our business goals. Confidence in vision is key to keep the team motivated when the development period is long and uncertain.</p>
 <p> </p>
 <div class="wp-block-group alignfull" style="margin-top: 0; margin-bottom: 0; padding-top: var(--wp--preset--spacing--50); padding-bottom: var(--wp--preset--spacing--50);">
 <p><!-- /wp:heading --></p>
@@ -966,7 +1033,7 @@
 <p><!-- /wp:group --></p>
 <p><!-- wp:paragraph {"align":"center","className":"is-testimonial-review"} --></p>
 <blockquote>
-<p class="has-text-align-center is-testimonial-review">"Data driven design is now a keystone in modern game development and there are few others like Bramha who combine the Game Design know-how with the Data Analysis process &amp; procedure as well as he does. The decisions, features, and projects he stands behind always produce measurable results, drive revenue growth, and increase payer retention."</p>
+<p class="has-text-align-center is-testimonial-review">"Data driven design is now a keystone in modern game development and there are few others like Bramha who combine the UX and Game Design know-how with the Data Analysis process &amp; procedure as well as he does. The decisions, features, and projects he stands behind always produce measurable results, drive revenue growth, and increase payer retention."</p>
 </blockquote>
 <p> </p>
 <p><!-- /wp:paragraph --></p>
