@@ -3,7 +3,7 @@
     <title>Bramha Dalvi</title>
     <link href="https://bramha.work/feed.xml" rel="self" />
     <link href="https://bramha.work" />
-    <updated>2025-11-14T09:36:31+11:00</updated>
+    <updated>2025-12-09T21:04:02+11:00</updated>
     <author>
         <name>Bramha</name>
     </author>
@@ -259,63 +259,15 @@
 <p>This is why we needed a consistent interaction system so outcomes could result from the same user actions over and over again. Since their minds and memories were occupied with guitar chords and other complex techniques, it made no sense to burden them needing to learn how to operate this UI.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p>The first version of a unified interaction system was an interaction matrix for achieving the most important outcomes</p>
+<p>The first version of a unified interaction system was an interaction matrix for achieving the most important outcomes.</p>
+<figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/6/IMG_0492.png" alt="" width="2732" height="1411" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/6/responsive/IMG_0492-xs.png 300w ,https://bramha.work/media/posts/6/responsive/IMG_0492-sm.png 480w ,https://bramha.work/media/posts/6/responsive/IMG_0492-md.png 768w ,https://bramha.work/media/posts/6/responsive/IMG_0492-lg.png 1024w">
+<figcaption>The user knows what they want, but how do they recreate it on a different platform?</figcaption>
+</figure>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:table --></p>
-<figure class="wp-block-table">
-<table class="has-fixed-layout align-center" style="border-collapse: collapse; width: 90%; height: 1190px;">
-<tbody>
-<tr>
-<td style="width: 19.4435%;">Outcome -&gt;</td>
-<td style="width: 18.2748%;">Input (Confirmation, Cancellation, Selection)</td>
-<td style="width: 15.7248%;">See More in a Scroll Group</td>
-<td style="width: 15.2998%;">Get more information</td>
-<td style="width: 17.106%;">Return to previous state (Not confirmation)</td>
-<td style="width: 14.2373%;"><em>more actions.....</em></td>
-</tr>
-<tr>
-<td style="width: 19.4435%;">Component ↓</td>
-<td style="width: 18.2748%;"> </td>
-<td style="width: 15.7248%;"> </td>
-<td style="width: 15.2998%;"> </td>
-<td style="width: 17.106%;"> </td>
-<td style="width: 14.2373%;"> </td>
-</tr>
-<tr>
-<td style="width: 19.4435%;">Button</td>
-<td style="width: 18.2748%;">Left Mouse Click or Enter Key (PC)<br>Single Tap (Mobile)<br>Press (A) or (X) (Game Consoles)</td>
-<td style="width: 15.7248%;"> </td>
-<td style="width: 15.2998%;"> </td>
-<td style="width: 17.106%;"> </td>
-<td style="width: 14.2373%;"> </td>
-</tr>
-<tr>
-<td style="width: 19.4435%;">Information Tooltip</td>
-<td style="width: 18.2748%;"> </td>
-<td style="width: 15.7248%;">Mouse Wheel Scroll (PC)<br>Scroll With Finger (Mobile)<br>Highlight Out of Screen Component (Game Console)</td>
-<td style="width: 15.2998%;">Cursor Hover (PC)<br>Tap and hold (Mobile)<br>Highlight (Game Consoles)</td>
-<td style="width: 17.106%;">Escape hover region (PC)<br>Leave hold (Mobile)<br>Press</td>
-<td style="width: 14.2373%;"> </td>
-</tr>
-<tr>
-<td style="width: 19.4435%;">Content Card</td>
-<td style="width: 18.2748%;">Left Mouse Click or Enter Key (PC)<br>Single Tap (Mobile)<br>Press (A) or (X) (Game Consoles)</td>
-<td style="width: 15.7248%;">Mouse Wheel Scroll (PC)<br>Scroll With Finger (Mobile)<br>Highlight Out of Screen Component (Game Console)</td>
-<td style="width: 15.2998%;">Cursor Hover (PC)<br>Tap and hold (Mobile)<br>Highlight (Game Consoles)</td>
-<td style="width: 17.106%;">Escape Key or Click Close (PC)<br>Tap Close (Mobile)<br>Press (B) or (O) (Game Console)</td>
-<td style="width: 14.2373%;"> </td>
-</tr>
-<tr>
-<td style="width: 19.4435%;"><em>more components.....</em></td>
-<td style="width: 18.2748%;"> </td>
-<td style="width: 15.7248%;"> </td>
-<td style="width: 15.2998%;"> </td>
-<td style="width: 17.106%;"> </td>
-<td style="width: 14.2373%;"> </td>
-</tr>
-</tbody>
-</table>
-<figcaption class="wp-element-caption">This is a sample abstraction of a complex interaction matrix</figcaption>
+<figure>I created a 3 dimensional interaction matrix that mapped outcome to a component to an action on platform and conducted surveys to find out what are the most commonly mapped translations. For example, hover with cursor on desktop was majorly translated as touch and hold for users across various languages and countries, and while "hover" was the same on console it was from using the d-pad to navigate to the option as opposed to a freeform cursor</figure>
+<figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/6/Interaction-Matrix-Abstraction.png" alt="" width="1685" height="277" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/6/responsive/Interaction-Matrix-Abstraction-xs.png 300w ,https://bramha.work/media/posts/6/responsive/Interaction-Matrix-Abstraction-sm.png 480w ,https://bramha.work/media/posts/6/responsive/Interaction-Matrix-Abstraction-md.png 768w ,https://bramha.work/media/posts/6/responsive/Interaction-Matrix-Abstraction-lg.png 1024w">
+<figcaption>This is a sample abstraction of a complex interaction matrixaption</figcaption>
 </figure>
 <p><!-- /wp:table --></p>
 <p><!-- wp:paragraph --></p>
@@ -501,10 +453,10 @@
 <h1>Context</h1>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p>My Role : Product Owner / Product Manager</p>
+<p>My Role : Feature Owner / Lead Feature Designer</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p>Team Size : 1 UI Designer | 1 UI Engineer | 1 Full Stack Engineer | 1 Junior Game / Product Designer</p>
+<p>Team Size : 1 UI Designer | 1 UI Engineer | 1 Full Stack Engineer | 1 Junior Game / Feature Designer</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>Guild of Guardians is a hardcore RPG game where users create teams of 5 guardians to duke it out against monsters, enemies, and other players. In the first 7 to 10 days, the users are expected to play the Adventure mode where they explore the story, learn about the characters, and fight some easy monsters to learn about the game. They need to earn gold to strengthen their equipment and collect souls to level up their heroes.</p>
@@ -547,10 +499,10 @@
 <h1>Context</h1>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p>My Role : Product Owner / Product Manager</p>
+<p>My Role : Feature Owner / Lead Feature Designer</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p>Team Size : 1 UI Designer | 1 UI Engineer | 1 Full Stack Engineer | 1 Junior Game / Product Designer</p>
+<p>Team Size : 1 UI Designer | 1 UI Engineer | 1 Full Stack Engineer | 1 Junior Game / Feature Designer</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>Guild of Guardians is a hardcore RPG game where users create teams of 5 guardians to duke it out against monsters, enemies, and other players. In the first 7 to 10 days, the users are expected to play the Adventure mode where they explore the story, learn about the characters, and fight some easy monsters to learn about the game. They need to earn gold to strengthen their equipment and collect souls to level up their heroes.</p>
@@ -689,12 +641,14 @@
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:details --></p>
 <details class="wp-block-details">
-<summary>Some more nerd math if you're into video game user experience</summary>
+<summary>Some more nerd math if you're into using game economy and progression to model UX design, not just visual and UI design</summary>
 <!-- wp:paragraph {"placeholder":"Type / to add a hidden block"} --></details>
-<p><span style="color: #7f7f7f;"><em>While to the user the change was as simple not needing energy by rather having things collected for you, under the hood we changed a lot of numbers to make sure that when players came back, they had just the exact amount of gold for that new shiny sword. This created a satisfying moment upon return to immediately then get a sword and go kill a bigger bad guy. This was a pretty invisible but highly impactful, under the hood change to most of the noob players that we were building this for to make their experience smoother and kinder.</em></span></p>
+<p><span style="color: #7f7f7f;"><em>While to the user the change was as simple not needing energy by rather having things collected for you, under the hood we changed a lot of numbers to make sure that when players came back, they had just the exact amount of gold for that new shiny sword. This created a satisfying moment upon return to immediately then get a sword and go kill a bigger bad guy. This was a pretty invisible but highly impactful, under the hood, change to most of the noob players that we were building this for to make their experience smoother and kinder.</em></span></p>
+<figure class="post__image post__image--full"><img loading="lazy" src="https://bramha.work/media/posts/4/IMG_0495.png" alt="" width="2732" height="1271" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/IMG_0495-xs.png 300w ,https://bramha.work/media/posts/4/responsive/IMG_0495-sm.png 480w ,https://bramha.work/media/posts/4/responsive/IMG_0495-md.png 768w ,https://bramha.work/media/posts/4/responsive/IMG_0495-lg.png 1024w">
+<figcaption>User experience is a lot about feelings and sometimes those feelings are beyond the influence of pure visual design</figcaption>
+</figure>
 <p><span style="color: #838383;"><em><!-- /wp:paragraph --></em></span></p>
 <p><span style="color: #838383;"><em><!-- wp:image {"id":93,"sizeSlug":"full","linkDestination":"none"} --></em></span></p>
-<figure class="wp-block-image size-full wp-image-93 post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/GoG-Numebrs.png" alt="" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/GoG-Numebrs-xs.png 300w ,https://bramha.work/media/posts/4/responsive/GoG-Numebrs-sm.png 480w ,https://bramha.work/media/posts/4/responsive/GoG-Numebrs-md.png 768w ,https://bramha.work/media/posts/4/responsive/GoG-Numebrs-lg.png 1024w"></figure>
 <p><!-- /wp:image --> <!-- /wp:details --></p>
 <p><!-- wp:paragraph --></p>
 <p><!-- /wp:paragraph --></p>
@@ -703,6 +657,9 @@
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>We saw our D7 retention increase by nearly 20% within the first week. The bimodal distribution became a normal distribution, and we lost fewer users to this issue.</p>
+<figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/IMG_0490.png" alt="" width="1350" height="1126" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/IMG_0490-xs.png 300w ,https://bramha.work/media/posts/4/responsive/IMG_0490-sm.png 480w ,https://bramha.work/media/posts/4/responsive/IMG_0490-md.png 768w ,https://bramha.work/media/posts/4/responsive/IMG_0490-lg.png 1024w">
+<figcaption>The "average" is lower but the outcome is more consistent for more players than before</figcaption>
+</figure>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:separator --></p>
 <hr class="wp-block-separator has-alpha-channel-opacity"><!-- /wp:separator -->
