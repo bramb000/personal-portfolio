@@ -3,7 +3,7 @@
     <title>Bramha Dalvi</title>
     <link href="https://bramha.work/feed.xml" rel="self" />
     <link href="https://bramha.work" />
-    <updated>2025-12-10T16:03:31+11:00</updated>
+    <updated>2025-12-10T16:10:10+11:00</updated>
     <author>
         <name>Bramha</name>
     </author>
@@ -973,6 +973,7 @@
 <hr class="wp-block-separator has-alpha-channel-opacity"><!-- /wp:separator -->
 <p><!-- wp:paragraph --></p>
 <p>After this feature, I found out through the data that players would get stuck at specific dungeons in the campaign mode. This was a major contributing factor to low D7 retention. After analysing the data of what heroes they were using to fight, it turned out they were using the wrong strategic teams. I went around the office and asked employees who did not work on Guild of Guardians on their unbiased feedback. Many of them replied with not knowing why an enemy was powerful to then be able to infer what is the best team of heroes to use against them. After a quick workshop with my team, the easiest and simplest solution we arrived to was adding a reccomendation system to the progression.</p>
+<p>Here is a before and after.</p>
 <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="2">
 <figure class="gallery__item"><a href="https://bramha.work/media/posts/4/gallery/Screenshot_20250828_080318_Guild-of-Guardians-2.png" data-size="2316x1080"><img loading="lazy" src="https://bramha.work/media/posts/4/gallery/Screenshot_20250828_080318_Guild-of-Guardians-2-thumbnail.png" alt="" width="768" height="358"></a>
 <figcaption>Before - players had no clue what heroes to use</figcaption>
@@ -982,6 +983,7 @@
 </figure>
 </div></div>
 <p>We had qualitative insights from players using surveys on some of the main reasons they quit the game in the first 7 days. Many players said that despite enjoying the game, they did not feel a sense of progression in the campaign. Additionally whenever they lost in a dungeon, they had to begin from the first dungeon. This design was an ill fit for a mobile game. So I championed and designed a new progression system and the UI for it to instill a sense of goals and a path of progression. Additionally I designed new a new dungeon progression system that used checkpoints so players can instantly reattempt the dungeon that they lost at instead of having to begin from the start.</p>
+<p>Here is a before and after.</p>
 <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="2">
 <figure class="gallery__item"><a href="https://bramha.work/media/posts/4/gallery/Screenshot_20250915_114738_Guild-of-Guardians.png" data-size="2316x1080"><img loading="lazy" src="https://bramha.work/media/posts/4/gallery/Screenshot_20250915_114738_Guild-of-Guardians-thumbnail.png" alt="" width="768" height="358"></a>
 <figcaption>Before - players said that they had no sense of progression, and if they lost at room 13 of a dungeon they had to reattempt from the start</figcaption>
