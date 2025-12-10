@@ -3,7 +3,7 @@
     <title>Bramha Dalvi</title>
     <link href="https://bramha.work/feed.xml" rel="self" />
     <link href="https://bramha.work" />
-    <updated>2025-12-10T16:10:10+11:00</updated>
+    <updated>2025-12-10T16:18:51+11:00</updated>
     <author>
         <name>Bramha</name>
     </author>
@@ -996,7 +996,7 @@
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/Screenshot_20251210_075732_Guild-of-Guardians.png" alt="" width="900" height="420" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Screenshot_20251210_075732_Guild-of-Guardians-xs.png 300w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251210_075732_Guild-of-Guardians-sm.png 480w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251210_075732_Guild-of-Guardians-md.png 768w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251210_075732_Guild-of-Guardians-lg.png 1024w">
 <figcaption>Daily instant gratification rewards to create micro goals and a big delayed gratification reward at the end of the week with clear goals, context, and progress to creat macro goals</figcaption>
 </figure>
-<p>One of the final changes that I added was a moment of delight at getting the players first legendary hero. Originally players had to wait to get one from gacha, but I added an explicit scripted moment to get the first legendary hero after defeating the first boss. This decision was not informed by data as it is hard to analyse something that does not exist, so we A/B tested this implementation to see the impact. The players who got to experience this showed 68% higher likelihood of retaining to D7, which was made obvious by seeing the usage data of that legendary hero to clear out the first few dungeons. After the success of this moment of delight, I added a introductory offer with clear messaging to be paired with the delight for players who wished to fast track their progress in the campaign. Compared to our old, outdated introductory offer, it performed 342% better against new players</p>
+<p>One of the final changes that I added was a moment of delight at getting the players first legendary hero. Originally players had to wait to get one from gacha, but I added an explicit scripted moment to get the first legendary hero after defeating the first boss. This decision was not informed by data as it is hard to analyse something that does not exist, so we A/B tested this implementation to see the impact. The players who got to experience this showed 68% higher likelihood of retaining to D7, which was made obvious by seeing the usage data of that legendary hero to clear out the first few dungeons. After the success of this moment of delight, I added a introductory offer with clear messaging to be paired with the delight for players who wished to fast track their progress in the campaign. Compared to our old, outdated introductory offer, it performed 342% better against new players and increase the odds a purchase making player to retain by 92%.</p>
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/Screenshot_20251117_090321_Guild-of-Guardians.png" alt="" width="900" height="420" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Screenshot_20251117_090321_Guild-of-Guardians-xs.png 300w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251117_090321_Guild-of-Guardians-sm.png 480w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251117_090321_Guild-of-Guardians-md.png 768w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251117_090321_Guild-of-Guardians-lg.png 1024w">
 <figcaption>The old offer had no context and was not paired with a moment of delight. Data showed that 99% of players closed the popup in under 1 second</figcaption>
 </figure>
@@ -1012,10 +1012,10 @@
 <figcaption>Stage 2 - I made the high fidelity mockup using existing design system componenets in Figma</figcaption>
 </figure>
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/image-6.png" alt="" width="900" height="253" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/image-6-xs.png 300w ,https://bramha.work/media/posts/4/responsive/image-6-sm.png 480w ,https://bramha.work/media/posts/4/responsive/image-6-md.png 768w ,https://bramha.work/media/posts/4/responsive/image-6-lg.png 1024w">
-<figcaption>Iteration 2 polished by the UI designer based on my guidelines and direction</figcaption>
+<figcaption>Iteration 2 polished by the UI designer based on my guidelines and direction. I rejected this as the moment of delight felt more like a sales offer from the get go than an additional benefit to a celebration</figcaption>
 </figure>
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/image-4.png" alt="" width="900" height="259" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/image-4-xs.png 300w ,https://bramha.work/media/posts/4/responsive/image-4-sm.png 480w ,https://bramha.work/media/posts/4/responsive/image-4-md.png 768w ,https://bramha.work/media/posts/4/responsive/image-4-lg.png 1024w">
-<figcaption>Iteration 2 polished by the UI designer based on my guidelines and direction</figcaption>
+<figcaption>Iteration 2 polished by the UI designer based on my guidelines and direction. I rejected this the initial setup did not have any grounding in narrative context</figcaption>
 </figure>
 <hr>
 <h1>Result</h1>
