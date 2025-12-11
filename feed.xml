@@ -3,7 +3,7 @@
     <title>Bramha Dalvi</title>
     <link href="https://bramha.work/feed.xml" rel="self" />
     <link href="https://bramha.work" />
-    <updated>2025-12-10T16:18:51+11:00</updated>
+    <updated>2025-12-11T19:41:08+11:00</updated>
     <author>
         <name>Bramha</name>
     </author>
@@ -883,7 +883,7 @@
 </figure>
 <p><span style="color: #8f8f8f;"><em><!-- /wp:table --></em></span></p>
 <p><span style="color: #8f8f8f;"><em><!-- wp:paragraph --></em></span></p>
-<p><span style="color: #8f8f8f;"><em>In a world where I had more time, I would have loved to create a multivariable <span style="color: #7f7f7f;">regression</span> model exploring the relationship of D7 retention to session per day, activation days, activation days density, and game inventory linked to account level i.e. did player progress enough or feel accomplished enough to want to return the next day. Alas, for another challenge.</em></span></p>
+<p><span style="color: #8f8f8f;"><em>In a world where I had more time, I would have loved to create a multivariable <span style="color: #7f7f7f;">regression</span> model exploring the relationship of D7 retention to session per day, activation days, activation days density, and game inventory linked to account level i.e. did player progress enough or feel accomplished enough to want to return the next day. Alas, for another day.</em></span></p>
 <p><!-- /wp:paragraph --> <!-- /wp:details --></p>
 <p><!-- wp:paragraph --></p>
 <p><!-- /wp:paragraph --></p>
@@ -934,6 +934,14 @@
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>In the original flow, users had to come back to take an action and be rewarded. This did not generate any anticipation excitement at the end of your previous session for you to not forget this game and want to come back.</p>
+<figure class="wp-block-image size-full wp-image-108 post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/storyboard-for-setting-up-next-session.jpg" alt="" width="900" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/storyboard-for-setting-up-next-session-xs.jpg 300w ,https://bramha.work/media/posts/4/responsive/storyboard-for-setting-up-next-session-sm.jpg 480w ,https://bramha.work/media/posts/4/responsive/storyboard-for-setting-up-next-session-md.jpg 768w ,https://bramha.work/media/posts/4/responsive/storyboard-for-setting-up-next-session-lg.jpg 1024w"></figure>
+<p>Additionally, it was important to end a game session on a high note and make the player look forward to playing the next time as opposed to making them stop playing and forcing them away. So I redesigned the game loop and subsequently the user flow to start session on a happy note and end sessions on moments on anticipation for future rewards.</p>
+<figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/IMG_0501.png" alt="" width="900" height="457" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/IMG_0501-xs.png 300w ,https://bramha.work/media/posts/4/responsive/IMG_0501-sm.png 480w ,https://bramha.work/media/posts/4/responsive/IMG_0501-md.png 768w ,https://bramha.work/media/posts/4/responsive/IMG_0501-lg.png 1024w">
+<figcaption>Before - an energy system creates a forced action in the game loop that discourages returning behaviour</figcaption>
+</figure>
+<figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/IMG_0500.png" alt="" width="900" height="416" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/IMG_0500-xs.png 300w ,https://bramha.work/media/posts/4/responsive/IMG_0500-sm.png 480w ,https://bramha.work/media/posts/4/responsive/IMG_0500-md.png 768w ,https://bramha.work/media/posts/4/responsive/IMG_0500-lg.png 1024w">
+<figcaption>After - I designed the loop in such a way that let players conclude their session naturally on a difficult boss that they can't just conquer or simply having played to long and have something to look forward to, creating a positive end to a journey to encourage formation of a loop</figcaption>
+</figure>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"id":92,"sizeSlug":"full","linkDestination":"none","align":"center"} --></p>
 <figure class="wp-block-image aligncenter size-full wp-image-92 post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/Screenshot_20251110_172144_Guild-of-Guardians.png" alt="" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Screenshot_20251110_172144_Guild-of-Guardians-xs.png 300w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251110_172144_Guild-of-Guardians-sm.png 480w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251110_172144_Guild-of-Guardians-md.png 768w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251110_172144_Guild-of-Guardians-lg.png 1024w">
@@ -949,17 +957,11 @@
 </figure>
 <p><!-- /wp:image --></p>
 <p><!-- wp:image {"id":108,"sizeSlug":"full","linkDestination":"none"} --></p>
-<figure class="wp-block-image size-full wp-image-108 post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/storyboard-for-setting-up-next-session.jpg" alt="" width="900" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/storyboard-for-setting-up-next-session-xs.jpg 300w ,https://bramha.work/media/posts/4/responsive/storyboard-for-setting-up-next-session-sm.jpg 480w ,https://bramha.work/media/posts/4/responsive/storyboard-for-setting-up-next-session-md.jpg 768w ,https://bramha.work/media/posts/4/responsive/storyboard-for-setting-up-next-session-lg.jpg 1024w"></figure>
-<p><!-- /wp:image --></p>
-<p><!-- wp:paragraph --></p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:details --></p>
 <details class="wp-block-details">
-<summary>Some more nerd math if you're into using game economy and progression to model UX design, not just visual and UI design</summary>
-<!-- wp:paragraph {"placeholder":"Type / to add a hidden block"} --></details>
-<p><span style="color: #7f7f7f;"><em>While to the user the change was as simple not needing energy by rather having things collected for you, under the hood we changed a lot of numbers to make sure that when players came back, they had just the exact amount of gold for that new shiny sword. This created a satisfying moment upon return to immediately then get a sword and go kill a bigger bad guy. This was a pretty invisible but highly impactful, under the hood, change to make progression feel smoother and delightful.</em></span></p>
+<summary><span style="color: #000000; font-size: inherit;">Beyond just the UI, there was a flaw in the progression design that would lead to a poor UX. The progression worked in such a way that players would unlock a weapon to create excitement, but by the time they collected all the gold to acquire that weapon, they would also simultaneously unlock the next sword. This dampened the excitement of the reward they just received in the form of the sword, and every milestone went from being an opportunity to celebrate to a moment of setting a new goal without acknowledgement. A simple fix was restructuging the existing progression in such a way that players would get all the gold required to unlock a sword over time, and they would unlock the new sword more or less around the time they got all the required gold. This created a satisfying moment upon return to immediately then get a sword and use to kill stronger enemies. This was a pretty invisible but highly impactful, under the hood, change to make progression feel smoother and delightful without any changes to the UI</span><em style="color: #000000; font-size: inherit;">.</em></summary>
+</details>
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/IMG_0495.png" alt="" width="900" height="419" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/IMG_0495-xs.png 300w ,https://bramha.work/media/posts/4/responsive/IMG_0495-sm.png 480w ,https://bramha.work/media/posts/4/responsive/IMG_0495-md.png 768w ,https://bramha.work/media/posts/4/responsive/IMG_0495-lg.png 1024w">
-<figcaption>User experience is a lot about feelings and sometimes those feelings are beyond the influence of pure visual design</figcaption>
+<figcaption>User experience is a lot about feelings and sometimes those feelings are beyond the influence of pure visual design. I know this diagram is crazy but this was just in my internal notebook and my colleagues only received the final spreadsheet and the UI mockups :)</figcaption>
 </figure>
 <p><span style="color: #838383;"><em><!-- /wp:paragraph --></em></span></p>
 <p><span style="color: #838383;"><em><!-- wp:image {"id":93,"sizeSlug":"full","linkDestination":"none"} --></em></span></p>
@@ -972,7 +974,7 @@
 <p><!-- wp:separator --></p>
 <hr class="wp-block-separator has-alpha-channel-opacity"><!-- /wp:separator -->
 <p><!-- wp:paragraph --></p>
-<p>After this feature, I found out through the data that players would get stuck at specific dungeons in the campaign mode. This was a major contributing factor to low D7 retention. After analysing the data of what heroes they were using to fight, it turned out they were using the wrong strategic teams. I went around the office and asked employees who did not work on Guild of Guardians on their unbiased feedback. Many of them replied with not knowing why an enemy was powerful to then be able to infer what is the best team of heroes to use against them. After a quick workshop with my team, the easiest and simplest solution we arrived to was adding a reccomendation system to the progression.</p>
+<p>After implementing this feature, I found out through the data that players would get stuck at specific dungeons in the campaign mode and they would quit the game after trying a few more times. This was a major contributing factor to low D7 retention. After analysing the data of what heroes they were using to fight, it turned out they were using the wrong strategic teams. I went around the office and asked employees who did not work on Guild of Guardians on their unbiased feedback. Many of them replied with not knowing why an enemy was powerful to then be able to infer what is the best team of heroes to use against them. After a quick workshop with my team we discovered that the easiest and simplest solution we arrived to was adding a reccomendation system to the progression.</p>
 <p>Here is a before and after.</p>
 <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="2">
 <figure class="gallery__item"><a href="https://bramha.work/media/posts/4/gallery/Screenshot_20250828_080318_Guild-of-Guardians-2.png" data-size="2316x1080"><img loading="lazy" src="https://bramha.work/media/posts/4/gallery/Screenshot_20250828_080318_Guild-of-Guardians-2-thumbnail.png" alt="" width="768" height="358"></a>
@@ -982,7 +984,7 @@
 <figcaption>After - players had some reccomendation based on other players' performance</figcaption>
 </figure>
 </div></div>
-<p>We had qualitative insights from players using surveys on some of the main reasons they quit the game in the first 7 days. Many players said that despite enjoying the game, they did not feel a sense of progression in the campaign. Additionally whenever they lost in a dungeon, they had to begin from the first dungeon. This design was an ill fit for a mobile game. So I championed and designed a new progression system and the UI for it to instill a sense of goals and a path of progression. Additionally I designed new a new dungeon progression system that used checkpoints so players can instantly reattempt the dungeon that they lost at instead of having to begin from the start.</p>
+<p>Through qualitative insights from talking to players, I also found out that players quit after losing once or twice because whenever they lost in a dungeon, they had to begin from the first dungeon. This design was an ill fit for a mobile game which easier and smoother progression. I designed new a new dungeon progression system that used checkpoints so players can instantly reattempt the dungeon that they lost at instead of having to begin from the start.<br><br></p>
 <p>Here is a before and after.</p>
 <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="2">
 <figure class="gallery__item"><a href="https://bramha.work/media/posts/4/gallery/Screenshot_20250915_114738_Guild-of-Guardians.png" data-size="2316x1080"><img loading="lazy" src="https://bramha.work/media/posts/4/gallery/Screenshot_20250915_114738_Guild-of-Guardians-thumbnail.png" alt="" width="768" height="358"></a>
@@ -1012,10 +1014,10 @@
 <figcaption>Stage 2 - I made the high fidelity mockup using existing design system componenets in Figma</figcaption>
 </figure>
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/image-6.png" alt="" width="900" height="253" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/image-6-xs.png 300w ,https://bramha.work/media/posts/4/responsive/image-6-sm.png 480w ,https://bramha.work/media/posts/4/responsive/image-6-md.png 768w ,https://bramha.work/media/posts/4/responsive/image-6-lg.png 1024w">
-<figcaption>Iteration 2 polished by the UI designer based on my guidelines and direction. I rejected this as the moment of delight felt more like a sales offer from the get go than an additional benefit to a celebration</figcaption>
+<figcaption>Stage 3 - Iteration 2 polished by the UI designer based on my guidelines and direction. I rejected this as the moment of delight felt more like a sales offer from the get go than an additional benefit to a celebration</figcaption>
 </figure>
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/image-4.png" alt="" width="900" height="259" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/image-4-xs.png 300w ,https://bramha.work/media/posts/4/responsive/image-4-sm.png 480w ,https://bramha.work/media/posts/4/responsive/image-4-md.png 768w ,https://bramha.work/media/posts/4/responsive/image-4-lg.png 1024w">
-<figcaption>Iteration 2 polished by the UI designer based on my guidelines and direction. I rejected this the initial setup did not have any grounding in narrative context</figcaption>
+<figcaption>Stage 3 - Iteration 3 polished by the UI designer based on my guidelines and direction. I rejected this as the initial setup did not have any grounding in narrative context which was something we had feedback from players in our Discord who wished for more lore and context around why certain features exist. After all, they don't want to play a video game that could have just been a spreadsheet</figcaption>
 </figure>
 <hr>
 <h1>Result</h1>
@@ -1023,7 +1025,7 @@
 <p><!-- wp:paragraph --></p>
 <p>We saw our D7 retention increase by nearly 20% by the time all features were shipped. The bimodal distribution became a normal distribution, and fewer overall players churned from these issues. While it is difficult to attribute the results to any single change, we collected enough qualitative feedback via surveys to refine individual designs.</p>
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/IMG_0490.png" alt="" width="450" height="376" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/IMG_0490-xs.png 300w ,https://bramha.work/media/posts/4/responsive/IMG_0490-sm.png 480w ,https://bramha.work/media/posts/4/responsive/IMG_0490-md.png 768w ,https://bramha.work/media/posts/4/responsive/IMG_0490-lg.png 1024w">
-<figcaption>The "average" is lower but the outcome is more consistent for more players than before with overall higher retention</figcaption>
+<figcaption>The "average" is lower but the outcome is more consistent for more players than before with overall higher retention. That's the beauty of really understanding statistics and numbers</figcaption>
 </figure>
 <p>We also knew through linear regression analysis that session length was a good indicator of retention and all these changes were resulting in higher average session legnth in the first 7 days of a players' user journey. </p>
 <p>Additionally using free content to grab the players attention followed by a surgically place offer with very clear messaging and value proposition increased our D7 LTV (money made from a player within their first 7 days from creating an account) by over 12%! This was a double win for the team.</p>
