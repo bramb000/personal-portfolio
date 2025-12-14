@@ -3,7 +3,7 @@
     <title>Bramha Dalvi</title>
     <link href="https://bramha.work/feed.xml" rel="self" />
     <link href="https://bramha.work" />
-    <updated>2025-12-14T17:53:10+11:00</updated>
+    <updated>2025-12-14T18:06:21+11:00</updated>
     <author>
         <name>Bramha</name>
     </author>
@@ -846,7 +846,8 @@
 <details class="wp-block-details" open="open">
 <summary>Read more about the nitty gritty math</summary>
 <!-- wp:paragraph {"placeholder":"Type / to add a hidden block"} --></details>
-<p><span style="color: #8f8f8f;"><em>I ran a logistic regression test on D7 retention as the dependent binary variable and sessions per day as the independent continuous variable. Basically, I want to see how much session/day explain D7 retention as these are session per day till the 6th day. Turns out it only explain 24% of the variance in the model, but the result is significant and the odds ratio explains that every 1 unit increase in average sessions/day would increase probability of player retaining by 16%. This definitely proves that something about logging in everyday made players retain to D7. Pretty obvious when you say it out aloud but you always have to be sure about that relationship.</em></span></p>
+<p><span style="color: #8f8f8f;"><em>I ran a logistic regression test on D7 retention as the dependent binary variable and sessions per day as the independent continuous variable. Basically, I want to see how much session/day explain D7 retention as these are session per day till the 6th day. Turns out it only explain 24% of the variance in the model, but the result is statistically significant</em></span></p>
+<p><span style="color: #8f8f8f;"><em>The tl;dr of this table is that every 1 unit increase in average sessions/day would increase probability of player retaining to day 7 by 16%. This definitely proves that something about logging in everyday made players retain to D7. Pretty obvious when you say it out aloud but you always have to be sure about that relationship.</em></span></p>
 <p><span style="color: #8f8f8f;"><em><!-- /wp:paragraph --></em></span></p>
 <p><span style="color: #8f8f8f;"><em><!-- wp:table --></em></span></p>
 <figure class="wp-block-table">
