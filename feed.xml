@@ -3,7 +3,7 @@
     <title>Bramha Dalvi</title>
     <link href="https://bramha.work/feed.xml" rel="self" />
     <link href="https://bramha.work" />
-    <updated>2025-12-14T15:24:52+11:00</updated>
+    <updated>2025-12-14T15:47:43+11:00</updated>
     <author>
         <name>Bramha</name>
     </author>
@@ -782,7 +782,7 @@
 <p>Being a live product, looking at data is always my first step. D7 retention is usually an indicator if players had a wow experience on their first day and if the excitement of the wow stuck. It is an objective measure of subjective fun.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p>A good sub-indicator of retention is to look at engagement, high engagement (many hours played) and low retention may indicate players had lots of fun at the start and then either forgot your game or got burned out. Low engagement means they simply did not enjoy it and chose not to come back.</p>
+<p>A good sub-indicator of retention is to look at engagement. High engagement (many hours played) and low retention may indicate players had lots of fun at the start and then either forgot your game or got burned out. Low engagement means they simply did not enjoy it and chose not to come back.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>A good stand in for habitual behaviour is to look at sessions per day, how many unique times did a user login to the game. Logging in daily means your game was both - "wow" and forming habits. Sometimes a good, fun game fails to build habits and gets forgotten because humans have access to so much entertainment.</p>
@@ -828,7 +828,7 @@
 <p>Being a live product, looking at data is always my first step. D7 retention is usually an indicator if players had a wow experience on their first day and if the excitement of the wow stuck. It is an objective measure of subjective fun.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p>A good sub-indicator of retention is to look at engagement, high engagement (many hours played) and low retention may indicate players had lots of fun at the start and then either forgot your game or got burned out. Low engagement means they simply did not enjoy it and chose not to come back.</p>
+<p>A good sub-indicator of retention is to look at engagement. High engagement (many hours played) and low retention may indicate players had lots of fun at the start and then either forgot your game or got burned out. Low engagement means they simply did not enjoy it and chose not to come back.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>A good stand in for habitual behaviour is to look at sessions per day, how many unique times did a user login to the game. Logging in daily means your game was both - "wow" and forming habits. Sometimes a good, fun game fails to build habits and gets forgotten because humans have access to so much entertainment.</p>
@@ -918,11 +918,13 @@
 <p><!-- /wp:list --></p>
 <p><!-- wp:paragraph --></p>
 <p>This meant that the game was finding place in a pretty crowded lifestyle, and had to take the shape that the users needed for it to work for them. Changing their behaviour to do what we wanted was going to be futile. Additionally, survivor bias had to be eliminated as people who churned did not answer these surveys, so a buffer was added to not overestimate how much users claimed to engage.</p>
+<p>This helped me craft a clear persona that we were designing for - Casual Connoisseur. They are characterised by someone who spend thousand of hours in a game, but at the start will casually try it before commiting. We were attracting a bulk of this audience via our marketing campaign but had not adjusted our progression in the first 2 weeks to retain and hook this persona.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p>So comes the solution</p>
+<hr>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
+<p>Solution</p>
 <p>At the current state of the game, you needed to spend 1 energy to defeat monsters automatically and automatically get gold. Given how we designed the product, a user had to login 3 times a day to get the most rewards. We just saw with data and opinions that such a cadence does not fit in the lifestyle of most of our players. And if they did not login 3 times a day, they will never get strong enough to win successfully.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
@@ -946,6 +948,7 @@
 </figure>
 <p><!-- /wp:image --></p>
 <p><!-- wp:paragraph --></p>
+<p>My proposal to the team was to reposition the current energy system into an AFK (away from keyboard) reward system that collects resources while the user is away from the game. This means that when they are ready to leave the game, we can seed the anticipation by telling users that they will have rewards waiting for them. And when they come back, the new session will begin with a moment of delight. After a workshop sessions to let everyone have input and provide feedback and a technical review, we aligned on the specific version of our feature.</p>
 <p>After the team agreed on the new user flow and the end goal of this design, I had to create 3 new UI components - A button on the main menu for this new feature, a screen for the new feature, and the tutorial for the new feature.</p>
 <p>I set out to mock up the new user flow with a combinations of existing and new screens in Figma to be able to map out how much new UI work was needed.</p>
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/Figma-User-Flow-Rough.png" alt="" width="900" height="434" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Figma-User-Flow-Rough-xs.png 300w ,https://bramha.work/media/posts/4/responsive/Figma-User-Flow-Rough-sm.png 480w ,https://bramha.work/media/posts/4/responsive/Figma-User-Flow-Rough-md.png 768w ,https://bramha.work/media/posts/4/responsive/Figma-User-Flow-Rough-lg.png 1024w">
@@ -960,7 +963,7 @@
 <figcaption>Iteration 2</figcaption>
 </figure>
 </div></div>
-<p>Both of these wireframes were information heavy and tried too much. After brainstorming with my team's UI artist and one other UX designer for external perspective, I opted to remove some of the information and focused this screen on only delivering rewards, celebrating receiving rewards, and setting up goals for the players. I proceeded to take this input and make a high fidelity mockup.</p>
+<p>Both of these wireframes were information heavy and tried too much. After brainstorming with my team's UI artist and one other UX designer for an external perspective, I opted to remove some of the information and focused this screen on only delivering rewards, celebrating receiving rewards, and setting up goals for the players. I proceeded to take this input and make a high fidelity mockup.</p>
 <figure><figure class="post__image post__image--center"><img loading="lazy"  src="https://bramha.work/media/posts/4/Frame-23.png" alt="" width="900" height="420" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Frame-23-xs.png 300w ,https://bramha.work/media/posts/4/responsive/Frame-23-sm.png 480w ,https://bramha.work/media/posts/4/responsive/Frame-23-md.png 768w ,https://bramha.work/media/posts/4/responsive/Frame-23-lg.png 1024w"></figure>
 <figcaption>I made this mockup in Figma. This was passed on first to our UI artist to polish and improve visually and then our technical engineers to implement</figcaption>
 </figure>
@@ -969,12 +972,12 @@
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/afk-tutorial.png" alt="" width="900" height="420" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/afk-tutorial-xs.png 300w ,https://bramha.work/media/posts/4/responsive/afk-tutorial-sm.png 480w ,https://bramha.work/media/posts/4/responsive/afk-tutorial-md.png 768w ,https://bramha.work/media/posts/4/responsive/afk-tutorial-lg.png 1024w">
 <figcaption>This is the quick and greybox tutorial I mocked up in Figma. This was eventually visually polished and animated by the UI artist before implementation</figcaption>
 </figure>
-<p>This was the final mockups in a interactable Figma prototype.</p>
+<p>This was the final mocked up user flow in an interactable Figma prototype.</p>
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/Figma-User-Flow-2.png" alt="" width="900" height="844" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Figma-User-Flow-2-xs.png 300w ,https://bramha.work/media/posts/4/responsive/Figma-User-Flow-2-sm.png 480w ,https://bramha.work/media/posts/4/responsive/Figma-User-Flow-2-md.png 768w ,https://bramha.work/media/posts/4/responsive/Figma-User-Flow-2-lg.png 1024w">
 <figcaption></figcaption>
 </figure>
 <p><span style="color: #838383;"><em><!-- /wp:paragraph --></em></span></p>
-<p><span style="color: #000000; font-size: inherit;">Beyond just the UI, there was a flaw in the progression design that would lead to a poor UX. The progression worked in such a way that players would unlock a weapon to create excitement, but by the time they collected all the gold to acquire that weapon, they would also simultaneously unlock the next sword. This dampened the excitement of the reward they just received in the form of the sword, and every milestone went from being an opportunity to celebrate to a moment of setting a new goal without acknowledgement. <br><br>A simple fix was restructuring the existing progression in such a way that players would get all the gold required to unlock a sword over time, and they would unlock the new sword more or less around the time they got all the required gold. This created a satisfying moment upon return to immediately then get a sword and use to kill stronger enemies. This was a pretty invisible but highly impactful, under the hood, change to make</span></p>
+<p><span style="color: #000000; font-size: inherit;">Beyond just the UI, there was a flaw in the progression design that would lead to a poor UX. The progression worked in such a way that players would unlock a weapon to create excitement, but by the time they collected all the gold to acquire that weapon, they would also simultaneously unlock the next sword. This dampened the excitement of the reward they just received in the form of the sword, and every milestone went from being an opportunity to celebrate to a moment of setting a new goal without acknowledgement. <br><br>The simplest fix was restructuring the existing progression in such a way that players would get all the gold required to unlock a sword over time, and they would unlock the new sword more or less around the time they got all the required gold. This created a satisfying moment upon return to immediately then get a sword and use to kill stronger enemies. This was a pretty invisible but highly impactful, under the hood, change to make, but required intense scrutiny as I did not want to give the player too many rewards and cannibalise monetisation.</span></p>
 <figure class="post__image post__image--center"><img loading="lazy" style="text-align: center; font-size: inherit;" src="https://bramha.work/media/posts/4/IMG_0495.png" alt="" width="900" height="419" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/IMG_0495-xs.png 300w ,https://bramha.work/media/posts/4/responsive/IMG_0495-sm.png 480w ,https://bramha.work/media/posts/4/responsive/IMG_0495-md.png 768w ,https://bramha.work/media/posts/4/responsive/IMG_0495-lg.png 1024w">
 <figcaption>User experience is a lot about feelings and sometimes those feelings are beyond the influence of pure visual design. I know this diagram is crazy but this was just in my internal notebook and my colleagues only received the final spreadsheet and the UI mockups :)</figcaption>
 </figure>
@@ -988,8 +991,8 @@
 <p><!-- wp:separator --></p>
 <hr class="wp-block-separator has-alpha-channel-opacity"><!-- /wp:separator -->
 <p><!-- wp:paragraph --></p>
-<p>After implementing this feature, I found out through the data that players would get stuck at specific dungeons in the campaign mode and they would quit the game after trying a few more times. This was a highly correlated factor to low D7 retention.</p>
-<p>After analysing the data of what heroes they were using to fight, it turned out they were using weaker strategic teams. I went around the office and asked employees who did not work on Guild of Guardians but played it regularly for their unbiased feedback on this specific issue. Many of them replied with not knowing why an enemy was powerful to then be able to infer what is the best team of heroes to use against them. After a quick workshop with my team we discovered that the easiest and simplest solution we arrived to was adding a reccomendation system to the progression.</p>
+<p>After implementing this feature, I found out through analysing further data as a retroanalysis that players would get stuck at specific dungeons in the campaign mode and they would quit the game after trying a few more times. This was a highly correlated factor to low D7 retention.</p>
+<p>After analysing the data of what heroes they were using to fight, it turned out they were using weaker strategic teams. I went around the office and asked employees who did not work on Guild of Guardians but played it regularly for their unbiased feedback on this specific issue. Many of them replied with not knowing why an enemy was powerful to then be able to infer what is the best team of heroes to use against them and only being able to proceed after getting that information from other advanced players. After a quick workshop with my team we discovered that the easiest and simplest solution we arrived to was adding a reccomendation system to the progression using server wide hero usage data.</p>
 <p>Here is how the experience looked like previously and then after the new feature was added</p>
 <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="2">
 <figure class="gallery__item"><a href="https://bramha.work/media/posts/4/gallery/Screenshot_20250828_080318_Guild-of-Guardians-2.png" data-size="2316x1080"><img loading="lazy" src="https://bramha.work/media/posts/4/gallery/Screenshot_20250828_080318_Guild-of-Guardians-2-thumbnail.png" alt="" width="768" height="358"></a>
@@ -1009,11 +1012,15 @@
 <figcaption>After - a clear progression path. And if players lost at room 5, they could reattempt from room 5</figcaption>
 </figure>
 </div></div>
-<p>The next piece was to add a goal fulfilled at the end of the 7 days to build aniticipation and increase the odds of retaining to day 7. Since our game had a plethora of legendary heroes that players wanted and would open gacha for and hope to get, I created a 7 day reward that let you pick 1 legendary guardian. This let players experience choice and autonomy at the end of long commitement. The hypothesis was that delayed gratification would make players stay longer than day 7 in anticiaption of further dopamine rushes. The UI design for this feature was specifically chosen to look like a countdown calendar so the players had something to look forward to not only the next day but also a bumper reward at the end of the week.</p>
+<p>This feature was tricky to analyse because the feature was not clickable to the user, they could only read this information. So I had no way of knowing if it was helping or not. A proxy data I used was to observe how many users used teams that were different from the recommendations in their first attempt and then used the reccomended team in the next attempt to then clear the dungeon. The success of this funnel was increasing for multiple weeks until it settled in the high 60%, so I could infered that users did get information from this feature to be able to positively impact their ability to win.</p>
+<hr>
+<p>The next piece was to add a goal at the end of the 7 days to build aniticipation and increase the odds of retaining to day 7.</p>
+<p>Since our game had a plethora of legendary heroes that players wanted and would open gacha for and hope to get, I created a 7 day reward that let you pick 1 legendary guardian. This let players experience choice and autonomy at the end of long commitement. The hypothesis was that delayed gratification would make players stay longer than day 7 in anticiaption of further dopamine rushes. The UI design for this feature was specifically chosen to look like a countdown calendar so the players had something to look forward to not only the next day but also a bumper reward at the end of the week.</p>
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/Screenshot_20251210_075732_Guild-of-Guardians.png" alt="" width="900" height="420" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Screenshot_20251210_075732_Guild-of-Guardians-xs.png 300w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251210_075732_Guild-of-Guardians-sm.png 480w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251210_075732_Guild-of-Guardians-md.png 768w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251210_075732_Guild-of-Guardians-lg.png 1024w">
 <figcaption>Daily instant gratification rewards to create micro goals and a big delayed gratification reward at the end of the week with clear goals, context, and progress to creat macro goals</figcaption>
 </figure>
-<p>One of the final changes that I added was a moment of delight at getting the players first legendary hero. Originally players had to wait to get one from gacha, but I added an explicit scripted moment to get the first legendary hero after defeating the first boss.</p>
+<hr>
+<p>One of the final changes that I added under this block of work was a moment of delight at getting the players first legendary hero. Originally players had to wait to get one from gacha or the newly implemented day 7 calendar rewards, but I added an explicit scripted moment to get the first legendary hero after defeating the first boss to make it feel celebratory and achieved by playing the game.</p>
 <p>This decision was not informed by pre-prepared data as it is hard to analyse something that does not exist, so we A/B tested this implementation to see the impact. The players who got to experience this showed 38% higher likelihood of retaining to D7 than players who did not, which was made obvious by seeing the usage data of that legendary hero to clear out the subsequent dungeons.</p>
 <p>After the success of this moment of delight, I added a introductory offer with clear messaging to be paired with the delight for players who wished to fast track their progress in the campaign. Compared to our old, outdated introductory offer, it performed 342% better against new players and increase the odds of a purchase making player to retain by 92% higher than a player who did not.</p>
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/Screenshot_20251117_090321_Guild-of-Guardians.png" alt="" width="900" height="420" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Screenshot_20251117_090321_Guild-of-Guardians-xs.png 300w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251117_090321_Guild-of-Guardians-sm.png 480w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251117_090321_Guild-of-Guardians-md.png 768w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251117_090321_Guild-of-Guardians-lg.png 1024w">
