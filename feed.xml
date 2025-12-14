@@ -3,7 +3,7 @@
     <title>Bramha Dalvi</title>
     <link href="https://bramha.work/feed.xml" rel="self" />
     <link href="https://bramha.work" />
-    <updated>2025-12-14T15:18:25+11:00</updated>
+    <updated>2025-12-14T15:24:52+11:00</updated>
     <author>
         <name>Bramha</name>
     </author>
@@ -32,12 +32,12 @@
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/13/image.png" alt="" width="1573" height="697" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/13/responsive/image-xs.png 300w ,https://bramha.work/media/posts/13/responsive/image-sm.png 480w ,https://bramha.work/media/posts/13/responsive/image-md.png 768w ,https://bramha.work/media/posts/13/responsive/image-lg.png 1024w">
 <figcaption>AI used in an N8N workflow</figcaption>
 </figure>
-<p>You can simply ask questions like "@Bramha Bot, when will the new leaderboard feature release?" for clarity on dates. But imagine you're a marketing person and you want to know the design intent of the feature to be able to create better communication material, then you can also ask "@Bramha Bot, how are players expected to interact with this feature" and the bot will answer based on what it knows is written in the document by the original human designer</p>
+<p>You can simply ask questions like "@Bramha Bot, when will the new leaderboard feature release?" for clarity on dates. But imagine you're a marketing person and you want to know the design intent of the feature to be able to create better communication material, then you can also ask "@Bramha Bot, how are players expected to interact with this feature" and the bot will answer based on what it knows is written in the document by the original human designer.</p>
 <p>Here is a screenshot of a real Slack message that the AI agent replies to with correct answers regarding schedule and design questions</p>
 <figure class="post__image post__image--center"><img loading="lazy"  src="https://bramha.work/media/posts/13/Frame-9.png" alt="" width="345" height="1277" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/13/responsive/Frame-9-xs.png 300w ,https://bramha.work/media/posts/13/responsive/Frame-9-sm.png 480w ,https://bramha.work/media/posts/13/responsive/Frame-9-md.png 768w ,https://bramha.work/media/posts/13/responsive/Frame-9-lg.png 1024w"></figure>
 <hr>
 <h1>Result</h1>
-<p>From the first day, the AI Agent was getting 30 mentions a day! It was very popular in the team and the personal mentions per person with questions such as "Hey what are the dates for this event" or "Hey can you quickly explain to me how Feature Y will work" reduced by over 50%, allowing everyone to focus on their craft and delivering output instead of answering questions. Because of the conversational nature of the bot, it saved hours of time for people who would have to self serve their questions by reading 20+ page documents.</p>
+<p>From the first day, the AI Agent was getting 15 mentions a day! It was very popular in the team and the personal mentions per person with questions such as "Hey what are the dates for this event" or "Hey can you quickly explain to me how Feature Y will work" reduced by over 30%, allowing everyone to focus on their craft and delivering output instead of answering questions. Because of the conversational nature of the bot, it saved hours of time for people who would have to self serve their questions by reading 20+ page documents.</p>
 <hr>
 <h1>Learning</h1>
 <p>A big part of design is to communicate clearly and spread your ideas and provide context amongst the team. I am always interested in using new tools and technologies for levelling up processes and communication to maintain quality of output and make my team's life easier.</p>
@@ -762,10 +762,10 @@
 <h1>Context</h1>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p>My Role : Feature Owner / Lead Feature Designer</p>
+<p>My Role : Feature Owner / Lead Designer (UX and game design)</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p>Rest of the team : 1 UI Artist | 1 UI Engineer | 1 Full Stack Engineer | 1 Senior Game / Feature Designer</p>
+<p>Rest of the team : 1 UI Artist | 1 UI Engineer | 1 Full Stack Engineer </p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>Guild of Guardians is a hardcore RPG game where users create teams of 5 guardians to duke it out against monsters, enemies, and other players. In the first 7 to 10 days, the users are expected to play the Adventure mode where they explore the story, learn about the characters, and fight some easy monsters to learn about the game. They need to earn gold to strengthen their equipment and collect souls to level up their heroes.</p>
@@ -808,10 +808,10 @@
 <h1>Context</h1>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p>My Role : Feature Owner / Lead Feature Designer</p>
+<p>My Role : Feature Owner / Lead Designer (UX and game design)</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p>Rest of the team : 1 UI Artist | 1 UI Engineer | 1 Full Stack Engineer | 1 Senior Game / Feature Designer</p>
+<p>Rest of the team : 1 UI Artist | 1 UI Engineer | 1 Full Stack Engineer </p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>Guild of Guardians is a hardcore RPG game where users create teams of 5 guardians to duke it out against monsters, enemies, and other players. In the first 7 to 10 days, the users are expected to play the Adventure mode where they explore the story, learn about the characters, and fight some easy monsters to learn about the game. They need to earn gold to strengthen their equipment and collect souls to level up their heroes.</p>
