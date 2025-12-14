@@ -3,7 +3,7 @@
     <title>Bramha Dalvi</title>
     <link href="https://bramha.work/feed.xml" rel="self" />
     <link href="https://bramha.work" />
-    <updated>2025-12-14T15:59:05+11:00</updated>
+    <updated>2025-12-14T17:53:10+11:00</updated>
     <author>
         <name>Bramha</name>
     </author>
@@ -971,6 +971,10 @@
 <p>After alignment and buy in from the engineering team that we want to pursue using a button, I decided a tutorial for the first visit to this screen was the best. During testing, we also found out this lesson had a 100% memorisation rate, that means all of our participants of the playtest could remember the action 24 hours after the tutorial.</p>
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/afk-tutorial.png" alt="" width="900" height="420" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/afk-tutorial-xs.png 300w ,https://bramha.work/media/posts/4/responsive/afk-tutorial-sm.png 480w ,https://bramha.work/media/posts/4/responsive/afk-tutorial-md.png 768w ,https://bramha.work/media/posts/4/responsive/afk-tutorial-lg.png 1024w">
 <figcaption>This is the quick and greybox tutorial I mocked up in Figma. This was eventually visually polished and animated by the UI artist before implementation</figcaption>
+</figure>
+<p>To close off the new loop, I added a quit screen that set goals and anticipation to encourage the user to come back.</p>
+<figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/figma_e1njfafc8a.gif" alt="" width="900" height="413">
+<figcaption>A very quick mocked up animation made in Figma. Ending the session on a note of future rewards created a strong reminder to come back and eventually builds habits. The artist went on to polish this and make it more delightful, but I want to use this to showcase my ability to throw together super quick motion design in Figma to guide UI artists</figcaption>
 </figure>
 <p>This was the final mocked up user flow in an interactable Figma prototype.</p>
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/Figma-User-Flow-2.png" alt="" width="900" height="844" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Figma-User-Flow-2-xs.png 300w ,https://bramha.work/media/posts/4/responsive/Figma-User-Flow-2-sm.png 480w ,https://bramha.work/media/posts/4/responsive/Figma-User-Flow-2-md.png 768w ,https://bramha.work/media/posts/4/responsive/Figma-User-Flow-2-lg.png 1024w">
