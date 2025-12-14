@@ -3,7 +3,7 @@
     <title>Bramha Dalvi</title>
     <link href="https://bramha.work/feed.xml" rel="self" />
     <link href="https://bramha.work" />
-    <updated>2025-12-14T15:47:43+11:00</updated>
+    <updated>2025-12-14T15:59:05+11:00</updated>
     <author>
         <name>Bramha</name>
     </author>
@@ -334,7 +334,7 @@
         <content type="html">
             <![CDATA[
                 <h1>Context</h1>
-<p>My Role : Feature Owner</p>
+<p>My Role : Lead Designer</p>
 <p>Rest of the team : 1 Product Manager</p>
 <p>The org's head of product was researching what new features could be added to boost engagement and create repeat visits to <a target="_blank" rel="noopener noreferrer">https://play.immutable.com</a> to acquire and retain users to deliver to other business as B2B2C value.</p>
 <p>One of the top ideas on the table was a tiktok style feed that would aggregate global video game news and interperse that feed with Immutable products and games, very similar to the tiktok algorithm that splits organic content to revenue generating content (ads and sales) in a loose 75/25 ratio. </p>
@@ -355,7 +355,7 @@
         </content>
     </entry>
     <entry>
-        <title>Rocksmith+ Mobile</title>
+        <title>Bringing Rocksmith+ to Mobile</title>
         <author>
             <name>Bramha</name>
         </author>
@@ -367,7 +367,7 @@
         <content type="html">
             <![CDATA[
                 <p><!-- wp:paragraph --></p>
-<p class="align-left">My Role : UX/UI Designer</p>
+<p class="align-left">My Role : UX/UI Designer (feature owner for mobile)</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>Rest of the team : 2 UX Designers | 2 UI Artists | 4 UI Engineers</p>
@@ -1022,7 +1022,8 @@
 <hr>
 <p>One of the final changes that I added under this block of work was a moment of delight at getting the players first legendary hero. Originally players had to wait to get one from gacha or the newly implemented day 7 calendar rewards, but I added an explicit scripted moment to get the first legendary hero after defeating the first boss to make it feel celebratory and achieved by playing the game.</p>
 <p>This decision was not informed by pre-prepared data as it is hard to analyse something that does not exist, so we A/B tested this implementation to see the impact. The players who got to experience this showed 38% higher likelihood of retaining to D7 than players who did not, which was made obvious by seeing the usage data of that legendary hero to clear out the subsequent dungeons.</p>
-<p>After the success of this moment of delight, I added a introductory offer with clear messaging to be paired with the delight for players who wished to fast track their progress in the campaign. Compared to our old, outdated introductory offer, it performed 342% better against new players and increase the odds of a purchase making player to retain by 92% higher than a player who did not.</p>
+<p>After the success of this moment of delight, I added a introductory offer with clear messaging to be paired with the delight for players who wished to fast track their progress in the campaign. Compared to our old, outdated introductory offer, it performed 26% better against new players and increased the odds of a purchase making player to retain to day 7 by 92% higher than a player who did not purchase this offer. </p>
+<p><em>I also set the pricing stratgey for this one by multivariate testing 3 different price options to optimise for conversion and retention. I used linear regression analysis to model the impact of price on both of these metrics. While not directly user experience related, it uses the same principles as user research.</em></p>
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/Screenshot_20251117_090321_Guild-of-Guardians.png" alt="" width="900" height="420" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Screenshot_20251117_090321_Guild-of-Guardians-xs.png 300w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251117_090321_Guild-of-Guardians-sm.png 480w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251117_090321_Guild-of-Guardians-md.png 768w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251117_090321_Guild-of-Guardians-lg.png 1024w">
 <figcaption>The old offer had no context and was not paired with a moment of delight. Data showed that 99% of players closed the popup in under 1 second, and the team hypothesised together that a low quality offer is actually detrimental to retention</figcaption>
 </figure>
