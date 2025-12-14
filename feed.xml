@@ -3,7 +3,7 @@
     <title>Bramha Dalvi</title>
     <link href="https://bramha.work/feed.xml" rel="self" />
     <link href="https://bramha.work" />
-    <updated>2025-12-14T18:06:21+11:00</updated>
+    <updated>2025-12-14T18:07:39+11:00</updated>
     <author>
         <name>Bramha</name>
     </author>
@@ -1017,10 +1017,10 @@
 <figcaption>After - a clear progression path. And if players lost at room 5, they could reattempt from room 5</figcaption>
 </figure>
 </div></div>
-<p>This feature was tricky to analyse because the feature was not clickable to the user, they could only read this information. So I had no way of knowing if it was helping or not. A proxy data I used was to observe how many users used teams that were different from the recommendations in their first attempt and then used the reccomended team in the next attempt to then clear the dungeon. The success of this funnel was increasing for multiple weeks until it settled in the high 60%, so I could infered that users did get information from this feature to be able to positively impact their ability to win.</p>
+<p>This feature was tricky to analyse because the feature was not clickable to the user, they could only read this information. So I had no way of knowing if it was helping or not. A proxy data I used was to observe how many users used teams that were different from the recommendations in their first attempt and then used the recommended team in the next attempt to then clear the dungeon. The success of this funnel was increasing for multiple weeks until it settled in the high 60%, so I could infered that users did get information from this feature to be able to positively impact their ability to win.</p>
 <hr>
 <p>The next piece was to add a goal at the end of the 7 days to build aniticipation and increase the odds of retaining to day 7.</p>
-<p>Since our game had a plethora of legendary heroes that players wanted and would open gacha for and hope to get, I created a 7 day reward that let you pick 1 legendary guardian. This let players experience choice and autonomy at the end of long commitement. The hypothesis was that delayed gratification would make players stay longer than day 7 in anticiaption of further dopamine rushes. The UI design for this feature was specifically chosen to look like a countdown calendar so the players had something to look forward to not only the next day but also a bumper reward at the end of the week.</p>
+<p>Since our game had a plethora of legendary heroes that players wanted and would open gacha for and hope to get, I created a 7 day reward that let you pick 1 legendary guardian. This let players experience choice and autonomy at the end of long commitement. The hypothesis was that delayed gratification would make players stay longer than day 7 in anticipation of further dopamine rushes. The UI design for this feature was specifically chosen to look like a countdown calendar so the players had something to look forward to not only the next day but also a bumper reward at the end of the week.</p>
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/Screenshot_20251210_075732_Guild-of-Guardians.png" alt="" width="900" height="420" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Screenshot_20251210_075732_Guild-of-Guardians-xs.png 300w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251210_075732_Guild-of-Guardians-sm.png 480w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251210_075732_Guild-of-Guardians-md.png 768w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251210_075732_Guild-of-Guardians-lg.png 1024w">
 <figcaption>Daily instant gratification rewards to create micro goals and a big delayed gratification reward at the end of the week with clear goals, context, and progress to creat macro goals</figcaption>
 </figure>
