@@ -3,7 +3,7 @@
     <title>Bramha Dalvi</title>
     <link href="https://bramha.work/feed.xml" rel="self" />
     <link href="https://bramha.work" />
-    <updated>2025-12-14T18:07:39+11:00</updated>
+    <updated>2025-12-14T19:50:00+11:00</updated>
     <author>
         <name>Bramha</name>
     </author>
@@ -1028,12 +1028,12 @@
 <p>One of the final changes that I added under this block of work was a moment of delight at getting the players first legendary hero. Originally players had to wait to get one from gacha or the newly implemented day 7 calendar rewards, but I added an explicit scripted moment to get the first legendary hero after defeating the first boss to make it feel celebratory and achieved by playing the game.</p>
 <p>This decision was not informed by pre-prepared data as it is hard to analyse something that does not exist, so we A/B tested this implementation to see the impact. The players who got to experience this showed 38% higher likelihood of retaining to D7 than players who did not, which was made obvious by seeing the usage data of that legendary hero to clear out the subsequent dungeons.</p>
 <p>After the success of this moment of delight, I added a introductory offer with clear messaging to be paired with the delight for players who wished to fast track their progress in the campaign. Compared to our old, outdated introductory offer, it performed 26% better against new players and increased the odds of a purchase making player to retain to day 7 by 92% higher than a player who did not purchase this offer. </p>
-<p><em>I also set the pricing stratgey for this one by multivariate testing 3 different price options to optimise for conversion and retention. I used linear regression analysis to model the impact of price on both of these metrics. While not directly user experience related, it uses the same principles as user research.</em></p>
+<p><em>I also defined the price and pricing stratgey for this offer by multivariate testing 3 different price options to optimise for conversion and retention. I used linear regression analysis to model the impact of price on both of these metrics. While not directly user experience related, it uses the same principles as user research when figuring out whether something has impact for a user's journey or not.</em></p>
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/Screenshot_20251117_090321_Guild-of-Guardians.png" alt="" width="900" height="420" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Screenshot_20251117_090321_Guild-of-Guardians-xs.png 300w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251117_090321_Guild-of-Guardians-sm.png 480w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251117_090321_Guild-of-Guardians-md.png 768w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251117_090321_Guild-of-Guardians-lg.png 1024w">
 <figcaption>The old offer had no context and was not paired with a moment of delight. Data showed that 99% of players closed the popup in under 1 second, and the team hypothesised together that a low quality offer is actually detrimental to retention</figcaption>
 </figure>
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/New-Offer.png" alt="" width="900" height="420" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/New-Offer-xs.png 300w ,https://bramha.work/media/posts/4/responsive/New-Offer-sm.png 480w ,https://bramha.work/media/posts/4/responsive/New-Offer-md.png 768w ,https://bramha.work/media/posts/4/responsive/New-Offer-lg.png 1024w">
-<figcaption>The new offer had context and clear value proposition along with better presentation. I was confident in it's ability to outperform the old offer. This was iteration 3</figcaption>
+<figcaption>The new offer had context and clear value proposition along with an improved presentation. I was confident in it's ability to outperform the old offer</figcaption>
 </figure>
 
 <p>I designed the original user flow for receving the legendary hero and creating a moment of delight. I pushed the design further into mid-high fidelity just by myself to refine before I got help from a senior UI artist to polish it into the final stage</p>
