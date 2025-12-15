@@ -3,7 +3,7 @@
     <title>Bramha Dalvi</title>
     <link href="https://bramha.work/feed.xml" rel="self" />
     <link href="https://bramha.work" />
-    <updated>2025-12-15T19:54:55+11:00</updated>
+    <updated>2025-12-15T20:06:29+11:00</updated>
     <author>
         <name>Bramha</name>
     </author>
@@ -393,7 +393,7 @@
 <h1>Actions</h1>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p>The block of work to create the Rocksmith+ mobile experience was a collection of many small steps. The first piece of work started with lots of user testing where I requested internal and external volunteers to play the a crude, ported version of the PC version of their game on their mobile and tablet without any scaling and no interactions except simple taps. My first few initial tests were to discover how people set up a portable device compared to playing on a PC or a TV (plugged in to a console) to understand context and environment in which Rocksmith+ will be experienced.</p>
+<p>The block of work to create the Rocksmith+ mobile experience was a collection of many small steps. The first piece of work started with lots of user testing where I requested internal and external volunteers to play a crude, ported version of the PC version of their game on their mobile and tablet without any scaling and no interactions except simple taps. My first few initial tests were to discover how people set up a portable device compared to playing on a PC or a TV (plugged in to a console) to understand context and environment in which Rocksmith+ will be experienced.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>The tests gleaned insights using three primary methods</p>
@@ -518,7 +518,7 @@
 <p>For example, on a PC you would scroll through a carousel by clicking left and right arrows. You would do the same on a game console by using the bumper buttons. But on a touch device, do you remember the last time you clicked a button to scroll? Instead you will see your feed extends beyond the screen, and you simply scroll to access those items outside the screen. The UI is built to lead to and teach these natural behaviours that Rocksmith's prototype version was missing as it was built PC first.</p>
 <p>A large part of my role was making all these small changes to the global design system and its component libraries to improve intuitiveness on mobile, PC, and consoles.</p>
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/6/unnamed-3-3.jpg" alt="" width="630" height="274" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/6/responsive/unnamed-3-3-xs.jpg 300w ,https://bramha.work/media/posts/6/responsive/unnamed-3-3-sm.jpg 480w ,https://bramha.work/media/posts/6/responsive/unnamed-3-3-md.jpg 768w ,https://bramha.work/media/posts/6/responsive/unnamed-3-3-lg.jpg 1024w">
-<figcaption>Touch focused UI rarely has arrows to scroll, usually the extends just a little bit off screen to hint that the item can be scolled by physically pulling the item onto the screen</figcaption>
+<figcaption>Touch focused UI rarely has arrows to scroll, usually the extends just a little bit off screen to hint that the item can be scrolled by physically pulling the item onto the screen</figcaption>
 </figure>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"id":98,"width":"690px","height":"auto","sizeSlug":"large","linkDestination":"none","align":"center"} --></p>
@@ -577,8 +577,8 @@
 <p><!-- /wp:table --></p>
 <p><!-- wp:paragraph --></p>
 <p>Once I had collected an exhaustive list of what users commonly mapped various interactions on various platforms to specific outcomes, I made sure to map the mechanics of a device with each other to build a cohesive system so figure out how to unify them in in terms of implementation.</p>
-<p>For example, on PC, there is a UI event called hover which is activated when a cursor enters a region and does not exit the area or make an action like a click for 600 micro seconds. This is mapped to a user hovering on an item to want more information via a tooltip which is common in most softwares and games. <br>For touch devices, we had an event when a finger was placed on an item, but did not lift it up for 600 micro seconds. This registered as a tap and hold, which was also mapped to wanting more information through a tooltip about the item. In both cases, the help tooltip was created as a hovering element next to the original element so it wasn't obscured by the cursor or the finger.</p>
-<p>This ensured that under the hood, the technical interaction system was just as consistent as the outcomes of these interactions for the users which made it easy to maintain and scale the system rapidly as the number of screens and number of instances of a component started increasing exponentially later in development. Maintainability was greatly improved - for example, if whenver the team wanted to change the time of hover or tap and hold from 600ms to 300ms for bringing up the tooltip, we would have to make the change in one place instead of maintaining two seperate interaction patterns for the same outcome from a user's point of view</p>
+<p>For example, on PC, there is a UI event called hover which is activated when a cursor enters a region and does not exit the area or make an action like a click for 600 micro seconds. This is mapped to a user hovering on an item to want more information via a tooltip which is common in most software and games. <br>For touch devices, we had an event when a finger was placed on an item, but did not lift it up for 600 micro seconds. This registered as a tap and hold, which was also mapped to wanting more information through a tooltip about the item. In both cases, the help tooltip was created as a hovering element next to the original element so it wasn't obscured by the cursor or the finger.</p>
+<p>This ensured that under the hood, the technical interaction system was just as consistent as the outcomes of these interactions for the users which made it easy to maintain and scale the system rapidly as the number of screens and number of instances of a component started increasing exponentially later in development. Maintainability was greatly improved - for example, whenver the team wanted to change the time of hover or tap and hold from 600ms to 300ms for bringing up the tooltip, we would have to make the change in one place instead of maintaining two separate interaction patterns for the same outcome from a user's point of view</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:separator --></p>
 <hr class="wp-block-separator has-alpha-channel-opacity"><!-- /wp:separator -->
