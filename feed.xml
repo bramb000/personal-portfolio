@@ -3,7 +3,7 @@
     <title>Bramha Dalvi</title>
     <link href="https://bramha.work/feed.xml" rel="self" />
     <link href="https://bramha.work" />
-    <updated>2025-12-15T18:03:35+11:00</updated>
+    <updated>2025-12-15T18:05:52+11:00</updated>
     <author>
         <name>Bramha</name>
     </author>
@@ -855,28 +855,28 @@
 <p><span style="color: #8f8f8f;"><em><!-- /wp:paragraph --></em></span></p>
 <p><span style="color: #8f8f8f;"><em><!-- wp:table --></em></span></p>
 <figure class="wp-block-table">
-<table class="has-fixed-layout align-center" style="border-collapse: collapse;">
+<table class="has-fixed-layout align-center" style="border-collapse: collapse; width: 91.0256%;">
 <tbody>
 <tr>
-<td><span style="color: #8f8f8f;"><em>Metric</em></span></td>
-<td><span style="color: #8f8f8f;"><em>Coefficient (β)</em></span></td>
-<td><span style="color: #8f8f8f;"><em>Odds Ratio (Exp(β))</em></span></td>
-<td><span style="color: #8f8f8f;"><em>T-Statistic</em></span></td>
-<td><span style="color: #8f8f8f;"><em>DF LPM R-Squared</em></span></td>
+<td style="width: 17.1971%;"><span style="color: #8f8f8f;"><em>Metric</em></span></td>
+<td style="width: 21.6889%;"><span style="color: #8f8f8f;"><em>Coefficient (β)</em></span></td>
+<td style="width: 17.8388%;"><span style="color: #8f8f8f;"><em>Odds Ratio (Exp(β))</em></span></td>
+<td style="width: 24.2556%;"><span style="color: #8f8f8f;"><em>T-Statistic</em></span></td>
+<td style="width: 19.1222%;"><span style="color: #8f8f8f;"><em>DF LPM R-Squared</em></span></td>
 </tr>
 <tr>
-<td><span style="color: #8f8f8f;"><em>Intercept (β₀)</em></span></td>
-<td><span style="color: #8f8f8f;"><em>0.003337018482</em></span></td>
-<td><span style="color: #8f8f8f;"><em>N/A</em></span></td>
-<td><span style="color: #8f8f8f;"><em>N/A</em></span></td>
-<td><span style="color: #8f8f8f;"><em>N/A</em></span></td>
+<td style="width: 17.1971%;"><span style="color: #8f8f8f;"><em>Intercept (β₀)</em></span></td>
+<td style="width: 21.6889%;"><span style="color: #8f8f8f;"><em>0.003337018482</em></span></td>
+<td style="width: 17.8388%;"><span style="color: #8f8f8f;"><em>N/A</em></span></td>
+<td style="width: 24.2556%;"><span style="color: #8f8f8f;"><em>N/A</em></span></td>
+<td style="width: 19.1222%;"><span style="color: #8f8f8f;"><em>N/A</em></span></td>
 </tr>
 <tr>
-<td><span style="color: #8f8f8f;"><em>Independent Var (β₁)</em></span></td>
-<td><span style="color: #8f8f8f;"><em>0.150119959</em></span></td>
-<td><span style="color: #8f8f8f;"><em>1.161973624</em></span></td>
-<td><span style="color: #8f8f8f;"><em>98.77685328 30634</em></span></td>
-<td><span style="color: #8f8f8f;"><em>0.2415612125</em></span></td>
+<td style="width: 17.1971%;"><span style="color: #8f8f8f;"><em>Independent Var (β₁)</em></span></td>
+<td style="width: 21.6889%;"><span style="color: #8f8f8f;"><em>0.150119959</em></span></td>
+<td style="width: 17.8388%;"><span style="color: #8f8f8f;"><em>1.161973624</em></span></td>
+<td style="width: 24.2556%;"><span style="color: #8f8f8f;"><em>98.7768532830634</em></span></td>
+<td style="width: 19.1222%;"><span style="color: #8f8f8f;"><em>0.2415612125</em></span></td>
 </tr>
 </tbody>
 </table>
