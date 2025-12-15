@@ -3,7 +3,7 @@
     <title>Bramha Dalvi</title>
     <link href="https://bramha.work/feed.xml" rel="self" />
     <link href="https://bramha.work" />
-    <updated>2025-12-15T18:11:14+11:00</updated>
+    <updated>2025-12-15T19:54:55+11:00</updated>
     <author>
         <name>Bramha</name>
     </author>
@@ -376,7 +376,7 @@
 <h2 class="wp-block-heading">Context</h2>
 <p><!-- /wp:heading --></p>
 <p><!-- wp:paragraph --></p>
-<p>I joined the team in 2020. Rocksmith+ was in pre-production and the Ubisoft wanted a global release on mobile, PC, and next gen game consoles (at that time, it was the Playstation 5 and Xbox Series X). Very few people on the UX team had prior experience building a mobile user experiences.</p>
+<p>I joined the team in 2020 when Rocksmith+ was in pre-launch production and Ubisoft wanted a global release on mobile, PC, and next-gen game consoles (at that time, it was the Playstation 5 and Xbox Series X). Very few people on the UX team had prior experience building a mobile user experiences and responsive UIs and interactions for multiple platforms.</p>
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/6/rocksmith-tv.jpg" alt="" width="545" height="187" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/6/responsive/rocksmith-tv-xs.jpg 300w ,https://bramha.work/media/posts/6/responsive/rocksmith-tv-sm.jpg 480w ,https://bramha.work/media/posts/6/responsive/rocksmith-tv-md.jpg 768w ,https://bramha.work/media/posts/6/responsive/rocksmith-tv-lg.jpg 1024w">
 <figcaption>This was the traditional Rocksmith experience - in front of a large screen</figcaption>
 </figure>
@@ -385,6 +385,7 @@
 <p><!-- /wp:image --></p>
 <p><!-- wp:paragraph --></p>
 <p>The MVP for Rocksmith+ was also built only for PC. My goal was to deliver it on Mobile and Tablets in addition to PC and Console to invite a whole new audience of guitar learners from around the globe.</p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://bramha.work/media/posts/6/Challenge-2.png" alt="" width="900" height="276" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/6/responsive/Challenge-2-xs.png 300w ,https://bramha.work/media/posts/6/responsive/Challenge-2-sm.png 480w ,https://bramha.work/media/posts/6/responsive/Challenge-2-md.png 768w ,https://bramha.work/media/posts/6/responsive/Challenge-2-lg.png 1024w"></figure>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:separator --></p>
 <hr class="wp-block-separator has-alpha-channel-opacity"><!-- /wp:separator -->
@@ -517,7 +518,7 @@
 <p>For example, on a PC you would scroll through a carousel by clicking left and right arrows. You would do the same on a game console by using the bumper buttons. But on a touch device, do you remember the last time you clicked a button to scroll? Instead you will see your feed extends beyond the screen, and you simply scroll to access those items outside the screen. The UI is built to lead to and teach these natural behaviours that Rocksmith's prototype version was missing as it was built PC first.</p>
 <p>A large part of my role was making all these small changes to the global design system and its component libraries to improve intuitiveness on mobile, PC, and consoles.</p>
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/6/unnamed-3-3.jpg" alt="" width="630" height="274" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/6/responsive/unnamed-3-3-xs.jpg 300w ,https://bramha.work/media/posts/6/responsive/unnamed-3-3-sm.jpg 480w ,https://bramha.work/media/posts/6/responsive/unnamed-3-3-md.jpg 768w ,https://bramha.work/media/posts/6/responsive/unnamed-3-3-lg.jpg 1024w">
-<figcaption>Touch focused UI rarely has arrows to scroll, usually the extends just a little bit off screen to hint that the item can be scolled by physically pulling the item</figcaption>
+<figcaption>Touch focused UI rarely has arrows to scroll, usually the extends just a little bit off screen to hint that the item can be scolled by physically pulling the item onto the screen</figcaption>
 </figure>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"id":98,"width":"690px","height":"auto","sizeSlug":"large","linkDestination":"none","align":"center"} --></p>
