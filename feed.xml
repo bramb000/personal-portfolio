@@ -3,7 +3,7 @@
     <title>Bramha Dalvi</title>
     <link href="https://bramha.work/feed.xml" rel="self" />
     <link href="https://bramha.work" />
-    <updated>2025-12-15T18:07:48+11:00</updated>
+    <updated>2025-12-15T18:11:14+11:00</updated>
     <author>
         <name>Bramha</name>
     </author>
@@ -1008,7 +1008,7 @@
 <figcaption>Before - players had no clue what heroes to use</figcaption>
 </figure>
 <figure class="gallery__item"><a href="https://bramha.work/media/posts/4/gallery/Screenshot_20251105_150237_Guild-of-Guardians-2.png" data-size="2316x1080"><img loading="lazy" src="https://bramha.work/media/posts/4/gallery/Screenshot_20251105_150237_Guild-of-Guardians-2-thumbnail.png" alt="" width="768" height="358"></a>
-<figcaption>After - players had some reccomendations based on other players' performance</figcaption>
+<figcaption>After - players had some recommendations based on other players' performance</figcaption>
 </figure>
 </div></div>
 <p>Through qualitative insights from talking to players, I also found out that players quit after losing once or twice because whenever they lost in a dungeon, they had to begin from the first dungeon. This design was an ill fit for a mobile game which easier and smoother progression. I worked directly with the game designers to add a new dungeon progression system that used checkpoints so players can instantly reattempt the dungeon that they lost at instead of having to begin from the start. This was a simply and purely UX change as no balancing or remaking of content was involved.</p>
@@ -1021,18 +1021,18 @@
 <figcaption>After - a clear progression path. And if players lost at room 5, they could reattempt from room 5</figcaption>
 </figure>
 </div></div>
-<p>This feature was tricky to analyse because the feature was not clickable to the user, they could only read this information. So I had no way of knowing if it was helping or not. A proxy data I used was to observe how many users used teams that were different from the recommendations in their first attempt and then used the recommended team in the next attempt to then clear the dungeon. The success of this funnel was increasing for multiple weeks until it settled in the high 60%, so I could infered that users did get information from this feature to be able to positively impact their ability to win.</p>
+<p>This feature was tricky to analyse because the feature was not clickable to the user, they could only read this information. So I had no way of knowing if it was helping or not. A proxy data I used was to observe how many users used teams that were different from the recommendations in their first attempt and then used the recommended team in the next attempt to then clear the dungeon. The success of this funnel was increasing for multiple weeks until it settled in the high 60%, so I could inferred that users did get information from this feature to be able to positively impact their ability to win.</p>
 <hr>
-<p>The next piece was to add a goal at the end of the 7 days to build aniticipation and increase the odds of retaining to day 7.</p>
-<p>Since our game had a plethora of legendary heroes that players wanted and would open gacha for and hope to get, I created a 7 day reward that let you pick 1 legendary guardian. This let players experience choice and autonomy at the end of long commitement. The hypothesis was that delayed gratification would make players stay longer than day 7 in anticipation of further dopamine rushes. The UI design for this feature was specifically chosen to look like a countdown calendar so the players had something to look forward to not only the next day but also a bumper reward at the end of the week.</p>
+<p>The next piece was to add a goal at the end of the 7 days to build anticipation and increase the odds of retaining to day 7.</p>
+<p>Since our game had a plethora of legendary heroes that players wanted and would open gacha for and hope to get, I created a 7 day reward that let you pick 1 legendary guardian. This let players experience choice and autonomy at the end of long commitment. The hypothesis was that delayed gratification would make players stay longer than day 7 in anticipation of further dopamine rushes. The UI design for this feature was specifically chosen to look like a countdown calendar so the players had something to look forward to not only the next day but also a bumper reward at the end of the week.</p>
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/Screenshot_20251210_075732_Guild-of-Guardians.png" alt="" width="900" height="420" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Screenshot_20251210_075732_Guild-of-Guardians-xs.png 300w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251210_075732_Guild-of-Guardians-sm.png 480w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251210_075732_Guild-of-Guardians-md.png 768w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251210_075732_Guild-of-Guardians-lg.png 1024w">
-<figcaption>Daily instant gratification rewards to create micro goals and a big delayed gratification reward at the end of the week with clear goals, context, and progress to creat macro goals</figcaption>
+<figcaption>Daily instant gratification rewards to create micro goals and a big delayed gratification reward at the end of the week with clear goals, context, and progress to create macro goals</figcaption>
 </figure>
 <hr>
 <p>One of the final changes that I added under this block of work was a moment of delight at getting the players first legendary hero. Originally players had to wait to get one from gacha or the newly implemented day 7 calendar rewards, but I added an explicit scripted moment to get the first legendary hero after defeating the first boss to make it feel celebratory and achieved by playing the game.</p>
 <p>This decision was not informed by pre-prepared data as it is hard to analyse something that does not exist, so we A/B tested this implementation to see the impact. The players who got to experience this showed 38% higher likelihood of retaining to D7 than players who did not, which was made obvious by seeing the usage data of that legendary hero to clear out the subsequent dungeons.</p>
 <p>After the success of this moment of delight, I added a introductory offer with clear messaging to be paired with the delight for players who wished to fast track their progress in the campaign. Compared to our old, outdated introductory offer, it performed 26% better against new players and increased the odds of a purchase making player to retain to day 7 by 92% higher than a player who did not purchase this offer. </p>
-<p><em>I also defined the price and pricing stratgey for this offer by multivariate testing 3 different price options to optimise for conversion and retention. I used linear regression analysis to model the impact of price on both of these metrics. While not directly user experience related, it uses the same principles as user research when figuring out whether something has impact for a user's journey or not.</em></p>
+<p><em>I also defined the price and pricing strategy for this offer by multivariate testing 3 different price options to optimise for conversion and retention. I used linear regression analysis to model the impact of price on both of these metrics. While not directly user experience related, it uses the same principles as user research when figuring out whether something has impact for a user's journey or not.</em></p>
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/Screenshot_20251117_090321_Guild-of-Guardians.png" alt="" width="900" height="420" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Screenshot_20251117_090321_Guild-of-Guardians-xs.png 300w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251117_090321_Guild-of-Guardians-sm.png 480w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251117_090321_Guild-of-Guardians-md.png 768w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251117_090321_Guild-of-Guardians-lg.png 1024w">
 <figcaption>The old offer had no context and was not paired with a moment of delight. Data showed that 99% of players closed the popup in under 1 second, and the team hypothesised together that a low quality offer is actually detrimental to retention</figcaption>
 </figure>
@@ -1067,7 +1067,7 @@
 <h1>Learning</h1>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p>This was a major block of work that took multiple months and was shipped over multiple releases. The discovery phase started by undertanding that what players are lacking is beyond the screen, it's a mismatch of the game's user experience and their habits and lifestyle. Once we understood that, we knew we had to make critical changes to features besides just updating the UI.</p>
+<p>This was a major block of work that took multiple months and was shipped over multiple releases. The discovery phase started by understanding that what players are lacking is beyond the screen, it's a mismatch of the game's user experience and their habits and lifestyle. Once we understood that, we knew we had to make critical changes to features besides just updating the UI.</p>
 <p>But with hypothesis and insights backed by data about player behaviour, we could confidently commit to this long endeavour to deliver value with constant iteration and see each addition having an impact on our business goals. Confidence in vision is key to keep the team motivated when the development period is long and uncertain.</p>
 <p> </p>
 <div class="wp-block-group alignfull" style="margin-top: 0; margin-bottom: 0; padding-top: var(--wp--preset--spacing--50); padding-bottom: var(--wp--preset--spacing--50);">
