@@ -3,7 +3,7 @@
     <title>Bramha Dalvi</title>
     <link href="https://bramha.work/feed.xml" rel="self" />
     <link href="https://bramha.work" />
-    <updated>2025-12-14T19:50:00+11:00</updated>
+    <updated>2025-12-15T18:03:35+11:00</updated>
     <author>
         <name>Bramha</name>
     </author>
@@ -772,6 +772,8 @@
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>We had a problem, our D7 retention, the percent of players still continuing to play by the 7th day since they installed, was low. Which means we lost players who we spend lots of money to acquire which reduced the efficiency of our marketing budget.</p>
+<p>On top of this, we did not have a dedicated data analyst to help us figure out what is happening to guide user research to figure out why it may be happening.</p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://bramha.work/media/posts/4/Challenge-Graphic-1.png" alt="" width="900" height="276" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Challenge-Graphic-1-xs.png 300w ,https://bramha.work/media/posts/4/responsive/Challenge-Graphic-1-sm.png 480w ,https://bramha.work/media/posts/4/responsive/Challenge-Graphic-1-md.png 768w ,https://bramha.work/media/posts/4/responsive/Challenge-Graphic-1-lg.png 1024w"></figure>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:separator --></p>
 <hr class="wp-block-separator has-alpha-channel-opacity"><!-- /wp:separator -->
@@ -785,7 +787,7 @@
 <p>A good sub-indicator of retention is to look at engagement. High engagement (many hours played) and low retention may indicate players had lots of fun at the start and then either forgot your game or got burned out. Low engagement means they simply did not enjoy it and chose not to come back.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p>A good stand in for habitual behaviour is to look at sessions per day, how many unique times did a user login to the game. Logging in daily means your game was both - "wow" and forming habits. Sometimes a good, fun game fails to build habits and gets forgotten because humans have access to so much entertainment.</p>
+<p>A good stand in for habitual behaviour is to look at sessions per day, how many unique times did a user login to the game. Logging in daily means your game was both - "wow" and forming habits. Sometimes a good, fun game fails to build habits and gets forgotten because humans have access to so much entertainment. Using my knowledge in SQL, I wrote a few queries to fetch all the required data.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>The average sessions per day in a user's first 7 days from install was 1.3. That's good! But is it? An average does not often tell the full story. Instead, this was the full story.</p>
@@ -818,6 +820,8 @@
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>We had a problem, our D7 retention, the percent of players still continuing to play by the 7th day since they installed, was low. Which means we lost players who we spend lots of money to acquire which reduced the efficiency of our marketing budget.</p>
+<p>On top of this, we did not have a dedicated data analyst to help us figure out what is happening to guide user research to figure out why it may be happening.</p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://bramha.work/media/posts/4/Challenge-Graphic-1.png" alt="" width="900" height="276" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Challenge-Graphic-1-xs.png 300w ,https://bramha.work/media/posts/4/responsive/Challenge-Graphic-1-sm.png 480w ,https://bramha.work/media/posts/4/responsive/Challenge-Graphic-1-md.png 768w ,https://bramha.work/media/posts/4/responsive/Challenge-Graphic-1-lg.png 1024w"></figure>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:separator --></p>
 <hr class="wp-block-separator has-alpha-channel-opacity"><!-- /wp:separator -->
@@ -831,7 +835,7 @@
 <p>A good sub-indicator of retention is to look at engagement. High engagement (many hours played) and low retention may indicate players had lots of fun at the start and then either forgot your game or got burned out. Low engagement means they simply did not enjoy it and chose not to come back.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p>A good stand in for habitual behaviour is to look at sessions per day, how many unique times did a user login to the game. Logging in daily means your game was both - "wow" and forming habits. Sometimes a good, fun game fails to build habits and gets forgotten because humans have access to so much entertainment.</p>
+<p>A good stand in for habitual behaviour is to look at sessions per day, how many unique times did a user login to the game. Logging in daily means your game was both - "wow" and forming habits. Sometimes a good, fun game fails to build habits and gets forgotten because humans have access to so much entertainment. Using my knowledge in SQL, I wrote a few queries to fetch all the required data.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>The average sessions per day in a user's first 7 days from install was 1.3. That's good! But is it? An average does not often tell the full story. Instead, this was the full story.</p>
@@ -935,13 +939,13 @@
 <p>In the original flow, users had to come back to take an action and be rewarded. This did not generate any anticipation excitement at the end of your previous session for you to not forget this game and want to come back.</p>
 <figure class="wp-block-image size-full wp-image-108 post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/storyboard-for-setting-up-next-session.jpg" alt="" width="900" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/storyboard-for-setting-up-next-session-xs.jpg 300w ,https://bramha.work/media/posts/4/responsive/storyboard-for-setting-up-next-session-sm.jpg 480w ,https://bramha.work/media/posts/4/responsive/storyboard-for-setting-up-next-session-md.jpg 768w ,https://bramha.work/media/posts/4/responsive/storyboard-for-setting-up-next-session-lg.jpg 1024w"></figure>
 <p>Additionally, it was important to end a game session on a high note and make the player look forward to playing the next time as opposed to making them stop playing and forcing them away. So I redesigned the game loop and subsequently the user flow to start session on a happy note and end sessions on moments on anticipation for future rewards.</p>
-<figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/IMG_0501.png" alt="" width="900" height="457" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/IMG_0501-xs.png 300w ,https://bramha.work/media/posts/4/responsive/IMG_0501-sm.png 480w ,https://bramha.work/media/posts/4/responsive/IMG_0501-md.png 768w ,https://bramha.work/media/posts/4/responsive/IMG_0501-lg.png 1024w">
+<figure><figure class="post__image post__image--center"><img loading="lazy"  src="https://bramha.work/media/posts/4/Game-Loop-Negative-2.png" alt="" width="900" height="552" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Game-Loop-Negative-2-xs.png 300w ,https://bramha.work/media/posts/4/responsive/Game-Loop-Negative-2-sm.png 480w ,https://bramha.work/media/posts/4/responsive/Game-Loop-Negative-2-md.png 768w ,https://bramha.work/media/posts/4/responsive/Game-Loop-Negative-2-lg.png 1024w"></figure>
 <figcaption>Before - an energy system creates a forced action in the game loop that discourages returning behaviour</figcaption>
 </figure>
-<figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/IMG_0500.png" alt="" width="900" height="416" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/IMG_0500-xs.png 300w ,https://bramha.work/media/posts/4/responsive/IMG_0500-sm.png 480w ,https://bramha.work/media/posts/4/responsive/IMG_0500-md.png 768w ,https://bramha.work/media/posts/4/responsive/IMG_0500-lg.png 1024w">
+<p><!-- /wp:paragraph --></p>
+<figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/Game-Loop-Positive.png" alt="" width="900" height="552" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Game-Loop-Positive-xs.png 300w ,https://bramha.work/media/posts/4/responsive/Game-Loop-Positive-sm.png 480w ,https://bramha.work/media/posts/4/responsive/Game-Loop-Positive-md.png 768w ,https://bramha.work/media/posts/4/responsive/Game-Loop-Positive-lg.png 1024w">
 <figcaption>After - I designed the loop in such a way that let players conclude their session naturally on a difficult boss that they can't just conquer or simply having played to long and have something to look forward to, creating a positive end to a journey to encourage formation of a loop</figcaption>
 </figure>
-<p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"id":92,"sizeSlug":"full","linkDestination":"none","align":"center"} --></p>
 <p>The old UI created feelings of punishment through it's presentation and messaging, it told you to stop playing as soon as things got interesting.</p>
 <figure class="wp-block-image aligncenter size-full wp-image-92 post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/Screenshot_20251110_172144_Guild-of-Guardians.png" alt="" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Screenshot_20251110_172144_Guild-of-Guardians-xs.png 300w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251110_172144_Guild-of-Guardians-sm.png 480w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251110_172144_Guild-of-Guardians-md.png 768w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251110_172144_Guild-of-Guardians-lg.png 1024w">
@@ -982,7 +986,7 @@
 <figcaption></figcaption>
 </figure>
 <p><span style="color: #838383;"><em><!-- /wp:paragraph --></em></span></p>
-<p><span style="color: #000000; font-size: inherit;">Beyond just the UI, there was a flaw in the progression design that would lead to a poor UX. The progression worked in such a way that players would unlock a weapon to create excitement, but by the time they collected all the gold to acquire that weapon, they would also simultaneously unlock the next sword. This dampened the excitement of the reward they just received in the form of the sword, and every milestone went from being an opportunity to celebrate to a moment of setting a new goal without acknowledgement. <br><br>The simplest fix was restructuring the existing progression in such a way that players would get all the gold required to unlock a sword over time, and they would unlock the new sword more or less around the time they got all the required gold. This created a satisfying moment upon return to immediately then get a sword and use to kill stronger enemies. This was a pretty invisible but highly impactful, under the hood, change to make, but required intense scrutiny as I did not want to give the player too many rewards and cannibalise monetisation.</span></p>
+<p><span style="color: #000000; font-size: inherit;">Beyond just the UI and the visual user flow, there was a flaw in the progression design that would lead to an overall poor experience. The progression worked in such a way that players would unlock a weapon to create excitement, but by the time they collected all the gold to acquire that weapon, they would also simultaneously unlock the next sword. This dampened the excitement of the reward they just received in the form of the sword, and every milestone went from being an opportunity to celebrate to a moment of setting a new goal without acknowledgement. <br><br>The simplest fix was restructuring the existing progression in such a way that players would get all the gold required to unlock a sword over time, and they would unlock the new sword more or less around the time they got all the required gold. This created a satisfying moment upon return to immediately then get a sword and use to kill stronger enemies. This was a pretty invisible but highly impactful, under the hood, change to make, but required intense scrutiny as I did not want to give the player too many rewards and cannibalise monetisation.</span></p>
 <figure class="post__image post__image--center"><img loading="lazy" style="text-align: center; font-size: inherit;" src="https://bramha.work/media/posts/4/IMG_0495.png" alt="" width="900" height="419" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/IMG_0495-xs.png 300w ,https://bramha.work/media/posts/4/responsive/IMG_0495-sm.png 480w ,https://bramha.work/media/posts/4/responsive/IMG_0495-md.png 768w ,https://bramha.work/media/posts/4/responsive/IMG_0495-lg.png 1024w">
 <figcaption>User experience is a lot about feelings and sometimes those feelings are beyond the influence of pure visual design. I know this diagram is crazy but this was just in my internal notebook and my colleagues only received the final spreadsheet and the UI mockups :)</figcaption>
 </figure>
