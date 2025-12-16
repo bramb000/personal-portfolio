@@ -3,7 +3,7 @@
     <title>Bramha Dalvi</title>
     <link href="https://bramha.work/feed.xml" rel="self" />
     <link href="https://bramha.work" />
-    <updated>2025-12-16T21:25:34+11:00</updated>
+    <updated>2025-12-16T21:40:11+11:00</updated>
     <author>
         <name>Bramha</name>
     </author>
@@ -992,8 +992,13 @@
 <figcaption>This is the quick and greybox tutorial I mocked up in Figma. This was eventually visually polished and animated by the UI artist before implementation</figcaption>
 </figure>
 <p>To close off the new loop, I added a quit screen that set goals and anticipation to encourage the user to come back.</p>
+<p>I made a very quick animation made in Figma to share the idea within the team. Ending the session on a note of future rewards created a strong reminder to come back and eventually builds habits. </p>
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/figma_e1njfafc8a.gif" alt="" width="900" height="413">
-<figcaption>A very quick mocked up animation made in Figma. Ending the session on a note of future rewards created a strong reminder to come back and eventually builds habits. The artist went on to polish this and make it more delightful, but I want to use this to showcase my ability to throw together super quick motion design in Figma to guide UI artists</figcaption>
+<figcaption></figcaption>
+</figure>
+<p>Taking this idea, the artist polished the final UI. I used UI data to find out how many players close the game by pressing the close button in-game that triggers this dialogue vs how many players close the game by alt+f4 or through the operating system, which is much more common for mobile. Suriprisingly, only 12% players closed it using the dialogue. With so few players seeing this screen, I could not justify the ROI of spending lots of effort to develop and implement animations and encourage the artist to stop at static design.</p>
+<figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/figma_e1njfafc8a__1___1_.png" alt="" width="900" height="413" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/figma_e1njfafc8a__1___1_-xs.png 300w ,https://bramha.work/media/posts/4/responsive/figma_e1njfafc8a__1___1_-sm.png 480w ,https://bramha.work/media/posts/4/responsive/figma_e1njfafc8a__1___1_-md.png 768w ,https://bramha.work/media/posts/4/responsive/figma_e1njfafc8a__1___1_-lg.png 1024w">
+<figcaption>This was the final design for this screen. While it looks hastily completed and unpolished, we could not justify the ROI after seeing the data on how few players actually saw this screen</figcaption>
 </figure>
 <p>This was the final mocked up user flow in an interactable Figma prototype.</p>
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/Figma-User-Flow-2.png" alt="" width="900" height="844" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Figma-User-Flow-2-xs.png 300w ,https://bramha.work/media/posts/4/responsive/Figma-User-Flow-2-sm.png 480w ,https://bramha.work/media/posts/4/responsive/Figma-User-Flow-2-md.png 768w ,https://bramha.work/media/posts/4/responsive/Figma-User-Flow-2-lg.png 1024w">
