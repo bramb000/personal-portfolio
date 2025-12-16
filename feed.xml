@@ -3,7 +3,7 @@
     <title>Bramha Dalvi</title>
     <link href="https://bramha.work/feed.xml" rel="self" />
     <link href="https://bramha.work" />
-    <updated>2025-12-16T21:40:11+11:00</updated>
+    <updated>2025-12-16T21:53:13+11:00</updated>
     <author>
         <name>Bramha</name>
     </author>
@@ -394,6 +394,20 @@
 <hr class="wp-block-separator has-alpha-channel-opacity"><!-- /wp:separator -->
 <p><!-- wp:paragraph --></p>
 <h1>Actions</h1>
+<h3>TLDR</h3>
+<p>Problems analysed through a mixture of quantitiative and qualitative data analysis</p>
+<ol>
+<li>No mobile and console framework for responsive UI and interactions</li>
+<li>No parity between PC, consoles, and mobile codebase → everything needed 3 times more effort to simply maintain and accomodate new changes</li>
+<li>Immature team culture around global collaboration and building one codebase for launching on five platforms → no one's fault, just lacked having people accountable for driving</li>
+</ol>
+<p>How I led the team to fix it</p>
+<ol>
+<li>Leading the team by building out core mobile UI and mobile + console interaction frameworks while critical foundational work was being done</li>
+<li>Led responsive UI striketeam to build foundational tooling to support 12 device screen types (TVs, monitors, phones, and tablets)</li>
+<li>Leading India &lt;&gt; Japan and India &lt;&gt; Japan &lt;&gt; US team workshops for UX design and Technical UI teams to drive a collaborative spirit</li>
+</ol>
+<hr>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>The block of work to create the Rocksmith+ mobile experience was a collection of many small steps. The first piece of work started with lots of user testing where I requested internal and external volunteers to play a crude, ported version of the PC version of their game on their mobile and tablet without any scaling and no interactions except simple taps. My first few initial tests were to discover how people set up a portable device compared to playing on a PC or a TV (plugged in to a console) to understand context and environment in which Rocksmith+ will be experienced.</p>
@@ -788,6 +802,22 @@
 <hr class="wp-block-separator has-alpha-channel-opacity"><!-- /wp:separator -->
 <p><!-- wp:paragraph --></p>
 <h1>Action</h1>
+<h3>TLDR</h3>
+<p>Problems analysed through a mixture of quantitiative and qualitative data analysis</p>
+<ol>
+<li>Poor structure of sessions → it always ended on a negative note</li>
+<li>Lack of recommendations when players get stuck</li>
+<li>Lack of visual goal setting</li>
+<li>Lack of celebration of milestones</li>
+</ol>
+<p>How I led the team to fix it</p>
+<ol>
+<li>Make UX and game economy changes to make sure player ends game session on a happy note with anticipation for the next time</li>
+<li>Add a strategy recommendation system that nudges and guides while maintaining player autonomy</li>
+<li>Create visual UI that creates a path and goal setting</li>
+<li>Added moments of celebrations and paired them with in-app purchases to score a double win on retention and monetisation</li>
+</ol>
+<hr>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>Being a live product, looking at data is always my first step. D7 retention is usually an indicator if players had a wow experience on their first day and if the excitement of the wow stuck. It is an objective measure of subjective fun.</p>
@@ -841,6 +871,22 @@
 <hr class="wp-block-separator has-alpha-channel-opacity"><!-- /wp:separator -->
 <p><!-- wp:paragraph --></p>
 <h1>Action</h1>
+<h3>TLDR</h3>
+<p>Problems analysed through a mixture of quantitiative and qualitative data analysis</p>
+<ol>
+<li>Poor structure of sessions → it always ended on a negative note</li>
+<li>Lack of recommendations when players get stuck</li>
+<li>Lack of visual goal setting</li>
+<li>Lack of celebration of milestones</li>
+</ol>
+<p>How I led the team to fix it</p>
+<ol>
+<li>Make UX and game economy changes to make sure player ends game session on a happy note with anticipation for the next time</li>
+<li>Add a strategy recommendation system that nudges and guides while maintaining player autonomy</li>
+<li>Create visual UI that creates a path and goal setting</li>
+<li>Added moments of celebrations and paired them with in-app purchases to score a double win on retention and monetisation</li>
+</ol>
+<hr>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>Being a live product, looking at data is always my first step. D7 retention is usually an indicator if players had a wow experience on their first day and if the excitement of the wow stuck. It is an objective measure of subjective fun.</p>
