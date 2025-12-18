@@ -3,7 +3,7 @@
     <title>Bramha Dalvi</title>
     <link href="https://bramha.work/feed.xml" rel="self" />
     <link href="https://bramha.work" />
-    <updated>2025-12-17T10:47:33+11:00</updated>
+    <updated>2025-12-18T19:15:33+11:00</updated>
     <author>
         <name>Bramha</name>
     </author>
@@ -408,7 +408,9 @@
 <li>Leading India &lt;&gt; Japan &lt;&gt; US team workshops for UX design and Technical UI teams to drive a collaborative spirit around multiplatform design</li>
 </ol>
 <p>You can see the final solution is a run-time responsive UI that made it easy to support different aspect ratio screen types and platforms without needing to support multiple codebases</p>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://bramha.work/media/posts/6/Rocksmith-Responsive-UI-GIF.gif" alt="" width="900" height="506"></figure>
+<figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/6/Rocksmith-Responsive-UI-GIF.gif" alt="" width="900" height="506">
+<figcaption>Run time responsive UI</figcaption>
+</figure>
 <figure>You can see how the UI reacts in real time to system changes in screen configuration with different aspect ratios, and the entire layout remains intact</figure>
 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/AvvCJ_hIMjo" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <hr>
@@ -534,7 +536,7 @@
 <p><!-- /wp:paragraph --></p>
 <p>The new UI was responsive in runtime without any overalapping of 3D and 2D elements</p>
 <figure class="post__image post__image--center"><img loading="lazy"  src="https://bramha.work/media/posts/6/Rocksmith-Responsive-UI-GIF.gif" alt="" width="900" height="506"></figure>
-<figure>You can see how the UI reacts in real time to system changes in screen configuration with different aspect ratios, and the entire layout remains intact</figure>
+<p>Here is a live test of the demonstrating the 3D-to-2D anchoring system, ensuring that all 2D and 3D elements remain legible and correctly positioned regardless of the user's monitor resolution or aspect ratio.</p>
 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/AvvCJ_hIMjo" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <p><!-- wp:paragraph --></p>
 <hr>
