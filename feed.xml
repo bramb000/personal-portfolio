@@ -3,7 +3,7 @@
     <title>Bramha Dalvi</title>
     <link href="https://bramha.work/feed.xml" rel="self" />
     <link href="https://bramha.work" />
-    <updated>2025-12-22T20:44:04+11:00</updated>
+    <updated>2025-12-23T07:30:11+11:00</updated>
     <author>
         <name>Bramha</name>
     </author>
@@ -355,7 +355,7 @@
         </content>
     </entry>
     <entry>
-        <title>Bringing Rocksmith+ from PC to Mobile and Console</title>
+        <title>Building Rocksmith+ for 5 platforms with 1 UI system for consistent user experience</title>
         <author>
             <name>Bramha</name>
         </author>
@@ -377,7 +377,7 @@
 <p><!-- /wp:heading --></p>
 <p><!-- wp:paragraph --></p>
 <p>I joined the team in 2020 when Rocksmith+ was in pre-launch production and Ubisoft wanted a global release on mobile, PC, and next-gen game consoles (at that time, it was the Playstation 5 and Xbox Series X). Very few people on the UX team had prior experience building a mobile user experiences and responsive UIs and interactions for multiple platforms.</p>
-<figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/6/rocksmith-tv.jpg" alt="" width="545" height="187" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/6/responsive/rocksmith-tv-xs.jpg 300w ,https://bramha.work/media/posts/6/responsive/rocksmith-tv-sm.jpg 480w ,https://bramha.work/media/posts/6/responsive/rocksmith-tv-md.jpg 768w ,https://bramha.work/media/posts/6/responsive/rocksmith-tv-lg.jpg 1024w">
+<figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/6/rocksmith-tv.jpg" alt="" width="900" height="309" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/6/responsive/rocksmith-tv-xs.jpg 300w ,https://bramha.work/media/posts/6/responsive/rocksmith-tv-sm.jpg 480w ,https://bramha.work/media/posts/6/responsive/rocksmith-tv-md.jpg 768w ,https://bramha.work/media/posts/6/responsive/rocksmith-tv-lg.jpg 1024w">
 <figcaption>This was the traditional Rocksmith experience - in front of a large screen</figcaption>
 </figure>
 <p><!-- /wp:paragraph --></p>
@@ -390,7 +390,7 @@
 <p>To these outcomes</p>
 <figure class="post__image post__image--center"><img loading="lazy"  src="https://bramha.work/media/posts/6/Outcome.png" alt="" width="900" height="276" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/6/responsive/Outcome-xs.png 300w ,https://bramha.work/media/posts/6/responsive/Outcome-sm.png 480w ,https://bramha.work/media/posts/6/responsive/Outcome-md.png 768w ,https://bramha.work/media/posts/6/responsive/Outcome-lg.png 1024w"></figure>
 <figure class="post__image post__image--center"><img loading="lazy"  src="https://bramha.work/media/posts/6/Outcome-1-2.png" alt="" width="330" height="241" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/6/responsive/Outcome-1-2-xs.png 300w ,https://bramha.work/media/posts/6/responsive/Outcome-1-2-sm.png 480w ,https://bramha.work/media/posts/6/responsive/Outcome-1-2-md.png 768w ,https://bramha.work/media/posts/6/responsive/Outcome-1-2-lg.png 1024w"></figure>
-<p><!-- /wp:paragraph --></p>
+<p>w</p>
 <p><!-- wp:separator --></p>
 <hr class="wp-block-separator has-alpha-channel-opacity"><!-- /wp:separator -->
 <p><!-- wp:paragraph --></p>
@@ -590,10 +590,10 @@
 <hr>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p>One of the final pieces was how users interact with the UI. Some users could be on a chair using a keyboard, some could be on a couch with a PS5 controller in one hand and a guitar in another, and some could be leaning over a stool to touch a tablet screen on their kitchen table. The environments and context ranged on a wide spectrum.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p>Since one single subscription of Rocksmith+ gave access to the game on every platform, we expected the user to using the app on multiple platforms - think Netflix where you use it on your TV, tablets, and sometimes phones. This is why we needed a consistent outcomes for users from the user actions on different platforms over and over again. Since their minds were occupied with guitar chords and other complex techniques, it made no sense to add the cognitive load of also learning how to interact with this app on multiple platforms.</p>
+<p>Since one single subscription of Rocksmith+ gave access to the game on every platform, we expected the user to using the app on multiple platforms - think Netflix where you use it on your TV, tablets, and sometimes phones.</p>
+<p>This is why we needed a consistent outcomes for users from the user actions on different platforms over and over again. Since their minds were occupied with guitar chords and memorising other complex techniques, it made no sense to add the cognitive load of also learning how to interact with this app on multiple platforms.</p>
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/6/IMG_0492.png" alt="" width="560" height="289" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/6/responsive/IMG_0492-xs.png 300w ,https://bramha.work/media/posts/6/responsive/IMG_0492-sm.png 480w ,https://bramha.work/media/posts/6/responsive/IMG_0492-md.png 768w ,https://bramha.work/media/posts/6/responsive/IMG_0492-lg.png 1024w">
 <figcaption>The user knows what they want, but how do they recreate it on a different platform?</figcaption>
 </figure>
@@ -611,9 +611,8 @@
 <p><!-- wp:paragraph --></p>
 <p>Once I had collected an exhaustive list of what users commonly mapped various interactions on various platforms to specific outcomes, I made sure to map the mechanics of a device with each other to build a cohesive system so figure out how to unify them in in terms of implementation.</p>
 <p>For example, on PC, there is a UI event called hover which is activated when a cursor enters a region and does not exit the area or make an action like a click for 600 micro seconds. This is mapped to a user hovering on an item to want more information via a tooltip which is common in most software and games. <br>For touch devices, we had an event when a finger was placed on an item, but did not lift it up for 600 micro seconds. This registered as a tap and hold, which was also mapped to wanting more information through a tooltip about the item. In both cases, the help tooltip was created as a hovering element next to the original element so it wasn't obscured by the cursor or the finger.</p>
-<figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/6/Input-System-2.png" alt="" width="900" height="1016" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/6/responsive/Input-System-2-xs.png 300w ,https://bramha.work/media/posts/6/responsive/Input-System-2-sm.png 480w ,https://bramha.work/media/posts/6/responsive/Input-System-2-md.png 768w ,https://bramha.work/media/posts/6/responsive/Input-System-2-lg.png 1024w">
+<figure class="post__image"><img loading="lazy" src="https://bramha.work/media/posts/6/Input-System.png" alt="" width="900" height="1016" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/6/responsive/Input-System-xs.png 300w ,https://bramha.work/media/posts/6/responsive/Input-System-sm.png 480w ,https://bramha.work/media/posts/6/responsive/Input-System-md.png 768w ,https://bramha.work/media/posts/6/responsive/Input-System-lg.png 1024w">
 <figcaption>How 3 actions consistently lead to the same outcome on any platform</figcaption>
-</figure>
 <p>This ensured that under the hood, the technical interaction system was just as consistent as the outcomes of these interactions for the users which made it easy to maintain and scale the system rapidly as the number of screens and number of instances of a component started increasing exponentially later in development. Maintainability was greatly improved - for example, whenver the team wanted to change the time of hover or tap and hold from 600ms to 300ms for bringing up the tooltip, we would have to make the change in one place instead of maintaining two separate interaction patterns for the same outcome from a user's point of view</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:separator --></p>
@@ -763,6 +762,7 @@
 <p><!-- /wp:group --></p>
 <p><!-- wp:paragraph --></p>
 <p><!-- /wp:paragraph --></p>
+</figure>
             ]]>
         </content>
     </entry>
