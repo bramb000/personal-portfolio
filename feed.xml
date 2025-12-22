@@ -3,7 +3,7 @@
     <title>Bramha Dalvi</title>
     <link href="https://bramha.work/feed.xml" rel="self" />
     <link href="https://bramha.work" />
-    <updated>2025-12-23T07:30:11+11:00</updated>
+    <updated>2025-12-23T10:03:01+11:00</updated>
     <author>
         <name>Bramha</name>
     </author>
@@ -367,13 +367,15 @@
         <content type="html">
             <![CDATA[
                 <p><!-- wp:paragraph --></p>
-<p class="align-left">My Role : UX/UI Designer (feature owner for mobile)</p>
+<h2 class="wp-block-heading">Context</h2>
+<p> </p>
+<p>My Role : UX/UI Designer (feature owner for mobile)</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>Rest of the team : Not fixed but roughly main 6 people → 2 UX Designers | 2 UI Artists | 4 UI Engineers</p>
+<p>This case study generally takes 15 minutes to read.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:heading --></p>
-<h2 class="wp-block-heading">Context</h2>
 <p><!-- /wp:heading --></p>
 <p><!-- wp:paragraph --></p>
 <p>I joined the team in 2020 when Rocksmith+ was in pre-launch production and Ubisoft wanted a global release on mobile, PC, and next-gen game consoles (at that time, it was the Playstation 5 and Xbox Series X). Very few people on the UX team had prior experience building a mobile user experiences and responsive UIs and interactions for multiple platforms.</p>
@@ -384,16 +386,16 @@
 <p><!-- wp:image {"id":165,"width":"822px","height":"auto","sizeSlug":"large","linkDestination":"none","align":"center"} --></p>
 <p><!-- /wp:image --></p>
 <p><!-- wp:paragraph --></p>
-<p>The MVP for Rocksmith+ was also built only for PC. My goal was to deliver it on Mobile and Tablets in addition to PC and Console to invite a whole new audience of guitar learners from around the globe.</p>
-<p>I went from these challenges</p>
+<p>The MVP for Rocksmith+ was also built only for PC. My goal was to deliver it on Mobile and Tablets in addition to PC and Consoles (PS5 and Xbox Series X) to invite a whole new audience of guitar learners from around the globe.</p>
+<p>I faced these challenges at the start</p>
 <figure class="post__image post__image--center"><img loading="lazy"  src="https://bramha.work/media/posts/6/Challenge-2.png" alt="" width="900" height="276" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/6/responsive/Challenge-2-xs.png 300w ,https://bramha.work/media/posts/6/responsive/Challenge-2-sm.png 480w ,https://bramha.work/media/posts/6/responsive/Challenge-2-md.png 768w ,https://bramha.work/media/posts/6/responsive/Challenge-2-lg.png 1024w"></figure>
-<p>To these outcomes</p>
+<p>And drove to these outcomes</p>
 <figure class="post__image post__image--center"><img loading="lazy"  src="https://bramha.work/media/posts/6/Outcome.png" alt="" width="900" height="276" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/6/responsive/Outcome-xs.png 300w ,https://bramha.work/media/posts/6/responsive/Outcome-sm.png 480w ,https://bramha.work/media/posts/6/responsive/Outcome-md.png 768w ,https://bramha.work/media/posts/6/responsive/Outcome-lg.png 1024w"></figure>
 <figure class="post__image post__image--center"><img loading="lazy"  src="https://bramha.work/media/posts/6/Outcome-1-2.png" alt="" width="330" height="241" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/6/responsive/Outcome-1-2-xs.png 300w ,https://bramha.work/media/posts/6/responsive/Outcome-1-2-sm.png 480w ,https://bramha.work/media/posts/6/responsive/Outcome-1-2-md.png 768w ,https://bramha.work/media/posts/6/responsive/Outcome-1-2-lg.png 1024w"></figure>
-<p>w</p>
-<p><!-- wp:separator --></p>
-<hr class="wp-block-separator has-alpha-channel-opacity"><!-- /wp:separator -->
+<p> </p>
+<!-- /wp:separator -->
 <p><!-- wp:paragraph --></p>
+<hr>
 <h1>Actions</h1>
 <h3>TLDR</h3>
 <p>Problems analysed through a mixture of quantitiative and qualitative data analysis</p>
@@ -402,9 +404,9 @@
 <li>No parity between PC, consoles, and mobile codebase → everything needed 3 times more effort to simply maintain and accomodate new changes</li>
 <li>Immature team culture around global collaboration and building one codebase for launching on five platforms → no one's fault, just lacked having people accountable for driving</li>
 </ol>
-<p>How I led the team to fix it</p>
+<p>How I fix these problems</p>
 <ol>
-<li>Leading the team by building out core mobile UI and mobile + console interaction frameworks while critical foundational work was being done</li>
+<li>Leading the effort with hands on work to build out, document, and share core mobile UI and mobile + console interaction frameworks while critical foundational work was being done to the engine and PC version by the rest of the team</li>
 <li>Led responsive UI striketeam to build foundational tooling to support 12 screen types (major TVs, monitors, phones, and tablet screens) and 5 platforms (PC, Playstation, Xbox, Apple, Android)</li>
 <li>Leading India &lt;&gt; Japan &lt;&gt; US team workshops for UX design and Technical UI teams to drive a collaborative spirit around multiplatform design</li>
 </ol>
@@ -541,7 +543,7 @@
 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/AvvCJ_hIMjo" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <p><!-- wp:paragraph --></p>
 <hr>
-<p><span style="font-size: inherit;">The original Rocksmith+ experience was also built with only PC in mind, so a lot of the component had to undergo changes to be intuitive for mobile devices.</span></p>
+<p><span style="font-size: inherit;">The original Rocksmith+ experience was also built with only PC in mind, so a lot of the component had to undergo changes to be intuitive for mobile and console UI interactions.</span></p>
 <p>For example, on a PC you would scroll through a carousel by clicking left and right arrows. You would do the same on a game console by using the bumper buttons. But on a touch device, do you remember the last time you clicked a button to scroll? Instead you will see your feed extends beyond the screen, and you simply scroll to access those items outside the screen. The UI is built to lead to and teach these natural behaviours that Rocksmith's prototype version was missing as it was built PC first.</p>
 <p>A large part of my role was making all these small changes to the global design system and its component libraries to improve intuitiveness on mobile, PC, and consoles.</p>
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/6/unnamed-3-3.jpg" alt="" width="900" height="391" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/6/responsive/unnamed-3-3-xs.jpg 300w ,https://bramha.work/media/posts/6/responsive/unnamed-3-3-sm.jpg 480w ,https://bramha.work/media/posts/6/responsive/unnamed-3-3-md.jpg 768w ,https://bramha.work/media/posts/6/responsive/unnamed-3-3-lg.jpg 1024w">
@@ -803,6 +805,7 @@
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>Rest of the team : 3 people  → 1 UI Artist | 1 UI Engineer | 1 Full Stack Engineer </p>
+<p>This case study generally takes 20 minutes to read.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>Guild of Guardians is a hardcore RPG game where users create teams of 5 guardians to duke it out against monsters, enemies, and other players. In the first 7 to 10 days, the users are expected to play the Adventure mode where they explore the story, learn about the characters, and fight some easy monsters to learn about the game. They need to earn gold to strengthen their equipment and collect souls to level up their heroes.</p>
@@ -886,6 +889,7 @@
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>Rest of the team : 3 people  → 1 UI Artist | 1 UI Engineer | 1 Full Stack Engineer </p>
+<p>This case study generally takes 20 minutes to read.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>Guild of Guardians is a hardcore RPG game where users create teams of 5 guardians to duke it out against monsters, enemies, and other players. In the first 7 to 10 days, the users are expected to play the Adventure mode where they explore the story, learn about the characters, and fight some easy monsters to learn about the game. They need to earn gold to strengthen their equipment and collect souls to level up their heroes.</p>
@@ -995,7 +999,7 @@
 <p><!-- wp:paragraph --></p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p>The averages are different and it explains correlation. But how do I know if the problem is with session per day and not with overall ability of the game to delight? If that were true, we would see very low engagement in the first session, but the opposite was true. The game had a healthy D1 retention compared to industry benchmarks which means that it was making an impression, just failing to build habits.</p>
+<p>The averages are different and it explains correlation. But how do I know if the problem is with session per day and not with overall ability of the game to delight? If that were true, we would see very low engagement in the first session - but the opposite was true with a healthy average 25 minutes first session length. The game had a healthy D1 retention compared to industry benchmarks which means that it was making an impression, just failing to build habits.</p>
 <p>This observation helped me craft the hypothesis that something was off in the return to the second session and onwards. The hypothesis was that either there are no more moments of delight from Day 2 onwards or there are too many points of friction. </p>
 <p>While both hypothesis needed to be tested, I opted to personally tackle the second point first as another part of the team had just finished updating animations and VFX which would overally increase the "wow" factor and it would be wise to wait to analyse the impact of those changes.</p>
 <p>Proceeding with the latter part of my hypothesis - in Guild of Guardians, you get gold and other resources for playing. And you can use those resources to get powerful heroes, stronger swords, and sturdier shields to defeat bigger monsters. What's the catch? If you don't login in enough times, you can get as much gold as you're supposed to. So you're weaker, the boss is more difficult because your weapons are weaker. This perfectly aligned with the original observation that users were logging in less than once per daily.</p>
