@@ -3,7 +3,7 @@
     <title>Bramha Dalvi</title>
     <link href="https://bramha.work/feed.xml" rel="self" />
     <link href="https://bramha.work" />
-    <updated>2025-12-23T10:03:01+11:00</updated>
+    <updated>2025-12-23T16:02:49+11:00</updated>
     <author>
         <name>Bramha</name>
     </author>
@@ -1085,12 +1085,28 @@
 <figure><figure class="post__image post__image--center"><img loading="lazy"  src="https://bramha.work/media/posts/4/Frame-23.png" alt="" width="900" height="420" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Frame-23-xs.png 300w ,https://bramha.work/media/posts/4/responsive/Frame-23-sm.png 480w ,https://bramha.work/media/posts/4/responsive/Frame-23-md.png 768w ,https://bramha.work/media/posts/4/responsive/Frame-23-lg.png 1024w"></figure>
 <figcaption>I made this mockup in Figma. This was passed on first to our UI artist to polish and improve visually and then our technical engineers to implement</figcaption>
 </figure>
-<p>We eventually found out in playtests that the chest on the screen did not look like a button and did not look clickable, and in early internal testing players were confused on how to collect rewards. The engineer on my team wanted to change this to a simple button for clarity but the UI artist made a great observation that we will not be able to do complex, eye catching, and delightful animations and VFX's with a button as well as with an image. Some examples of these improvements were that the chest would physically fill up with more coins as it collected rewards.</p>
-<p>With alignment and buy-in from the engineering team that we want to pursue using a custom image, I decided a tutorial for the first visit to this screen was the best solution to teach the player that something which does not look like a button is actually a button. During testing, we also found out this lesson had a 100% memorisation rate, that means all of our participants of the playtest could remember the action 24 hours after the tutorial.</p>
+<p>The original first mockup that we built in the engine for internal prototyping had a button instead of a chest.</p>
+<figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/Frame-20.png" alt="" width="900" height="420" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Frame-20-xs.png 300w ,https://bramha.work/media/posts/4/responsive/Frame-20-sm.png 480w ,https://bramha.work/media/posts/4/responsive/Frame-20-md.png 768w ,https://bramha.work/media/posts/4/responsive/Frame-20-lg.png 1024w">
+<figcaption>A very rough in-engine mockup to get a feel. Originally every interaction in the popup was a button</figcaption>
+</figure>
+<p>While usability score was expected, which is that most users could consistently complete the action and collect their rewards, my team's artist made a great remark that this screen was missing feelings of delight and the joy of unlocking many rewards accumulated in time away from the game. The engineer on my team wanted to keep  the simple button for clarity and to reduce engineering effort, but after conducting competitive analysis we found out that most games in this genres have incredibly high bar of polish and animation for their rewards screen which is usually the "dopamine" factor for these kinds of games.</p>
+<p>With buy-in and alignment from engineering we built a fully fleshed out component that looked like a treasure chest filling up with rewards over time. All credit for this art and polish goes to our Senior UI Artist who pushed and advocated for creative flair in our UI, and I'm really glad I supported them to get this built against some initial internal hesitation.</p>
+<figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/Fullchestloop-ezgif.com-video-to-gif-converter.gif" alt="" width="512" height="512">
+<figcaption>A delightfully full treasure chest in the main menu to make the user feel as if the game has been "productive' in their time away to benefit them</figcaption>
+</figure>
+<figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/Treasurechestpartiallyfull-ezgif.com-video-to-gif-converter.gif" alt="" width="512" height="512">
+<figcaption>The treasure chest starts filling up with rewards</figcaption>
+</figure>
+<figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/FullTreasureChestloop-ezgif.com-video-to-gif-converter.gif" alt="" width="512" height="512">
+<figcaption>....and with time full sup to the brim</figcaption>
+</figure>
+<p>We found out that in playtests that the chest on the screen did not look like a button and did not look clickable, and in early internal testing users were confused on how to collect rewards. While the chest managed to delight users, it lost some aspect of standard usability - consistency with the rest of the UI so the users know what is interactable and what to expect.</p>
+<p>To re-focus and bring some aspects of this interaction back to usability, I decided a tutorial for the first visit to this screen was the best solution to teach the player that something which does not look like a button is actually a button. During internal testing with external team members, we also found out this lesson had a 100% memorisation rate, that means all of our participants of the playtest could remember the action 24 hours after the tutorial.</p>
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/afk-tutorial.png" alt="" width="900" height="420" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/afk-tutorial-xs.png 300w ,https://bramha.work/media/posts/4/responsive/afk-tutorial-sm.png 480w ,https://bramha.work/media/posts/4/responsive/afk-tutorial-md.png 768w ,https://bramha.work/media/posts/4/responsive/afk-tutorial-lg.png 1024w">
 <figcaption>This is the quick and greybox tutorial I mocked up in Figma. This was eventually visually polished and animated by the UI artist before implementation</figcaption>
 </figure>
-<p>To close off the new loop, I added a quit screen that set goals and anticipation to encourage the user to come back.</p>
+<hr>
+<p>To close off the new game loop that I proposed, I added a quit screen that set goals and anticipation to encourage the user to come back.</p>
 <p>I made a very quick animation made in Figma to share the idea within the team. Ending the session on a note of future rewards created a strong reminder to come back and eventually builds habits. </p>
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/figma_e1njfafc8a.gif" alt="" width="900" height="413">
 <figcaption></figcaption>
@@ -1162,12 +1178,13 @@
 <figcaption>The new offer had context and clear value proposition along with an improved presentation. I was confident in it's ability to outperform the old offer</figcaption>
 </figure>
 
-<p>I designed the original user flow for receving the legendary hero and creating a moment of delight. I pushed the design further into mid-high fidelity just by myself to refine before I got help from a senior UI artist to polish it into the final stage</p>
+<p>I designed the original user flow for receving the legendary hero and creating a moment of delight. I pushed the design further into mid-high fidelity just by myself to refine before I got help from a senior UI artist to polish it into the final stage. </p>
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/image-5.png" alt="" width="900" height="174" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/image-5-xs.png 300w ,https://bramha.work/media/posts/4/responsive/image-5-sm.png 480w ,https://bramha.work/media/posts/4/responsive/image-5-md.png 768w ,https://bramha.work/media/posts/4/responsive/image-5-lg.png 1024w">
-<figcaption>Stage 1 - low fidelity wireframes focusing on the exact trigger, the messaging, value proposition, and clear design intent to get the initiative started</figcaption>
+<figcaption>Stage 1 - low fidelity wireframes focusing on the user flow, dialogue trigger, messaging, value proposition, and clear design intent to get the initiative started</figcaption>
 </figure>
+<p>With feedback from some other team members outside our team, everyone on my team eventually aligned that we want to reduce these two screens into one because players were falling into a habit of closing popups and we had to make a shorter, snappier interaction.</p>
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/image-6.png" alt="" width="900" height="253" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/image-6-xs.png 300w ,https://bramha.work/media/posts/4/responsive/image-6-sm.png 480w ,https://bramha.work/media/posts/4/responsive/image-6-md.png 768w ,https://bramha.work/media/posts/4/responsive/image-6-lg.png 1024w">
-<figcaption>Stage 2 - Iteration 2 polished by the UI artist based on my guidelines and direction. I rejected this as the moment of delight felt more like a sales offer from the get go than an additional benefit to a celebration</figcaption>
+<figcaption>Stage 2 - Iteration 2 polished by the UI artist based on my guidelines and direction. I rejected this in an internal review as the moment of delight felt more like a sales offer from the get go than an additional benefit to a celebration</figcaption>
 </figure>
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/image-4.png" alt="" width="900" height="259" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/image-4-xs.png 300w ,https://bramha.work/media/posts/4/responsive/image-4-sm.png 480w ,https://bramha.work/media/posts/4/responsive/image-4-md.png 768w ,https://bramha.work/media/posts/4/responsive/image-4-lg.png 1024w">
 <figcaption>Stage 3 - Iteration 3 polished by the UI artist based on my guidelines and direction. I rejected this as the initial setup did not have any grounding in narrative context which was something we had feedback from players in our Discord who wished for more lore and context around why certain features exist. After all, they don't want to play a video game that could have just been a spreadsheet</figcaption>
@@ -1213,7 +1230,7 @@
 <p><!-- /wp:group --></p>
 <p><!-- wp:paragraph {"align":"center","className":"is-testimonial-review"} --></p>
 <blockquote>
-<p class="has-text-align-center is-testimonial-review">"Data driven design is now a keystone in modern game development and there are few others like Bramha who combine the UX and Game Design know-how with the Data Analysis process &amp; procedure as well as he does. The decisions, features, and projects he stands behind always produce measurable results, drive revenue growth, and increase payer retention."</p>
+<p class="has-text-align-center is-testimonial-review">"Data driven design is now a keystone in modern game development and there are few others like Bramha who combine the UX and Game Design know-how with the Data Analysis process &amp; procedure as well as he does. The decisions, features, and projects he stands behind always produce measurable results, drive revenue growth, and increase player retention."</p>
 </blockquote>
 <p> </p>
 <p><!-- /wp:paragraph --></p>
