@@ -3,7 +3,7 @@
     <title>Bramha Dalvi</title>
     <link href="https://bramha.work/feed.xml" rel="self" />
     <link href="https://bramha.work" />
-    <updated>2025-12-24T12:37:49+11:00</updated>
+    <updated>2025-12-25T07:05:42+11:00</updated>
     <author>
         <name>Bramha</name>
     </author>
@@ -648,6 +648,9 @@
 <figure class="post__image post__image--center"><img loading="lazy"  src="https://bramha.work/media/posts/6/Original-skill-tile.png" alt="" width="256" height="312" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/6/responsive/Original-skill-tile-xs.png 300w ,https://bramha.work/media/posts/6/responsive/Original-skill-tile-sm.png 480w ,https://bramha.work/media/posts/6/responsive/Original-skill-tile-md.png 768w ,https://bramha.work/media/posts/6/responsive/Original-skill-tile-lg.png 1024w"></figure>
 <p class="align-left">Once we streamlined horizontal and vertical scrolling, some action items to refine and polish were noted during playtests. One key item was when users would vertically scroll either using keyboard keys or a controller, the first item of that row's horizontal scroll would be focused by default. Because our UI was similar to Netflix in terms of volume of content, this made it very difficult to visually track the how vertical scroll reset horizontal scroll.</p>
 <p class="align-left">I worked very closely with a Senior Engineer on building a solution for consistent focusing on elements in a two axis interaction - whenever users would vertically scroll, the item closest to the current item in focus would focus. While this was relatively simple in uniform grids with, this was a little tricky in rows with non-uniform content. For this, we used approximation based on how many spots in a horizontal grid an element took.</p>
+<figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/6/R-scroll-ambiguity.png" alt="" width="900" height="489" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/6/responsive/R-scroll-ambiguity-xs.png 300w ,https://bramha.work/media/posts/6/responsive/R-scroll-ambiguity-sm.png 480w ,https://bramha.work/media/posts/6/responsive/R-scroll-ambiguity-md.png 768w ,https://bramha.work/media/posts/6/responsive/R-scroll-ambiguity-lg.png 1024w">
+<figcaption>When you scroll up from here, what item do you expect to focus on?</figcaption>
+</figure>
 <p class="align-left">For example, if you are focused on tile number 3 in row 3, and move to row 4, it's simply focusing on tile number 3 in row 4 as well.</p>
 <figure class="post__image post__image--center"><img loading="lazy"  src="https://bramha.work/media/posts/6/R-Vertical-scroll.gif" alt="" width="900" height="506"></figure>
 <p class="align-left">But when scrolling from point A to point B in the diagram below, it was difficult to know the user intent. So I opted to rather maintain clear visual anchoring such that the item focused would be closest to the current item in focus. </p>
