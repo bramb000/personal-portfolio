@@ -3,7 +3,7 @@
     <title>Bramha Dalvi</title>
     <link href="https://bramha.work/feed.xml" rel="self" />
     <link href="https://bramha.work" />
-    <updated>2025-12-24T10:43:37+11:00</updated>
+    <updated>2025-12-24T12:28:45+11:00</updated>
     <author>
         <name>Bramha</name>
     </author>
@@ -379,12 +379,12 @@
 <p><!-- /wp:heading --></p>
 <p><!-- wp:paragraph --></p>
 <p>I joined the team in 2020 when Rocksmith+ was in pre-launch production and Ubisoft wanted a global release on mobile, PC, and next-gen game consoles (at that time, it was the Playstation 5 and Xbox Series X). Very few people on the UX team had prior experience building a mobile user experiences and responsive UIs and interactions for multiple platforms.</p>
-<figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/6/rocksmith-tv.jpg" alt="" width="900" height="309" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/6/responsive/rocksmith-tv-xs.jpg 300w ,https://bramha.work/media/posts/6/responsive/rocksmith-tv-sm.jpg 480w ,https://bramha.work/media/posts/6/responsive/rocksmith-tv-md.jpg 768w ,https://bramha.work/media/posts/6/responsive/rocksmith-tv-lg.jpg 1024w"></figure>
+<figure class="post__image post__image--center"><figure class="post__image post__image--center"><img loading="lazy"  src="https://bramha.work/media/posts/6/traditional-rocksmith.webp" alt="" width="900" height="338" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/6/responsive/traditional-rocksmith-xs.webp 300w ,https://bramha.work/media/posts/6/responsive/traditional-rocksmith-sm.webp 480w ,https://bramha.work/media/posts/6/responsive/traditional-rocksmith-md.webp 768w ,https://bramha.work/media/posts/6/responsive/traditional-rocksmith-lg.webp 1024w"></figure></figure>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"id":165,"width":"822px","height":"auto","sizeSlug":"large","linkDestination":"none","align":"center"} --></p>
 <p><!-- /wp:image --></p>
 <p><!-- wp:paragraph --></p>
-<p>The MVP for Rocksmith+ was also built only for PC. My goal was to deliver it on Mobile and Tablets in addition to PC and Consoles (PS5 and Xbox Series X) to invite a whole new audience of guitar learners from around the globe.</p>
+<p>The MVP for Rocksmith+ was also built only for PC. My goal was to deliver it on Mobile and Tablets in addition to Consoles (PS5 and Xbox Series X) to invite a whole new audience of guitar learners from around the globe.</p>
 <p>I faced these challenges at the start</p>
 <figure class="post__image post__image--center"><img loading="lazy"  src="https://bramha.work/media/posts/6/Challenge-2.png" alt="" width="900" height="276" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/6/responsive/Challenge-2-xs.png 300w ,https://bramha.work/media/posts/6/responsive/Challenge-2-sm.png 480w ,https://bramha.work/media/posts/6/responsive/Challenge-2-md.png 768w ,https://bramha.work/media/posts/6/responsive/Challenge-2-lg.png 1024w"></figure>
 <p>And drove to these outcomes</p>
@@ -405,7 +405,7 @@
 <p>How I fix these problems</p>
 <ol>
 <li>Leading the effort with hands on work to build out, document, and share core mobile UI and mobile + console interaction frameworks while critical foundational work was being done to the engine and PC version by the rest of the team</li>
-<li>Led responsive UI striketeam to build foundational tooling to support 12 screen types (major TVs, monitors, phones, and tablet screens) and 5 platforms (PC, Playstation, Xbox, Apple, Android)</li>
+<li>Led responsive UI striketeam to build foundational tooling to support 5 screen types (16:9. 16:10, 21:9, 19.5:9, 3:4 and everything in between) and 5 platforms (PC, Playstation, Xbox, Apple, and Android)</li>
 <li>Leading India &lt;&gt; Japan &lt;&gt; US team workshops for UX design and Technical UI teams to drive a collaborative spirit around multiplatform design</li>
 </ol>
 <p>You can see the final solution is a run-time responsive UI that made it easy to support different aspect ratio screen types and platforms without needing to support multiple codebases</p>
@@ -596,6 +596,7 @@
 <p>For example, on PC, there is a UI event called hover which is activated when a cursor enters a region and does not exit the area or make an action like a click for 600 micro seconds. This is mapped to a user hovering on an item to want more information via a tooltip which is common in most software and games. <br>For touch devices, we had an event when a finger was placed on an item, but did not lift it up for 600 micro seconds. This registered as a tap and hold, which was also mapped to wanting more information through a tooltip about the item. In both cases, the help tooltip was created as a hovering element next to the original element so it wasn't obscured by the cursor or the finger.</p>
 <figure class="post__image"><img loading="lazy" src="https://bramha.work/media/posts/6/Input-System.png" alt="" width="900" height="1016" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/6/responsive/Input-System-xs.png 300w ,https://bramha.work/media/posts/6/responsive/Input-System-sm.png 480w ,https://bramha.work/media/posts/6/responsive/Input-System-md.png 768w ,https://bramha.work/media/posts/6/responsive/Input-System-lg.png 1024w">
 <figcaption>How 3 actions consistently lead to the same outcome on any platform</figcaption>
+</figure>
 <p>This ensured that under the hood, the technical interaction system was just as consistent as the outcomes of these interactions for the users which made it easy to maintain and scale the system rapidly as the number of screens and number of instances of a component started increasing exponentially later in development. Maintainability was greatly improved - for example, whenver the team wanted to change the time of hover or tap and hold from 600ms to 300ms for bringing up the tooltip, we would have to make the change in one place instead of maintaining two separate interaction patterns for the same outcome from a user's point of view</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:separator --></p>
@@ -604,9 +605,9 @@
 <p><span style="font-size: inherit;">The original Rocksmith+ experience was also built with only PC in mind, so a lot of the component had to undergo changes to be intuitive for mobile and console UI interactions.</span></p>
 <p>For example, on a PC you would scroll through a carousel by clicking left and right arrows. You would do the same on a game console by using the bumper buttons. But on a touch device, do you remember the last time you clicked a button to scroll? Instead you will see your feed extends beyond the screen, and you simply scroll to access those items outside the screen. The UI is built to lead to and teach these natural behaviours that Rocksmith's prototype version was missing as it was built PC first.</p>
 <p>A large part of my role was making all these small changes to the global design system and its component libraries to improve intuitiveness on mobile, PC, and consoles.</p>
-<figcaption>Touch focused UI rarely has arrows to scroll, usually the extends just a little bit off screen to hint that the item can be scrolled by physically pulling the item onto the screen</figcaption>
-</figure>
-<p><!-- /wp:paragraph --></p>
+<figure class="post__image"><img loading="lazy" src="https://bramha.work/media/posts/6/mobile-componenet-R-2.jpg" alt="" width="128" height="54" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/6/responsive/mobile-componenet-R-2-xs.jpg 300w ,https://bramha.work/media/posts/6/responsive/mobile-componenet-R-2-sm.jpg 480w ,https://bramha.work/media/posts/6/responsive/mobile-componenet-R-2-md.jpg 768w ,https://bramha.work/media/posts/6/responsive/mobile-componenet-R-2-lg.jpg 1024w">
+<figcaption>Touch focused UI rarely has arrows to scroll, usually the extends just a little bit off screen to hint that the item can be scrolled by physically pulling the item onto the screenl</figcaption>
+&lt;/figure?</figure>
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/6/RPCInteractions-ezgif.com-video-to-gif-converter.gif" alt="" width="900" height="506">
 <figcaption>On PC, carousel carets are critical for horizontal scrolling with a mouse that usually only supports vertical scroll</figcaption>
 </figure>
@@ -617,37 +618,37 @@
 <p><!-- /wp:image --></p>
 <p><!-- wp:paragraph --></p>
 <hr>
-<p>Another major issue I tackled was menu navigation for consoles. With a heavy focus on PC for launch and on mobile for mass scale adoption, adhering to interaction quality on consoles was lagging behind.</p>
-<p>For example, the original prototypes included expanders with nested scrolls so hide information. While this is a common design pattern for Desktop where users have a mouse and on mobile where users can touch, on consoles it created a major issue.</p>
+<p class="align-left">Another major issue I tackled was menu navigation for consoles. With a heavy focus on PC for launch and on mobile for mass scale adoption, adhering to interaction quality on consoles was lagging behind.</p>
+<p class="align-left">For example, the original prototypes included expanders with nested scrolls so hide information. While this is a common design pattern for Desktop where users have a mouse and on mobile where users can touch, on consoles it created a major issue.</p>
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/6/Nested-Scroll-4.png" alt="" width="900" height="969" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/6/responsive/Nested-Scroll-4-xs.png 300w ,https://bramha.work/media/posts/6/responsive/Nested-Scroll-4-sm.png 480w ,https://bramha.work/media/posts/6/responsive/Nested-Scroll-4-md.png 768w ,https://bramha.work/media/posts/6/responsive/Nested-Scroll-4-lg.png 1024w">
 <figcaption>This is an example of a nested scroll. There are two scroll bars to denote that the container can be scrolled independent of the root container which can also be scrolled</figcaption>
 </figure>
-<p>When you are on PC or mobile, you can scroll the outer container independent of the inner container by focusing on it with touch or placing your cusror on it. When you want to exit, you can focus on the outer container to scroll to the header of the expander and close it.</p>
-<p>But on consoles, you cannot independently focus on a seperate item, because all directional input is mapped to the item in focus. That means regardless if you use the d-pad or either of the sticks, you can only scroll the expanded container till it is in focus and must scroll all the way up till you can reach the header to close it.</p>
-<p>My first gut reaction was to try mapping one stick input for scrolling the container in focus and have the other stick input fixed to always scrolling the root container.</p>
+<p class="align-left">When you are on PC or mobile, you can scroll the outer container independent of the inner container by focusing on it with touch or placing your cusror on it. When you want to exit, you can focus on the outer container to scroll to the header of the expander and close it.</p>
+<p class="align-left">But on consoles, you cannot independently focus on a seperate item, because all directional input is mapped to the item in focus. That means regardless if you use the d-pad or either of the sticks, you can only scroll the expanded container till it is in focus and must scroll all the way up till you can reach the header to close it.</p>
+<p class="align-left">My first gut reaction was to try mapping one stick input for scrolling the container in focus and have the other stick input fixed to always scrolling the root container.</p>
 <figure class="post__image post__image--center"><img loading="lazy"  src="https://bramha.work/media/posts/6/Nested-Scroll-Solution-trial-1-4.png" alt="" width="900" height="1173" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/6/responsive/Nested-Scroll-Solution-trial-1-4-xs.png 300w ,https://bramha.work/media/posts/6/responsive/Nested-Scroll-Solution-trial-1-4-sm.png 480w ,https://bramha.work/media/posts/6/responsive/Nested-Scroll-Solution-trial-1-4-md.png 768w ,https://bramha.work/media/posts/6/responsive/Nested-Scroll-Solution-trial-1-4-lg.png 1024w"></figure>
-<p>This would allow users to always have a way to escape nested scroll which was a dominant interaction pattern in the product at this point of development. This solution had 2 core problems that came out from playtesting and internal reviews</p>
-<ol>
+<p class="align-left">This would allow users to always have a way to escape nested scroll which was a dominant interaction pattern in the product at this point of development. This solution had 2 core problems that came out from playtesting and internal reviews</p>
+<ol class="align-left">
 <li>This is not a natural pattern in video game menu UIs. There are no mainstream games where you can input 2 UI elements using two different sticks and this was not intuitive to users</li>
 <li>One of our main goal was to let users control the UI with one hand only as the other would probably be holding a guitar. This interaction pattern required 2 hands at times</li>
 </ol>
-<p>For these reasons, this solution was a no-go.</p>
-<p>Going back to the drawing board, I drafted up 2-3 more solutions to discuss with my team. One solution proposed by the technical designers in my team was using a two axis design patterm - the vertical axis for moving between different components and the horizontal axis for accessing information of that component. Over multiple quick iterations in Figma, we quickly landed at a solution with a horizontal scroll system at a container level which unlocked an improved, more user friendly design pattern for console and reused many components from PC/mobile.</p>
-<p>When looking at a song, the "skills" used to be in an expander as they were secondary information for mature users. The original UI had a lot more detail and through organic, time bound development it evolved into an expander. After choosing to move away from design patterns that are unfriendly for consoles, this was the first component to get added to a horizontal scroll.</p>
+<p class="align-left">For these reasons, this solution was a no-go.</p>
+<p class="align-left">Going back to the drawing board, I drafted up 2-3 more solutions to discuss with my team. One solution proposed by the technical designers in my team was using a two axis design patterm - the vertical axis for moving between different components and the horizontal axis for accessing information of that component. Over multiple quick iterations in Figma, we quickly landed at a solution with a horizontal scroll system at a container level which unlocked an improved, more user friendly design pattern for console and reused many components from PC/mobile.</p>
+<p class="align-left">When looking at a song, the "skills" used to be in an expander as they were secondary information for mature users. The original UI had a lot more detail and through organic, time bound development it evolved into an expander. After choosing to move away from design patterns that are unfriendly for consoles, this was the first component to get added to a horizontal scroll.</p>
 <figure class="post__image post__image--center"><img loading="lazy"  src="https://bramha.work/media/posts/6/Skills-Horizontal-Scroll.gif" alt="" width="900" height="506"></figure>
-<p>The tradeoff in this particular situation was that the skills tile was streamlined and lost a lot of detail that was originally available at a single glance. Considering the ease of use for overall navigation, this tradeoff was accepted within the team.</p>
-<p>The original mockup cannot be recovered now so I have recreated a very rough version of what it used to look like from memory to give you an idea of the tradeoff.</p>
+<p class="align-left">The tradeoff in this particular situation was that the skills tile was streamlined and lost a lot of detail that was originally available at a single glance. Considering the ease of use for overall navigation, this tradeoff was accepted within the team.</p>
+<p class="align-left">The original mockup cannot be recovered now so I have recreated a very rough version of what it used to look like from memory to give you an idea of the tradeoff.</p>
 <figure class="post__image post__image--center"><img loading="lazy"  src="https://bramha.work/media/posts/6/Original-skill-tile.png" alt="" width="256" height="312" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/6/responsive/Original-skill-tile-xs.png 300w ,https://bramha.work/media/posts/6/responsive/Original-skill-tile-sm.png 480w ,https://bramha.work/media/posts/6/responsive/Original-skill-tile-md.png 768w ,https://bramha.work/media/posts/6/responsive/Original-skill-tile-lg.png 1024w"></figure>
-<p>Once we streamlined horizontal and vertical scrolling, some action items to refine and polish were noted during playtests. One key item was when users would vertically scroll either using keyboard keys or a controller, the first item of that row's horizontal scroll would be focused by default. Because our UI was similar to Netflix in terms of volume of content, this made it very difficult to visually track the how vertical scroll reset horizontal scroll.</p>
-<p>I worked very closely with a Senior Engineer on building a solution for consistent focusing on elements in a two axis interaction - whenever users would vertically scroll, the item closest to the current item in focus would focus. While this was relatively simple in uniform grids with, this was a little tricky in rows with non-uniform content. For this, we used approximation based on how many spots in a horizontal grid an element took.</p>
-<p>For example, if you are focused on tile number 3 in row 3, and move to row 4, it's simply focusing on tile number 3 in row 4 as well.</p>
+<p class="align-left">Once we streamlined horizontal and vertical scrolling, some action items to refine and polish were noted during playtests. One key item was when users would vertically scroll either using keyboard keys or a controller, the first item of that row's horizontal scroll would be focused by default. Because our UI was similar to Netflix in terms of volume of content, this made it very difficult to visually track the how vertical scroll reset horizontal scroll.</p>
+<p class="align-left">I worked very closely with a Senior Engineer on building a solution for consistent focusing on elements in a two axis interaction - whenever users would vertically scroll, the item closest to the current item in focus would focus. While this was relatively simple in uniform grids with, this was a little tricky in rows with non-uniform content. For this, we used approximation based on how many spots in a horizontal grid an element took.</p>
+<p class="align-left">For example, if you are focused on tile number 3 in row 3, and move to row 4, it's simply focusing on tile number 3 in row 4 as well.</p>
 <figure class="post__image post__image--center"><img loading="lazy"  src="https://bramha.work/media/posts/6/R-Vertical-scroll.gif" alt="" width="900" height="506"></figure>
-<p>But when scrolling from point A to point B in the diagram below, it was difficult to know the user intent. So I opted to rather maintain clear visual anchoring such that the item focused would be closest to the current item in focus. </p>
-<p>If you are focused in tile number 3 on row 2 and move to row 3 with non-uniform items, then the UI will focus on the item closest in presence of tile number 3 in that container by using tile calculation - if the item in focus is 2 items from the left anchor then move to the item closest to 2 items from the left in the next container. This solution was not completely watertight as it would have some edge cases where the horizontal scroll did not adhere to strict grid based placement. But when we specifically asked our playtest moderator to keep an eye on this issue and their report came back with no mentions related to this topic, I opted to take it as "no news is good news".</p>
+<p class="align-left">But when scrolling from point A to point B in the diagram below, it was difficult to know the user intent. So I opted to rather maintain clear visual anchoring such that the item focused would be closest to the current item in focus. </p>
+<p class="align-left">If you are focused in tile number 3 on row 2 and move to row 3 with non-uniform items, then the UI will focus on the item closest in presence of tile number 3 in that container by using tile calculation - if the item in focus is 2 items from the left anchor then move to the item closest to 2 items from the left in the next container. This solution was not completely watertight as it would have some edge cases where the horizontal scroll did not adhere to strict grid based placement. But when we specifically asked our playtest moderator to keep an eye on this issue and their report came back with no mentions related to this topic, I opted to take it as "no news is good news".</p>
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/6/R-vert-scroll-non-uniform.gif" alt="" width="900" height="506">
 <figcaption>When scrolling vertically, the focused element was closest in proximity to the previous element in focus</figcaption>
 </figure>
-<p>This entire interaction pattern was represented by this diagram in our control scheme screen.</p>
+<p class="align-left">This entire interaction pattern was represented by this diagram in our control scheme screen.</p>
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/6/Rocksmith-Screenshot-2025.12.24-07.50.27.43.png" alt="" width="900" height="377" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/6/responsive/Rocksmith-Screenshot-2025.12.24-07.50.27.43-xs.png 300w ,https://bramha.work/media/posts/6/responsive/Rocksmith-Screenshot-2025.12.24-07.50.27.43-sm.png 480w ,https://bramha.work/media/posts/6/responsive/Rocksmith-Screenshot-2025.12.24-07.50.27.43-md.png 768w ,https://bramha.work/media/posts/6/responsive/Rocksmith-Screenshot-2025.12.24-07.50.27.43-lg.png 1024w">
 <figcaption>For consoles</figcaption>
 </figure>
@@ -655,16 +656,16 @@
 <figcaption>For desktop</figcaption>
 </figure>
 <hr>
-<h1>Result</h1>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>Rocksmith+ launched in open beta and swiftly followed a global launch in 2022. The mobile version was able to unlock a completely new market of on-the-go learner who did not have the money, time, or privilege of learning to play the guitar on a computer or a game console. The new and improved accessibility feature set also garnered critical acclaim when Rocksmith+ won the <a href="https://www.gamespress.com/en-US/Winners-of-the-GAconf-Accessibility-Awards-announced">Game's Accessibility Conference's award for Best physical / mobility accessibility</a>.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>But don't take my word about success on mobile, listen to real Rocksmith+ users talk about the mobile version</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:jetpack/layout-grid {"column1DesktopSpan":6,"column1TabletSpan":4,"column1MobileSpan":4,"column2DesktopSpan":6,"column2TabletSpan":4,"column2MobileSpan":4,"className":"column1-desktop-grid__span-6 column1-desktop-grid__row-1 column2-desktop-grid__span-6 column2-desktop-grid__start-7 column2-desktop-grid__row-1 column1-tablet-grid__span-4 column1-tablet-grid__row-1 column2-tablet-grid__span-4 column2-tablet-grid__start-5 column2-tablet-grid__row-1 column1-mobile-grid__span-4 column1-mobile-grid__row-1 column2-mobile-grid__span-4 column2-mobile-grid__row-2"} --></p>
-<div class="wp-block-jetpack-layout-grid column1-desktop-grid__span-6 column1-desktop-grid__row-1 column2-desktop-grid__span-6 column2-desktop-grid__start-7 column2-desktop-grid__row-1 column1-tablet-grid__span-4 column1-tablet-grid__row-1 column2-tablet-grid__span-4 column2-tablet-grid__start-5 column2-tablet-grid__row-1 column1-mobile-grid__span-4 column1-mobile-grid__row-1 column2-mobile-grid__span-4 column2-mobile-grid__row-2">
+<h1 class="align-left">Result</h1>
+<p class="align-left"><!-- /wp:paragraph --></p>
+<p class="align-left"><!-- wp:paragraph --></p>
+<p class="align-left">Rocksmith+ launched in open beta and swiftly followed a global launch in 2022. The mobile version was able to unlock a completely new market of on-the-go learner who did not have the money, time, or privilege of learning to play the guitar on a computer or a game console. The new and improved accessibility feature set also garnered critical acclaim when Rocksmith+ won the <a href="https://www.gamespress.com/en-US/Winners-of-the-GAconf-Accessibility-Awards-announced">Game's Accessibility Conference's award for Best physical / mobility accessibility</a>.</p>
+<p class="align-left"><!-- /wp:paragraph --></p>
+<p class="align-left"><!-- wp:paragraph --></p>
+<p class="align-left">But don't take my word about success on mobile, listen to real Rocksmith+ users talk about the mobile version</p>
+<p class="align-left"><!-- /wp:paragraph --></p>
+<p class="align-left"><!-- wp:jetpack/layout-grid {"column1DesktopSpan":6,"column1TabletSpan":4,"column1MobileSpan":4,"column2DesktopSpan":6,"column2TabletSpan":4,"column2MobileSpan":4,"className":"column1-desktop-grid__span-6 column1-desktop-grid__row-1 column2-desktop-grid__span-6 column2-desktop-grid__start-7 column2-desktop-grid__row-1 column1-tablet-grid__span-4 column1-tablet-grid__row-1 column2-tablet-grid__span-4 column2-tablet-grid__start-5 column2-tablet-grid__row-1 column1-mobile-grid__span-4 column1-mobile-grid__row-1 column2-mobile-grid__span-4 column2-mobile-grid__row-2"} --></p>
+<div class="wp-block-jetpack-layout-grid column1-desktop-grid__span-6 column1-desktop-grid__row-1 column2-desktop-grid__span-6 column2-desktop-grid__start-7 column2-desktop-grid__row-1 column1-tablet-grid__span-4 column1-tablet-grid__row-1 column2-tablet-grid__span-4 column2-tablet-grid__start-5 column2-tablet-grid__row-1 column1-mobile-grid__span-4 column1-mobile-grid__row-1 column2-mobile-grid__span-4 column2-mobile-grid__row-2 align-left">
 <p><!-- wp:jetpack/layout-grid-column --></p>
 <div class="wp-block-jetpack-layout-grid-column wp-block-jetpack-layout-grid__padding-none">
 <p><!-- wp:embed {"url":"https://www.youtube.com/watch?v=YbmlRnlvNv0","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} --></p>
@@ -688,22 +689,22 @@
 </div>
 <p><!-- /wp:jetpack/layout-grid-column --></p>
 </div>
-<p><!-- /wp:jetpack/layout-grid --></p>
-<p><!-- wp:separator --></p>
+<p class="align-left"><!-- /wp:jetpack/layout-grid --></p>
+<p class="align-left"><!-- wp:separator --></p>
 <hr class="wp-block-separator has-alpha-channel-opacity"><!-- /wp:separator -->
-<p><!-- wp:paragraph --></p>
-<h1>Learning</h1>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>Working in a global team based on out San Francisco, Osaka, and Pune, I quickly learnt that project wide impact on accessibility and a multi-device philosophy won't automatically result in a great product simply with my personal contributions. A large part of team alignment came from rooting discussion in user needs and coaching the team what a truly multi device experience means which included numerous coaching and workshop sessions on mobile interactions and games. This was further challenged by language and cultural barriers in the midst of COVID-19 which meant we had to take an approach of overcommunication and actively building interpersonal relationships. While I am extremely proud of the product we put out which helps millions of humans learn guitar at their own pace at an affordable price point, I am even more proud of the team culture we built to be able to put deliver so much innovation that allowed people working on it to grow their careers and improve their skill sets.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:group {"metadata":{"name":"Reviews","categories":["testimonials"],"patternName":"a8c/review-two-column-centered-reviews-x4"},"align":"full","style":{"spacing":{"margin":{"top":"0","bottom":"0"},"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50"},"blockGap":"var:preset|spacing|50"}},"layout":{"type":"constrained","justifyContent":"center","wideSize":"900px"}} --></p>
-<div class="wp-block-group alignfull" style="margin-top: 0; margin-bottom: 0; padding-top: var(--wp--preset--spacing--50); padding-bottom: var(--wp--preset--spacing--50);">
-<p><!-- wp:heading {"textAlign":"center","align":"wide"} --></p>
-<h2 class="wp-block-heading alignwide has-text-align-center">What my colleagues from this project say about me</h2>
-<p> </p>
+<p class="align-left"><!-- wp:paragraph --></p>
+<h1 class="align-left">Learning</h1>
+<p class="align-left"><!-- /wp:paragraph --></p>
+<p class="align-left"><!-- wp:paragraph --></p>
+<p class="align-left">Working in a global team based on out San Francisco, Osaka, and Pune, I quickly learnt that project wide impact on accessibility and a multi-device philosophy won't automatically result in a great product simply with my personal contributions. A large part of team alignment came from rooting discussion in user needs and coaching the team what a truly multi device experience means which included numerous coaching and workshop sessions on mobile interactions and games. This was further challenged by language and cultural barriers in the midst of COVID-19 which meant we had to take an approach of overcommunication and actively building interpersonal relationships. While I am extremely proud of the product we put out which helps millions of humans learn guitar at their own pace at an affordable price point, I am even more proud of the team culture we built to be able to put deliver so much innovation that allowed people working on it to grow their careers and improve their skill sets.</p>
+<p class="align-left"><!-- /wp:paragraph --></p>
+<p class="align-left"><!-- wp:group {"metadata":{"name":"Reviews","categories":["testimonials"],"patternName":"a8c/review-two-column-centered-reviews-x4"},"align":"full","style":{"spacing":{"margin":{"top":"0","bottom":"0"},"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50"},"blockGap":"var:preset|spacing|50"}},"layout":{"type":"constrained","justifyContent":"center","wideSize":"900px"}} --></p>
+<div class="wp-block-group alignfull align-left" style="margin-top: 0; margin-bottom: 0; padding-top: var(--wp--preset--spacing--50); padding-bottom: var(--wp--preset--spacing--50);">
+<p class="align-left"><!-- wp:heading {"textAlign":"center","align":"wide"} --></p>
+<h2 class="wp-block-heading alignwide has-text-align-center align-left">What my colleagues from this project say about me</h2>
+<p class="align-left"> </p>
 <strong><em>Hiroshi Ogawa, Lead UI Engineer, Ubisoft</em></strong><br>
-<div class="wp-block-columns alignwide">
+<div class="wp-block-columns alignwide align-left">
 <div class="wp-block-column" style="padding: var(--wp--preset--spacing--10);">
 <div class="wp-block-group">
 <div class="wp-block-group">
@@ -744,11 +745,11 @@
 </div>
 <p><!-- /wp:column --></p>
 </div>
-<p><!-- /wp:columns --></p>
-<p><!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|50"}}}} --></p>
+<p class="align-left"><!-- /wp:columns --></p>
+<p class="align-left"><!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|50"}}}} --></p>
 <div class="wp-block-columns alignwide">
-<p><!-- wp:column {"style":{"spacing":{"padding":{"top":"var:preset|spacing|10","bottom":"var:preset|spacing|10","left":"var:preset|spacing|10","right":"var:preset|spacing|10"}}}} --></p>
-<div class="wp-block-column" style="padding: var(--wp--preset--spacing--10);">
+<p class="align-left"><!-- wp:column {"style":{"spacing":{"padding":{"top":"var:preset|spacing|10","bottom":"var:preset|spacing|10","left":"var:preset|spacing|10","right":"var:preset|spacing|10"}}}} --></p>
+<div class="wp-block-column align-left" style="padding: var(--wp--preset--spacing--10);">
 <p><!-- wp:group {"layout":{"type":"constrained","contentSize":"380px","justifyContent":"center"}} --></p>
 <div class="wp-block-group">
 <p><!-- wp:group {"style":{"spacing":{"blockGap":"12px"}},"layout":{"type":"constrained"}} --></p>
@@ -769,23 +770,23 @@
 </div>
 <p><!-- /wp:group --></p>
 </div>
-<p><!-- /wp:column --></p>
-<p><!-- wp:column {"style":{"spacing":{"padding":{"top":"var:preset|spacing|10","bottom":"var:preset|spacing|10","left":"var:preset|spacing|10","right":"var:preset|spacing|10"}}}} --></p>
+<p class="align-left"><!-- /wp:column --></p>
+<p class="align-left"><!-- wp:column {"style":{"spacing":{"padding":{"top":"var:preset|spacing|10","bottom":"var:preset|spacing|10","left":"var:preset|spacing|10","right":"var:preset|spacing|10"}}}} --></p>
 <div class="wp-block-column" style="padding: var(--wp--preset--spacing--10);">
-<p><!-- wp:group {"layout":{"type":"constrained","contentSize":"380px","justifyContent":"center"}} --></p>
+<p class="align-left"><!-- wp:group {"layout":{"type":"constrained","contentSize":"380px","justifyContent":"center"}} --></p>
 <div class="wp-block-group">
-<p><!-- wp:group {"style":{"spacing":{"blockGap":"12px"}},"layout":{"type":"constrained"}} --></p>
-<div class="wp-block-group">
+<p class="align-left"><!-- wp:group {"style":{"spacing":{"blockGap":"12px"}},"layout":{"type":"constrained"}} --></p>
+<div class="wp-block-group align-left">
 <p><!-- wp:image {"lightbox":{"enabled":false},"id":157,"width":"60px","aspectRatio":"1","scale":"cover","sizeSlug":"full","linkDestination":"custom","align":"center","style":{"border":{"radius":"100px"}}} --></p>
 <p><!-- /wp:image --></p>
 <p><!-- wp:heading {"textAlign":"center","level":3,"className":"is-testimonial-name","style":{"typography":{"lineHeight":"1"}},"fontSize":"small"} --></p>
 <p class="wp-block-heading has-text-align-center is-testimonial-name has-small-font-size" style="line-height: 1;"><strong><em>Utkarsh Bagade, Senior Engineer, Ubisoft</em></strong></p>
 <p><!-- /wp:heading --></p>
 </div>
-<p><!-- /wp:group --></p>
-<p><!-- wp:paragraph {"align":"center","className":"is-testimonial-review"} --></p>
+<p class="align-left"><!-- /wp:group --></p>
+<p class="align-left"><!-- wp:paragraph {"align":"center","className":"is-testimonial-review"} --></p>
 <blockquote>
-<p class="has-text-align-center is-testimonial-review">"Bramha's approach to designing complex game systems always put UX at the highest priority. I’m very impressed by his ability to understand the tech (tools and engine) and designing features that take advantage of the current frameworks and help improve them."</p>
+<p class="has-text-align-center is-testimonial-review align-left">"Bramha's approach to designing complex game systems always put UX at the highest priority. I’m very impressed by his ability to understand the tech (tools and engine) and designing features that take advantage of the current frameworks and help improve them."</p>
 </blockquote>
 <p> </p>
 <p><!-- /wp:paragraph --></p>
