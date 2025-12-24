@@ -3,7 +3,7 @@
     <title>Bramha Dalvi</title>
     <link href="https://bramha.work/feed.xml" rel="self" />
     <link href="https://bramha.work" />
-    <updated>2025-12-24T12:32:58+11:00</updated>
+    <updated>2025-12-24T12:37:49+11:00</updated>
     <author>
         <name>Bramha</name>
     </author>
@@ -369,7 +369,7 @@
                 <p><!-- wp:paragraph --></p>
 <h2 class="wp-block-heading">Context</h2>
 <p> </p>
-<p>My Role : UX/UI Designer (feature owner for responsive UI and unified interaction system)</p>
+<p>My Role : UX/UI Designer (feature owner for responsive UI and unified interaction system for PC, mobile, and consoles)</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>Rest of the team : Not fixed but roughly main 6 people → 2 UX Designers | 2 UI Artists | 4 UI Engineers</p>
@@ -379,7 +379,9 @@
 <p><!-- /wp:heading --></p>
 <p><!-- wp:paragraph --></p>
 <p>I joined the team in 2020 when Rocksmith+ was in pre-launch production and Ubisoft wanted a global release on mobile, PC, and next-gen game consoles (at that time, it was the Playstation 5 and Xbox Series X). Very few people on the UX team had prior experience building a mobile user experiences and responsive UIs and interactions for multiple platforms.</p>
-<figure class="post__image post__image--center"><figure class="post__image post__image--center"><img loading="lazy"  src="https://bramha.work/media/posts/6/traditional-rocksmith.webp" alt="" width="900" height="338" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/6/responsive/traditional-rocksmith-xs.webp 300w ,https://bramha.work/media/posts/6/responsive/traditional-rocksmith-sm.webp 480w ,https://bramha.work/media/posts/6/responsive/traditional-rocksmith-md.webp 768w ,https://bramha.work/media/posts/6/responsive/traditional-rocksmith-lg.webp 1024w"></figure></figure>
+<figure class="post__image"><img loading="lazy" src="https://bramha.work/media/posts/6/traditional-rocksmith.webp" alt="" width="900" height="338" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/6/responsive/traditional-rocksmith-xs.webp 300w ,https://bramha.work/media/posts/6/responsive/traditional-rocksmith-sm.webp 480w ,https://bramha.work/media/posts/6/responsive/traditional-rocksmith-md.webp 768w ,https://bramha.work/media/posts/6/responsive/traditional-rocksmith-lg.webp 1024w">
+<figcaption>The traditional Rocksmith experience was always on a big screen</figcaption>
+</figure>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"id":165,"width":"822px","height":"auto","sizeSlug":"large","linkDestination":"none","align":"center"} --></p>
 <p><!-- /wp:image --></p>
@@ -402,9 +404,9 @@
 <li>No parity between PC, consoles, and mobile codebase → everything needed 3 times more effort to simply maintain and accomodate new changes</li>
 <li>Immature team culture around global collaboration and building one codebase for launching on five platforms → no one's fault, just lacked having people accountable for driving</li>
 </ol>
-<p>How I fix these problems</p>
+<p>How I fixed these problems</p>
 <ol>
-<li>Leading the effort with hands on work to build out, document, and share core mobile UI and mobile + console interaction frameworks while critical foundational work was being done to the engine and PC version by the rest of the team</li>
+<li>Leading the effort with hands-on work to design, document, and share core mobile UI and mobile + console interaction frameworks while critical foundational work was being done to the engine and PC version by the rest of the team</li>
 <li>Led responsive UI striketeam to build foundational tooling to support 5 screen types (16:9. 16:10, 21:9, 19.5:9, 3:4 and everything in between) and 5 platforms (PC, Playstation, Xbox, Apple, and Android)</li>
 <li>Leading India &lt;&gt; Japan &lt;&gt; US team workshops for UX design and Technical UI teams to drive a collaborative spirit around multiplatform design</li>
 </ol>
@@ -414,6 +416,11 @@
 </figure>
 <figure>You can see how the UI reacts in real time to system changes in screen configuration with different aspect ratios, and the entire layout remains intact</figure>
 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/AvvCJ_hIMjo" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+<p>You can see the input diagrams in the Rocksmith+ settings screen to get a high level view of the final interaction design system, but many nitty gritty details are included in the body of this case study.</p>
+<div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="2">
+<figure class="gallery__item"><a href="https://bramha.work/media/posts/6/gallery/Rocksmith-Screenshot-2025.12.24-07.50.27.43.png" data-size="3440x1440"><img loading="lazy" src="https://bramha.work/media/posts/6/gallery/Rocksmith-Screenshot-2025.12.24-07.50.27.43-thumbnail.png" alt="" width="768" height="321"></a></figure>
+<figure class="gallery__item"><a href="https://bramha.work/media/posts/6/gallery/Rocksmith-Screenshot-2025.12.24-09.01.25.06.png" data-size="3440x1440"><img loading="lazy" src="https://bramha.work/media/posts/6/gallery/Rocksmith-Screenshot-2025.12.24-09.01.25.06-thumbnail.png" alt="" width="768" height="321"></a></figure>
+</div></div>
 <hr>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
@@ -605,9 +612,9 @@
 <p><span style="font-size: inherit;">The original Rocksmith+ experience was also built with only PC in mind, so a lot of the component had to undergo changes to be intuitive for mobile and console UI interactions.</span></p>
 <p>For example, on a PC you would scroll through a carousel by clicking left and right arrows. You would do the same on a game console by using the bumper buttons. But on a touch device, do you remember the last time you clicked a button to scroll? Instead you will see your feed extends beyond the screen, and you simply scroll to access those items outside the screen. The UI is built to lead to and teach these natural behaviours that Rocksmith's prototype version was missing as it was built PC first.</p>
 <p>A large part of my role was making all these small changes to the global design system and its component libraries to improve intuitiveness on mobile, PC, and consoles.</p>
-<figure class="post__image"><img loading="lazy" src="https://bramha.work/media/posts/6/mobile-componenet-R-2.jpg" alt="" width="128" height="54" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/6/responsive/mobile-componenet-R-2-xs.jpg 300w ,https://bramha.work/media/posts/6/responsive/mobile-componenet-R-2-sm.jpg 480w ,https://bramha.work/media/posts/6/responsive/mobile-componenet-R-2-md.jpg 768w ,https://bramha.work/media/posts/6/responsive/mobile-componenet-R-2-lg.jpg 1024w">
+<figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/6/mobile-componenet-R-2.jpg" alt="" width="900" height="380" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/6/responsive/mobile-componenet-R-2-xs.jpg 300w ,https://bramha.work/media/posts/6/responsive/mobile-componenet-R-2-sm.jpg 480w ,https://bramha.work/media/posts/6/responsive/mobile-componenet-R-2-md.jpg 768w ,https://bramha.work/media/posts/6/responsive/mobile-componenet-R-2-lg.jpg 1024w">
 <figcaption>Touch focused UI rarely has arrows to scroll, usually the extends just a little bit off screen to hint that the item can be scrolled by physically pulling the item onto the screenl</figcaption>
-&lt;/figure?</figure>
+</figure>
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/6/RPCInteractions-ezgif.com-video-to-gif-converter.gif" alt="" width="900" height="506">
 <figcaption>On PC, carousel carets are critical for horizontal scrolling with a mouse that usually only supports vertical scroll</figcaption>
 </figure>
