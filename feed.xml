@@ -3,7 +3,7 @@
     <title>Bramha Dalvi</title>
     <link href="https://bramha.work/feed.xml" rel="self" />
     <link href="https://bramha.work" />
-    <updated>2025-12-26T07:10:26+11:00</updated>
+    <updated>2025-12-26T07:12:14+11:00</updated>
     <author>
         <name>Bramha</name>
     </author>
@@ -1474,8 +1474,7 @@
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/Retention-growth.png" alt="" width="900" height="552" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Retention-growth-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/Retention-growth-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/Retention-growth-md.webp 768w ,https://bramha.work/media/posts/4/responsive/Retention-growth-lg.webp 1024w">
 <figcaption>This is a mocked visualisation of an approximation of real data as the real data is proprietary</figcaption>
 </figure>
-<p>To create a clearer narrative, I ran multiple linear and logistic regressions models to keep track of how engaging with the features we are building correlated to our goals of increasing D7 retention and to make sure our data assumptions held true.</p>
-<p>Over the course of development we collectively found out, unsurpisingly, that impact on D7 retentionfollowed an 80/20 principle i.e major impact came from the earliest, biggest changes (such as building up the away from keyboard idle rewards and readjusting some of the milestones and rewards) and the marginal gains of impact from later, smaller changes became smaller and smaller.</p>
+<p>Over the course of development we collectively found out, unsurpisingly, that impact on D7 retention followed an 80/20 principle i.e major impact came from the earliest, biggest changes (such as building up the away from keyboard idle rewards and readjusting some of the milestones and rewards) and the marginal gains of impact from later, smaller changes became smaller and smaller.</p>
 <p>At that point, it made sense for me to propose to our Executive Producer to dissolve the "D7 Retention" strike team and reallocate people to other features in development.</p>
 <p>Additionally, using free content to grab the players attention followed by a surgically placed in-app offer with very clear messaging and value proposition increased our D7 LTV (money made from a player within their first 7 days from creating an account) by over 12%! Even though this was not our goal, this was a double win for the team.</p>
 <figure class="post__image post__image--center"><img loading="lazy"  src="https://bramha.work/media/posts/4/Outcome-2-2.png" alt="" width="900" height="276" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Outcome-2-2-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/Outcome-2-2-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/Outcome-2-2-md.webp 768w ,https://bramha.work/media/posts/4/responsive/Outcome-2-2-lg.webp 1024w"></figure>
