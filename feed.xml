@@ -3,7 +3,7 @@
     <title>Bramha Dalvi</title>
     <link href="https://bramha.work/feed.xml" rel="self" />
     <link href="https://bramha.work" />
-    <updated>2025-12-26T06:48:05+11:00</updated>
+    <updated>2025-12-26T07:10:26+11:00</updated>
     <author>
         <name>Bramha</name>
     </author>
@@ -1446,16 +1446,18 @@
 <figcaption>The new offer had context and clear value proposition along with an improved presentation. I was confident in it's ability to outperform the old offer</figcaption>
 </figure>
 
-<p>I designed the original user flow for receving the legendary hero and creating a moment of delight. I pushed the design further into mid-high fidelity just by myself to refine before I got help from a senior UI artist to polish it into the final stage. </p>
+<p>This block will go through the iterations. I designed the original user flow for receving the legendary hero and creating a moment of delight. I pushed the design further into mid-high fidelity just by myself to refine before I got help from a senior UI artist to polish it into the final stage. </p>
+<p>Stage 1 - low fidelity wireframes focusing on the user flow, dialogue trigger, messaging, value proposition, and clear design intent to get the initiative started</p>
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/image-5.png" alt="" width="900" height="174" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/image-5-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/image-5-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/image-5-md.webp 768w ,https://bramha.work/media/posts/4/responsive/image-5-lg.webp 1024w">
-<figcaption>Stage 1 - low fidelity wireframes focusing on the user flow, dialogue trigger, messaging, value proposition, and clear design intent to get the initiative started</figcaption>
+<figcaption></figcaption>
 </figure>
 <p>With feedback from some other team members outside our team, everyone on my team eventually aligned that we want to reduce these two screens into one because players were falling into a habit of closing popups and we had to make a shorter, snappier interaction.</p>
-<figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/image-6.png" alt="" width="900" height="253" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/image-6-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/image-6-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/image-6-md.webp 768w ,https://bramha.work/media/posts/4/responsive/image-6-lg.webp 1024w">
-<figcaption>Stage 2 - Iteration 2 polished by the UI artist based on my guidelines and direction. I rejected this in an internal review as the moment of delight felt more like a sales offer from the get go than an additional benefit to a celebration</figcaption>
-</figure>
+<p>Stage 2 - Iteration 2 polished by the UI artist based on my guidelines and direction. I rejected this in an internal review as the moment of delight felt more like a sales offer from the get go than an additional benefit to a celebration</p>
+<figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/image-6.png" alt="" width="900" height="253" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/image-6-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/image-6-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/image-6-md.webp 768w ,https://bramha.work/media/posts/4/responsive/image-6-lg.webp 1024w"></figure>
+<p>Stage 3 - Iteration 3 polished by the UI artist based on my feedback. We A/B tested this with 10% of our incoming new players as a 5% and 5% split, and it performed better than the existing offer. But I pushedht the team to improve it from the stage 3 version as it not have any grounding in narrative context which was something we had feedback from late game players in our Discord who wished for more lore and context around why certain features exist. After all, they don't want to play a video game that could have just been a spreadsheet. So I really wanted to get started to lace all in-game events with some narrative explanation to get our new players used to the fact that this is a rich and varied world.</p>
+<p>We A/B tested the Stage 3 vs the final version in a similar setup and the final version outperformed this one by 4% on claiming the free hero and by over 10% on purchasing the offer!</p>
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/image-4.png" alt="" width="900" height="259" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/image-4-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/image-4-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/image-4-md.webp 768w ,https://bramha.work/media/posts/4/responsive/image-4-lg.webp 1024w">
-<figcaption>Stage 3 - Iteration 3 polished by the UI artist based on my guidelines and direction. I rejected this as the initial setup did not have any grounding in narrative context which was something we had feedback from players in our Discord who wished for more lore and context around why certain features exist. After all, they don't want to play a video game that could have just been a spreadsheet</figcaption>
+<figcaption></figcaption>
 </figure>
 <hr>
 <h1>Result</h1>
