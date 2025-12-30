@@ -3,7 +3,7 @@
     <title>Bramha Dalvi</title>
     <link href="https://bramha.work/feed.xml" rel="self" />
     <link href="https://bramha.work" />
-    <updated>2025-12-30T09:05:51+11:00</updated>
+    <updated>2025-12-31T09:19:54+11:00</updated>
     <author>
         <name>Bramha</name>
     </author>
@@ -654,7 +654,7 @@
 </figure>
 <p class="align-left">For example, if you are focused on tile number 3 in row 3, and move to row 4, it's simply focusing on tile number 3 in row 4 as well.</p>
 <figure class="post__image post__image--center"><img loading="lazy"  src="https://bramha.work/media/posts/6/R-Vertical-scroll.gif" alt="" width="900" height="506"></figure>
-<p class="align-left">But when scrolling from point A to point B in the diagram below, it was difficult to know the user intent. So I opted to rather maintain clear visual anchoring such that the item focused would be closest to the current item in focus. </p>
+<p class="align-left">But when scrolling from point A to point B in an irregular grid, it was difficult to predict the user intent. So I opted to rather maintain clear visual anchoring such that the item focused would be closest to the current item in focus. </p>
 <p class="align-left">If you are focused in tile number 3 on row 2 and move to row 3 with non-uniform items, then the UI will focus on the item closest in presence of tile number 3 in that container by using tile calculation - if the item in focus is 2 items from the left anchor then move to the item closest to 2 items from the left in the next container. <strong>This solution was not completely watertight</strong> as it would have some edge cases where the horizontal scroll did not adhere to strict grid based placement. But when we specifically asked our <strong>playtest moderator to keep an eye</strong> on this issue and <strong>their report came back with no mentions</strong> related to this topic, I opted to take it as "no news is good news".</p>
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/6/R-vert-scroll-non-uniform.gif" alt="" width="900" height="506">
 <figcaption>When scrolling vertically, the focused element was closest in proximity to the previous element in focus</figcaption>
