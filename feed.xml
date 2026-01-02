@@ -3,7 +3,7 @@
     <title>Bramha Dalvi</title>
     <link href="https://bramha.work/feed.xml" rel="self" />
     <link href="https://bramha.work" />
-    <updated>2026-01-02T10:45:31+11:00</updated>
+    <updated>2026-01-02T11:22:45+11:00</updated>
     <author>
         <name>Bramha</name>
     </author>
@@ -860,7 +860,7 @@
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>We had a problem, our D7 retention, the percent of players still continuing to play by the 7th day since they installed, was low. Which means we lost players who we spend lots of money to acquire which reduced the efficiency of our marketing budget.</p>
-<p>On top of this, we did not have a dedicated data analyst to help us figure out what is happening to guide user research to figure out why it may be happening.</p>
+<p>On top of this, we did not have a dedicated data analyst and user researcher to help us figure out what is happening to guide user research to figure out why it may be happening.</p>
 <p>I drove the project starting from these challenges</p>
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/Challenge-Graphic-1.png" alt="" width="900" height="276" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Challenge-Graphic-1-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/Challenge-Graphic-1-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/Challenge-Graphic-1-md.webp 768w ,https://bramha.work/media/posts/4/responsive/Challenge-Graphic-1-lg.webp 1024w">
 <figcaption></figcaption>
@@ -964,12 +964,11 @@
 <p><!-- wp:paragraph --></p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p>The averages are different and it explains correlation. But <strong>how do I know if the problem is with session per day and not with overall ability of the game to delight? If that were true, we would see very low engagement in the first session</strong> - but the opposite was true with a healthy average 25 minutes first session length. The game had a healthy D1 retention compared to industry benchmarks which means that it was making an impression, just <strong>failing to build habits</strong>.</p>
-<p>This observation <strong>helped me craft the hypothesis that players were not encouraged to return back regularly after their first session.</strong></p>
-<p>Proceeding with the hypothesis - in Guild of Guardians, you get gold and other resources for playing. And you can use those resources to get powerful heroes, stronger swords, and sturdier shields to defeat bigger monsters. What's the catch? <strong>If you don't login in enough times</strong>, you can get as much gold as you're supposed to. So <strong>you're weaker</strong>, the boss is more difficult because your weapons are weaker. This perfectly <strong>aligned with the original observation that users were logging in less than once per daily were failing to defeat specific bosses and dungeons</strong>.</p>
+<p>The averages are different and it explains correlation. But <strong>how do I know if the problem is with session per day and not with overall ability of the game to delight? If that were true, we would see very low engagement in the first session</strong> - but the opposite was true with a healthy average 25 minutes first session length. The game had a healthy D1 retention compared to industry benchmarks which means that it was making an impression, just <strong>failing to hook players into coming back and forming habits</strong>.</p>
+<p>Proceeding with this investigation - in Guild of Guardians, you get gold and other resources for playing. And you can use those resources to get powerful heroes, stronger swords, and sturdier shields to defeat bigger monsters. What's the catch? <strong>If you don't login in enough times</strong>, you can get as much gold as you're supposed to. So <strong>you're weaker</strong>, the boss is more difficult because your weapons are weaker. This perfectly <strong>aligned with the original observation that users were logging in less than once per daily were failing to defeat specific bosses and dungeons</strong>.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p>To make certain that I was chasing the correct lead, I asked the community manager for permission and pasted the following question in Discord</p>
+<p>To make certain that I was chasing the correct lead, I asked the players in our Discord for feedback with a survey</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"id":87,"sizeSlug":"full","linkDestination":"none","align":"center"} --></p>
 <figure class="wp-block-image aligncenter size-full wp-image-87 post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/Discord-Question.png" alt="" width="900" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Discord-Question-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/Discord-Question-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/Discord-Question-md.webp 768w ,https://bramha.work/media/posts/4/responsive/Discord-Question-lg.webp 1024w"></figure>
@@ -984,7 +983,8 @@
 <figure class="wp-block-image aligncenter size-full is-resized wp-image-90 post__image post__image--center"><img loading="lazy" style="width: 900px; height: auto;" src="https://bramha.work/media/posts/4/Discord-Responses.png" alt="" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Discord-Responses-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/Discord-Responses-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/Discord-Responses-md.webp 768w ,https://bramha.work/media/posts/4/responsive/Discord-Responses-lg.webp 1024w"></figure>
 <p><!-- /wp:image --></p>
 <p><!-- wp:paragraph --></p>
-<p>There was a question about how the game fits in people's lifestyle. Due to consent reasons I cannot post answers, but interestingly the some recurring themes were</p>
+<p><span style="text-decoration: underline;"><strong>Problem 1</strong></span></p>
+<p><strong>There was a question about how the game fits in people's lifestyle</strong></p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:list {"ordered":true} --></p>
 <ol class="wp-block-list">
@@ -996,27 +996,43 @@
 </ol>
 </li>
 </ol>
+<p>In the previous system, users needed to spend 1 energy to defeat monsters and automatically get gold. Given how we designed the product, a user had to login 3 times a day to get the most rewards. We just saw with data and opinions that such a cadence does not fit in the lifestyle of most of our players. And if they did not login 3 times a day, they will never get strong enough to win in later stages.</p>
 <p><!-- /wp:list-item --></p>
 <p><!-- /wp:list --></p>
 <p><!-- wp:paragraph --></p>
-<p><strong>This meant that users have a busy lifestyle and the game had to adjust to that instead of vice versa. Changing their behaviour to do what we wanted was going to be futile</strong>. Additionally, survivor bias had to be eliminated as people who churned did not answer these surveys, so a buffer was added to not overestimate how much users claimed to engage.</p>
+<p>This meant that users have a busy lifestyle and played the game only once, sometimes twice in a single day. <strong>Our previous system opposed user lifestyle needs.</strong></p>
+<p><span style="text-decoration: underline;"><strong>Problem 2</strong></span></p>
+<p><strong>Some of the quotes from the survey about "how punishing does the game's daily schedule feel" were quite revealing</strong></p>
+<ol>
+<li>"I feel the game punishes me for having a job, I usually play for an after work but this game punishes me for not playing 30 dedicated minutes twice or thrice in a day"</li>
+<li>"I spend 20-40 minutes to get to the good stuff and then just as I get to the juicy part the game tells me that I am out of energy"</li>
+<li>"I use my lunch break to do all the boring quest stuff so I can actually play the fun parts of the game later in the evening"</li>
+</ol>
+<p><strong>Our game's energy system was practically interrupting users from getting into the flow state</strong> just as they were about to start enjoying their session.</p>
 <p><strong>This helped me craft a clear persona that we were designing for - The Casual Connoisseur. They are characterised by someone who spend thousand of hours in a game, but will play casually at the start as a trial it before commiting.</strong> </p>
-<figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/Persona.png" alt="" width="900" height="480" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Persona-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/Persona-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/Persona-md.webp 768w ,https://bramha.work/media/posts/4/responsive/Persona-lg.webp 1024w">
-<figcaption>Caption</figcaption>
-</figure>
+<p><span style="text-decoration: underline;"><strong>Problem 3</strong></span></p>
+<p><strong>A few responses to the question "do you have schedule game time?" revealed some key insights.</strong></p>
+<ol>
+<li>"I usually forget about the game till the notification reminds me that I have energy"</li>
+<li>"It's really just waiting till I get energy"</li>
+<li>"I want to play as soon as my energy is full but I can't since I'm at work which raises my anxiety about my progress"</li>
+</ol>
+<p><strong>The mismatch in the energy system and user lifestyle was creating negative feelings, and driving anticaption from loss rather than positive anticipation from expectation.</strong></p>
+<p><strong>All of these anecdotes higlighted that the original system did not take the user into consideration and was designed in a way to maximise vanity metrics like sessions per day and number of logins. Without considering the user, it not only failed but was actively harmful to important business goals like long term retention.</strong></p>
+<p>The data from the survey allowed me to visualise our users with a persona with clearly identifiable behaviours.</p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://bramha.work/media/posts/4/Persona-3.png" alt="" width="900" height="480" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Persona-3-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/Persona-3-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/Persona-3-md.webp 768w ,https://bramha.work/media/posts/4/responsive/Persona-3-lg.webp 1024w"></figure>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>The hypothesis</p>
+<ol>
+<li>The average user will play more if the game progression fit their lifestyle needs</li>
+<li>The game will hook users for the long term if we shift from negative feelings of loss aversion to positive anticipation for the next session</li>
+</ol>
 <hr>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<h3>Solution</h3>
-<p>At the current state of the game, you needed to spend 1 energy to defeat monsters and automatically get gold. Given how we designed the product, a user had to login 3 times a day to get the most rewards. We just saw with data and opinions that such a cadence does not fit in the lifestyle of most of our players. And if they did not login 3 times a day, they will never get strong enough to win in later stages.</p>
-<p>This was pretty simple to solve by adjusting the requirement to needing to login 2 times a day, an industry standard for this genre of games.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>The bigger challenge was that we had to do two things, build habits, and build them within a busy lifestyle.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
 <p><strong>In the original flow, users had to come back to take an action and be rewarded. This did not generate any anticipation excitement at the end of your previous session</strong> for you to not forget this game and want to come back after the first few times.</p>
 <figure class="wp-block-image size-full wp-image-108 post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/storyboard-for-setting-up-next-session.jpg" alt="" width="900" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/storyboard-for-setting-up-next-session-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/storyboard-for-setting-up-next-session-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/storyboard-for-setting-up-next-session-md.webp 768w ,https://bramha.work/media/posts/4/responsive/storyboard-for-setting-up-next-session-lg.webp 1024w"></figure>
 <p>Additionally, <strong>it was important to end a game session on a high note and make the player look forward to playing the next time</strong> as opposed to making them stop playing and forcing them away. So I redesigned the game loop and subsequently the user flow to start session on a happy note and end sessions on moments on anticipation for future rewards.</p>
@@ -1034,7 +1050,14 @@
 </figure>
 <p><!-- /wp:image --></p>
 <p><!-- wp:paragraph --></p>
-<p><strong>My proposal to the team was to reposition the current energy system into an AFK (away from keyboard)</strong> reward system that collects resources while the user is away from the game. This means that when they are ready to leave the game, we can <strong>seed the anticipation by telling users that they will have rewards waiting for them</strong>. And when they come back, the new session will begin with a moment of delight. After a workshop sessions to let everyone have input and provide feedback and a technical review, we aligned on the specific version of our feature.</p>
+<p>After proposing this analysis and hypothesis, the initial ideas involved a daily login calendar which is industry standard. Instead of going straight to designing an MVP, I asked players via another survey on their thoughts about login calendars in other games.</p>
+<ol>
+<li>"I usually collect rewards on autopilot and forget about them"</li>
+<li>"They are annoying and bombard me as soon as I open the game"</li>
+<li>"They're pretty good but I don't open the game because of a daily reward"</li>
+</ol>
+<p>It was clear that while this type of a feature contributes to long term user retention, it does not drive it. It was clear that changes had to be made to the core progression and reward system to move the needle sizeably.</p>
+<p><strong>My proposal to the team was to reposition the current energy system into an AFK (away from keyboard)</strong> reward system that collects resources while the user is away from the game. This means that when they are ready to leave the game, we can <strong>seed the anticipation by telling users that they will have rewards waiting for them to turn negative loss aversion into positive anticipation</strong>. And when they come back, the new session will begin with a moment of delight. After a workshop sessions to let everyone have input and provide feedback and a technical review, we aligned on the specific version of our feature.</p>
 <p>After <strong>the team agreed on the new user flow and the end goal of this design</strong>, I had to create 3 new UI components - A button on the main menu for this new feature, a screen for the new feature, and the tutorial for the new feature.</p>
 <p><strong>I set out to mock up the new user flow with a combinations of existing and new screens in Figma to be able to map out how much new UI work was needed.</strong></p>
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/Figma-User-Flow-Rough.png" alt="" width="900" height="434" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Figma-User-Flow-Rough-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/Figma-User-Flow-Rough-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/Figma-User-Flow-Rough-md.webp 768w ,https://bramha.work/media/posts/4/responsive/Figma-User-Flow-Rough-lg.webp 1024w">
@@ -1176,7 +1199,7 @@
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>We had a problem, our D7 retention, the percent of players still continuing to play by the 7th day since they installed, was low. Which means we lost players who we spend lots of money to acquire which reduced the efficiency of our marketing budget.</p>
-<p>On top of this, we did not have a dedicated data analyst to help us figure out what is happening to guide user research to figure out why it may be happening.</p>
+<p>On top of this, we did not have a dedicated data analyst and user researcher to help us figure out what is happening to guide user research to figure out why it may be happening.</p>
 <p>I drove the project starting from these challenges</p>
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/Challenge-Graphic-1.png" alt="" width="900" height="276" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Challenge-Graphic-1-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/Challenge-Graphic-1-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/Challenge-Graphic-1-md.webp 768w ,https://bramha.work/media/posts/4/responsive/Challenge-Graphic-1-lg.webp 1024w">
 <figcaption></figcaption>
@@ -1280,12 +1303,11 @@
 <p><!-- wp:paragraph --></p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p>The averages are different and it explains correlation. But <strong>how do I know if the problem is with session per day and not with overall ability of the game to delight? If that were true, we would see very low engagement in the first session</strong> - but the opposite was true with a healthy average 25 minutes first session length. The game had a healthy D1 retention compared to industry benchmarks which means that it was making an impression, just <strong>failing to build habits</strong>.</p>
-<p>This observation <strong>helped me craft the hypothesis that players were not encouraged to return back regularly after their first session.</strong></p>
-<p>Proceeding with the hypothesis - in Guild of Guardians, you get gold and other resources for playing. And you can use those resources to get powerful heroes, stronger swords, and sturdier shields to defeat bigger monsters. What's the catch? <strong>If you don't login in enough times</strong>, you can get as much gold as you're supposed to. So <strong>you're weaker</strong>, the boss is more difficult because your weapons are weaker. This perfectly <strong>aligned with the original observation that users were logging in less than once per daily were failing to defeat specific bosses and dungeons</strong>.</p>
+<p>The averages are different and it explains correlation. But <strong>how do I know if the problem is with session per day and not with overall ability of the game to delight? If that were true, we would see very low engagement in the first session</strong> - but the opposite was true with a healthy average 25 minutes first session length. The game had a healthy D1 retention compared to industry benchmarks which means that it was making an impression, just <strong>failing to hook players into coming back and forming habits</strong>.</p>
+<p>Proceeding with this investigation - in Guild of Guardians, you get gold and other resources for playing. And you can use those resources to get powerful heroes, stronger swords, and sturdier shields to defeat bigger monsters. What's the catch? <strong>If you don't login in enough times</strong>, you can get as much gold as you're supposed to. So <strong>you're weaker</strong>, the boss is more difficult because your weapons are weaker. This perfectly <strong>aligned with the original observation that users were logging in less than once per daily were failing to defeat specific bosses and dungeons</strong>.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p>To make certain that I was chasing the correct lead, I asked the community manager for permission and pasted the following question in Discord</p>
+<p>To make certain that I was chasing the correct lead, I asked the players in our Discord for feedback with a survey</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"id":87,"sizeSlug":"full","linkDestination":"none","align":"center"} --></p>
 <figure class="wp-block-image aligncenter size-full wp-image-87 post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/Discord-Question.png" alt="" width="900" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Discord-Question-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/Discord-Question-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/Discord-Question-md.webp 768w ,https://bramha.work/media/posts/4/responsive/Discord-Question-lg.webp 1024w"></figure>
@@ -1300,7 +1322,8 @@
 <figure class="wp-block-image aligncenter size-full is-resized wp-image-90 post__image post__image--center"><img loading="lazy" style="width: 900px; height: auto;" src="https://bramha.work/media/posts/4/Discord-Responses.png" alt="" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Discord-Responses-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/Discord-Responses-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/Discord-Responses-md.webp 768w ,https://bramha.work/media/posts/4/responsive/Discord-Responses-lg.webp 1024w"></figure>
 <p><!-- /wp:image --></p>
 <p><!-- wp:paragraph --></p>
-<p>There was a question about how the game fits in people's lifestyle. Due to consent reasons I cannot post answers, but interestingly the some recurring themes were</p>
+<p><span style="text-decoration: underline;"><strong>Problem 1</strong></span></p>
+<p><strong>There was a question about how the game fits in people's lifestyle</strong></p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:list {"ordered":true} --></p>
 <ol class="wp-block-list">
@@ -1312,27 +1335,43 @@
 </ol>
 </li>
 </ol>
+<p>In the previous system, users needed to spend 1 energy to defeat monsters and automatically get gold. Given how we designed the product, a user had to login 3 times a day to get the most rewards. We just saw with data and opinions that such a cadence does not fit in the lifestyle of most of our players. And if they did not login 3 times a day, they will never get strong enough to win in later stages.</p>
 <p><!-- /wp:list-item --></p>
 <p><!-- /wp:list --></p>
 <p><!-- wp:paragraph --></p>
-<p><strong>This meant that users have a busy lifestyle and the game had to adjust to that instead of vice versa. Changing their behaviour to do what we wanted was going to be futile</strong>. Additionally, survivor bias had to be eliminated as people who churned did not answer these surveys, so a buffer was added to not overestimate how much users claimed to engage.</p>
+<p>This meant that users have a busy lifestyle and played the game only once, sometimes twice in a single day. <strong>Our previous system opposed user lifestyle needs.</strong></p>
+<p><span style="text-decoration: underline;"><strong>Problem 2</strong></span></p>
+<p><strong>Some of the quotes from the survey about "how punishing does the game's daily schedule feel" were quite revealing</strong></p>
+<ol>
+<li>"I feel the game punishes me for having a job, I usually play for an after work but this game punishes me for not playing 30 dedicated minutes twice or thrice in a day"</li>
+<li>"I spend 20-40 minutes to get to the good stuff and then just as I get to the juicy part the game tells me that I am out of energy"</li>
+<li>"I use my lunch break to do all the boring quest stuff so I can actually play the fun parts of the game later in the evening"</li>
+</ol>
+<p><strong>Our game's energy system was practically interrupting users from getting into the flow state</strong> just as they were about to start enjoying their session.</p>
 <p><strong>This helped me craft a clear persona that we were designing for - The Casual Connoisseur. They are characterised by someone who spend thousand of hours in a game, but will play casually at the start as a trial it before commiting.</strong> </p>
-<figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/Persona.png" alt="" width="900" height="480" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Persona-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/Persona-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/Persona-md.webp 768w ,https://bramha.work/media/posts/4/responsive/Persona-lg.webp 1024w">
-<figcaption>Caption</figcaption>
-</figure>
+<p><span style="text-decoration: underline;"><strong>Problem 3</strong></span></p>
+<p><strong>A few responses to the question "do you have schedule game time?" revealed some key insights.</strong></p>
+<ol>
+<li>"I usually forget about the game till the notification reminds me that I have energy"</li>
+<li>"It's really just waiting till I get energy"</li>
+<li>"I want to play as soon as my energy is full but I can't since I'm at work which raises my anxiety about my progress"</li>
+</ol>
+<p><strong>The mismatch in the energy system and user lifestyle was creating negative feelings, and driving anticaption from loss rather than positive anticipation from expectation.</strong></p>
+<p><strong>All of these anecdotes higlighted that the original system did not take the user into consideration and was designed in a way to maximise vanity metrics like sessions per day and number of logins. Without considering the user, it not only failed but was actively harmful to important business goals like long term retention.</strong></p>
+<p>The data from the survey allowed me to visualise our users with a persona with clearly identifiable behaviours.</p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://bramha.work/media/posts/4/Persona-3.png" alt="" width="900" height="480" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Persona-3-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/Persona-3-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/Persona-3-md.webp 768w ,https://bramha.work/media/posts/4/responsive/Persona-3-lg.webp 1024w"></figure>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>The hypothesis</p>
+<ol>
+<li>The average user will play more if the game progression fit their lifestyle needs</li>
+<li>The game will hook users for the long term if we shift from negative feelings of loss aversion to positive anticipation for the next session</li>
+</ol>
 <hr>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<h3>Solution</h3>
-<p>At the current state of the game, you needed to spend 1 energy to defeat monsters and automatically get gold. Given how we designed the product, a user had to login 3 times a day to get the most rewards. We just saw with data and opinions that such a cadence does not fit in the lifestyle of most of our players. And if they did not login 3 times a day, they will never get strong enough to win in later stages.</p>
-<p>This was pretty simple to solve by adjusting the requirement to needing to login 2 times a day, an industry standard for this genre of games.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>The bigger challenge was that we had to do two things, build habits, and build them within a busy lifestyle.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
 <p><strong>In the original flow, users had to come back to take an action and be rewarded. This did not generate any anticipation excitement at the end of your previous session</strong> for you to not forget this game and want to come back after the first few times.</p>
 <figure class="wp-block-image size-full wp-image-108 post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/storyboard-for-setting-up-next-session.jpg" alt="" width="900" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/storyboard-for-setting-up-next-session-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/storyboard-for-setting-up-next-session-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/storyboard-for-setting-up-next-session-md.webp 768w ,https://bramha.work/media/posts/4/responsive/storyboard-for-setting-up-next-session-lg.webp 1024w"></figure>
 <p>Additionally, <strong>it was important to end a game session on a high note and make the player look forward to playing the next time</strong> as opposed to making them stop playing and forcing them away. So I redesigned the game loop and subsequently the user flow to start session on a happy note and end sessions on moments on anticipation for future rewards.</p>
@@ -1350,7 +1389,14 @@
 </figure>
 <p><!-- /wp:image --></p>
 <p><!-- wp:paragraph --></p>
-<p><strong>My proposal to the team was to reposition the current energy system into an AFK (away from keyboard)</strong> reward system that collects resources while the user is away from the game. This means that when they are ready to leave the game, we can <strong>seed the anticipation by telling users that they will have rewards waiting for them</strong>. And when they come back, the new session will begin with a moment of delight. After a workshop sessions to let everyone have input and provide feedback and a technical review, we aligned on the specific version of our feature.</p>
+<p>After proposing this analysis and hypothesis, the initial ideas involved a daily login calendar which is industry standard. Instead of going straight to designing an MVP, I asked players via another survey on their thoughts about login calendars in other games.</p>
+<ol>
+<li>"I usually collect rewards on autopilot and forget about them"</li>
+<li>"They are annoying and bombard me as soon as I open the game"</li>
+<li>"They're pretty good but I don't open the game because of a daily reward"</li>
+</ol>
+<p>It was clear that while this type of a feature contributes to long term user retention, it does not drive it. It was clear that changes had to be made to the core progression and reward system to move the needle sizeably.</p>
+<p><strong>My proposal to the team was to reposition the current energy system into an AFK (away from keyboard)</strong> reward system that collects resources while the user is away from the game. This means that when they are ready to leave the game, we can <strong>seed the anticipation by telling users that they will have rewards waiting for them to turn negative loss aversion into positive anticipation</strong>. And when they come back, the new session will begin with a moment of delight. After a workshop sessions to let everyone have input and provide feedback and a technical review, we aligned on the specific version of our feature.</p>
 <p>After <strong>the team agreed on the new user flow and the end goal of this design</strong>, I had to create 3 new UI components - A button on the main menu for this new feature, a screen for the new feature, and the tutorial for the new feature.</p>
 <p><strong>I set out to mock up the new user flow with a combinations of existing and new screens in Figma to be able to map out how much new UI work was needed.</strong></p>
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/Figma-User-Flow-Rough.png" alt="" width="900" height="434" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Figma-User-Flow-Rough-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/Figma-User-Flow-Rough-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/Figma-User-Flow-Rough-md.webp 768w ,https://bramha.work/media/posts/4/responsive/Figma-User-Flow-Rough-lg.webp 1024w">
