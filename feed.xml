@@ -3,7 +3,7 @@
     <title>Bramha Dalvi</title>
     <link href="https://bramha.work/feed.xml" rel="self" />
     <link href="https://bramha.work" />
-    <updated>2026-01-02T14:46:15+11:00</updated>
+    <updated>2026-01-02T14:51:59+11:00</updated>
     <author>
         <name>Bramha</name>
     </author>
@@ -367,7 +367,6 @@
         <content type="html">
             <![CDATA[
                 <p><!-- wp:paragraph --></p>
-<h2> </h2>
 <div style="background: #ffffff; border: 1px solid #e2e8f0; border-left: 6px solid #d32f2f; padding: 32px; margin: 40px 0; border-radius: 12px; box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1); font-family: 'Inter', -apple-system, sans-serif; color: #1a202c; max-width: 900px;">
 <div style="margin-bottom: 24px; border-bottom: 2px solid #edf2f7; padding-bottom: 20px;">
 <h2 style="margin: 0 0 8px 0; font-size: 1.75rem; font-weight: 800; color: #111; line-height: 1.2;">Executive Summary</h2>
@@ -378,15 +377,13 @@
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 16px; margin-bottom: 32px;">
 <div style="background: #fff5f5; padding: 16px; border-radius: 8px; border: 1px solid #fed7d7; text-align: center;">
 <div style="font-size: 0.75rem; font-weight: bold; color: #c53030; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">Scale</div>
-<div style="font-size: 1.5rem; font-weight: 800; color: #9b2c2c;">5 Platforms</div>
+<div style="font-size: 1.5rem; font-weight: 800; color: #9b2c2c;">5</div>
+<div style="font-size: 1.5rem; font-weight: 800; color: #9b2c2c;">Platforms</div>
 </div>
 <div style="background: #f7fafc; padding: 16px; border-radius: 8px; border: 1px solid #e2e8f0; text-align: center;">
 <div style="font-size: 0.75rem; font-weight: bold; color: #2d3748; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">Efficiency</div>
-<div style="font-size: 1.5rem; font-weight: 800; color: #1a202c;">1 Codebase</div>
-</div>
-<div style="background: #f7fafc; padding: 16px; border-radius: 8px; border: 1px solid #e2e8f0; text-align: center;">
-<div style="font-size: 0.75rem; font-weight: bold; color: #2d3748; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">Reach</div>
-<div style="font-size: 1.2rem; font-weight: 800; color: #1a202c;">12 Aspect Ratios</div>
+<div style="font-size: 1.5rem; font-weight: 800; color: #1a202c;">1</div>
+<div style="font-size: 1.5rem; font-weight: 800; color: #1a202c;">UI System</div>
 </div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 24px; font-size: 1rem; line-height: 1.6;">
