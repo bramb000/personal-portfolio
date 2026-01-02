@@ -3,7 +3,7 @@
     <title>Bramha Dalvi</title>
     <link href="https://bramha.work/feed.xml" rel="self" />
     <link href="https://bramha.work" />
-    <updated>2026-01-02T14:24:30+11:00</updated>
+    <updated>2026-01-02T14:41:13+11:00</updated>
     <author>
         <name>Bramha</name>
     </author>
@@ -367,13 +367,41 @@
         <content type="html">
             <![CDATA[
                 <p><!-- wp:paragraph --></p>
+<h2> </h2>
+<div style="background: #ffffff; border: 1px solid #e2e8f0; border-left: 6px solid #d32f2f; padding: 32px; margin: 40px 0; border-radius: 12px; box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1); font-family: 'Inter', -apple-system, sans-serif; color: #1a202c; max-width: 900px;">
+<div style="margin-bottom: 24px; border-bottom: 2px solid #edf2f7; padding-bottom: 20px;">
+<h2 style="margin: 0 0 8px 0; font-size: 1.75rem; font-weight: 800; color: #111; line-height: 1.2;">Executive Summary</h2>
+<p style="margin: 0; font-size: 1.1rem; color: #4a5568; font-weight: 500;">Role: <span style="color: #111;">Feature Owner for Mobile UI and Contributor on multi-platform interactions</span></p>
+<br>
+<p style="margin: 0; font-size: 1.1rem; color: #4a5568; font-weight: 500;">Rest of the Team: <span style="color: #111;">6 people on the UX team → 2 UX Designers | 2 UI Artists | 2 UI Engineers</span></p>
+</div>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 16px; margin-bottom: 32px;">
+<div style="background: #fff5f5; padding: 16px; border-radius: 8px; border: 1px solid #fed7d7; text-align: center;">
+<div style="font-size: 0.75rem; font-weight: bold; color: #c53030; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">Scale</div>
+<div style="font-size: 1.5rem; font-weight: 800; color: #9b2c2c;">5 Platforms</div>
+</div>
+<div style="background: #f7fafc; padding: 16px; border-radius: 8px; border: 1px solid #e2e8f0; text-align: center;">
+<div style="font-size: 0.75rem; font-weight: bold; color: #2d3748; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">Efficiency</div>
+<div style="font-size: 1.5rem; font-weight: 800; color: #1a202c;">1 Codebase</div>
+</div>
+<div style="background: #f7fafc; padding: 16px; border-radius: 8px; border: 1px solid #e2e8f0; text-align: center;">
+<div style="font-size: 0.75rem; font-weight: bold; color: #2d3748; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">Reach</div>
+<div style="font-size: 1.2rem; font-weight: 800; color: #1a202c;">12 Aspect Ratios</div>
+</div>
+</div>
+<div style="display: flex; flex-direction: column; gap: 24px; font-size: 1rem; line-height: 1.6;">
+<div>
+<h4 style="margin: 0 0 8px 0; font-size: 0.9rem; text-transform: uppercase; color: #d32f2f; letter-spacing: 0.1em;">01. The Problem</h4>
+<p style="margin: 0;"><strong>Fragmentation:</strong> Rocksmith+ faced a massive scaling challenge: launching a PC-first MVP on Mobile and Console simultaneously. Without a unified framework, the team faced tripled maintenance costs and a siloed UX that failed to respect the varying environmental contexts of guitar learners.</p>
+</div>
+<div>
+<h4 style="margin: 0 0 8px 0; font-size: 0.9rem; text-transform: uppercase; color: #d32f2f; letter-spacing: 0.1em;">02. The Solution</h4>
+<p style="margin: 0;"><strong>Building a responsive UI system: <em>I</em></strong> architected a technical UI system in the Snowdrop engine that scaled responsive UI across different PC monitors, TVs, tablets, and mobiles. This <strong>ensured visual parity</strong> across devices ranging from 4:3 iPads to 21:9 Ultra-wide monitors without bespoke adjustments.<br><br></p>
+<strong>Unified Interaction Matrix:</strong> Mapped divergent inputs (Keyboard, Gamepad, Touch) to singular behavioral outcomes, <strong>reducing cognitive load</strong> for users switching between platforms. This was important for Rocksmith+ as it is a Netflix style 1 subscription -&gt; multiple platform service that users interacted with over many devices.</div>
+<div><strong>Cross-Studio Ownership:</strong> Conducted design workshops between India, Japan, and the US <strong>to codify multi-platform best practices.</strong></div>
+</div>
+</div>
 <h2 class="wp-block-heading">Context</h2>
-<p> </p>
-<p>My Role : UX/UI Designer (feature owner for responsive UI and unified interaction system for PC, mobile, and consoles)</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>Rest of the team : Not fixed but roughly main 6 people → 2 UX Designers | 2 UI Artists | 4 UI Engineers</p>
-<p>This case study generally takes 20 minutes to read.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:heading --></p>
 <p><!-- /wp:heading --></p>
@@ -617,7 +645,7 @@
 <figcaption>Touch focused UI rarely has arrows to scroll, usually the extends just a little bit off screen to hint that the item can be scrolled by physically pulling the item onto the screenl</figcaption>
 </figure>
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/6/RPCInteractions-ezgif.com-video-to-gif-converter.gif" alt="" width="900" height="506">
-<figcaption>On PC, carousel carets are critical for horizontal scrolling with a mouse that usually only supports vertical scroll</figcaption>
+<figcaption>On PC, carousel carets are critical for horizontal scrolling with a mouse that usually only supports vertical scroll. Users can additionally scroll with gamepad trigger buttons or r and t keys on the keyboard</figcaption>
 </figure>
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/6/R-Mobile-Interactions.gif" alt="" width="900" height="420">
 <figcaption>Mobile scroll containers do not have buttons for scroll and support free from horizontal and vertical scroll. I had to define behaviours that felt intuitive on specific platforms</figcaption>
