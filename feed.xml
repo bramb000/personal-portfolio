@@ -3,7 +3,7 @@
     <title>Bramha Dalvi</title>
     <link href="https://bramha.work/feed.xml" rel="self" />
     <link href="https://bramha.work" />
-    <updated>2026-01-02T20:07:25+11:00</updated>
+    <updated>2026-01-03T07:14:12+11:00</updated>
     <author>
         <name>Bramha</name>
     </author>
@@ -404,7 +404,7 @@
 <p><!-- /wp:heading --></p>
 <p><!-- wp:paragraph --></p>
 <p>I joined the team in 2020 when Rocksmith+ was in pre-launch production and Ubisoft wanted a global release on mobile, PC, and next-gen game consoles (at that time, it was the Playstation 5 and Xbox Series X). Very few people on the UX team had prior experience building a mobile user experiences and responsive UIs and interactions for multiple platforms.</p>
-<figure class="post__image"><img loading="lazy" src="https://bramha.work/media/posts/6/traditional-rocksmith.webp" alt="" width="900" height="338" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/6/responsive/traditional-rocksmith-xs.webp 300w ,https://bramha.work/media/posts/6/responsive/traditional-rocksmith-sm.webp 480w ,https://bramha.work/media/posts/6/responsive/traditional-rocksmith-md.webp 768w ,https://bramha.work/media/posts/6/responsive/traditional-rocksmith-lg.webp 1024w">
+<figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/6/traditional-rocksmith.webp" alt="" width="900" height="338" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/6/responsive/traditional-rocksmith-xs.webp 300w ,https://bramha.work/media/posts/6/responsive/traditional-rocksmith-sm.webp 480w ,https://bramha.work/media/posts/6/responsive/traditional-rocksmith-md.webp 768w ,https://bramha.work/media/posts/6/responsive/traditional-rocksmith-lg.webp 1024w">
 <figcaption>The traditional Rocksmith experience was always on a big screen</figcaption>
 </figure>
 <p><!-- /wp:paragraph --></p>
