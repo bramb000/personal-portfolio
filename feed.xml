@@ -3,7 +3,7 @@
     <title>Bramha Dalvi</title>
     <link href="https://bramha.work/feed.xml" rel="self" />
     <link href="https://bramha.work" />
-    <updated>2026-01-02T11:22:45+11:00</updated>
+    <updated>2026-01-02T14:24:30+11:00</updated>
     <author>
         <name>Bramha</name>
     </author>
@@ -846,16 +846,51 @@
             <summary type="html">
                 <![CDATA[
                     <p><!-- wp:paragraph --></p>
+<div style="background: #ffffff; border: 1px solid #e2e8f0; border-left: 6px solid #d32f2f; padding: 32px; margin: 40px 0; border-radius: 12px; box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1); font-family: 'Inter', -apple-system, sans-serif; color: #1a202c; max-width: 900px;">
+<div style="margin-bottom: 24px; border-bottom: 2px solid #edf2f7; padding-bottom: 20px;">
+<h2 style="margin: 0 0 8px 0; font-size: 1.75rem; font-weight: 800; color: #111; line-height: 1.2;">Executive Summary</h2>
+<p style="margin: 0; font-size: 1.1rem; color: #4a5568; font-weight: 500;">Role: <span style="color: #111;">Feature Owner and Lead UX Designer</span> <br>Rest of the Team: <span style="color: #111;">1 UI Artist | 1 UI Engineer | 1 Full Stack Engineer</span> </p>
+<p> </p>
+<p style="margin: 0; font-size: 1.1rem; color: #4a5568; font-weight: 500;"><span style="color: #d32f2f; font-weight: bold;">Impact: </span></p>
+</div>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 16px; margin-bottom: 32px;">
+<div style="background: #fff5f5; padding: 16px; border-radius: 8px; border: 1px solid #fed7d7; text-align: center;">
+<div style="font-size: 0.75rem; font-weight: bold; color: #c53030; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">Retention</div>
+<div style="font-size: 1.5rem; font-weight: 800; color: #9b2c2c;">+25% D7</div>
+</div>
+<div style="background: #f7fafc; padding: 16px; border-radius: 8px; border: 1px solid #e2e8f0; text-align: center;">
+<div style="font-size: 0.75rem; font-weight: bold; color: #2d3748; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">Revenue</div>
+<div style="font-size: 1.5rem; font-weight: 800; color: #1a202c;">+12% D7 LTV</div>
+</div>
+<div style="background: #f7fafc; padding: 16px; border-radius: 8px; border: 1px solid #e2e8f0; text-align: center;"> </div>
+</div>
+<div style="display: flex; flex-direction: column; gap: 24px; font-size: 1rem; line-height: 1.6;">
+<div>
+<h4 style="margin: 0 0 8px 0; font-size: 0.9rem; text-transform: uppercase; color: #d32f2f; letter-spacing: 0.1em;">01. The Problem</h4>
+<p style="margin: 0;">The game suffered from a lower than standard D7 churn. Users reported that the game asked them to play 3-4 times a day to maximise their progression when most players only played 1-2 times a day, creating an ill fit for user lifestyle needs.</p>
+</div>
+<div>
+<h4 style="margin: 0 0 8px 0; font-size: 0.9rem; text-transform: uppercase; color: #d32f2f; letter-spacing: 0.1em;">02. The Data</h4>
+<p style="margin: 0;">Using SQL (BigQuery), I identified that the most engaged users were pulling the average up and that the average experience was worse than what the metrics indicated. Most players were playing once a day and therefore lagging behind in a progression system that asked them to play 3 times a day.</p>
+</div>
+<div>
+<h4 style="margin: 0 0 8px 0; font-size: 0.9rem; text-transform: uppercase; color: #d32f2f; letter-spacing: 0.1em;">03. The Solution</h4>
+<ul style="margin: 0; padding-left: 1.2rem; list-style-type: disc;">
+<li style="margin-bottom: 8px;"><strong>Shifting Player Emotions:</strong> Designed an "AFK Reward Feature" that accumulated rewards while the player was away, transforming the mental model from <i data-path-to-node="10,0,0" data-index-in-node="136">"I'm missing out"</i> to <i data-path-to-node="10,0,0" data-index-in-node="157">"I have a gift waiting for me."</i></li>
+<li><strong>Designing for Delight: </strong>Changing the game loop to reframe features that interrupted player focus state to a loop that creates positive anticipation as a hook for long term retention</li>
+<li style="margin-bottom: 8px;"><strong>End to end delivery: </strong>Designed supporting features - team reccomendation / help section, daily login calendar, and free rewards for achievements to increase D7 retention</li>
+<li><strong>Bonus Win: </strong>Increase D7 LTV (revenue from a user in their first 7 days) by 12% by surgically adding monetisation offers to new features</li>
+</ul>
+</div>
+</div>
+</div>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<hr>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
 <h1>Context</h1>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>My Role : Feature Owner / Lead Designer (UX and game design)</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>Rest of the team : 3 people  → 1 UI Artist | 1 UI Engineer | 1 Full Stack Engineer </p>
-<p>This case study generally takes 20 minutes to read.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
+<p> </p>
 <p><strong>Guild of Guardians is a midcore RPG</strong> game where users create teams of 5 guardians to duke it out against monsters, enemies, and other players. In the first 7 to 10 days, the users are expected to play the Adventure mode where they explore the story, learn about the characters, and fight some easy monsters to learn about the game. They need to earn gold to strengthen their equipment and collect souls to level up their heroes.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
@@ -869,8 +904,8 @@
 <figure class="post__image post__image--center"><img loading="lazy"  src="https://bramha.work/media/posts/4/Outcome-2-2.png" alt="" width="900" height="276" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Outcome-2-2-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/Outcome-2-2-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/Outcome-2-2-md.webp 768w ,https://bramha.work/media/posts/4/responsive/Outcome-2-2-lg.webp 1024w"></figure>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:separator --></p>
-<hr class="wp-block-separator has-alpha-channel-opacity"><!-- /wp:separator -->
-<p><!-- wp:paragraph --></p>
+<p> </p>
+<hr>
 <h1>Action</h1>
 <h3>TLDR</h3>
 <p>Problems analysed through a mixture of quantitiative and qualitative data analysis</p>
@@ -1050,11 +1085,12 @@
 </figure>
 <p><!-- /wp:image --></p>
 <p><!-- wp:paragraph --></p>
-<p>After proposing this analysis and hypothesis, the initial ideas involved a daily login calendar which is industry standard. Instead of going straight to designing an MVP, I asked players via another survey on their thoughts about login calendars in other games.</p>
+<p>After proposing this analysis and hypothesis, the initial ideas involved a daily login calendar which is industry standard. Instead of going straight to designing an MVP, I asked players via a Discord thread on their thoughts about login calendars in other games.</p>
 <ol>
 <li>"I usually collect rewards on autopilot and forget about them"</li>
 <li>"They are annoying and bombard me as soon as I open the game"</li>
 <li>"They're pretty good but I don't open the game because of a daily reward"</li>
+<li>"It's a bonus I guess"</li>
 </ol>
 <p>It was clear that while this type of a feature contributes to long term user retention, it does not drive it. It was clear that changes had to be made to the core progression and reward system to move the needle sizeably.</p>
 <p><strong>My proposal to the team was to reposition the current energy system into an AFK (away from keyboard)</strong> reward system that collects resources while the user is away from the game. This means that when they are ready to leave the game, we can <strong>seed the anticipation by telling users that they will have rewards waiting for them to turn negative loss aversion into positive anticipation</strong>. And when they come back, the new session will begin with a moment of delight. After a workshop sessions to let everyone have input and provide feedback and a technical review, we aligned on the specific version of our feature.</p>
@@ -1097,6 +1133,13 @@
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/afk-tutorial.png" alt="" width="900" height="420" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/afk-tutorial-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/afk-tutorial-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/afk-tutorial-md.webp 768w ,https://bramha.work/media/posts/4/responsive/afk-tutorial-lg.webp 1024w">
 <figcaption>This is the quick and greybox tutorial I mocked up in Figma. This was eventually visually polished and animated by the UI artist before implementation</figcaption>
 </figure>
+<p><strong>Users found this feature to be much better aligned to their general lifestyle needs and felt it gave them agency to decide how and when to play the game.</strong> Some quotes from my user studies</p>
+<ol>
+<li>"I don't have to think about this game during work, which means I can fully focus on it after work"</li>
+<li>"The new system is far less annoying, I only have to open once a day and maybe twice if I really want rewards for the new events"</li>
+<li>"It's nice to get all my rewards at the start and then just go into playing. Earlier, I did not look forward to using energy for the 15 minutes before I got to start playing what I actually wanted"</li>
+<li>"Thank god y'all removed the arbitrary timer. Now I can consistently play every evening when I'm actually free"</li>
+</ol>
 <hr>
 <p>To close off the new game loop that I proposed, I <strong>added a quit screen</strong> that set goals and anticipation to encourage the user to come back.</p>
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/Screenshot_20251215_083431_Guild-of-Guardians.png" alt="" width="900" height="420" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Screenshot_20251215_083431_Guild-of-Guardians-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251215_083431_Guild-of-Guardians-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251215_083431_Guild-of-Guardians-md.webp 768w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251215_083431_Guild-of-Guardians-lg.webp 1024w">
@@ -1185,16 +1228,51 @@
         <content type="html">
             <![CDATA[
                 <p><!-- wp:paragraph --></p>
+<div style="background: #ffffff; border: 1px solid #e2e8f0; border-left: 6px solid #d32f2f; padding: 32px; margin: 40px 0; border-radius: 12px; box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1); font-family: 'Inter', -apple-system, sans-serif; color: #1a202c; max-width: 900px;">
+<div style="margin-bottom: 24px; border-bottom: 2px solid #edf2f7; padding-bottom: 20px;">
+<h2 style="margin: 0 0 8px 0; font-size: 1.75rem; font-weight: 800; color: #111; line-height: 1.2;">Executive Summary</h2>
+<p style="margin: 0; font-size: 1.1rem; color: #4a5568; font-weight: 500;">Role: <span style="color: #111;">Feature Owner and Lead UX Designer</span> <br>Rest of the Team: <span style="color: #111;">1 UI Artist | 1 UI Engineer | 1 Full Stack Engineer</span> </p>
+<p> </p>
+<p style="margin: 0; font-size: 1.1rem; color: #4a5568; font-weight: 500;"><span style="color: #d32f2f; font-weight: bold;">Impact: </span></p>
+</div>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 16px; margin-bottom: 32px;">
+<div style="background: #fff5f5; padding: 16px; border-radius: 8px; border: 1px solid #fed7d7; text-align: center;">
+<div style="font-size: 0.75rem; font-weight: bold; color: #c53030; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">Retention</div>
+<div style="font-size: 1.5rem; font-weight: 800; color: #9b2c2c;">+25% D7</div>
+</div>
+<div style="background: #f7fafc; padding: 16px; border-radius: 8px; border: 1px solid #e2e8f0; text-align: center;">
+<div style="font-size: 0.75rem; font-weight: bold; color: #2d3748; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">Revenue</div>
+<div style="font-size: 1.5rem; font-weight: 800; color: #1a202c;">+12% D7 LTV</div>
+</div>
+<div style="background: #f7fafc; padding: 16px; border-radius: 8px; border: 1px solid #e2e8f0; text-align: center;"> </div>
+</div>
+<div style="display: flex; flex-direction: column; gap: 24px; font-size: 1rem; line-height: 1.6;">
+<div>
+<h4 style="margin: 0 0 8px 0; font-size: 0.9rem; text-transform: uppercase; color: #d32f2f; letter-spacing: 0.1em;">01. The Problem</h4>
+<p style="margin: 0;">The game suffered from a lower than standard D7 churn. Users reported that the game asked them to play 3-4 times a day to maximise their progression when most players only played 1-2 times a day, creating an ill fit for user lifestyle needs.</p>
+</div>
+<div>
+<h4 style="margin: 0 0 8px 0; font-size: 0.9rem; text-transform: uppercase; color: #d32f2f; letter-spacing: 0.1em;">02. The Data</h4>
+<p style="margin: 0;">Using SQL (BigQuery), I identified that the most engaged users were pulling the average up and that the average experience was worse than what the metrics indicated. Most players were playing once a day and therefore lagging behind in a progression system that asked them to play 3 times a day.</p>
+</div>
+<div>
+<h4 style="margin: 0 0 8px 0; font-size: 0.9rem; text-transform: uppercase; color: #d32f2f; letter-spacing: 0.1em;">03. The Solution</h4>
+<ul style="margin: 0; padding-left: 1.2rem; list-style-type: disc;">
+<li style="margin-bottom: 8px;"><strong>Shifting Player Emotions:</strong> Designed an "AFK Reward Feature" that accumulated rewards while the player was away, transforming the mental model from <i data-path-to-node="10,0,0" data-index-in-node="136">"I'm missing out"</i> to <i data-path-to-node="10,0,0" data-index-in-node="157">"I have a gift waiting for me."</i></li>
+<li><strong>Designing for Delight: </strong>Changing the game loop to reframe features that interrupted player focus state to a loop that creates positive anticipation as a hook for long term retention</li>
+<li style="margin-bottom: 8px;"><strong>End to end delivery: </strong>Designed supporting features - team reccomendation / help section, daily login calendar, and free rewards for achievements to increase D7 retention</li>
+<li><strong>Bonus Win: </strong>Increase D7 LTV (revenue from a user in their first 7 days) by 12% by surgically adding monetisation offers to new features</li>
+</ul>
+</div>
+</div>
+</div>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<hr>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
 <h1>Context</h1>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>My Role : Feature Owner / Lead Designer (UX and game design)</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>Rest of the team : 3 people  → 1 UI Artist | 1 UI Engineer | 1 Full Stack Engineer </p>
-<p>This case study generally takes 20 minutes to read.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
+<p> </p>
 <p><strong>Guild of Guardians is a midcore RPG</strong> game where users create teams of 5 guardians to duke it out against monsters, enemies, and other players. In the first 7 to 10 days, the users are expected to play the Adventure mode where they explore the story, learn about the characters, and fight some easy monsters to learn about the game. They need to earn gold to strengthen their equipment and collect souls to level up their heroes.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
@@ -1208,8 +1286,8 @@
 <figure class="post__image post__image--center"><img loading="lazy"  src="https://bramha.work/media/posts/4/Outcome-2-2.png" alt="" width="900" height="276" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Outcome-2-2-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/Outcome-2-2-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/Outcome-2-2-md.webp 768w ,https://bramha.work/media/posts/4/responsive/Outcome-2-2-lg.webp 1024w"></figure>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:separator --></p>
-<hr class="wp-block-separator has-alpha-channel-opacity"><!-- /wp:separator -->
-<p><!-- wp:paragraph --></p>
+<p> </p>
+<hr>
 <h1>Action</h1>
 <h3>TLDR</h3>
 <p>Problems analysed through a mixture of quantitiative and qualitative data analysis</p>
@@ -1389,11 +1467,12 @@
 </figure>
 <p><!-- /wp:image --></p>
 <p><!-- wp:paragraph --></p>
-<p>After proposing this analysis and hypothesis, the initial ideas involved a daily login calendar which is industry standard. Instead of going straight to designing an MVP, I asked players via another survey on their thoughts about login calendars in other games.</p>
+<p>After proposing this analysis and hypothesis, the initial ideas involved a daily login calendar which is industry standard. Instead of going straight to designing an MVP, I asked players via a Discord thread on their thoughts about login calendars in other games.</p>
 <ol>
 <li>"I usually collect rewards on autopilot and forget about them"</li>
 <li>"They are annoying and bombard me as soon as I open the game"</li>
 <li>"They're pretty good but I don't open the game because of a daily reward"</li>
+<li>"It's a bonus I guess"</li>
 </ol>
 <p>It was clear that while this type of a feature contributes to long term user retention, it does not drive it. It was clear that changes had to be made to the core progression and reward system to move the needle sizeably.</p>
 <p><strong>My proposal to the team was to reposition the current energy system into an AFK (away from keyboard)</strong> reward system that collects resources while the user is away from the game. This means that when they are ready to leave the game, we can <strong>seed the anticipation by telling users that they will have rewards waiting for them to turn negative loss aversion into positive anticipation</strong>. And when they come back, the new session will begin with a moment of delight. After a workshop sessions to let everyone have input and provide feedback and a technical review, we aligned on the specific version of our feature.</p>
@@ -1436,6 +1515,13 @@
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/afk-tutorial.png" alt="" width="900" height="420" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/afk-tutorial-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/afk-tutorial-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/afk-tutorial-md.webp 768w ,https://bramha.work/media/posts/4/responsive/afk-tutorial-lg.webp 1024w">
 <figcaption>This is the quick and greybox tutorial I mocked up in Figma. This was eventually visually polished and animated by the UI artist before implementation</figcaption>
 </figure>
+<p><strong>Users found this feature to be much better aligned to their general lifestyle needs and felt it gave them agency to decide how and when to play the game.</strong> Some quotes from my user studies</p>
+<ol>
+<li>"I don't have to think about this game during work, which means I can fully focus on it after work"</li>
+<li>"The new system is far less annoying, I only have to open once a day and maybe twice if I really want rewards for the new events"</li>
+<li>"It's nice to get all my rewards at the start and then just go into playing. Earlier, I did not look forward to using energy for the 15 minutes before I got to start playing what I actually wanted"</li>
+<li>"Thank god y'all removed the arbitrary timer. Now I can consistently play every evening when I'm actually free"</li>
+</ol>
 <hr>
 <p>To close off the new game loop that I proposed, I <strong>added a quit screen</strong> that set goals and anticipation to encourage the user to come back.</p>
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/Screenshot_20251215_083431_Guild-of-Guardians.png" alt="" width="900" height="420" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Screenshot_20251215_083431_Guild-of-Guardians-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251215_083431_Guild-of-Guardians-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251215_083431_Guild-of-Guardians-md.webp 768w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251215_083431_Guild-of-Guardians-lg.webp 1024w">
