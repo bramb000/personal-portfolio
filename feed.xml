@@ -3,7 +3,7 @@
     <title>Bramha Dalvi</title>
     <link href="https://bramha.work/feed.xml" rel="self" />
     <link href="https://bramha.work" />
-    <updated>2026-01-02T15:01:03+11:00</updated>
+    <updated>2026-01-02T20:07:25+11:00</updated>
     <author>
         <name>Bramha</name>
     </author>
@@ -891,7 +891,7 @@
 <div style="display: flex; flex-direction: column; gap: 24px; font-size: 1rem; line-height: 1.6;">
 <div>
 <h4 style="margin: 0 0 8px 0; font-size: 0.9rem; text-transform: uppercase; color: #d32f2f; letter-spacing: 0.1em;">01. The Problem</h4>
-<p style="margin: 0;">The game suffered from a lower than standard D7 churn. Users reported that the game asked them to play 3-4 times a day to maximise their progression when most players only played 1-2 times a day, creating an ill fit for user lifestyle needs.</p>
+<p style="margin: 0;">The game suffered from a lower than standard D7 retention. Users reported that the game asked them to play 3-4 times a day to maximise their progression when most players only played 1-2 times a day, creating an ill fit for user lifestyle needs.</p>
 </div>
 <div>
 <h4 style="margin: 0 0 8px 0; font-size: 0.9rem; text-transform: uppercase; color: #d32f2f; letter-spacing: 0.1em;">02. The Data</h4>
@@ -1042,8 +1042,8 @@
 <figure class="wp-block-image aligncenter size-full is-resized wp-image-90 post__image post__image--center"><img loading="lazy" style="width: 900px; height: auto;" src="https://bramha.work/media/posts/4/Discord-Responses.png" alt="" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Discord-Responses-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/Discord-Responses-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/Discord-Responses-md.webp 768w ,https://bramha.work/media/posts/4/responsive/Discord-Responses-lg.webp 1024w"></figure>
 <p><!-- /wp:image --></p>
 <p><!-- wp:paragraph --></p>
-<p><span style="text-decoration: underline;"><strong>Problem 1</strong></span></p>
-<p><strong>There was a question about how the game fits in people's lifestyle</strong></p>
+<p><span style="text-decoration: underline;"><strong>Insight 1</strong></span></p>
+<p><strong>There was a question about when in the day do users play the game. The responses overwhelmingly confirmed this game was "unstructured downtime" entertainment</strong></p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:list {"ordered":true} --></p>
 <ol class="wp-block-list">
@@ -1055,12 +1055,8 @@
 </ol>
 </li>
 </ol>
-<p>In the previous system, users needed to spend 1 energy to defeat monsters and automatically get gold. Given how we designed the product, a user had to login 3 times a day to get the most rewards. We just saw with data and opinions that such a cadence does not fit in the lifestyle of most of our players. And if they did not login 3 times a day, they will never get strong enough to win in later stages.</p>
-<p><!-- /wp:list-item --></p>
-<p><!-- /wp:list --></p>
-<p><!-- wp:paragraph --></p>
-<p>This meant that users have a busy lifestyle and played the game only once, sometimes twice in a single day. <strong>Our previous system opposed user lifestyle needs.</strong></p>
-<p><span style="text-decoration: underline;"><strong>Problem 2</strong></span></p>
+<p>This heavily indicated that users played in 1 or 2 empty blocks of time in between chores and errands.</p>
+<p><span style="text-decoration: underline;"><strong>Insight 2</strong></span></p>
 <p><strong>Some of the quotes from the survey about "how punishing does the game's daily schedule feel" were quite revealing</strong></p>
 <ol>
 <li>"I feel the game punishes me for having a job, I usually play for an after work but this game punishes me for not playing 30 dedicated minutes twice or thrice in a day"</li>
@@ -1069,8 +1065,8 @@
 </ol>
 <p><strong>Our game's energy system was practically interrupting users from getting into the flow state</strong> just as they were about to start enjoying their session.</p>
 <p><strong>This helped me craft a clear persona that we were designing for - The Casual Connoisseur. They are characterised by someone who spend thousand of hours in a game, but will play casually at the start as a trial it before commiting.</strong> </p>
-<p><span style="text-decoration: underline;"><strong>Problem 3</strong></span></p>
-<p><strong>A few responses to the question "do you have schedule game time?" revealed some key insights.</strong></p>
+<p><span style="text-decoration: underline;"><strong>Insight 3</strong></span></p>
+<p><strong>A few responses to the question "do you have scheduled game time?" revealed some key insights.</strong></p>
 <ol>
 <li>"I usually forget about the game till the notification reminds me that I have energy"</li>
 <li>"It's really just waiting till I get energy"</li>
@@ -1272,7 +1268,7 @@
 <div style="display: flex; flex-direction: column; gap: 24px; font-size: 1rem; line-height: 1.6;">
 <div>
 <h4 style="margin: 0 0 8px 0; font-size: 0.9rem; text-transform: uppercase; color: #d32f2f; letter-spacing: 0.1em;">01. The Problem</h4>
-<p style="margin: 0;">The game suffered from a lower than standard D7 churn. Users reported that the game asked them to play 3-4 times a day to maximise their progression when most players only played 1-2 times a day, creating an ill fit for user lifestyle needs.</p>
+<p style="margin: 0;">The game suffered from a lower than standard D7 retention. Users reported that the game asked them to play 3-4 times a day to maximise their progression when most players only played 1-2 times a day, creating an ill fit for user lifestyle needs.</p>
 </div>
 <div>
 <h4 style="margin: 0 0 8px 0; font-size: 0.9rem; text-transform: uppercase; color: #d32f2f; letter-spacing: 0.1em;">02. The Data</h4>
@@ -1423,8 +1419,8 @@
 <figure class="wp-block-image aligncenter size-full is-resized wp-image-90 post__image post__image--center"><img loading="lazy" style="width: 900px; height: auto;" src="https://bramha.work/media/posts/4/Discord-Responses.png" alt="" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Discord-Responses-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/Discord-Responses-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/Discord-Responses-md.webp 768w ,https://bramha.work/media/posts/4/responsive/Discord-Responses-lg.webp 1024w"></figure>
 <p><!-- /wp:image --></p>
 <p><!-- wp:paragraph --></p>
-<p><span style="text-decoration: underline;"><strong>Problem 1</strong></span></p>
-<p><strong>There was a question about how the game fits in people's lifestyle</strong></p>
+<p><span style="text-decoration: underline;"><strong>Insight 1</strong></span></p>
+<p><strong>There was a question about when in the day do users play the game. The responses overwhelmingly confirmed this game was "unstructured downtime" entertainment</strong></p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:list {"ordered":true} --></p>
 <ol class="wp-block-list">
@@ -1436,12 +1432,8 @@
 </ol>
 </li>
 </ol>
-<p>In the previous system, users needed to spend 1 energy to defeat monsters and automatically get gold. Given how we designed the product, a user had to login 3 times a day to get the most rewards. We just saw with data and opinions that such a cadence does not fit in the lifestyle of most of our players. And if they did not login 3 times a day, they will never get strong enough to win in later stages.</p>
-<p><!-- /wp:list-item --></p>
-<p><!-- /wp:list --></p>
-<p><!-- wp:paragraph --></p>
-<p>This meant that users have a busy lifestyle and played the game only once, sometimes twice in a single day. <strong>Our previous system opposed user lifestyle needs.</strong></p>
-<p><span style="text-decoration: underline;"><strong>Problem 2</strong></span></p>
+<p>This heavily indicated that users played in 1 or 2 empty blocks of time in between chores and errands.</p>
+<p><span style="text-decoration: underline;"><strong>Insight 2</strong></span></p>
 <p><strong>Some of the quotes from the survey about "how punishing does the game's daily schedule feel" were quite revealing</strong></p>
 <ol>
 <li>"I feel the game punishes me for having a job, I usually play for an after work but this game punishes me for not playing 30 dedicated minutes twice or thrice in a day"</li>
@@ -1450,8 +1442,8 @@
 </ol>
 <p><strong>Our game's energy system was practically interrupting users from getting into the flow state</strong> just as they were about to start enjoying their session.</p>
 <p><strong>This helped me craft a clear persona that we were designing for - The Casual Connoisseur. They are characterised by someone who spend thousand of hours in a game, but will play casually at the start as a trial it before commiting.</strong> </p>
-<p><span style="text-decoration: underline;"><strong>Problem 3</strong></span></p>
-<p><strong>A few responses to the question "do you have schedule game time?" revealed some key insights.</strong></p>
+<p><span style="text-decoration: underline;"><strong>Insight 3</strong></span></p>
+<p><strong>A few responses to the question "do you have scheduled game time?" revealed some key insights.</strong></p>
 <ol>
 <li>"I usually forget about the game till the notification reminds me that I have energy"</li>
 <li>"It's really just waiting till I get energy"</li>
