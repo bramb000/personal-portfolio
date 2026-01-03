@@ -3,7 +3,7 @@
     <title>Bramha Dalvi</title>
     <link href="https://bramha.work/feed.xml" rel="self" />
     <link href="https://bramha.work" />
-    <updated>2026-01-03T07:14:12+11:00</updated>
+    <updated>2026-01-04T08:35:34+11:00</updated>
     <author>
         <name>Bramha</name>
     </author>
@@ -891,17 +891,17 @@
 <div style="display: flex; flex-direction: column; gap: 24px; font-size: 1rem; line-height: 1.6;">
 <div>
 <h4 style="margin: 0 0 8px 0; font-size: 0.9rem; text-transform: uppercase; color: #d32f2f; letter-spacing: 0.1em;">01. The Problem</h4>
-<p style="margin: 0;">The game suffered from a lower than standard D7 retention. Users reported that the game asked them to play 3-4 times a day to maximise their progression when most players only played 1-2 times a day, creating an ill fit for user lifestyle needs.</p>
+<p style="margin: 0;">The game suffered from a lower than standard D7 retention. Users reported that the game needed them to play 3-4 times a day to maximise their progression when most players only played 1-2 times a day, creating an ill fit for user lifestyle needs.</p>
 </div>
 <div>
 <h4 style="margin: 0 0 8px 0; font-size: 0.9rem; text-transform: uppercase; color: #d32f2f; letter-spacing: 0.1em;">02. The Data</h4>
-<p style="margin: 0;">Using SQL (BigQuery), I identified that the most engaged users were pulling the average enagement metric up and that the average experience felt worse to most users compared to what the dashboards indicated. Most users were playing once a day and therefore lagging behind in a progression system that asked them to play 3 times a day.</p>
+<p style="margin: 0;">Using SQL (BigQuery), I identified that the most engaged users were pulling the average enagement metric up and that the average experience felt worse to most users compared to what the dashboards indicated. Most users were playing once a day and therefore lagging behind in a progression system that needed them to play 3 times a day for the best result.</p>
 </div>
 <div>
 <h4 style="margin: 0 0 8px 0; font-size: 0.9rem; text-transform: uppercase; color: #d32f2f; letter-spacing: 0.1em;">03. The Solution</h4>
 <ul style="margin: 0; padding-left: 1.2rem; list-style-type: disc;">
-<li><strong>Designing for Delight: </strong>Changing the game loop to reframe features that interrupted player focus state to a loop that creates positive anticipation as a hook for long term retention. Also adjusted to better fit user lifestyle</li>
-<li style="margin-bottom: 8px;"><strong>Shifting Player Emotions:</strong> Designed an "AFK Reward Feature" that accumulated rewards while the player was away, transforming the mental model from <i data-path-to-node="10,0,0" data-index-in-node="136">"I'm missing out"</i> to <i data-path-to-node="10,0,0" data-index-in-node="157">"I have a gift waiting for me."</i></li>
+<li><strong>Shifting Player Emotions:</strong> Designed an "AFK Reward Feature" that accumulated rewards while the player was away, transforming the mental model from <i data-path-to-node="10,0,0" data-index-in-node="136">"I'm missing out"</i> when not playing to <i data-path-to-node="10,0,0" data-index-in-node="157">"I have a gift waiting for me." </i>Adjusted reward timer to better fit user lifestyle.</li>
+<li><strong>Designing for Delight: </strong>Changing the game loop to reframe features that interrupted player focus to a loop that creates positive anticipation as a hook for long term retention. </li>
 <li style="margin-bottom: 8px;"><strong>End to end delivery: </strong>Designed supporting features - team reccomendation / help section, daily login calendar, and free rewards for achievements to maximise D7 retention</li>
 <li><strong>Bonus Win: </strong>Increase D7 LTV (revenue from a user in their first 7 days) by 12% by surgically adding monetisation offers to new features</li>
 </ul>
@@ -1268,17 +1268,17 @@
 <div style="display: flex; flex-direction: column; gap: 24px; font-size: 1rem; line-height: 1.6;">
 <div>
 <h4 style="margin: 0 0 8px 0; font-size: 0.9rem; text-transform: uppercase; color: #d32f2f; letter-spacing: 0.1em;">01. The Problem</h4>
-<p style="margin: 0;">The game suffered from a lower than standard D7 retention. Users reported that the game asked them to play 3-4 times a day to maximise their progression when most players only played 1-2 times a day, creating an ill fit for user lifestyle needs.</p>
+<p style="margin: 0;">The game suffered from a lower than standard D7 retention. Users reported that the game needed them to play 3-4 times a day to maximise their progression when most players only played 1-2 times a day, creating an ill fit for user lifestyle needs.</p>
 </div>
 <div>
 <h4 style="margin: 0 0 8px 0; font-size: 0.9rem; text-transform: uppercase; color: #d32f2f; letter-spacing: 0.1em;">02. The Data</h4>
-<p style="margin: 0;">Using SQL (BigQuery), I identified that the most engaged users were pulling the average enagement metric up and that the average experience felt worse to most users compared to what the dashboards indicated. Most users were playing once a day and therefore lagging behind in a progression system that asked them to play 3 times a day.</p>
+<p style="margin: 0;">Using SQL (BigQuery), I identified that the most engaged users were pulling the average enagement metric up and that the average experience felt worse to most users compared to what the dashboards indicated. Most users were playing once a day and therefore lagging behind in a progression system that needed them to play 3 times a day for the best result.</p>
 </div>
 <div>
 <h4 style="margin: 0 0 8px 0; font-size: 0.9rem; text-transform: uppercase; color: #d32f2f; letter-spacing: 0.1em;">03. The Solution</h4>
 <ul style="margin: 0; padding-left: 1.2rem; list-style-type: disc;">
-<li><strong>Designing for Delight: </strong>Changing the game loop to reframe features that interrupted player focus state to a loop that creates positive anticipation as a hook for long term retention. Also adjusted to better fit user lifestyle</li>
-<li style="margin-bottom: 8px;"><strong>Shifting Player Emotions:</strong> Designed an "AFK Reward Feature" that accumulated rewards while the player was away, transforming the mental model from <i data-path-to-node="10,0,0" data-index-in-node="136">"I'm missing out"</i> to <i data-path-to-node="10,0,0" data-index-in-node="157">"I have a gift waiting for me."</i></li>
+<li><strong>Shifting Player Emotions:</strong> Designed an "AFK Reward Feature" that accumulated rewards while the player was away, transforming the mental model from <i data-path-to-node="10,0,0" data-index-in-node="136">"I'm missing out"</i> when not playing to <i data-path-to-node="10,0,0" data-index-in-node="157">"I have a gift waiting for me." </i>Adjusted reward timer to better fit user lifestyle.</li>
+<li><strong>Designing for Delight: </strong>Changing the game loop to reframe features that interrupted player focus to a loop that creates positive anticipation as a hook for long term retention. </li>
 <li style="margin-bottom: 8px;"><strong>End to end delivery: </strong>Designed supporting features - team reccomendation / help section, daily login calendar, and free rewards for achievements to maximise D7 retention</li>
 <li><strong>Bonus Win: </strong>Increase D7 LTV (revenue from a user in their first 7 days) by 12% by surgically adding monetisation offers to new features</li>
 </ul>
