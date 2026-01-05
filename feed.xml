@@ -3,7 +3,7 @@
     <title>Bramha Dalvi</title>
     <link href="https://bramha.work/feed.xml" rel="self" />
     <link href="https://bramha.work" />
-    <updated>2026-01-04T08:35:34+11:00</updated>
+    <updated>2026-01-06T06:50:31+11:00</updated>
     <author>
         <name>Bramha</name>
     </author>
@@ -1055,14 +1055,16 @@
 </ol>
 </li>
 </ol>
+<p><strong>73% of the survey mentioned playing the game in-between life activities (ranging from work to errands).</strong></p>
 <p>This heavily indicated that users played in 1 or 2 empty blocks of time in between chores and errands.</p>
 <p><span style="text-decoration: underline;"><strong>Insight 2</strong></span></p>
-<p><strong>Some of the quotes from the survey about "how punishing does the game's daily schedule feel" were quite revealing</strong></p>
+<p><strong>Some of the quotes from the survey about "how does the game's daily schedule feel" were quite revealing</strong></p>
 <ol>
 <li>"I feel the game punishes me for having a job, I usually play for an after work but this game punishes me for not playing 30 dedicated minutes twice or thrice in a day"</li>
 <li>"I spend 20-40 minutes to get to the good stuff and then just as I get to the juicy part the game tells me that I am out of energy"</li>
 <li>"I use my lunch break to do all the boring quest stuff so I can actually play the fun parts of the game later in the evening"</li>
 </ol>
+<p><strong>54% of the survey answers had a negative reception about the match between game's timers and their personal life schedules.</strong></p>
 <p><strong>Our game's energy system was practically interrupting users from getting into the flow state</strong> just as they were about to start enjoying their session.</p>
 <p><strong>This helped me craft a clear persona that we were designing for - The Casual Connoisseur. They are characterised by someone who spend thousand of hours in a game, but will play casually at the start as a trial it before commiting.</strong> </p>
 <p><span style="text-decoration: underline;"><strong>Insight 3</strong></span></p>
@@ -1072,6 +1074,8 @@
 <li>"It's really just waiting till I get energy"</li>
 <li>"I want to play as soon as my energy is full but I can't since I'm at work which raises my anxiety about my progress"</li>
 </ol>
+<p><strong>21% of the survey answers outright mentioned that the game's timers did not line up with their schedules.</strong></p>
+<p><span style="text-decoration: underline;">These were all retained, active players. I imagined the experience felt worse to new players.</span></p>
 <p><strong>The mismatch in the energy system and user lifestyle was creating negative feelings, and driving anticaption from loss rather than positive anticipation from expectation.</strong></p>
 <p><strong>All of these anecdotes higlighted that the original system did not take the user into consideration and was designed in a way to maximise vanity metrics like sessions per day and number of logins. Without considering the user, it not only failed but was actively harmful to important business goals like long term retention.</strong></p>
 <p>The data from the survey allowed me to visualise our users with a persona with clearly identifiable behaviours.</p>
@@ -1432,14 +1436,16 @@
 </ol>
 </li>
 </ol>
+<p><strong>73% of the survey mentioned playing the game in-between life activities (ranging from work to errands).</strong></p>
 <p>This heavily indicated that users played in 1 or 2 empty blocks of time in between chores and errands.</p>
 <p><span style="text-decoration: underline;"><strong>Insight 2</strong></span></p>
-<p><strong>Some of the quotes from the survey about "how punishing does the game's daily schedule feel" were quite revealing</strong></p>
+<p><strong>Some of the quotes from the survey about "how does the game's daily schedule feel" were quite revealing</strong></p>
 <ol>
 <li>"I feel the game punishes me for having a job, I usually play for an after work but this game punishes me for not playing 30 dedicated minutes twice or thrice in a day"</li>
 <li>"I spend 20-40 minutes to get to the good stuff and then just as I get to the juicy part the game tells me that I am out of energy"</li>
 <li>"I use my lunch break to do all the boring quest stuff so I can actually play the fun parts of the game later in the evening"</li>
 </ol>
+<p><strong>54% of the survey answers had a negative reception about the match between game's timers and their personal life schedules.</strong></p>
 <p><strong>Our game's energy system was practically interrupting users from getting into the flow state</strong> just as they were about to start enjoying their session.</p>
 <p><strong>This helped me craft a clear persona that we were designing for - The Casual Connoisseur. They are characterised by someone who spend thousand of hours in a game, but will play casually at the start as a trial it before commiting.</strong> </p>
 <p><span style="text-decoration: underline;"><strong>Insight 3</strong></span></p>
@@ -1449,6 +1455,8 @@
 <li>"It's really just waiting till I get energy"</li>
 <li>"I want to play as soon as my energy is full but I can't since I'm at work which raises my anxiety about my progress"</li>
 </ol>
+<p><strong>21% of the survey answers outright mentioned that the game's timers did not line up with their schedules.</strong></p>
+<p><span style="text-decoration: underline;">These were all retained, active players. I imagined the experience felt worse to new players.</span></p>
 <p><strong>The mismatch in the energy system and user lifestyle was creating negative feelings, and driving anticaption from loss rather than positive anticipation from expectation.</strong></p>
 <p><strong>All of these anecdotes higlighted that the original system did not take the user into consideration and was designed in a way to maximise vanity metrics like sessions per day and number of logins. Without considering the user, it not only failed but was actively harmful to important business goals like long term retention.</strong></p>
 <p>The data from the survey allowed me to visualise our users with a persona with clearly identifiable behaviours.</p>
