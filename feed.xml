@@ -3,7 +3,7 @@
     <title>Bramha Dalvi</title>
     <link href="https://bramha.work/feed.xml" rel="self" />
     <link href="https://bramha.work" />
-    <updated>2026-01-08T17:57:01+11:00</updated>
+    <updated>2026-01-08T19:37:11+11:00</updated>
     <author>
         <name>Bramha</name>
     </author>
@@ -984,7 +984,7 @@
 <details class="wp-block-details" open="open">
 <summary>Read more about the nitty gritty math</summary>
 <!-- wp:paragraph {"placeholder":"Type / to add a hidden block"} --></details>
-<p>I ran a logistic regression test on D7 retention as the dependent binary variable and sessions per day as the independent continuous variable. Basically, I want to see how much session/day explain D7 retention as these are session per day till the 6th day. Turns out it only explain 24% of the variance in the model, but the result is statistically significant</p>
+<p>I ran a logistic regression test on D7 retention as the dependent binary variable and sessions per day as the independent continuous variable. Basically, I want to see how much session/day explain D7 retention as these are session per day till the 6th day. Turns out it explained 24% of the variance in a complex model like retention.</p>
 <p>The tl;dr of this table is that every 1 unit increase in average sessions/day would increase probability of player retaining to day 7 by 16%. This definitely proves that something about logging in everyday made players retain to D7. Pretty obvious when you say it out aloud but this let me put together a clear case to convince my team's Executive Producer as to why we should prioritise this project and the estimated impact of this project.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:table --></p>
@@ -1027,7 +1027,7 @@
 <p>Proceeding with this investigation - in Guild of Guardians, you get gold and other resources for playing. And you can use those resources to get powerful heroes, stronger swords, and sturdier shields to defeat bigger monsters. What's the catch? <strong>If you don't login in enough times</strong>, you can get as much gold as you're supposed to. So <strong>you're weaker</strong>, the boss is more difficult because your weapons are weaker. This perfectly <strong>aligned with the original observation that users were logging in less than once per daily were failing to defeat specific bosses and dungeons</strong>.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p>To make certain that I was chasing the correct lead, I asked the players in our Discord for feedback with a survey</p>
+<p>To make certain that I was chasing the correct lead, I ran a survey to understand the user stories behind the data.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"id":87,"sizeSlug":"full","linkDestination":"none","align":"center"} --></p>
 <figure class="wp-block-image aligncenter size-full wp-image-87 post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/Discord-Question.png" alt="" width="900" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Discord-Question-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/Discord-Question-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/Discord-Question-md.webp 768w ,https://bramha.work/media/posts/4/responsive/Discord-Question-lg.webp 1024w"></figure>
@@ -1055,30 +1055,47 @@
 </ol>
 </li>
 </ol>
-<p><strong>73% of the survey mentioned playing the game in-between life activities (ranging from work to errands).</strong></p>
-<p>This heavily indicated that users played in 1 or 2 empty blocks of time in between chores and errands.</p>
+<p> </p>
+<div style="background: #f7fafc; padding: 16px; border-radius: 8px; border: 1px solid #e2e8f0; text-align: center;">
+<div style="font-size: 1.5rem; font-weight: 800; color: #1a202c;">73%</div>
+<div style="font-size: 0.75rem; font-weight: bold; color: #2d3748; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">Responders played the game in-between life activities (ranging from work to errands)</div>
+</div>
+<p> </p>
+<p>This explained the average sessions per day being closer to 1.</p>
 <p><span style="text-decoration: underline;"><strong>Insight 2</strong></span></p>
-<p><strong>Some of the quotes from the survey about "how does the game's daily schedule feel" were quite revealing</strong></p>
+<p><strong>Some of the quotes from the survey about "Do you feel the game's timers fit in your day to day life" were quite revealing</strong></p>
 <ol>
 <li>"I feel the game punishes me for having a job, I usually play for an after work but this game punishes me for not playing 30 dedicated minutes twice or thrice in a day"</li>
 <li>"I spend 20-40 minutes to get to the good stuff and then just as I get to the juicy part the game tells me that I am out of energy"</li>
 <li>"I use my lunch break to do all the boring quest stuff so I can actually play the fun parts of the game later in the evening"</li>
 </ol>
-<p><strong>54% of the survey answers had a negative reception about the match between game's timers and their personal life schedules.</strong></p>
+<p> </p>
+<div style="background: #f7fafc; padding: 16px; border-radius: 8px; border: 1px solid #e2e8f0; text-align: center;">
+<div style="font-size: 1.5rem; font-weight: 800; color: #1a202c;">54%</div>
+<div style="font-size: 0.75rem; font-weight: bold; color: #2d3748; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">Responders did not feel the game timers matched their lifestyle</div>
+</div>
+<p> </p>
 <p><strong>Our game's energy system was practically interrupting users from getting into the flow state</strong> just as they were about to start enjoying their session.</p>
-<p><strong>This helped me craft a clear persona that we were designing for - The Casual Connoisseur. They are characterised by someone who spend thousand of hours in a game, but will play casually at the start as a trial it before commiting.</strong> </p>
 <p><span style="text-decoration: underline;"><strong>Insight 3</strong></span></p>
-<p><strong>A few responses to the question "do you have scheduled game time?" revealed some key insights.</strong></p>
+<p><strong>A few responses to the question "do you think about Guild of Guardians when you are not playing" revealed some key insights.</strong></p>
 <ol>
 <li>"I usually forget about the game till the notification reminds me that I have energy"</li>
-<li>"It's really just waiting till I get energy"</li>
+<li>"I got burned a few times by trying to time so now I just put it aside till I have energy and get the notification"</li>
 <li>"I want to play as soon as my energy is full but I can't since I'm at work which raises my anxiety about my progress"</li>
 </ol>
 <p><strong>21% of the survey answers outright mentioned that the game's timers did not line up with their schedules.</strong></p>
+<p> </p>
+<div style="background: #f7fafc; padding: 16px; border-radius: 8px; border: 1px solid #e2e8f0; text-align: center;">
+<div style="font-size: 1.5rem; font-weight: 800; color: #1a202c;">21%</div>
+<div style="font-size: 0.75rem; font-weight: bold; color: #2d3748; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">absolutely did not think about the game in between sessions</div>
+<div> </div>
+<div style="font-size: 1.5rem; font-weight: 800; color: #1a202c;">and 54%</div>
+<div style="font-size: 0.75rem; font-weight: bold; color: #2d3748; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">just passively waited to be reminded they had energy</div>
+</div>
 <p><span style="text-decoration: underline;">These were all retained, active players. I imagined the experience felt worse to new players.</span></p>
 <p><strong>The mismatch in the energy system and user lifestyle was creating negative feelings, and driving anticaption from loss rather than positive anticipation from expectation.</strong></p>
-<p><strong>All of these anecdotes higlighted that the original system did not take the user into consideration and was designed in a way to maximise vanity metrics like sessions per day and number of logins. Without considering the user, it not only failed but was actively harmful to important business goals like long term retention.</strong></p>
-<p>The data from the survey allowed me to visualise our users with a persona with clearly identifiable behaviours.</p>
+<p>All of these anecdotes higlighted that the original system did not take the user into consideration and was designed in a way to maximise vanity metrics like sessions per day and number of logins. Without considering the user, it not only failed but was actively harmful to important business goals like long term retention.</p>
+<p><strong>This exercise helped me craft a clear persona that represented the data and the feelings - The Casual Connoisseur. They are characterised by someone who spends thousand of hours in a game, but will play casually at the start as a trial it before commiting.</strong> </p>
 <figure class="post__image post__image--center"><img loading="lazy"  src="https://bramha.work/media/posts/4/Persona-3.png" alt="" width="900" height="480" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Persona-3-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/Persona-3-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/Persona-3-md.webp 768w ,https://bramha.work/media/posts/4/responsive/Persona-3-lg.webp 1024w"></figure>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
@@ -1365,7 +1382,7 @@
 <details class="wp-block-details" open="open">
 <summary>Read more about the nitty gritty math</summary>
 <!-- wp:paragraph {"placeholder":"Type / to add a hidden block"} --></details>
-<p>I ran a logistic regression test on D7 retention as the dependent binary variable and sessions per day as the independent continuous variable. Basically, I want to see how much session/day explain D7 retention as these are session per day till the 6th day. Turns out it only explain 24% of the variance in the model, but the result is statistically significant</p>
+<p>I ran a logistic regression test on D7 retention as the dependent binary variable and sessions per day as the independent continuous variable. Basically, I want to see how much session/day explain D7 retention as these are session per day till the 6th day. Turns out it explained 24% of the variance in a complex model like retention.</p>
 <p>The tl;dr of this table is that every 1 unit increase in average sessions/day would increase probability of player retaining to day 7 by 16%. This definitely proves that something about logging in everyday made players retain to D7. Pretty obvious when you say it out aloud but this let me put together a clear case to convince my team's Executive Producer as to why we should prioritise this project and the estimated impact of this project.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:table --></p>
@@ -1408,7 +1425,7 @@
 <p>Proceeding with this investigation - in Guild of Guardians, you get gold and other resources for playing. And you can use those resources to get powerful heroes, stronger swords, and sturdier shields to defeat bigger monsters. What's the catch? <strong>If you don't login in enough times</strong>, you can get as much gold as you're supposed to. So <strong>you're weaker</strong>, the boss is more difficult because your weapons are weaker. This perfectly <strong>aligned with the original observation that users were logging in less than once per daily were failing to defeat specific bosses and dungeons</strong>.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p>To make certain that I was chasing the correct lead, I asked the players in our Discord for feedback with a survey</p>
+<p>To make certain that I was chasing the correct lead, I ran a survey to understand the user stories behind the data.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"id":87,"sizeSlug":"full","linkDestination":"none","align":"center"} --></p>
 <figure class="wp-block-image aligncenter size-full wp-image-87 post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/Discord-Question.png" alt="" width="900" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Discord-Question-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/Discord-Question-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/Discord-Question-md.webp 768w ,https://bramha.work/media/posts/4/responsive/Discord-Question-lg.webp 1024w"></figure>
@@ -1436,30 +1453,47 @@
 </ol>
 </li>
 </ol>
-<p><strong>73% of the survey mentioned playing the game in-between life activities (ranging from work to errands).</strong></p>
-<p>This heavily indicated that users played in 1 or 2 empty blocks of time in between chores and errands.</p>
+<p> </p>
+<div style="background: #f7fafc; padding: 16px; border-radius: 8px; border: 1px solid #e2e8f0; text-align: center;">
+<div style="font-size: 1.5rem; font-weight: 800; color: #1a202c;">73%</div>
+<div style="font-size: 0.75rem; font-weight: bold; color: #2d3748; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">Responders played the game in-between life activities (ranging from work to errands)</div>
+</div>
+<p> </p>
+<p>This explained the average sessions per day being closer to 1.</p>
 <p><span style="text-decoration: underline;"><strong>Insight 2</strong></span></p>
-<p><strong>Some of the quotes from the survey about "how does the game's daily schedule feel" were quite revealing</strong></p>
+<p><strong>Some of the quotes from the survey about "Do you feel the game's timers fit in your day to day life" were quite revealing</strong></p>
 <ol>
 <li>"I feel the game punishes me for having a job, I usually play for an after work but this game punishes me for not playing 30 dedicated minutes twice or thrice in a day"</li>
 <li>"I spend 20-40 minutes to get to the good stuff and then just as I get to the juicy part the game tells me that I am out of energy"</li>
 <li>"I use my lunch break to do all the boring quest stuff so I can actually play the fun parts of the game later in the evening"</li>
 </ol>
-<p><strong>54% of the survey answers had a negative reception about the match between game's timers and their personal life schedules.</strong></p>
+<p> </p>
+<div style="background: #f7fafc; padding: 16px; border-radius: 8px; border: 1px solid #e2e8f0; text-align: center;">
+<div style="font-size: 1.5rem; font-weight: 800; color: #1a202c;">54%</div>
+<div style="font-size: 0.75rem; font-weight: bold; color: #2d3748; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">Responders did not feel the game timers matched their lifestyle</div>
+</div>
+<p> </p>
 <p><strong>Our game's energy system was practically interrupting users from getting into the flow state</strong> just as they were about to start enjoying their session.</p>
-<p><strong>This helped me craft a clear persona that we were designing for - The Casual Connoisseur. They are characterised by someone who spend thousand of hours in a game, but will play casually at the start as a trial it before commiting.</strong> </p>
 <p><span style="text-decoration: underline;"><strong>Insight 3</strong></span></p>
-<p><strong>A few responses to the question "do you have scheduled game time?" revealed some key insights.</strong></p>
+<p><strong>A few responses to the question "do you think about Guild of Guardians when you are not playing" revealed some key insights.</strong></p>
 <ol>
 <li>"I usually forget about the game till the notification reminds me that I have energy"</li>
-<li>"It's really just waiting till I get energy"</li>
+<li>"I got burned a few times by trying to time so now I just put it aside till I have energy and get the notification"</li>
 <li>"I want to play as soon as my energy is full but I can't since I'm at work which raises my anxiety about my progress"</li>
 </ol>
 <p><strong>21% of the survey answers outright mentioned that the game's timers did not line up with their schedules.</strong></p>
+<p> </p>
+<div style="background: #f7fafc; padding: 16px; border-radius: 8px; border: 1px solid #e2e8f0; text-align: center;">
+<div style="font-size: 1.5rem; font-weight: 800; color: #1a202c;">21%</div>
+<div style="font-size: 0.75rem; font-weight: bold; color: #2d3748; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">absolutely did not think about the game in between sessions</div>
+<div> </div>
+<div style="font-size: 1.5rem; font-weight: 800; color: #1a202c;">and 54%</div>
+<div style="font-size: 0.75rem; font-weight: bold; color: #2d3748; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">just passively waited to be reminded they had energy</div>
+</div>
 <p><span style="text-decoration: underline;">These were all retained, active players. I imagined the experience felt worse to new players.</span></p>
 <p><strong>The mismatch in the energy system and user lifestyle was creating negative feelings, and driving anticaption from loss rather than positive anticipation from expectation.</strong></p>
-<p><strong>All of these anecdotes higlighted that the original system did not take the user into consideration and was designed in a way to maximise vanity metrics like sessions per day and number of logins. Without considering the user, it not only failed but was actively harmful to important business goals like long term retention.</strong></p>
-<p>The data from the survey allowed me to visualise our users with a persona with clearly identifiable behaviours.</p>
+<p>All of these anecdotes higlighted that the original system did not take the user into consideration and was designed in a way to maximise vanity metrics like sessions per day and number of logins. Without considering the user, it not only failed but was actively harmful to important business goals like long term retention.</p>
+<p><strong>This exercise helped me craft a clear persona that represented the data and the feelings - The Casual Connoisseur. They are characterised by someone who spends thousand of hours in a game, but will play casually at the start as a trial it before commiting.</strong> </p>
 <figure class="post__image post__image--center"><img loading="lazy"  src="https://bramha.work/media/posts/4/Persona-3.png" alt="" width="900" height="480" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Persona-3-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/Persona-3-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/Persona-3-md.webp 768w ,https://bramha.work/media/posts/4/responsive/Persona-3-lg.webp 1024w"></figure>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
