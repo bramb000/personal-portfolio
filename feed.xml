@@ -3,7 +3,7 @@
     <title>Bramha Dalvi</title>
     <link href="https://bramha.work/feed.xml" rel="self" />
     <link href="https://bramha.work" />
-    <updated>2026-01-08T19:37:11+11:00</updated>
+    <updated>2026-01-08T19:45:10+11:00</updated>
     <author>
         <name>Bramha</name>
     </author>
@@ -1140,7 +1140,7 @@
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/Figma-User-Flow-Rough.png" alt="" width="900" height="434" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Figma-User-Flow-Rough-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/Figma-User-Flow-Rough-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/Figma-User-Flow-Rough-md.webp 768w ,https://bramha.work/media/posts/4/responsive/Figma-User-Flow-Rough-lg.webp 1024w">
 <figcaption>Mocking up a super quick user flow with greybox wireframes to validate the hypothesis</figcaption>
 </figure>
-<p>The first two iteration of the new feature screen were greybox wireframes to explore what was an appropriate amount of information</p>
+<p>My process starts with a brain dump and creating 5-6 quick sketches of a layout. Here are 2 concepts I stored from the general set of throwaway layouts I create.</p>
 <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="2">
 <figure class="gallery__item"><a href="https://bramha.work/media/posts/4/gallery/afk-rewards-test-1.png" data-size="2316x1080"><img loading="lazy" src="https://bramha.work/media/posts/4/gallery/afk-rewards-test-1-thumbnail.webp" alt="" width="768" height="358"></a>
 <figcaption>Iteration 1</figcaption>
@@ -1149,7 +1149,7 @@
 <figcaption>Iteration 2</figcaption>
 </figure>
 </div></div>
-<p><strong>I received heavy critical feedback</strong> from another UX designer and my team's UI designer <strong>that both these version were extremely content heavy.</strong> After brainstorming with the two of them for external perspective, I opted to remove some of the information and focused this screen on only delivering rewards, celebrating receiving rewards, and setting up goals for the users. <strong>I proceeded to take this input and make a high fidelity mockup.</strong></p>
+<p>After brainstorming with the another UX designer and the UI Artist for external perspective, I finalised one layout focused on delivering rewards, celebrating receiving rewards, and setting up goals for the users. <strong>I proceeded to make a high fidelity mockup of that version.</strong></p>
 <figure><figure class="post__image post__image--center"><img loading="lazy"  src="https://bramha.work/media/posts/4/Frame-23.png" alt="" width="900" height="420" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Frame-23-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/Frame-23-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/Frame-23-md.webp 768w ,https://bramha.work/media/posts/4/responsive/Frame-23-lg.webp 1024w"></figure>
 <figcaption>After - An AFK feature that helps user keep getting rewards while they are away from the game. I created this mockup in Figma</figcaption>
 </figure>
@@ -1219,7 +1219,7 @@
 </figure>
 <p>After analysing the data of what heroes they were using to fight, <strong>it turned out they were using weaker strategic teams</strong>. I went around the office and asked employees who did not work on Guild of Guardians but played it regularly for their unbiased feedback on this specific issue. Many of them replied with not knowing why an enemy was powerful to then be able to infer what is the best team of heroes to use against them and only being able to proceed after getting that information from other advanced players.</p>
 <p><strong>I wrote SQL queries to pull data of user behaviour from the last 60 days to validate this anecdotal data with statistically significant data.</strong></p>
-<figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/Screenshot-2025-12-30-080555.png" alt="" width="900" height="284" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Screenshot-2025-12-30-080555-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/Screenshot-2025-12-30-080555-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/Screenshot-2025-12-30-080555-md.webp 768w ,https://bramha.work/media/posts/4/responsive/Screenshot-2025-12-30-080555-lg.webp 1024w">
+<figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/Guardian-Usage-Data.png" alt="" width="1167" height="326" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Guardian-Usage-Data-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/Guardian-Usage-Data-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/Guardian-Usage-Data-md.webp 768w ,https://bramha.work/media/posts/4/responsive/Guardian-Usage-Data-lg.webp 1024w">
 <figcaption>I could see a clear difference in heroes used by successful players (on the left) vs unsuccessful players who quit the game (on the right) by looking at the data</figcaption>
 </figure>
 <p>After a quick workshop with my team we discovered that <strong>the easiest and simplest solution we arrived to was adding a reccomendation system</strong> using server wide hero usage data.</p>
@@ -1538,7 +1538,7 @@
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/Figma-User-Flow-Rough.png" alt="" width="900" height="434" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Figma-User-Flow-Rough-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/Figma-User-Flow-Rough-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/Figma-User-Flow-Rough-md.webp 768w ,https://bramha.work/media/posts/4/responsive/Figma-User-Flow-Rough-lg.webp 1024w">
 <figcaption>Mocking up a super quick user flow with greybox wireframes to validate the hypothesis</figcaption>
 </figure>
-<p>The first two iteration of the new feature screen were greybox wireframes to explore what was an appropriate amount of information</p>
+<p>My process starts with a brain dump and creating 5-6 quick sketches of a layout. Here are 2 concepts I stored from the general set of throwaway layouts I create.</p>
 <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="2">
 <figure class="gallery__item"><a href="https://bramha.work/media/posts/4/gallery/afk-rewards-test-1.png" data-size="2316x1080"><img loading="lazy" src="https://bramha.work/media/posts/4/gallery/afk-rewards-test-1-thumbnail.webp" alt="" width="768" height="358"></a>
 <figcaption>Iteration 1</figcaption>
@@ -1547,7 +1547,7 @@
 <figcaption>Iteration 2</figcaption>
 </figure>
 </div></div>
-<p><strong>I received heavy critical feedback</strong> from another UX designer and my team's UI designer <strong>that both these version were extremely content heavy.</strong> After brainstorming with the two of them for external perspective, I opted to remove some of the information and focused this screen on only delivering rewards, celebrating receiving rewards, and setting up goals for the users. <strong>I proceeded to take this input and make a high fidelity mockup.</strong></p>
+<p>After brainstorming with the another UX designer and the UI Artist for external perspective, I finalised one layout focused on delivering rewards, celebrating receiving rewards, and setting up goals for the users. <strong>I proceeded to make a high fidelity mockup of that version.</strong></p>
 <figure><figure class="post__image post__image--center"><img loading="lazy"  src="https://bramha.work/media/posts/4/Frame-23.png" alt="" width="900" height="420" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Frame-23-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/Frame-23-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/Frame-23-md.webp 768w ,https://bramha.work/media/posts/4/responsive/Frame-23-lg.webp 1024w"></figure>
 <figcaption>After - An AFK feature that helps user keep getting rewards while they are away from the game. I created this mockup in Figma</figcaption>
 </figure>
@@ -1617,7 +1617,7 @@
 </figure>
 <p>After analysing the data of what heroes they were using to fight, <strong>it turned out they were using weaker strategic teams</strong>. I went around the office and asked employees who did not work on Guild of Guardians but played it regularly for their unbiased feedback on this specific issue. Many of them replied with not knowing why an enemy was powerful to then be able to infer what is the best team of heroes to use against them and only being able to proceed after getting that information from other advanced players.</p>
 <p><strong>I wrote SQL queries to pull data of user behaviour from the last 60 days to validate this anecdotal data with statistically significant data.</strong></p>
-<figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/Screenshot-2025-12-30-080555.png" alt="" width="900" height="284" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Screenshot-2025-12-30-080555-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/Screenshot-2025-12-30-080555-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/Screenshot-2025-12-30-080555-md.webp 768w ,https://bramha.work/media/posts/4/responsive/Screenshot-2025-12-30-080555-lg.webp 1024w">
+<figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/Guardian-Usage-Data.png" alt="" width="1167" height="326" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Guardian-Usage-Data-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/Guardian-Usage-Data-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/Guardian-Usage-Data-md.webp 768w ,https://bramha.work/media/posts/4/responsive/Guardian-Usage-Data-lg.webp 1024w">
 <figcaption>I could see a clear difference in heroes used by successful players (on the left) vs unsuccessful players who quit the game (on the right) by looking at the data</figcaption>
 </figure>
 <p>After a quick workshop with my team we discovered that <strong>the easiest and simplest solution we arrived to was adding a reccomendation system</strong> using server wide hero usage data.</p>
@@ -1670,7 +1670,7 @@
 <p>With feedback from some other team members outside our team, everyone on my team eventually aligned that we want to reduce these two screens into one because players were falling into a habit of closing popups and we had to make a shorter, snappier interaction.</p>
 <p><strong>Stage 2 - Iteration 2 polished by the UI artist based on my guidelines and direction</strong>. I rejected this in an internal review as the moment of delight felt more like a sales offer from the get go than an additional benefit to a celebration. It included offer like wording like "Free" and an immediate follow up offer, making the free part look like a clear sales hook. I wanted to push for more subtelty.</p>
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/image-6.png" alt="" width="900" height="253" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/image-6-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/image-6-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/image-6-md.webp 768w ,https://bramha.work/media/posts/4/responsive/image-6-lg.webp 1024w"></figure>
-<p><strong>Stage 3 - Iteration 3 polished by the UI artist based on my feedback from Stage 2</strong>. We A/B tested this with 10% of our incoming new players as a 5% and 5% split, and it performed better than the existing offer. But I pushed the team to improve it from the stage 3 version as it not have any grounding in narrative context which was something we had feedback from late game players in our Discord who wished for more lore and context around why certain features exist. After all, they don't want to play a video game that could have just been a spreadsheet. So I really wanted to get started with lacing all in-game events with some narrative explanation to get our new players used to the fact that this is a rich and varied world.</p>
+<p><strong>Stage 3 - Iteration 3 polished by the UI artist based on my feedback from Stage 2</strong>. We A/B tested stage 3 with 10% of our incoming new players as a 5% and 5% split, and it performed better than the old offer. But I pushed the team to improve it from the stage 3 version as it not have any grounding in narrative context which was something we had feedback from late game players in our Discord who wished for more lore and context around why certain features exist. After all, they don't want to play a video game that could have just been a spreadsheet. So I really wanted to get started with lacing all in-game events with some narrative explanation to get our new players used to the fact that this is a rich and varied world.</p>
 <p><strong>We A/B tested the Stage 3 vs the final version in a similar setup and the final version outperformed this one by 4% on claiming the free hero and by over 10% on purchasing the offer!</strong></p>
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/image-4.png" alt="" width="900" height="259" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/image-4-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/image-4-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/image-4-md.webp 768w ,https://bramha.work/media/posts/4/responsive/image-4-lg.webp 1024w">
 <figcaption></figcaption>
@@ -1679,7 +1679,7 @@
 <h1>Result</h1>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p><strong>We saw our D7 retention increase by nearly 25% by the time all features were shipped.</strong></p>
+<p><strong>We saw our D7 retention increase by nearly 25% after all features were shipped.</strong></p>
 <p>If you remember the session per day distribution that I analysed at the start of this project, it started looking a normal distribution. The "average" fell down to 1.1, but more users were playing at least once per day and overall less users churned from the game and improved D7 retention.</p>
 <p>In nerd terms - the bimodal distribution eventually regressed to a normal distribution, and fewer overall players churned after solving user pain points. What this means was that we no longer had a k-shaped behaviour where the most engaged players were playing so much that it pulled the average up and gave us the wrong impression of the game.</p>
 <p>If you remember the initial data point that I looked at the beginning, the inference of the logistic regression model was that there is a 16% higher likelihood of users engaging if their sessions per day increased by 1 unit. Even though the average came down, within a sample, the number of total users experiencing higher sessions per day increase. This resulted in total net volume increase of retained users to day 7, and effectively increased day 7 retention.</p>
