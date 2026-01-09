@@ -3,7 +3,7 @@
     <title>Bramha Dalvi</title>
     <link href="https://bramha.work/feed.xml" rel="self" />
     <link href="https://bramha.work" />
-    <updated>2026-01-10T08:15:04+11:00</updated>
+    <updated>2026-01-10T08:27:48+11:00</updated>
     <author>
         <name>Bramha</name>
     </author>
@@ -948,7 +948,7 @@
 <p>Old user flow to use adventure energy, get rewards, upgrade, and fight</p>
 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/nJ4OENCLzkE" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <p>New user flow to get rewards as soon you open the game, upgrade, and get into combat</p>
-<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/P8ZZqfaNbpc" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/reWvwvFF8CQ" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="2">
 <figure class="gallery__item"><a href="https://bramha.work/media/posts/4/gallery/Screenshot_20250915_114738_Guild-of-Guardians-2.png" data-size="2316x1080"><img loading="lazy" src="https://bramha.work/media/posts/4/gallery/Screenshot_20250915_114738_Guild-of-Guardians-2-thumbnail.webp" alt="" width="768" height="358"></a></figure>
 <figure class="gallery__item"><a href="https://bramha.work/media/posts/4/gallery/Screenshot_20251105_150223_Guild-of-Guardians-1-2.png" data-size="2316x1080"><img loading="lazy" src="https://bramha.work/media/posts/4/gallery/Screenshot_20251105_150223_Guild-of-Guardians-1-2-thumbnail.webp" alt="" width="768" height="358"></a></figure>
@@ -1180,12 +1180,7 @@
 <figure>The complete AFK Rewards experience</figure>
 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/snkVRbZXBeM" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <p>Complete AFK Rewards loop</p>
-<p>The new loop rearranged the session</p>
-<ul>
-<li>Action 1 - As soon as you open the game, collect Rewards</li>
-<li>Action 2 - Use Rewards to quickly upgrade</li>
-<li>Action 3 - Jump straight into combat</li>
-</ul>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/reWvwvFF8CQ" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <p><span style="color: #02192b;">I ran a survey after the launch to gauge player sentiment</span></p>
 <p><span style="text-decoration: underline;">Question 1 - "What do you think of the new AFK Rewards?" (open ended)</span></p>
 <p>Some quotes</p>
@@ -1248,7 +1243,7 @@
 <figcaption>I could see a clear difference in heroes used by successful players (on the left) vs unsuccessful players who quit the game (on the right) by looking at the data</figcaption>
 </figure>
 <div style="background: #f7fafc; padding: 16px; border-radius: 8px; border: 1px solid #e2e8f0; text-align: center;">
-<div style="font-size: 1.5rem; font-weight: 800; color: #1a202c;">of those, about 50%</div>
+<div style="font-size: 1.5rem; font-weight: 800; color: #1a202c;">about 50% player who quit</div>
 <div style="font-size: 0.75rem; font-weight: bold; color: #2d3748; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">Made no changes to their comp between attempt #1 and #2</div>
 </div>
 <p> </p>
@@ -1405,7 +1400,7 @@
 <p>Old user flow to use adventure energy, get rewards, upgrade, and fight</p>
 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/nJ4OENCLzkE" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <p>New user flow to get rewards as soon you open the game, upgrade, and get into combat</p>
-<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/P8ZZqfaNbpc" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/reWvwvFF8CQ" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="2">
 <figure class="gallery__item"><a href="https://bramha.work/media/posts/4/gallery/Screenshot_20250915_114738_Guild-of-Guardians-2.png" data-size="2316x1080"><img loading="lazy" src="https://bramha.work/media/posts/4/gallery/Screenshot_20250915_114738_Guild-of-Guardians-2-thumbnail.webp" alt="" width="768" height="358"></a></figure>
 <figure class="gallery__item"><a href="https://bramha.work/media/posts/4/gallery/Screenshot_20251105_150223_Guild-of-Guardians-1-2.png" data-size="2316x1080"><img loading="lazy" src="https://bramha.work/media/posts/4/gallery/Screenshot_20251105_150223_Guild-of-Guardians-1-2-thumbnail.webp" alt="" width="768" height="358"></a></figure>
@@ -1637,12 +1632,7 @@
 <figure>The complete AFK Rewards experience</figure>
 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/snkVRbZXBeM" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <p>Complete AFK Rewards loop</p>
-<p>The new loop rearranged the session</p>
-<ul>
-<li>Action 1 - As soon as you open the game, collect Rewards</li>
-<li>Action 2 - Use Rewards to quickly upgrade</li>
-<li>Action 3 - Jump straight into combat</li>
-</ul>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/reWvwvFF8CQ" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <p><span style="color: #02192b;">I ran a survey after the launch to gauge player sentiment</span></p>
 <p><span style="text-decoration: underline;">Question 1 - "What do you think of the new AFK Rewards?" (open ended)</span></p>
 <p>Some quotes</p>
@@ -1705,7 +1695,7 @@
 <figcaption>I could see a clear difference in heroes used by successful players (on the left) vs unsuccessful players who quit the game (on the right) by looking at the data</figcaption>
 </figure>
 <div style="background: #f7fafc; padding: 16px; border-radius: 8px; border: 1px solid #e2e8f0; text-align: center;">
-<div style="font-size: 1.5rem; font-weight: 800; color: #1a202c;">of those, about 50%</div>
+<div style="font-size: 1.5rem; font-weight: 800; color: #1a202c;">about 50% player who quit</div>
 <div style="font-size: 0.75rem; font-weight: bold; color: #2d3748; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">Made no changes to their comp between attempt #1 and #2</div>
 </div>
 <p> </p>
