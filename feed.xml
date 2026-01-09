@@ -3,7 +3,7 @@
     <title>Bramha Dalvi</title>
     <link href="https://bramha.work/feed.xml" rel="self" />
     <link href="https://bramha.work" />
-    <updated>2026-01-10T08:38:14+11:00</updated>
+    <updated>2026-01-10T08:40:52+11:00</updated>
     <author>
         <name>Bramha</name>
     </author>
@@ -1256,6 +1256,7 @@
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/Guardian-Usage-Data.png" alt="" width="1167" height="326" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Guardian-Usage-Data-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/Guardian-Usage-Data-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/Guardian-Usage-Data-md.webp 768w ,https://bramha.work/media/posts/4/responsive/Guardian-Usage-Data-lg.webp 1024w">
 <figcaption>I could see a clear difference in heroes used by successful players (on the left) vs unsuccessful players who quit the game (on the right) by looking at the data</figcaption>
 </figure>
+<p> </p>
 <div style="background: #f7fafc; padding: 16px; border-radius: 8px; border: 1px solid #e2e8f0; text-align: center;">
 <div style="font-size: 1.5rem; font-weight: 800; color: #1a202c;">about 50% player who quit</div>
 <div style="font-size: 0.75rem; font-weight: bold; color: #2d3748; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">Made no changes to their comp between attempt #1 and #2</div>
@@ -1724,6 +1725,7 @@
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/Guardian-Usage-Data.png" alt="" width="1167" height="326" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Guardian-Usage-Data-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/Guardian-Usage-Data-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/Guardian-Usage-Data-md.webp 768w ,https://bramha.work/media/posts/4/responsive/Guardian-Usage-Data-lg.webp 1024w">
 <figcaption>I could see a clear difference in heroes used by successful players (on the left) vs unsuccessful players who quit the game (on the right) by looking at the data</figcaption>
 </figure>
+<p> </p>
 <div style="background: #f7fafc; padding: 16px; border-radius: 8px; border: 1px solid #e2e8f0; text-align: center;">
 <div style="font-size: 1.5rem; font-weight: 800; color: #1a202c;">about 50% player who quit</div>
 <div style="font-size: 0.75rem; font-weight: bold; color: #2d3748; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">Made no changes to their comp between attempt #1 and #2</div>
