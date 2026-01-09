@@ -3,7 +3,7 @@
     <title>Bramha Dalvi</title>
     <link href="https://bramha.work/feed.xml" rel="self" />
     <link href="https://bramha.work" />
-    <updated>2026-01-10T06:50:45+11:00</updated>
+    <updated>2026-01-10T08:07:50+11:00</updated>
     <author>
         <name>Bramha</name>
     </author>
@@ -945,9 +945,10 @@
 <li>Added moments of celebrations and paired them with in-app purchases to score a double win on retention and monetisation</li>
 </ol>
 <p>A quick before and after of the features and screens I worked on throughout this entire process</p>
-<figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/AFK-Rewards-Middle-Fidelity.png" alt="" width="900" height="420" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/AFK-Rewards-Middle-Fidelity-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/AFK-Rewards-Middle-Fidelity-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/AFK-Rewards-Middle-Fidelity-md.webp 768w ,https://bramha.work/media/posts/4/responsive/AFK-Rewards-Middle-Fidelity-lg.webp 1024w">
-<figcaption>One completely new feature</figcaption>
-</figure>
+<p>Old user flow to use adventure energy, get rewards, upgrade, and fight</p>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/nJ4OENCLzkE" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+<p>New user flow for the same</p>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/P8ZZqfaNbpc" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="2">
 <figure class="gallery__item"><a href="https://bramha.work/media/posts/4/gallery/Screenshot_20250915_114738_Guild-of-Guardians-2.png" data-size="2316x1080"><img loading="lazy" src="https://bramha.work/media/posts/4/gallery/Screenshot_20250915_114738_Guild-of-Guardians-2-thumbnail.webp" alt="" width="768" height="358"></a></figure>
 <figure class="gallery__item"><a href="https://bramha.work/media/posts/4/gallery/Screenshot_20251105_150223_Guild-of-Guardians-1-2.png" data-size="2316x1080"><img loading="lazy" src="https://bramha.work/media/posts/4/gallery/Screenshot_20251105_150223_Guild-of-Guardians-1-2-thumbnail.webp" alt="" width="768" height="358"></a></figure>
@@ -1059,12 +1060,11 @@
 <div style="font-size: 0.75rem; font-weight: bold; color: #2d3748; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">Responders played the game in-between life activities (ranging from work to errands)</div>
 </div>
 <p> </p>
-<p>This explained the average sessions per day being closer to 1.</p>
 <p><span style="text-decoration: underline;"><strong>Insight 2</strong></span></p>
 <p><strong>Some of the quotes from the survey about "Do you feel the game's timers fit in your day to day life" were quite revealing</strong></p>
 <ol>
 <li>"I feel the game punishes me for having a job, I usually play for an after work but this game punishes me for not playing 30 dedicated minutes twice or thrice in a day"</li>
-<li>"I spend 20-40 minutes to get to the good stuff and then just as I get to the juicy part the game tells me that I am out of energy"</li>
+<li>"I spend 15-20 minutes to get to the good stuff and then just as I get to the juicy part the game tells me that I am out of energy"</li>
 <li>"I use my lunch break to do all the boring quest stuff so I can actually play the fun parts of the game later in the evening"</li>
 </ol>
 <p> </p>
@@ -1081,13 +1081,13 @@
 <li>"I got burned a few times by trying to time so now I just put it aside till I have energy and get the notification"</li>
 <li>"I want to play as soon as my energy is full but I can't since I'm at work which raises my anxiety about my progress"</li>
 </ol>
-<p><strong>21% of the survey answers outright mentioned that the game's timers did not line up with their schedules.</strong></p>
+<p><strong>21% of the survey answers outright mentioned that they did not think about the game in between game sessions.</strong></p>
 <p> </p>
 <div style="background: #f7fafc; padding: 16px; border-radius: 8px; border: 1px solid #e2e8f0; text-align: center;">
 <div style="font-size: 1.5rem; font-weight: 800; color: #1a202c;">21%</div>
 <div style="font-size: 0.75rem; font-weight: bold; color: #2d3748; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">absolutely did not think about the game in between sessions</div>
 <div> </div>
-<div style="font-size: 1.5rem; font-weight: 800; color: #1a202c;">and 54%</div>
+<div style="font-size: 1.5rem; font-weight: 800; color: #1a202c;">and 31%</div>
 <div style="font-size: 0.75rem; font-weight: bold; color: #2d3748; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">just passively waited to be reminded a timer had reached 0</div>
 </div>
 <p> </p>
@@ -1173,13 +1173,34 @@
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/afk-tutorial.png" alt="" width="900" height="420" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/afk-tutorial-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/afk-tutorial-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/afk-tutorial-md.webp 768w ,https://bramha.work/media/posts/4/responsive/afk-tutorial-lg.webp 1024w">
 <figcaption>This is the quick and greybox tutorial I mocked up in Figma. This was eventually visually polished and animated by the UI artist before implementation</figcaption>
 </figure>
-<p><strong>Users found this feature to be much better aligned to their general lifestyle needs and felt it gave them agency to decide how and when to play the game.</strong> Some quotes from my user studies</p>
+<figure class="post__image"><img loading="lazy" src="https://bramha.work/media/posts/4/Figma-User-Flow-2.png" alt="" width="900" height="844" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Figma-User-Flow-2-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/Figma-User-Flow-2-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/Figma-User-Flow-2-md.webp 768w ,https://bramha.work/media/posts/4/responsive/Figma-User-Flow-2-lg.webp 1024w">
+<figcaption>This was the final mocked up user flow in an interactable Figma prototype.</figcaption>
+</figure>
+<figure></figure>
+<figure>The complete AFK Rewards experience</figure>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/snkVRbZXBeM" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+<p>Complete AFK Rewards loop</p>
+<p>The new loop rearranged the session</p>
+<ul>
+<li>Action 1 - As soon as you open the game, collect Rewards</li>
+<li>Action 2 - Use Rewards to quickly upgrade</li>
+<li>Action 3 - Jump straight into combat</li>
+</ul>
+<p><span style="color: #02192b;">I ran a survey after the launch to gauge player sentiment</span></p>
+<p><span style="text-decoration: underline;">Question 1 - "What do you think of the new AFK Rewards?" (open ended)</span></p>
+<p>Some quotes</p>
 <ol>
 <li>"I don't have to think about this game during work, which means I can fully focus on it after work"</li>
 <li>"The new system is far less annoying, I only have to open once a day and maybe twice if I really want rewards for the new events"</li>
 <li>"It's nice to get all my rewards at the start and then just go into playing. Earlier, I did not look forward to using energy for the 15 minutes before I got to start playing what I actually wanted"</li>
 <li>"Thank god y'all removed the arbitrary timer. Now I can consistently play every evening when I'm actually free"</li>
 </ol>
+<p><span style="text-decoration: underline;">Question 2 - "On a scale of 1 (Completely Disagree) to 5 (Completely Agree), do you feel the new timers and rewards make the overall game more enjoyable"</span></p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://bramha.work/media/posts/4/Screenshot-2026-01-10-075400-2.png" alt="" width="900" height="352" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Screenshot-2026-01-10-075400-2-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/Screenshot-2026-01-10-075400-2-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/Screenshot-2026-01-10-075400-2-md.webp 768w ,https://bramha.work/media/posts/4/responsive/Screenshot-2026-01-10-075400-2-lg.webp 1024w"></figure>
+<div style="background: #fff5f5; padding: 16px; border-radius: 8px; border: 1px solid #fed7d7; text-align: center;">
+<div style="font-size: 1.5rem; font-weight: 800; color: #9b2c2c;">72% responders</div>
+<div style="font-size: 0.75rem; font-weight: bold; color: #c53030; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">Completely agreed that this user flow improved the overall game</div>
+</div>
 <hr>
 <p>To close off the new game loop that I proposed, I <strong>added a quit screen</strong> that set goals and anticipation to encourage the user to come back.</p>
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/Screenshot_20251215_083431_Guild-of-Guardians.png" alt="" width="900" height="420" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Screenshot_20251215_083431_Guild-of-Guardians-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251215_083431_Guild-of-Guardians-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251215_083431_Guild-of-Guardians-md.webp 768w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251215_083431_Guild-of-Guardians-lg.webp 1024w">
@@ -1193,15 +1214,11 @@
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/figma_e1njfafc8a__1___1_.png" alt="" width="900" height="413" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/figma_e1njfafc8a__1___1_-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/figma_e1njfafc8a__1___1_-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/figma_e1njfafc8a__1___1_-md.webp 768w ,https://bramha.work/media/posts/4/responsive/figma_e1njfafc8a__1___1_-lg.webp 1024w">
 <figcaption>After - An exit screen that creates a timeline and clear goal for return time</figcaption>
 </figure>
-<p>This was the final mocked up user flow in an interactable Figma prototype.</p>
-<figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/Figma-User-Flow-2.png" alt="" width="900" height="844" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Figma-User-Flow-2-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/Figma-User-Flow-2-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/Figma-User-Flow-2-md.webp 768w ,https://bramha.work/media/posts/4/responsive/Figma-User-Flow-2-lg.webp 1024w">
-<figcaption></figcaption>
-</figure>
 <p><span style="color: #838383;"><em><!-- /wp:paragraph --></em></span></p>
-<p><span style="color: #000000; font-size: inherit;">Beyond just the UI and the visual user flow, there was a flaw in the progression design that would lead to an overall poor experience. The progression worked in such a way that players would unlock a weapon to create excitement, but by the time they collected all the gold to acquire that weapon, they would also simultaneously unlock the next sword. This dampened the excitement of the reward they just received in the form of the sword, and every milestone went from being an opportunity to celebrate to a moment of setting a new goal without acknowledgement. <br><br>The simplest fix was restructuring the existing progression in such a way that players would get all the gold required to unlock a sword over time, and they would unlock the new sword more or less around the time they got all the required gold. This created a satisfying moment upon return where players would get a sword after progressing through the campaign and immediately get to use it to kill stronger enemies. This was a pretty invisible and not related to the UI - but a highly impactful and under the hood change that made a world of difference. I need to be extra careful with this particular change as I did not want to give the player too many rewards and cannibalise monetisation.</span></p>
-<figure class="post__image post__image--center"><img loading="lazy" style="text-align: center; font-size: inherit;" src="https://bramha.work/media/posts/4/IMG_0495.png" alt="" width="900" height="419" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/IMG_0495-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/IMG_0495-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/IMG_0495-md.webp 768w ,https://bramha.work/media/posts/4/responsive/IMG_0495-lg.webp 1024w">
-<figcaption>User experience is a lot about feelings and sometimes those feelings are beyond the influence of pure visual design. I know this diagram is crazy but this was just in my internal notebook and my colleagues only received the final spreadsheet and the UI mockups :)</figcaption>
-</figure>
+<hr>
+<p><span style="color: #000000; font-size: inherit;">Beyond just the UI and the visual user flow, there was a flaw in the progression design that would lead to an overall poor experience. The progression worked in such a way that players would unlock a weapon to create excitement, but by the time they collected all the gold to acquire that weapon, they would also simultaneously unlock the next sword. This dampened the excitement of the reward they just received, and every milestone went from being an opportunity to celebrate to a moment of setting a new goal and ignoring the achievement.</span></p>
+<p><span style="color: #000000; font-size: inherit;">The simplest fix was restructuring the existing progression in such a way that players would get all the gold required to unlock a sword over time, and they would unlock the new sword more or less around the time they got all the required gold. This created a satisfying moment upon return where players would get a sword after progressing through the campaign and immediately get to use it to kill stronger enemies. This was a pretty invisible and not related to the UI - but a highly impactful and under the hood change that made a world of difference. I need to be extra careful with this particular change as I did not want to give the player too many rewards and cannibalise monetisation.</span></p>
+<p>User experience is a lot about feelings and sometimes those feelings are beyond the influence of pure visual design.</p>
 <p><span style="color: #838383;"><em><!-- wp:image {"id":93,"sizeSlug":"full","linkDestination":"none"} --></em></span></p>
 <p><!-- /wp:image --> <!-- /wp:details --></p>
 <p><!-- wp:paragraph --></p>
@@ -1210,7 +1227,7 @@
 <figure class="post__image post__image--center"></figure>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:separator --></p>
-<p> </p>
+<hr>
 <p>After implementing this feature, <strong>I found out through analysing further data as a retroanalysis that players would get stuck at specific dungeons in the campaign mode and they would quit the game after trying a few more times</strong>. This was a highly correlated factor to low D7 retention.</p>
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/Graph-of-players-attempting-and-quitting.png" alt="" width="900" height="354" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Graph-of-players-attempting-and-quitting-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/Graph-of-players-attempting-and-quitting-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/Graph-of-players-attempting-and-quitting-md.webp 768w ,https://bramha.work/media/posts/4/responsive/Graph-of-players-attempting-and-quitting-lg.webp 1024w">
 <figcaption>This is a graph of average attempts of a dungeon (denoted by columns) and sum of players who quit after attempting but never clearing that specific dungeon. I could easily observe many dungeons where users were basically hitting their head against a wall</figcaption>
@@ -1224,6 +1241,7 @@
 <div style="font-size: 0.75rem; font-weight: bold; color: #2d3748; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">had attempted and lost at the same dungeon 3+ times </div>
 </div>
 </div>
+<p> </p>
 <p>After analysing the data of what heroes they were using to fight, <strong>it turned out they were using weaker strategic teams</strong>. I went around the office and asked employees who did not work on Guild of Guardians but played it regularly for their unbiased feedback on this specific issue. Many of them replied with not knowing why an enemy was powerful to then be able to infer what is the best team of heroes to use against them and only being able to proceed after getting that information from other advanced players.</p>
 <p><strong>I wrote SQL queries to pull data of user behaviour from the last 60 days to validate this anecdotal data with statistically significant data.</strong></p>
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/Guardian-Usage-Data.png" alt="" width="1167" height="326" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Guardian-Usage-Data-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/Guardian-Usage-Data-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/Guardian-Usage-Data-md.webp 768w ,https://bramha.work/media/posts/4/responsive/Guardian-Usage-Data-lg.webp 1024w">
@@ -1233,6 +1251,7 @@
 <div style="font-size: 1.5rem; font-weight: 800; color: #1a202c;">of those, about 50%</div>
 <div style="font-size: 0.75rem; font-weight: bold; color: #2d3748; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">Made no changes to their comp between attempt #1 and #2</div>
 </div>
+<p> </p>
 <p>After a quick workshop with my team we discovered that <strong>the easiest and simplest solution we arrived to was adding a reccomendation system</strong> using server wide hero usage data.</p>
 <p>Here is how the experience looked like previously and then after the new feature was added</p>
 <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="2">
@@ -1268,14 +1287,19 @@
 <hr>
 <p>The <strong>next piece was to add a goal at the end of the 7 days to build anticipation</strong> and increase the odds of retaining to day 7.</p>
 <p>Since our game had a plethora of legendary heroes that players wanted and would open gacha for and hope to get, <strong>I created a 7 day reward that let you pick 1 legendary guardian. This let players experience choice and autonomy at the end of long commitment.</strong> The hypothesis was that delayed gratification would make players stay longer than day 7 in anticipation of further dopamine rushes. The UI design for this feature was specifically chosen to look like a countdown calendar so the players had something to look forward to not only the next day but also a bumper reward at the end of the week.</p>
+<p>This feature was not a big driver of early retention, but I observed a small bump in retention from Day 5 and Day 6 to Day 7 retention, which let me infer that this feature had great additional incentives for players who had already gotten over the earlier hurdles.</p>
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/Screenshot_20251210_075732_Guild-of-Guardians.png" alt="" width="900" height="420" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Screenshot_20251210_075732_Guild-of-Guardians-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251210_075732_Guild-of-Guardians-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251210_075732_Guild-of-Guardians-md.webp 768w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251210_075732_Guild-of-Guardians-lg.webp 1024w">
 <figcaption>Daily instant gratification rewards to create micro goals and a big delayed gratification reward at the end of the week with clear goals, context, and progress to create macro goals</figcaption>
 </figure>
+<div style="background: #fff5f5; padding: 16px; border-radius: 8px; border: 1px solid #fed7d7; text-align: center;">
+<div style="font-size: 1.5rem; font-weight: 800; color: #9b2c2c;">+3% increase</div>
+<div style="font-size: 0.75rem; font-weight: bold; color: #c53030; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">in day 6 to day 7 retention</div>
+</div>
 <hr>
 <p>One of the <strong>final changes that I added under this block of work was a moment of delight at getting the players first legendary hero</strong>. Originally players had to wait to get one from gacha or the newly implemented day 7 calendar rewards, but I added an explicit scripted moment to get the first legendary hero after defeating the first boss to make it feel celebratory and achieved by playing the game.</p>
 <p><strong>This decision was not informed by pre-prepared data as it is hard to analyse something that does not exist, so we A/B tested this implementation to see the impact.</strong> The <strong>players who got to experience this showed 38% higher likelihood of retaining to D7</strong> than players who did not, which was made obvious by seeing the usage data of that legendary hero to clear out the subsequent dungeons.</p>
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/image-3.png" alt="" width="700" height="396" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/image-3-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/image-3-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/image-3-md.webp 768w ,https://bramha.work/media/posts/4/responsive/image-3-lg.webp 1024w">
-<figcaption>I created this design in Figma with existing components of the design system as we did not have the availability of a UI designer for this feature</figcaption>
+<figcaption>I created this design in Figma with existing components of the design system as we did not have the availability of a UI designer for this feature. I got to exercise my visual design chops, although it would have been much faster and better with a dedicated visual designer</figcaption>
 </figure>
 <div style="background: #fff5f5; padding: 16px; border-radius: 8px; border: 1px solid #fed7d7; text-align: center;">
 <div style="font-size: 1.5rem; font-weight: 800; color: #9b2c2c;">+38% higher likelihood</div>
@@ -1378,9 +1402,10 @@
 <li>Added moments of celebrations and paired them with in-app purchases to score a double win on retention and monetisation</li>
 </ol>
 <p>A quick before and after of the features and screens I worked on throughout this entire process</p>
-<figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/AFK-Rewards-Middle-Fidelity.png" alt="" width="900" height="420" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/AFK-Rewards-Middle-Fidelity-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/AFK-Rewards-Middle-Fidelity-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/AFK-Rewards-Middle-Fidelity-md.webp 768w ,https://bramha.work/media/posts/4/responsive/AFK-Rewards-Middle-Fidelity-lg.webp 1024w">
-<figcaption>One completely new feature</figcaption>
-</figure>
+<p>Old user flow to use adventure energy, get rewards, upgrade, and fight</p>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/nJ4OENCLzkE" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+<p>New user flow for the same</p>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/P8ZZqfaNbpc" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="2">
 <figure class="gallery__item"><a href="https://bramha.work/media/posts/4/gallery/Screenshot_20250915_114738_Guild-of-Guardians-2.png" data-size="2316x1080"><img loading="lazy" src="https://bramha.work/media/posts/4/gallery/Screenshot_20250915_114738_Guild-of-Guardians-2-thumbnail.webp" alt="" width="768" height="358"></a></figure>
 <figure class="gallery__item"><a href="https://bramha.work/media/posts/4/gallery/Screenshot_20251105_150223_Guild-of-Guardians-1-2.png" data-size="2316x1080"><img loading="lazy" src="https://bramha.work/media/posts/4/gallery/Screenshot_20251105_150223_Guild-of-Guardians-1-2-thumbnail.webp" alt="" width="768" height="358"></a></figure>
@@ -1492,12 +1517,11 @@
 <div style="font-size: 0.75rem; font-weight: bold; color: #2d3748; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">Responders played the game in-between life activities (ranging from work to errands)</div>
 </div>
 <p> </p>
-<p>This explained the average sessions per day being closer to 1.</p>
 <p><span style="text-decoration: underline;"><strong>Insight 2</strong></span></p>
 <p><strong>Some of the quotes from the survey about "Do you feel the game's timers fit in your day to day life" were quite revealing</strong></p>
 <ol>
 <li>"I feel the game punishes me for having a job, I usually play for an after work but this game punishes me for not playing 30 dedicated minutes twice or thrice in a day"</li>
-<li>"I spend 20-40 minutes to get to the good stuff and then just as I get to the juicy part the game tells me that I am out of energy"</li>
+<li>"I spend 15-20 minutes to get to the good stuff and then just as I get to the juicy part the game tells me that I am out of energy"</li>
 <li>"I use my lunch break to do all the boring quest stuff so I can actually play the fun parts of the game later in the evening"</li>
 </ol>
 <p> </p>
@@ -1514,13 +1538,13 @@
 <li>"I got burned a few times by trying to time so now I just put it aside till I have energy and get the notification"</li>
 <li>"I want to play as soon as my energy is full but I can't since I'm at work which raises my anxiety about my progress"</li>
 </ol>
-<p><strong>21% of the survey answers outright mentioned that the game's timers did not line up with their schedules.</strong></p>
+<p><strong>21% of the survey answers outright mentioned that they did not think about the game in between game sessions.</strong></p>
 <p> </p>
 <div style="background: #f7fafc; padding: 16px; border-radius: 8px; border: 1px solid #e2e8f0; text-align: center;">
 <div style="font-size: 1.5rem; font-weight: 800; color: #1a202c;">21%</div>
 <div style="font-size: 0.75rem; font-weight: bold; color: #2d3748; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">absolutely did not think about the game in between sessions</div>
 <div> </div>
-<div style="font-size: 1.5rem; font-weight: 800; color: #1a202c;">and 54%</div>
+<div style="font-size: 1.5rem; font-weight: 800; color: #1a202c;">and 31%</div>
 <div style="font-size: 0.75rem; font-weight: bold; color: #2d3748; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">just passively waited to be reminded a timer had reached 0</div>
 </div>
 <p> </p>
@@ -1606,13 +1630,34 @@
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/afk-tutorial.png" alt="" width="900" height="420" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/afk-tutorial-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/afk-tutorial-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/afk-tutorial-md.webp 768w ,https://bramha.work/media/posts/4/responsive/afk-tutorial-lg.webp 1024w">
 <figcaption>This is the quick and greybox tutorial I mocked up in Figma. This was eventually visually polished and animated by the UI artist before implementation</figcaption>
 </figure>
-<p><strong>Users found this feature to be much better aligned to their general lifestyle needs and felt it gave them agency to decide how and when to play the game.</strong> Some quotes from my user studies</p>
+<figure class="post__image"><img loading="lazy" src="https://bramha.work/media/posts/4/Figma-User-Flow-2.png" alt="" width="900" height="844" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Figma-User-Flow-2-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/Figma-User-Flow-2-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/Figma-User-Flow-2-md.webp 768w ,https://bramha.work/media/posts/4/responsive/Figma-User-Flow-2-lg.webp 1024w">
+<figcaption>This was the final mocked up user flow in an interactable Figma prototype.</figcaption>
+</figure>
+<figure></figure>
+<figure>The complete AFK Rewards experience</figure>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/snkVRbZXBeM" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+<p>Complete AFK Rewards loop</p>
+<p>The new loop rearranged the session</p>
+<ul>
+<li>Action 1 - As soon as you open the game, collect Rewards</li>
+<li>Action 2 - Use Rewards to quickly upgrade</li>
+<li>Action 3 - Jump straight into combat</li>
+</ul>
+<p><span style="color: #02192b;">I ran a survey after the launch to gauge player sentiment</span></p>
+<p><span style="text-decoration: underline;">Question 1 - "What do you think of the new AFK Rewards?" (open ended)</span></p>
+<p>Some quotes</p>
 <ol>
 <li>"I don't have to think about this game during work, which means I can fully focus on it after work"</li>
 <li>"The new system is far less annoying, I only have to open once a day and maybe twice if I really want rewards for the new events"</li>
 <li>"It's nice to get all my rewards at the start and then just go into playing. Earlier, I did not look forward to using energy for the 15 minutes before I got to start playing what I actually wanted"</li>
 <li>"Thank god y'all removed the arbitrary timer. Now I can consistently play every evening when I'm actually free"</li>
 </ol>
+<p><span style="text-decoration: underline;">Question 2 - "On a scale of 1 (Completely Disagree) to 5 (Completely Agree), do you feel the new timers and rewards make the overall game more enjoyable"</span></p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://bramha.work/media/posts/4/Screenshot-2026-01-10-075400-2.png" alt="" width="900" height="352" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Screenshot-2026-01-10-075400-2-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/Screenshot-2026-01-10-075400-2-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/Screenshot-2026-01-10-075400-2-md.webp 768w ,https://bramha.work/media/posts/4/responsive/Screenshot-2026-01-10-075400-2-lg.webp 1024w"></figure>
+<div style="background: #fff5f5; padding: 16px; border-radius: 8px; border: 1px solid #fed7d7; text-align: center;">
+<div style="font-size: 1.5rem; font-weight: 800; color: #9b2c2c;">72% responders</div>
+<div style="font-size: 0.75rem; font-weight: bold; color: #c53030; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">Completely agreed that this user flow improved the overall game</div>
+</div>
 <hr>
 <p>To close off the new game loop that I proposed, I <strong>added a quit screen</strong> that set goals and anticipation to encourage the user to come back.</p>
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/Screenshot_20251215_083431_Guild-of-Guardians.png" alt="" width="900" height="420" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Screenshot_20251215_083431_Guild-of-Guardians-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251215_083431_Guild-of-Guardians-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251215_083431_Guild-of-Guardians-md.webp 768w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251215_083431_Guild-of-Guardians-lg.webp 1024w">
@@ -1626,15 +1671,11 @@
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/figma_e1njfafc8a__1___1_.png" alt="" width="900" height="413" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/figma_e1njfafc8a__1___1_-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/figma_e1njfafc8a__1___1_-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/figma_e1njfafc8a__1___1_-md.webp 768w ,https://bramha.work/media/posts/4/responsive/figma_e1njfafc8a__1___1_-lg.webp 1024w">
 <figcaption>After - An exit screen that creates a timeline and clear goal for return time</figcaption>
 </figure>
-<p>This was the final mocked up user flow in an interactable Figma prototype.</p>
-<figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/Figma-User-Flow-2.png" alt="" width="900" height="844" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Figma-User-Flow-2-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/Figma-User-Flow-2-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/Figma-User-Flow-2-md.webp 768w ,https://bramha.work/media/posts/4/responsive/Figma-User-Flow-2-lg.webp 1024w">
-<figcaption></figcaption>
-</figure>
 <p><span style="color: #838383;"><em><!-- /wp:paragraph --></em></span></p>
-<p><span style="color: #000000; font-size: inherit;">Beyond just the UI and the visual user flow, there was a flaw in the progression design that would lead to an overall poor experience. The progression worked in such a way that players would unlock a weapon to create excitement, but by the time they collected all the gold to acquire that weapon, they would also simultaneously unlock the next sword. This dampened the excitement of the reward they just received in the form of the sword, and every milestone went from being an opportunity to celebrate to a moment of setting a new goal without acknowledgement. <br><br>The simplest fix was restructuring the existing progression in such a way that players would get all the gold required to unlock a sword over time, and they would unlock the new sword more or less around the time they got all the required gold. This created a satisfying moment upon return where players would get a sword after progressing through the campaign and immediately get to use it to kill stronger enemies. This was a pretty invisible and not related to the UI - but a highly impactful and under the hood change that made a world of difference. I need to be extra careful with this particular change as I did not want to give the player too many rewards and cannibalise monetisation.</span></p>
-<figure class="post__image post__image--center"><img loading="lazy" style="text-align: center; font-size: inherit;" src="https://bramha.work/media/posts/4/IMG_0495.png" alt="" width="900" height="419" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/IMG_0495-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/IMG_0495-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/IMG_0495-md.webp 768w ,https://bramha.work/media/posts/4/responsive/IMG_0495-lg.webp 1024w">
-<figcaption>User experience is a lot about feelings and sometimes those feelings are beyond the influence of pure visual design. I know this diagram is crazy but this was just in my internal notebook and my colleagues only received the final spreadsheet and the UI mockups :)</figcaption>
-</figure>
+<hr>
+<p><span style="color: #000000; font-size: inherit;">Beyond just the UI and the visual user flow, there was a flaw in the progression design that would lead to an overall poor experience. The progression worked in such a way that players would unlock a weapon to create excitement, but by the time they collected all the gold to acquire that weapon, they would also simultaneously unlock the next sword. This dampened the excitement of the reward they just received, and every milestone went from being an opportunity to celebrate to a moment of setting a new goal and ignoring the achievement.</span></p>
+<p><span style="color: #000000; font-size: inherit;">The simplest fix was restructuring the existing progression in such a way that players would get all the gold required to unlock a sword over time, and they would unlock the new sword more or less around the time they got all the required gold. This created a satisfying moment upon return where players would get a sword after progressing through the campaign and immediately get to use it to kill stronger enemies. This was a pretty invisible and not related to the UI - but a highly impactful and under the hood change that made a world of difference. I need to be extra careful with this particular change as I did not want to give the player too many rewards and cannibalise monetisation.</span></p>
+<p>User experience is a lot about feelings and sometimes those feelings are beyond the influence of pure visual design.</p>
 <p><span style="color: #838383;"><em><!-- wp:image {"id":93,"sizeSlug":"full","linkDestination":"none"} --></em></span></p>
 <p><!-- /wp:image --> <!-- /wp:details --></p>
 <p><!-- wp:paragraph --></p>
@@ -1643,7 +1684,7 @@
 <figure class="post__image post__image--center"></figure>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:separator --></p>
-<p> </p>
+<hr>
 <p>After implementing this feature, <strong>I found out through analysing further data as a retroanalysis that players would get stuck at specific dungeons in the campaign mode and they would quit the game after trying a few more times</strong>. This was a highly correlated factor to low D7 retention.</p>
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/Graph-of-players-attempting-and-quitting.png" alt="" width="900" height="354" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Graph-of-players-attempting-and-quitting-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/Graph-of-players-attempting-and-quitting-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/Graph-of-players-attempting-and-quitting-md.webp 768w ,https://bramha.work/media/posts/4/responsive/Graph-of-players-attempting-and-quitting-lg.webp 1024w">
 <figcaption>This is a graph of average attempts of a dungeon (denoted by columns) and sum of players who quit after attempting but never clearing that specific dungeon. I could easily observe many dungeons where users were basically hitting their head against a wall</figcaption>
@@ -1657,6 +1698,7 @@
 <div style="font-size: 0.75rem; font-weight: bold; color: #2d3748; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">had attempted and lost at the same dungeon 3+ times </div>
 </div>
 </div>
+<p> </p>
 <p>After analysing the data of what heroes they were using to fight, <strong>it turned out they were using weaker strategic teams</strong>. I went around the office and asked employees who did not work on Guild of Guardians but played it regularly for their unbiased feedback on this specific issue. Many of them replied with not knowing why an enemy was powerful to then be able to infer what is the best team of heroes to use against them and only being able to proceed after getting that information from other advanced players.</p>
 <p><strong>I wrote SQL queries to pull data of user behaviour from the last 60 days to validate this anecdotal data with statistically significant data.</strong></p>
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/Guardian-Usage-Data.png" alt="" width="1167" height="326" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Guardian-Usage-Data-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/Guardian-Usage-Data-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/Guardian-Usage-Data-md.webp 768w ,https://bramha.work/media/posts/4/responsive/Guardian-Usage-Data-lg.webp 1024w">
@@ -1666,6 +1708,7 @@
 <div style="font-size: 1.5rem; font-weight: 800; color: #1a202c;">of those, about 50%</div>
 <div style="font-size: 0.75rem; font-weight: bold; color: #2d3748; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">Made no changes to their comp between attempt #1 and #2</div>
 </div>
+<p> </p>
 <p>After a quick workshop with my team we discovered that <strong>the easiest and simplest solution we arrived to was adding a reccomendation system</strong> using server wide hero usage data.</p>
 <p>Here is how the experience looked like previously and then after the new feature was added</p>
 <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="2">
@@ -1701,14 +1744,19 @@
 <hr>
 <p>The <strong>next piece was to add a goal at the end of the 7 days to build anticipation</strong> and increase the odds of retaining to day 7.</p>
 <p>Since our game had a plethora of legendary heroes that players wanted and would open gacha for and hope to get, <strong>I created a 7 day reward that let you pick 1 legendary guardian. This let players experience choice and autonomy at the end of long commitment.</strong> The hypothesis was that delayed gratification would make players stay longer than day 7 in anticipation of further dopamine rushes. The UI design for this feature was specifically chosen to look like a countdown calendar so the players had something to look forward to not only the next day but also a bumper reward at the end of the week.</p>
+<p>This feature was not a big driver of early retention, but I observed a small bump in retention from Day 5 and Day 6 to Day 7 retention, which let me infer that this feature had great additional incentives for players who had already gotten over the earlier hurdles.</p>
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/Screenshot_20251210_075732_Guild-of-Guardians.png" alt="" width="900" height="420" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Screenshot_20251210_075732_Guild-of-Guardians-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251210_075732_Guild-of-Guardians-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251210_075732_Guild-of-Guardians-md.webp 768w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251210_075732_Guild-of-Guardians-lg.webp 1024w">
 <figcaption>Daily instant gratification rewards to create micro goals and a big delayed gratification reward at the end of the week with clear goals, context, and progress to create macro goals</figcaption>
 </figure>
+<div style="background: #fff5f5; padding: 16px; border-radius: 8px; border: 1px solid #fed7d7; text-align: center;">
+<div style="font-size: 1.5rem; font-weight: 800; color: #9b2c2c;">+3% increase</div>
+<div style="font-size: 0.75rem; font-weight: bold; color: #c53030; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">in day 6 to day 7 retention</div>
+</div>
 <hr>
 <p>One of the <strong>final changes that I added under this block of work was a moment of delight at getting the players first legendary hero</strong>. Originally players had to wait to get one from gacha or the newly implemented day 7 calendar rewards, but I added an explicit scripted moment to get the first legendary hero after defeating the first boss to make it feel celebratory and achieved by playing the game.</p>
 <p><strong>This decision was not informed by pre-prepared data as it is hard to analyse something that does not exist, so we A/B tested this implementation to see the impact.</strong> The <strong>players who got to experience this showed 38% higher likelihood of retaining to D7</strong> than players who did not, which was made obvious by seeing the usage data of that legendary hero to clear out the subsequent dungeons.</p>
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/image-3.png" alt="" width="700" height="396" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/image-3-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/image-3-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/image-3-md.webp 768w ,https://bramha.work/media/posts/4/responsive/image-3-lg.webp 1024w">
-<figcaption>I created this design in Figma with existing components of the design system as we did not have the availability of a UI designer for this feature</figcaption>
+<figcaption>I created this design in Figma with existing components of the design system as we did not have the availability of a UI designer for this feature. I got to exercise my visual design chops, although it would have been much faster and better with a dedicated visual designer</figcaption>
 </figure>
 <div style="background: #fff5f5; padding: 16px; border-radius: 8px; border: 1px solid #fed7d7; text-align: center;">
 <div style="font-size: 1.5rem; font-weight: 800; color: #9b2c2c;">+38% higher likelihood</div>
