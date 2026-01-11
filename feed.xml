@@ -3,7 +3,7 @@
     <title>Bramha Dalvi</title>
     <link href="https://bramha.work/feed.xml" rel="self" />
     <link href="https://bramha.work" />
-    <updated>2026-01-11T06:34:22+11:00</updated>
+    <updated>2026-01-11T13:09:17+11:00</updated>
     <author>
         <name>Bramha</name>
     </author>
@@ -1030,12 +1030,12 @@
 </figure>
 <p><!-- /wp:table --></p>
 <p><!-- wp:paragraph --></p>
-<br>
+<p> </p>
 <div style="background: #f7fafc; padding: 16px; border-radius: 8px; border: 1px solid #e2e8f0; text-align: center;">
 <div style="font-size: 1.5rem; font-weight: 800; color: #1a202c;">Every 1 unit increase in sessions/day</div>
 <div style="font-size: 0.75rem; font-weight: bold; color: #2d3748; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">was 16% higher likelihood of retaning to 7 days</div>
 </div>
-<br>
+<p> </p>
 <p>In a world where I had more time, I would have loved to create a multivariable regression model exploring the relationship of D7 retention to session per day, session length (how long did you play each time), activation days (number of unique days played), activation days density (did you play a lot at the start or evenly spread), and game inventory linked to account level i.e. did player progress enough or feel accomplished enough to want to return the next day. Alas, for another day.</p>
 <hr>
 <p><!-- /wp:paragraph --> <!-- /wp:details --></p>
@@ -1087,7 +1087,7 @@
 <li>"I spend 15-20 minutes to get to the good stuff and then just as I get to the juicy part the game tells me that I am out of energy"</li>
 <li>"I use my lunch break to do all the boring quest stuff so I can actually play the fun parts of the game later in the evening"</li>
 </ol>
-<p> </p>
+<br>
 <div style="background: #f7fafc; padding: 16px; border-radius: 8px; border: 1px solid #e2e8f0; text-align: center;">
 <div style="font-size: 1.5rem; font-weight: 800; color: #1a202c;">54%</div>
 <div style="font-size: 0.75rem; font-weight: bold; color: #2d3748; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">Responders did not feel the game timers matched their lifestyle</div>
@@ -1102,7 +1102,7 @@
 <li>"I want to play as soon as my energy is full but I can't since I'm at work which raises my anxiety about my progress"</li>
 </ol>
 <p><strong>21% of the survey answers outright mentioned that they did not think about the game in between game sessions.</strong></p>
-<p> </p>
+<br>
 <div style="background: #f7fafc; padding: 16px; border-radius: 8px; border: 1px solid #e2e8f0; text-align: center;">
 <div style="font-size: 1.5rem; font-weight: 800; color: #1a202c;">21%</div>
 <div style="font-size: 0.75rem; font-weight: bold; color: #2d3748; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">absolutely did not think about the game in between sessions</div>
@@ -1110,7 +1110,7 @@
 <div style="font-size: 1.5rem; font-weight: 800; color: #1a202c;">and 36%</div>
 <div style="font-size: 0.75rem; font-weight: bold; color: #2d3748; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">just passively waited to be reminded a timer had reached 0</div>
 </div>
-<p> </p>
+<br>
 <p><span style="text-decoration: underline;">These were all retained, active players. I imagined the experience felt worse to new players.</span></p>
 <p><strong>The mismatch in the energy system and user lifestyle was creating negative feelings, and driving anticaption from loss rather than positive anticipation from expectation.</strong></p>
 <p>All of these anecdotes higlighted that the original system did not take the user into consideration and was designed in a way to maximise vanity metrics like sessions per day and number of logins. Without considering the user, it not only failed but was actively harmful to important business goals like long term retention.</p>
@@ -1262,8 +1262,9 @@
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/Guardian-Usage-Data.png" alt="" width="1167" height="326" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Guardian-Usage-Data-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/Guardian-Usage-Data-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/Guardian-Usage-Data-md.webp 768w ,https://bramha.work/media/posts/4/responsive/Guardian-Usage-Data-lg.webp 1024w">
 <figcaption>I could see a clear difference in heroes used by successful players (on the left) vs unsuccessful players who quit the game (on the right) by looking at the data</figcaption>
 </figure>
+<br>
 <div style="background: #f7fafc; padding: 16px; border-radius: 8px; border: 1px solid #e2e8f0; text-align: center;">
-<div style="font-size: 1.5rem; font-weight: 800; color: #1a202c;">about 50% player who quit</div>
+<div style="font-size: 1.5rem; font-weight: 800; color: #1a202c;">about 50% users who quit</div>
 <div style="font-size: 0.75rem; font-weight: bold; color: #2d3748; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">Made no changes to their comp between attempt #1 and #2</div>
 </div>
 <p> </p>
@@ -1278,7 +1279,7 @@
 </figure>
 </div></div>
 <p><strong>This feature was tricky to analyse because the feature was not clickable for the user</strong>, they could only read this information. So I had no direct way of knowing if it was helping or not. A proxy data point I used was to observe how many users used teams that were different from the recommendations in their first attempt and then used the recommended team in the next attempt to then clear the dungeon. The success of this funnel was increasing for multiple weeks until it settled around 70% (basically 70% of the players changed their team to the recommended team in their 2nd attempt to go on to complete the dungeon), so <strong>I could infer that users got actionable information from this feature to be able to positively impact their ability to win.</strong></p>
-<p> </p>
+<br>
 <div style="background: #fff5f5; padding: 16px; border-radius: 8px; border: 1px solid #fed7d7; text-align: center;">
 <div style="font-size: 1.5rem; font-weight: 800; color: #9b2c2c;">70% users</div>
 <div style="font-size: 0.75rem; font-weight: bold; color: #c53030; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">Changed their comp after loss #1 (up from 50%)</div>
@@ -1306,7 +1307,6 @@
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/Screenshot_20251210_075732_Guild-of-Guardians.png" alt="" width="900" height="420" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Screenshot_20251210_075732_Guild-of-Guardians-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251210_075732_Guild-of-Guardians-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251210_075732_Guild-of-Guardians-md.webp 768w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251210_075732_Guild-of-Guardians-lg.webp 1024w">
 <figcaption>Daily instant gratification rewards to create micro goals and a big delayed gratification reward at the end of the week with clear goals, context, and progress to create macro goals</figcaption>
 </figure>
-<br>
 <div style="background: #fff5f5; padding: 16px; border-radius: 8px; border: 1px solid #fed7d7; text-align: center;">
 <div style="font-size: 1.5rem; font-weight: 800; color: #9b2c2c;">+3% increase</div>
 <div style="font-size: 0.75rem; font-weight: bold; color: #c53030; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">in day 6 to day 7 retention</div>
@@ -1317,6 +1317,7 @@
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/image-3.png" alt="" width="700" height="396" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/image-3-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/image-3-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/image-3-md.webp 768w ,https://bramha.work/media/posts/4/responsive/image-3-lg.webp 1024w">
 <figcaption>I created this design in Figma with existing components of the design system as we did not have the availability of a UI designer for this feature. I got to exercise my visual design chops, although it would have been much faster and better with a dedicated visual designer</figcaption>
 </figure>
+<br>
 <div style="background: #fff5f5; padding: 16px; border-radius: 8px; border: 1px solid #fed7d7; text-align: center;">
 <div style="font-size: 1.5rem; font-weight: 800; color: #9b2c2c;">+38% higher likelihood</div>
 <div style="font-size: 0.75rem; font-weight: bold; color: #c53030; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">a user who received would retain compared to one who did not</div>
@@ -1325,6 +1326,7 @@
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/Screenshot_20251117_090321_Guild-of-Guardians.png" alt="" width="900" height="420" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Screenshot_20251117_090321_Guild-of-Guardians-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251117_090321_Guild-of-Guardians-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251117_090321_Guild-of-Guardians-md.webp 768w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251117_090321_Guild-of-Guardians-lg.webp 1024w">
 <figcaption>Before - The old offer had no context and was not paired with a moment of delight. Data showed that 99% of players closed the popup in under 1 second, and the team hypothesised together that a low quality offer is actually detrimental to retention</figcaption>
 </figure>
+<br>
 <div style="background: #f7fafc; padding: 16px; border-radius: 8px; border: 1px solid #e2e8f0; text-align: center;">
 <div style="font-size: 1.5rem; font-weight: 800; color: #1a202c;">99.9% users</div>
 <div style="font-size: 0.75rem; font-weight: bold; color: #2d3748; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">Closed this popup instantly</div>
@@ -1332,6 +1334,7 @@
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/New-Offer.png" alt="" width="900" height="420" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/New-Offer-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/New-Offer-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/New-Offer-md.webp 768w ,https://bramha.work/media/posts/4/responsive/New-Offer-lg.webp 1024w">
 <figcaption>After - The new offer had context and clear value proposition along with an improved presentation. I was confident in it's ability to outperform the old offer</figcaption>
 </figure>
+<br>
 <div style="background: #fff5f5; padding: 16px; border-radius: 8px; border: 1px solid #fed7d7; text-align: center;">
 <div style="font-size: 1.5rem; font-weight: 800; color: #9b2c2c;">More than doubled</div>
 <div style="font-size: 0.75rem; font-weight: bold; color: #c53030; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">purchases compared to the old offer</div>
@@ -1505,12 +1508,12 @@
 </figure>
 <p><!-- /wp:table --></p>
 <p><!-- wp:paragraph --></p>
-<br>
+<p> </p>
 <div style="background: #f7fafc; padding: 16px; border-radius: 8px; border: 1px solid #e2e8f0; text-align: center;">
 <div style="font-size: 1.5rem; font-weight: 800; color: #1a202c;">Every 1 unit increase in sessions/day</div>
 <div style="font-size: 0.75rem; font-weight: bold; color: #2d3748; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">was 16% higher likelihood of retaning to 7 days</div>
 </div>
-<br>
+<p> </p>
 <p>In a world where I had more time, I would have loved to create a multivariable regression model exploring the relationship of D7 retention to session per day, session length (how long did you play each time), activation days (number of unique days played), activation days density (did you play a lot at the start or evenly spread), and game inventory linked to account level i.e. did player progress enough or feel accomplished enough to want to return the next day. Alas, for another day.</p>
 <hr>
 <p><!-- /wp:paragraph --> <!-- /wp:details --></p>
@@ -1562,7 +1565,7 @@
 <li>"I spend 15-20 minutes to get to the good stuff and then just as I get to the juicy part the game tells me that I am out of energy"</li>
 <li>"I use my lunch break to do all the boring quest stuff so I can actually play the fun parts of the game later in the evening"</li>
 </ol>
-<p> </p>
+<br>
 <div style="background: #f7fafc; padding: 16px; border-radius: 8px; border: 1px solid #e2e8f0; text-align: center;">
 <div style="font-size: 1.5rem; font-weight: 800; color: #1a202c;">54%</div>
 <div style="font-size: 0.75rem; font-weight: bold; color: #2d3748; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">Responders did not feel the game timers matched their lifestyle</div>
@@ -1577,7 +1580,7 @@
 <li>"I want to play as soon as my energy is full but I can't since I'm at work which raises my anxiety about my progress"</li>
 </ol>
 <p><strong>21% of the survey answers outright mentioned that they did not think about the game in between game sessions.</strong></p>
-<p> </p>
+<br>
 <div style="background: #f7fafc; padding: 16px; border-radius: 8px; border: 1px solid #e2e8f0; text-align: center;">
 <div style="font-size: 1.5rem; font-weight: 800; color: #1a202c;">21%</div>
 <div style="font-size: 0.75rem; font-weight: bold; color: #2d3748; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">absolutely did not think about the game in between sessions</div>
@@ -1585,7 +1588,7 @@
 <div style="font-size: 1.5rem; font-weight: 800; color: #1a202c;">and 36%</div>
 <div style="font-size: 0.75rem; font-weight: bold; color: #2d3748; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">just passively waited to be reminded a timer had reached 0</div>
 </div>
-<p> </p>
+<br>
 <p><span style="text-decoration: underline;">These were all retained, active players. I imagined the experience felt worse to new players.</span></p>
 <p><strong>The mismatch in the energy system and user lifestyle was creating negative feelings, and driving anticaption from loss rather than positive anticipation from expectation.</strong></p>
 <p>All of these anecdotes higlighted that the original system did not take the user into consideration and was designed in a way to maximise vanity metrics like sessions per day and number of logins. Without considering the user, it not only failed but was actively harmful to important business goals like long term retention.</p>
@@ -1737,8 +1740,9 @@
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/Guardian-Usage-Data.png" alt="" width="1167" height="326" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Guardian-Usage-Data-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/Guardian-Usage-Data-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/Guardian-Usage-Data-md.webp 768w ,https://bramha.work/media/posts/4/responsive/Guardian-Usage-Data-lg.webp 1024w">
 <figcaption>I could see a clear difference in heroes used by successful players (on the left) vs unsuccessful players who quit the game (on the right) by looking at the data</figcaption>
 </figure>
+<br>
 <div style="background: #f7fafc; padding: 16px; border-radius: 8px; border: 1px solid #e2e8f0; text-align: center;">
-<div style="font-size: 1.5rem; font-weight: 800; color: #1a202c;">about 50% player who quit</div>
+<div style="font-size: 1.5rem; font-weight: 800; color: #1a202c;">about 50% users who quit</div>
 <div style="font-size: 0.75rem; font-weight: bold; color: #2d3748; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">Made no changes to their comp between attempt #1 and #2</div>
 </div>
 <p> </p>
@@ -1753,7 +1757,7 @@
 </figure>
 </div></div>
 <p><strong>This feature was tricky to analyse because the feature was not clickable for the user</strong>, they could only read this information. So I had no direct way of knowing if it was helping or not. A proxy data point I used was to observe how many users used teams that were different from the recommendations in their first attempt and then used the recommended team in the next attempt to then clear the dungeon. The success of this funnel was increasing for multiple weeks until it settled around 70% (basically 70% of the players changed their team to the recommended team in their 2nd attempt to go on to complete the dungeon), so <strong>I could infer that users got actionable information from this feature to be able to positively impact their ability to win.</strong></p>
-<p> </p>
+<br>
 <div style="background: #fff5f5; padding: 16px; border-radius: 8px; border: 1px solid #fed7d7; text-align: center;">
 <div style="font-size: 1.5rem; font-weight: 800; color: #9b2c2c;">70% users</div>
 <div style="font-size: 0.75rem; font-weight: bold; color: #c53030; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">Changed their comp after loss #1 (up from 50%)</div>
@@ -1781,7 +1785,6 @@
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/Screenshot_20251210_075732_Guild-of-Guardians.png" alt="" width="900" height="420" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Screenshot_20251210_075732_Guild-of-Guardians-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251210_075732_Guild-of-Guardians-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251210_075732_Guild-of-Guardians-md.webp 768w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251210_075732_Guild-of-Guardians-lg.webp 1024w">
 <figcaption>Daily instant gratification rewards to create micro goals and a big delayed gratification reward at the end of the week with clear goals, context, and progress to create macro goals</figcaption>
 </figure>
-<br>
 <div style="background: #fff5f5; padding: 16px; border-radius: 8px; border: 1px solid #fed7d7; text-align: center;">
 <div style="font-size: 1.5rem; font-weight: 800; color: #9b2c2c;">+3% increase</div>
 <div style="font-size: 0.75rem; font-weight: bold; color: #c53030; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">in day 6 to day 7 retention</div>
@@ -1792,6 +1795,7 @@
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/image-3.png" alt="" width="700" height="396" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/image-3-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/image-3-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/image-3-md.webp 768w ,https://bramha.work/media/posts/4/responsive/image-3-lg.webp 1024w">
 <figcaption>I created this design in Figma with existing components of the design system as we did not have the availability of a UI designer for this feature. I got to exercise my visual design chops, although it would have been much faster and better with a dedicated visual designer</figcaption>
 </figure>
+<br>
 <div style="background: #fff5f5; padding: 16px; border-radius: 8px; border: 1px solid #fed7d7; text-align: center;">
 <div style="font-size: 1.5rem; font-weight: 800; color: #9b2c2c;">+38% higher likelihood</div>
 <div style="font-size: 0.75rem; font-weight: bold; color: #c53030; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">a user who received would retain compared to one who did not</div>
@@ -1800,6 +1804,7 @@
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/Screenshot_20251117_090321_Guild-of-Guardians.png" alt="" width="900" height="420" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Screenshot_20251117_090321_Guild-of-Guardians-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251117_090321_Guild-of-Guardians-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251117_090321_Guild-of-Guardians-md.webp 768w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251117_090321_Guild-of-Guardians-lg.webp 1024w">
 <figcaption>Before - The old offer had no context and was not paired with a moment of delight. Data showed that 99% of players closed the popup in under 1 second, and the team hypothesised together that a low quality offer is actually detrimental to retention</figcaption>
 </figure>
+<br>
 <div style="background: #f7fafc; padding: 16px; border-radius: 8px; border: 1px solid #e2e8f0; text-align: center;">
 <div style="font-size: 1.5rem; font-weight: 800; color: #1a202c;">99.9% users</div>
 <div style="font-size: 0.75rem; font-weight: bold; color: #2d3748; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">Closed this popup instantly</div>
@@ -1807,6 +1812,7 @@
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/New-Offer.png" alt="" width="900" height="420" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/New-Offer-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/New-Offer-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/New-Offer-md.webp 768w ,https://bramha.work/media/posts/4/responsive/New-Offer-lg.webp 1024w">
 <figcaption>After - The new offer had context and clear value proposition along with an improved presentation. I was confident in it's ability to outperform the old offer</figcaption>
 </figure>
+<br>
 <div style="background: #fff5f5; padding: 16px; border-radius: 8px; border: 1px solid #fed7d7; text-align: center;">
 <div style="font-size: 1.5rem; font-weight: 800; color: #9b2c2c;">More than doubled</div>
 <div style="font-size: 0.75rem; font-weight: bold; color: #c53030; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">purchases compared to the old offer</div>
