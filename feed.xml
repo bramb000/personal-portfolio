@@ -3,7 +3,7 @@
     <title>Bramha Dalvi</title>
     <link href="https://bramha.work/feed.xml" rel="self" />
     <link href="https://bramha.work" />
-    <updated>2026-01-11T13:11:12+11:00</updated>
+    <updated>2026-01-11T18:19:42+11:00</updated>
     <author>
         <name>Bramha</name>
     </author>
@@ -370,9 +370,9 @@
 <div style="background: #ffffff; border: 1px solid #e2e8f0; border-left: 6px solid #d32f2f; padding: 32px; margin: 40px 0; border-radius: 12px; box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1); font-family: 'Inter', -apple-system, sans-serif; color: #1a202c; max-width: 900px;">
 <div style="margin-bottom: 24px; border-bottom: 2px solid #edf2f7; padding-bottom: 20px;">
 <h2 style="margin: 0 0 8px 0; font-size: 1.75rem; font-weight: 800; color: #111; line-height: 1.2;">Executive Summary</h2>
-<p style="margin: 0; font-size: 1.1rem; color: #4a5568; font-weight: 500;">Role: <span style="color: #111;">UX Lead for Mobile UI and contributor on multi-platform interactions</span></p>
+<p style="margin: 0; font-size: 1.1rem; color: #4a5568; font-weight: 500;">Role: <span style="color: #111;">UX Lead for Mobile and contributor on multi-platform interactions</span></p>
 <br>
-<p style="margin: 0; font-size: 1.1rem; color: #4a5568; font-weight: 500;">Rest of the Team: <span style="color: #111;">6 people on the UX team → 2 UX Designers | 2 UI Artists | 2 UI Engineers</span></p>
+<p style="margin: 0; font-size: 1.1rem; color: #4a5568; font-weight: 500;">Rest of the Team: ~7<span style="color: #111;"> people on the UX team → UX Director | 2 UX Designers | 2 UI Artists | 2 UI Engineers</span></p>
 </div>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 16px; margin-bottom: 32px;">
 <div style="background: #fff5f5; padding: 16px; border-radius: 8px; border: 1px solid #fed7d7; text-align: center;">
@@ -392,8 +392,19 @@
 <div>
 <h4 style="margin: 0 0 8px 0; font-size: 0.9rem; text-transform: uppercase; color: #d32f2f; letter-spacing: 0.1em;">02. The Solution</h4>
 <p style="margin: 0;"><strong>Building a responsive UI system: </strong>I architected a technical UI system in the Snowdrop engine that scaled responsive UI across different PC monitors, TVs, tablets, and mobiles. This <strong>ensured visual parity</strong> across devices ranging from 4:3 iPads to 21:9 Ultra-wide monitors without bespoke adjustments.<br><br></p>
-<strong>Unified Interaction Matrix:</strong> Mapped divergent inputs (Keyboard, Gamepad, Touch) to singular behavioral outcomes, <strong>reducing cognitive load</strong> for users switching between platforms. This was important for Rocksmith+ as it is a Netflix style 1 subscription -&gt; multiple platform service that users interacted with over many devices.</div>
-<div><strong>Cross-Studio Ownership:</strong> Conducted design workshops between India, Japan, and the US <strong>to codify multi-platform best practices.</strong></div>
+<strong>Unified Input Philosophy:</strong> Mapped divergent inputs (Keyboard, Gamepad, Touch) to singular behavioral outcomes, <strong>reducing cognitive load</strong> for users switching between platforms. This was important for Rocksmith+ as it is a Netflix style 1 subscription = multiple platform service that users interacted with over many devices.</div>
+<div><strong>Driving Global Collaboration:</strong> Orchestrated design collaboration between India, Japan, and the US <strong>to share user insights and create a holistic understanding of user needs across all platforms.</strong></div>
+<div><strong>Adding millions of new users to Rocksmith:</strong></div>
+<div>This was the traditional Rocksmith experience - on a big screen with lots of space with no choice except an expensive desktop or a game console.</div>
+<div>
+<figure class="post__image"><img loading="lazy" src="https://bramha.work/media/posts/6/traditional-rocksmith.webp" alt="" width="900" height="338" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/6/responsive/traditional-rocksmith-xs.webp 300w ,https://bramha.work/media/posts/6/responsive/traditional-rocksmith-sm.webp 480w ,https://bramha.work/media/posts/6/responsive/traditional-rocksmith-md.webp 768w ,https://bramha.work/media/posts/6/responsive/traditional-rocksmith-lg.webp 1024w">
+<figcaption>The traditional Rocksmith experience was always on a big screen</figcaption>
+</figure>
+<p>Rocksmith+ gave users the options to learn guitar anywhere they wanted, on any device they wanted with 1 subsrciption. This unlocked a whole new segment of millions of users.</p>
+<figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/6/Rocksmith-Mobile.png" alt="" width="900" height="506" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/6/responsive/Rocksmith-Mobile-xs.webp 300w ,https://bramha.work/media/posts/6/responsive/Rocksmith-Mobile-sm.webp 480w ,https://bramha.work/media/posts/6/responsive/Rocksmith-Mobile-md.webp 768w ,https://bramha.work/media/posts/6/responsive/Rocksmith-Mobile-lg.webp 1024w">
+<figcaption>The new Rocksmith+ experience</figcaption>
+</figure>
+</div>
 </div>
 </div>
 <h2 class="wp-block-heading">Context</h2>
@@ -402,9 +413,6 @@
 <p><!-- /wp:heading --></p>
 <p><!-- wp:paragraph --></p>
 <p>I joined the team in 2020 when Rocksmith+ was in pre-launch production and Ubisoft wanted a global release on mobile, PC, and next-gen game consoles (at that time, it was the Playstation 5 and Xbox Series X). Very few people on the UX team had prior experience building a mobile user experiences and responsive UIs and interactions for multiple platforms.</p>
-<figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/6/traditional-rocksmith.webp" alt="" width="900" height="338" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/6/responsive/traditional-rocksmith-xs.webp 300w ,https://bramha.work/media/posts/6/responsive/traditional-rocksmith-sm.webp 480w ,https://bramha.work/media/posts/6/responsive/traditional-rocksmith-md.webp 768w ,https://bramha.work/media/posts/6/responsive/traditional-rocksmith-lg.webp 1024w">
-<figcaption>The traditional Rocksmith experience was always on a big screen</figcaption>
-</figure>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"id":165,"width":"822px","height":"auto","sizeSlug":"large","linkDestination":"none","align":"center"} --></p>
 <p><!-- /wp:image --></p>
@@ -415,40 +423,12 @@
 <p>And drove to these outcomes</p>
 <figure class="post__image post__image--center"><img loading="lazy"  src="https://bramha.work/media/posts/6/Outcome-2.png" alt="" width="900" height="276" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/6/responsive/Outcome-2-xs.webp 300w ,https://bramha.work/media/posts/6/responsive/Outcome-2-sm.webp 480w ,https://bramha.work/media/posts/6/responsive/Outcome-2-md.webp 768w ,https://bramha.work/media/posts/6/responsive/Outcome-2-lg.webp 1024w"></figure>
 <figure class="post__image post__image--center"><img loading="lazy"  src="https://bramha.work/media/posts/6/Outcome-1-2.png" alt="" width="330" height="241" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/6/responsive/Outcome-1-2-xs.webp 300w ,https://bramha.work/media/posts/6/responsive/Outcome-1-2-sm.webp 480w ,https://bramha.work/media/posts/6/responsive/Outcome-1-2-md.webp 768w ,https://bramha.work/media/posts/6/responsive/Outcome-1-2-lg.webp 1024w"></figure>
-<p> </p>
-<!-- /wp:separator -->
+<hr><!-- /wp:separator -->
 <p><!-- wp:paragraph --></p>
-<hr>
-<h1>Actions</h1>
-<h3>TLDR</h3>
-<p>Problems analysed through a mixture of quantitiative and qualitative data analysis</p>
-<ol>
-<li>No mobile and console framework for responsive UI and interactions</li>
-<li>No parity between PC, consoles, and mobile codebase → everything needed 3 times more effort to simply maintain and accomodate new changes</li>
-<li>Immature team culture around global collaboration and building one codebase for launching on five platforms → no one's fault, just lacked having people accountable for driving</li>
-</ol>
-<p>How I fixed these problems</p>
-<ol>
-<li>Leading the effort with hands-on work to design, document, and share core mobile UI and mobile + console interaction frameworks while critical foundational work was being done to the engine and PC version by the rest of the team</li>
-<li>Led responsive UI striketeam to build foundational tooling to support 5 screen types (16:9. 16:10, 21:9, 19.5:9, 3:4 and everything in between) and 5 platforms (PC, Playstation, Xbox, Apple, and Android) and reduce custom work per screen and platform type</li>
-<li>Leading India &lt;&gt; Japan &lt;&gt; US team workshops for UX design and Technical UI teams to drive a collaborative spirit around multiplatform design instead of building platforms in silos and porting them over</li>
-</ol>
-<p>You can see the final solution is a run-time responsive UI that made it easy to support different aspect ratio screen types and platforms without needing to support multiple codebases</p>
-<figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/6/Rocksmith-Responsive-UI-GIF.gif" alt="" width="900" height="506">
-<figcaption>Run time responsive UI</figcaption>
-</figure>
-<figure>You can see how the UI reacts in real time to system changes in screen configuration with different aspect ratios, and the entire layout remains intact</figure>
-<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/AvvCJ_hIMjo" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-<p>You can see the input diagrams in the Rocksmith+ settings screen to get a high level view of the final interaction design system, but many nitty gritty details are included in the body of this case study.</p>
-<div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="2">
-<figure class="gallery__item"><a href="https://bramha.work/media/posts/6/gallery/Rocksmith-Screenshot-2025.12.24-07.50.27.43.png" data-size="3440x1440"><img loading="lazy" src="https://bramha.work/media/posts/6/gallery/Rocksmith-Screenshot-2025.12.24-07.50.27.43-thumbnail.webp" alt="" width="768" height="321"></a></figure>
-<figure class="gallery__item"><a href="https://bramha.work/media/posts/6/gallery/Rocksmith-Screenshot-2025.12.24-09.01.25.06.png" data-size="3440x1440"><img loading="lazy" src="https://bramha.work/media/posts/6/gallery/Rocksmith-Screenshot-2025.12.24-09.01.25.06-thumbnail.webp" alt="" width="768" height="321"></a></figure>
-</div></div>
-<hr>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<h3>Solution</h3>
-<p>The block of work to create the Rocksmith+ mobile experience was a collection of many small steps. The first piece of work started with lots of user testing where I requested internal and external volunteers to play a crude, ported version of the PC version of their game on their mobile and tablet without any scaling and no interactions except simple taps. <strong>My first few initial tests were to discover how people set up a portable device compared to playing on a PC or a TV</strong> (plugged in to a console) to understand context and environment in which Rocksmith+ will be experienced.</p>
+<h3>Research</h3>
+<p>The block of work to create the Rocksmith+ mobile experience was a collection of many small steps. The first piece of work started with lots of user testing where I requested internal and external volunteers to play a crude, ported version of the PC version of their game only on the ipad without any scaling and no interactions except simple taps. <strong>My first few initial tests were to discover how people set up a portable device compared to playing on a PC or a TV</strong> (plugged in to a console) to understand context and environment in which Rocksmith+ will be experienced.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>The tests gleaned insights using three primary methods</p>
@@ -457,9 +437,9 @@
 <ol class="wp-block-list">
 <li style="list-style-type: none;">
 <ol class="wp-block-list"><!-- wp:list-item -->
-<li>Observational studies and contextual interviews with internal and external volunteers</li>
-<li>Surveys after each playtest to track progress of key success signals via ability to learn on mobile as compared to PC, satisfaction of learning experience, satisfaction of interaction, and NPS surveys</li>
-<li>Diary Studies with strictly internal, non-development staff who do not have insights into development (Ubisoft at that time had 20,000 employees, recruiting internal employees was not a challenge) to see how needs evolved as users went from beginners to power users</li>
+<li>Observational studies and contextual interviews with internal and external volunteers (4-6 waves with panels sized 12-15)</li>
+<li>Diary Studies to see if and how user needs evolved as users went from beginners to power users (10 users)</li>
+<li>Surveys after each playtest to track progress of key success signals via ability to learn on mobile as compared to PC, satisfaction of learning experience, satisfaction of interaction, and NPS surveys (some marketing surveys included hundreds of users)</li>
 </ol>
 </li>
 </ol>
@@ -483,13 +463,87 @@
 <p><!-- wp:image {"id":56,"width":"697px","height":"auto","sizeSlug":"large","linkDestination":"none","align":"center"} --></p>
 <p><!-- /wp:image --></p>
 <p><!-- wp:image {"id":58,"width":"700px","height":"auto","sizeSlug":"large","linkDestination":"none","align":"center"} --></p>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://bramha.work/media/posts/6/Rocksmith-Mobile.png" alt="" width="487" height="274" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/6/responsive/Rocksmith-Mobile-xs.webp 300w ,https://bramha.work/media/posts/6/responsive/Rocksmith-Mobile-sm.webp 480w ,https://bramha.work/media/posts/6/responsive/Rocksmith-Mobile-md.webp 768w ,https://bramha.work/media/posts/6/responsive/Rocksmith-Mobile-lg.webp 1024w"></figure>
-<p><!-- /wp:image --></p>
-<p><!-- wp:paragraph --></p>
-<figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/6/Screenshot-2025-11-09-084220.png" alt="" width="488" height="274" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/6/responsive/Screenshot-2025-11-09-084220-xs.webp 300w ,https://bramha.work/media/posts/6/responsive/Screenshot-2025-11-09-084220-sm.webp 480w ,https://bramha.work/media/posts/6/responsive/Screenshot-2025-11-09-084220-md.webp 768w ,https://bramha.work/media/posts/6/responsive/Screenshot-2025-11-09-084220-lg.webp 1024w">
-<figcaption>Originally, these tests were done with internal and external volunteers with follow up interview with me. This screenshot is taken from a review of Rocksmith+ mobile for visualisation purposes</figcaption>
+<figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/6/Rocksmith-kitchen-context.png" alt="" width="426" height="641" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/6/responsive/Rocksmith-kitchen-context-xs.webp 300w ,https://bramha.work/media/posts/6/responsive/Rocksmith-kitchen-context-sm.webp 480w ,https://bramha.work/media/posts/6/responsive/Rocksmith-kitchen-context-md.webp 768w ,https://bramha.work/media/posts/6/responsive/Rocksmith-kitchen-context-lg.webp 1024w">
+<figcaption>A photo from one of the diary studies</figcaption>
 </figure>
-<p>What <strong>I quickly realised was that the UI cannot be one size fits all for this experience.</strong> Users need tons of customisability to change the experience to their needs</p>
+<p><!-- /wp:image --></p>
+<figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/6/Rocksmith-user-context.png" alt="" width="1954" height="1096" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/6/responsive/Rocksmith-user-context-xs.webp 300w ,https://bramha.work/media/posts/6/responsive/Rocksmith-user-context-sm.webp 480w ,https://bramha.work/media/posts/6/responsive/Rocksmith-user-context-md.webp 768w ,https://bramha.work/media/posts/6/responsive/Rocksmith-user-context-lg.webp 1024w">
+<figcaption>A photo from one of the diary studies - user would take down physical notes and create guides to be able to play better</figcaption>
+</figure>
+<figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/6/Rocksmith-outdoors.png" alt="" width="900" height="503" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/6/responsive/Rocksmith-outdoors-xs.webp 300w ,https://bramha.work/media/posts/6/responsive/Rocksmith-outdoors-sm.webp 480w ,https://bramha.work/media/posts/6/responsive/Rocksmith-outdoors-md.webp 768w ,https://bramha.work/media/posts/6/responsive/Rocksmith-outdoors-lg.webp 1024w">
+<figcaption>One user wanted to push the limits of where they could learn</figcaption>
+</figure>
+<p><!-- wp:paragraph --></p>
+<p>Another important highlight was the amount of personalisation needed. Some users wanted to keep it simple - just their device and their acoustic guitar.</p>
+<figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/6/Rocksmith-simple-setup-2.png" alt="" width="1020" height="816" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/6/responsive/Rocksmith-simple-setup-2-xs.webp 300w ,https://bramha.work/media/posts/6/responsive/Rocksmith-simple-setup-2-sm.webp 480w ,https://bramha.work/media/posts/6/responsive/Rocksmith-simple-setup-2-md.webp 768w ,https://bramha.work/media/posts/6/responsive/Rocksmith-simple-setup-2-lg.webp 1024w">
+<figcaption>A simple user - acoustic guitar and just the device</figcaption>
+</figure>
+<figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/6/Rocksmith-complex-setup-2.png" alt="" width="900" height="668" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/6/responsive/Rocksmith-complex-setup-2-xs.webp 300w ,https://bramha.work/media/posts/6/responsive/Rocksmith-complex-setup-2-sm.webp 480w ,https://bramha.work/media/posts/6/responsive/Rocksmith-complex-setup-2-md.webp 768w ,https://bramha.work/media/posts/6/responsive/Rocksmith-complex-setup-2-lg.webp 1024w">
+<figcaption>A hardcore user - electric bass, 2+ musical accessories, and the device</figcaption>
+</figure>
+<p>The initial studies were conducted with a mixed panel of old Rocksmith 2014 users, Yousician (a Rocksmith competitor) users, and users who wanted to learn guitar and had considered but never used an application.</p>
+<ol>
+<li>About 90% of the responders who self reported as not knowing how to play the guitar (new learners) wanted to exclusively use acoustic guitars and preferred a wireless setup</li>
+<li>5% of total responsders self reported as seasoned instrument players who used these apps to practice and wanted to be able to use all of their accessories (pedals, modulators, amps, etc.) with the app. Many were Rocksmith 2014 users who had access to many of these features</li>
+</ol>
+<p> </p>
+<div style="background: #f7fafc; padding: 16px; border-radius: 8px; border: 1px solid #e2e8f0; text-align: center;">
+<div style="font-size: 1.5rem; font-weight: 800; color: #1a202c;">~80% of total responders</div>
+<div style="font-size: 0.75rem; font-weight: bold; color: #2d3748; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">Wanted a hassle free and wireless experience</div>
+<div> </div>
+<div>
+<div style="font-size: 1.5rem; font-weight: 800; color: #1a202c;">~5% of total responders</div>
+<div style="font-size: 0.75rem; font-weight: bold; color: #2d3748; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">Wanted a hardcore experience with all their gear</div>
+</div>
+</div>
+<p> </p>
+<p>We also included questions related to eyesight. I wanted to know how many users suffered from eyesight issues including near/far sightedness and colour vision deficiency. I personally suffer from near sightedness and colour vision deficiency which impassioned my desire for an accessible UI.</p>
+<p> </p>
+<div style="background: #f7fafc; padding: 16px; border-radius: 8px; border: 1px solid #e2e8f0; text-align: center;">
+<div style="font-size: 1.5rem; font-weight: 800; color: #1a202c;">~63% of total responders</div>
+<div style="font-size: 0.75rem; font-weight: bold; color: #2d3748; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">Suffered from at least 1 eyesight issue</div>
+<div> </div>
+<div>
+<div style="font-size: 1.5rem; font-weight: 800; color: #1a202c;">~31% of total responders</div>
+<div style="font-size: 0.75rem; font-weight: bold; color: #2d3748; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">suffered from either near or far sightedness</div>
+</div>
+</div>
+<p>I requested the research moderater to enquire about devices in a way that asked a user about their day with Rocksmith+; whether they did their main learning on a big screen on their console but did micro lessons on phone. Since 1 subscription of Rocksmith+ allowed access on all devices, I wanted to know how many contexts would the general user stories have and how many devices did a user imagine themselves playing on.</p>
+<p> </p>
+<div style="background: #f7fafc; padding: 16px; border-radius: 8px; border: 1px solid #e2e8f0; text-align: center;">
+<div style="font-size: 1.5rem; font-weight: 800; color: #1a202c;">87% correlation</div>
+<div style="font-size: 0.75rem; font-weight: bold; color: #2d3748; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">between size of device and complexity of setup</div>
+<div> </div>
+<div>
+<div style="font-size: 0.75rem; font-weight: bold; color: #2d3748; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">basically, most mobile users wanted to play with their acoustic guitars and most console/PC users wanted to play with their complex setups</div>
+<div><hr></div>
+<div>
+<div style="font-size: 1.5rem; font-weight: 800; color: #1a202c;">~63% responders</div>
+<div style="font-size: 0.75rem; font-weight: bold; color: #2d3748; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">could see themselves using more than 2 devices, but not more than 2 setups</div>
+<div>
+<div> </div>
+<div>
+<div style="font-size: 0.75rem; font-weight: bold; color: #2d3748; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">if their guitar setup did not work on 2 devices, they would prefer to only play on their primary device</div>
+</div>
+</div>
+<div><hr></div>
+<div>
+<div style="font-size: 1.5rem; font-weight: 800; color: #1a202c;">~92% of new learners</div>
+<div style="font-size: 0.75rem; font-weight: bold; color: #2d3748; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">said they would start with acoustic guitars and mobile phones</div>
+<div><hr>
+<div style="font-size: 1.5rem; font-weight: 800; color: #1a202c;">~71% of legacy users</div>
+<div style="font-size: 0.75rem; font-weight: bold; color: #2d3748; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">said that a tablet would be their most likely secondary device</div>
+<div><hr>
+<div style="font-size: 1.5rem; font-weight: 800; color: #1a202c;">91% of responders</div>
+<div style="font-size: 0.75rem; font-weight: bold; color: #2d3748; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">said they would either use PC + mobile or Console + mobile, never PC + Console</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p> </p>
+<p>What <strong>I quickly realised was that the UI cannot be one size fits all for these many segments.</strong> Users need tons of customisability to change the experience to their needs</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:list {"ordered":true} --></p>
 <ol class="wp-block-list">
@@ -504,7 +558,7 @@
 <p><!-- /wp:list-item --></p>
 <p><!-- /wp:list --></p>
 <p><!-- wp:paragraph --></p>
-<p>Not only did we need a responsive UI that adjusted to various form factors and aspect ratio, users needed customisability to adjust to their personal context which was on a wide spectrum.</p>
+<h3>Solution</h3>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>So I first began with working on a core responsive UI that would offer the base experience on all devices. It involved not only designing and validating layouts in Figma, but also working closely with UI engineers to build appropriate tools such as</p>
@@ -571,6 +625,8 @@
 <p>Here is a live test of the demonstrating the 3D-to-2D anchoring system, ensuring that all 2D and 3D elements remain legible and correctly positioned regardless of the user's monitor resolution or aspect ratio.</p>
 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/AvvCJ_hIMjo" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <p><!-- wp:paragraph --></p>
+<p>Fun fact - the UI system worked so well that one user got it working on their GPD 4 - a handheld custom Windows gaming machine</p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://bramha.work/media/posts/6/R-on-GPD-win4.png" alt="" width="400" height="508" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/6/responsive/R-on-GPD-win4-xs.webp 300w ,https://bramha.work/media/posts/6/responsive/R-on-GPD-win4-sm.webp 480w ,https://bramha.work/media/posts/6/responsive/R-on-GPD-win4-md.webp 768w ,https://bramha.work/media/posts/6/responsive/R-on-GPD-win4-lg.webp 1024w"></figure>
 <hr>
 <p>Accessibility was a core tenet of the experience we set out to design, this included the ability to users to customise the experience to their needs.</p>
 <p><strong>One of the first accessibility feature we developed was allowing users to modify the scale of their UI to fine tune their mobile and tablet experience based on how far they kept their device.</strong> The distance between user and device heavily changed based on whether they were advanced guitar players or beginners, whether they played easy or difficult songs, whether they played bass or guitar, whether they played a full 34" bass or some other size, or if they played different guitars, whether they had equipment such as pedals, amps, or headphones attached. </p>
@@ -600,14 +656,50 @@
 </div>
 <p><!-- /wp:jetpack/layout-grid --></p>
 <p><!-- wp:paragraph --></p>
-<p><strong>This customisation system was easy to build as my team had already worked on a dynamic system to make our 3D UI responsive (as you may have read above).</strong> The original system, being built on solid technical foundations, meant that users could change their configuration at run time meaning they could change whenever they wanted and however many times they wanted. While I did not directly work on this exact accessibility feature, a lot of the foundational work that my team did made it easier to imagine and develop these features rapidly.</p>
+<p><strong>This customisation system was easy to build as my team had already worked on a dynamic system to make our 3D UI responsive (as you may have read above).</strong> The original system, being built on solid technical foundations, meant that users could change their configuration at run time meaning they could change whenever they wanted and however many times they wanted. While I did not directly work on this exact accessibility feature, a lot of the foundational work that my team did made it easier to develop these features rapidly.</p>
 <hr>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>Since one single subscription of Rocksmith+ gave access to the game on every platform, we expected the user to using the app on multiple platforms - think Netflix where you use it on your TV, tablets, and sometimes phones.</p>
-<p>This is why <strong>we needed a consistent outcomes for users from the user actions on different platforms over and over again. Since their minds were occupied with guitar chords and memorising other complex techniques, it made no sense to add the cognitive load of also learning how to interact with this app on multiple platforms.</strong></p>
+<p>This is why <strong>we needed a consistent outcomes for users from the user actions on different platforms over and over again.</strong></p>
+<p>Research for input and interaction:</p>
+<p>From all our extensive user studies, one thing was absolutely clear - users will only have one hand free as they had a guitar in the other. This was also on our marketing content, so making an app that could be used with one hand was non-negotiable.</p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://bramha.work/media/posts/6/UBDC_NewsHeader_960x540_US.jpg" alt="" width="243" height="283" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/6/responsive/UBDC_NewsHeader_960x540_US-xs.webp 300w ,https://bramha.work/media/posts/6/responsive/UBDC_NewsHeader_960x540_US-sm.webp 480w ,https://bramha.work/media/posts/6/responsive/UBDC_NewsHeader_960x540_US-md.webp 768w ,https://bramha.work/media/posts/6/responsive/UBDC_NewsHeader_960x540_US-lg.webp 1024w"></figure>
+<p><strong>Whether a mouse, a game controller, or a touch screen, it was crucial for the entire interaface to be usable with only 1 hand.</strong></p>
+<p>We also knew from one of the previous studies that ~63% users intended on using more than 1 device in their learning journey. It was important that they need not need to learn how to use the UI for multiple devices.</p>
+<p>We ran a new set of observational studies with a mix or previous participants and new participants to understand challenges when switching between either PC and mobile or console and mobile, since we knew from a previous study that players did not expect to be playing on a combination of PC and console. We gleaned many insights from that research.</p>
+<p> </p>
+<div style="background: #f7fafc; padding: 16px; border-radius: 8px; border: 1px solid #e2e8f0; text-align: center;">
+<div style="font-size: 1.5rem; font-weight: 800; color: #1a202c;">86% participants</div>
+<div style="font-size: 0.75rem; font-weight: bold; color: #2d3748; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">Wished the interactions were similar to netflix or spotify on mobile, commonly used apps by our audience</div>
+<div> </div>
+<div>
+<div style="font-size: 1.5rem; font-weight: 800; color: #1a202c;"><span style="font-size: 1.5rem;">only 16% participants</span></div>
+<div style="font-size: 0.75rem; font-weight: bold; color: #2d3748; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">used netflix or spotify on their console. We could learn from these apps but not rely on their learnings for our audience</div>
+</div>
+<div>
+<div><hr></div>
+<div>
+<div style="font-size: 1.5rem; font-weight: 800; color: #1a202c;">
+<div style="font-size: 1.5rem; font-weight: 800; color: #1a202c;">72% participants</div>
+<div style="font-size: 0.75rem; font-weight: bold; color: #2d3748; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">Found it difficult to move from mobile to console or PC due to lack of contextual input guides</div>
+</div>
+<div><hr></div>
+<div>
+<div style="font-size: 1.5rem; font-weight: 800; color: #1a202c;">~37% of participants</div>
+<div style="font-size: 0.75rem; font-weight: bold; color: #2d3748; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">failed to recreate contextual outcomes, such as hovering with cursor for help tooltips, when moving from PC to mobile</div>
+<div><hr>
+<div style="font-size: 1.5rem; font-weight: 800; color: #1a202c;">~91% participants</div>
+<div style="font-size: 0.75rem; font-weight: bold; color: #2d3748; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">disliked virtual cursors on consoles. This was a clear signal that we need directional navigation on gamepad and could not unify with the mouse cursor</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<hr>
+<p><strong>Since users were occupied with guitar chords and memorising other complex techniques, it made no sense to add the cognitive load of also learning how to interact with this app on multiple platforms.</strong></p>
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/6/IMG_0492.png" alt="" width="560" height="289" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/6/responsive/IMG_0492-xs.webp 300w ,https://bramha.work/media/posts/6/responsive/IMG_0492-sm.webp 480w ,https://bramha.work/media/posts/6/responsive/IMG_0492-md.webp 768w ,https://bramha.work/media/posts/6/responsive/IMG_0492-lg.webp 1024w">
 <figcaption>The user knows what they want, but how do they recreate it on a different platform?</figcaption>
 </figure>
@@ -619,7 +711,7 @@
 <figure><strong>I created a 3 dimensional interaction matrix that mapped outcome to a component to an action</strong> on platform and conducted many surveys to create an exhaustive list of what are the most commonly mapped translations between interactions.</figure>
 <figure>For example, hovering with a mouse cursor on desktop was majorly translated as touch and hold for users across various languages and countries, and while "hover" was the same on console it was from using the d-pad to navigate to the option as opposed to a freeform cursor.</figure>
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/6/Interaction-Matrix-Abstraction.png" alt="" width="900" height="148" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/6/responsive/Interaction-Matrix-Abstraction-xs.webp 300w ,https://bramha.work/media/posts/6/responsive/Interaction-Matrix-Abstraction-sm.webp 480w ,https://bramha.work/media/posts/6/responsive/Interaction-Matrix-Abstraction-md.webp 768w ,https://bramha.work/media/posts/6/responsive/Interaction-Matrix-Abstraction-lg.webp 1024w">
-<figcaption>This is a sample abstraction of a complex interaction matrixaption</figcaption>
+<figcaption>This is a sample abstraction of a complex interaction matrix</figcaption>
 </figure>
 <p><!-- /wp:table --></p>
 <p><!-- wp:paragraph --></p>
@@ -663,6 +755,9 @@
 <li><strong>This is not a natural pattern in video game menu UIs.</strong> There are no mainstream games where you can input 2 UI elements using two different sticks and this was not intuitive to users</li>
 <li><strong>One of our main goal was to let users control the UI with one hand only</strong> as the other would probably be holding a guitar. <strong>This interaction pattern required 2 hands</strong> at times</li>
 </ol>
+<figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/6/Guitar-Controller-1-2.png" alt="" width="480" height="542" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/6/responsive/Guitar-Controller-1-2-xs.webp 300w ,https://bramha.work/media/posts/6/responsive/Guitar-Controller-1-2-sm.webp 480w ,https://bramha.work/media/posts/6/responsive/Guitar-Controller-1-2-md.webp 768w ,https://bramha.work/media/posts/6/responsive/Guitar-Controller-1-2-lg.webp 1024w">
+<figcaption>One of users had explicitly noted that they hated having to put down their guitar to use two hands for a controller. They made sure to tell us with a photo</figcaption>
+<br>
 <p class="align-left">For these reasons, <strong>this solution was a no-go.</strong></p>
 <p class="align-left">Going back to the drawing board, I drafted up 2-3 more solutions to discuss with my team. One solution proposed by the technical designers in my team was using a two axis design patterm - the vertical axis for moving between different components and the horizontal axis for accessing information of that component. <strong>I created multiple quick iterations in Figma</strong> to explore commonalities and differences between horizontal scrolls on PC, mobile, and consoles and we quickly landed at a rough solution with a horizontal scroll system at a container level which unlocked an improved, more user friendly design pattern for console and reused many components from PC/mobile.</p>
 <p class="align-left">When looking at a song, the "skills" used to be in an expander as they were secondary information for mature users. <strong>The original UI had a lot more detail</strong> and through time bound, MVP-mindset development it evolved into an expander. After choosing to move away from design patterns that are unfriendly for consoles, this was the first component to get added to a horizontal scroll.</p>
@@ -834,6 +929,7 @@
 <p><!-- /wp:group --></p>
 <p><!-- wp:paragraph --></p>
 <p><!-- /wp:paragraph --></p>
+</figure>
             ]]>
         </content>
     </entry>
