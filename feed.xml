@@ -3,7 +3,7 @@
     <title>Bramha Dalvi</title>
     <link href="https://bramha.work/feed.xml" rel="self" />
     <link href="https://bramha.work" />
-    <updated>2026-01-12T17:33:30+11:00</updated>
+    <updated>2026-01-12T19:08:04+11:00</updated>
     <author>
         <name>Bramha</name>
     </author>
@@ -690,9 +690,8 @@
 <div>
 <div style="font-size: 1.5rem; font-weight: 800; color: #1a202c;">~37% of participants</div>
 <div style="font-size: 0.75rem; font-weight: bold; color: #2d3748; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">failed to recreate contextual outcomes, such as hovering on an item with the cursor for help tooltips, when moving from PC to mobile</div>
-<div><hr>
-<div style="font-size: 1.5rem; font-weight: 800; color: #1a202c;">~91% participants</div>
-<div style="font-size: 0.75rem; font-weight: bold; color: #2d3748; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">disliked virtual cursors on consoles. This was a clear signal that we need directional navigation on gamepad and could not unify with the Mouse cursor</div>
+<div>
+<div style="font-size: 0.75rem; font-weight: bold; color: #2d3748; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;"> </div>
 </div>
 </div>
 </div>
@@ -756,7 +755,7 @@
 <li><strong>One of our main goal was to let users control the UI with one hand only</strong> as the other would probably be holding a guitar. <strong>This interaction pattern required 2 hands</strong> at times</li>
 </ol>
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/6/Guitar-Controller-1-2.png" alt="" width="480" height="542" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/6/responsive/Guitar-Controller-1-2-xs.webp 300w ,https://bramha.work/media/posts/6/responsive/Guitar-Controller-1-2-sm.webp 480w ,https://bramha.work/media/posts/6/responsive/Guitar-Controller-1-2-md.webp 768w ,https://bramha.work/media/posts/6/responsive/Guitar-Controller-1-2-lg.webp 1024w">
-<figcaption>One of users had explicitly noted that they hated having to put down their guitar to use two hands for a controller. They made sure to tell us with a photo</figcaption>
+<figcaption>Having to put down the guitar to hold the control with both hands was a no-go</figcaption>
 <br>
 <p class="align-left">For these reasons, <strong>this solution was a no-go.</strong></p>
 <p class="align-left">Going back to the drawing board, I drafted up 2-3 more solutions to discuss with my team. One solution proposed by the technical designers in my team was using a two axis design patterm - the vertical axis for moving between different components and the horizontal axis for accessing information of that component. <strong>I created multiple quick iterations in Figma</strong> to explore commonalities and differences between horizontal scrolls on PC, mobile, and consoles and we quickly landed at a rough solution with a horizontal scroll system at a container level which unlocked an improved, more user friendly design pattern for console and reused many components from PC/mobile.</p>
@@ -1287,7 +1286,7 @@
 </figure>
 <p>Inspired by reminder badges of messaging apps, I pivoted the design to add a floating reminder badge that replaced a one time tutorial and still taught the user that this item was clickable.</p>
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/FloatingActionButton-ezgif.com-optimize-2.gif" alt="" width="900" height="421">
-<figcaption>Final Iteration - Adding a gentle motion and a button shaped badge made it clearer that the chest is clickable</figcaption>
+<figcaption>Final Iteration - Adding button shaped badge with gentle motion made it clearer that the chest is clickable</figcaption>
 </figure>
 <p>During testing, we found a 100% completion rate for actions related to collecting rewards from any screen in the game. Users could remember how to access the screen and claim their rewards. </p>
 <figure class="post__image"><img loading="lazy" src="https://bramha.work/media/posts/4/Figma-User-Flow-2.png" alt="" width="900" height="844" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Figma-User-Flow-2-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/Figma-User-Flow-2-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/Figma-User-Flow-2-md.webp 768w ,https://bramha.work/media/posts/4/responsive/Figma-User-Flow-2-lg.webp 1024w">
@@ -1307,13 +1306,22 @@
 <li>"It's nice to get all my rewards at the start and then just go into playing. Earlier, I did not look forward to using energy for the 15 minutes before I got to start playing what I actually wanted"</li>
 <li>"Thank god y'all removed the arbitrary timer. Now I can consistently play every evening when I'm actually free"</li>
 </ol>
-<p><span style="text-decoration: underline;">Question 2 - "On a scale of 1 (Completely Disagree) to 5 (Completely Agree), do you feel the new timers and rewards make the overall game more enjoyable"</span></p>
+<p><span style="text-decoration: underline;">Question 2 - "On a scale of 1 (Completely Disagree) to 5 (Completely Agree), do you feel the new way of collecting rewards make the overall game more enjoyable?"</span></p>
 <figure class="post__image post__image--center"><img loading="lazy"  src="https://bramha.work/media/posts/4/Screenshot-2026-01-10-075400-2.png" alt="" width="900" height="352" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Screenshot-2026-01-10-075400-2-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/Screenshot-2026-01-10-075400-2-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/Screenshot-2026-01-10-075400-2-md.webp 768w ,https://bramha.work/media/posts/4/responsive/Screenshot-2026-01-10-075400-2-lg.webp 1024w"></figure>
-<br>
+<p> </p>
 <div style="background: #fff5f5; padding: 16px; border-radius: 8px; border: 1px solid #fed7d7; text-align: center;">
 <div style="font-size: 1.5rem; font-weight: 800; color: #9b2c2c;">72% responders</div>
 <div style="font-size: 0.75rem; font-weight: bold; color: #c53030; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">Completely agreed that this user flow improved the overall game</div>
 </div>
+<p> </p>
+<p><span style="text-decoration: underline;">Question 3 - "On a scale of 1 (Completely Disagree) to 5 (Completely Agree), do you feel the new timers are better suited for your lifestyle?"</span></p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://bramha.work/media/posts/4/Timer-Survey-Question.png" alt="" width="900" height="349" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Timer-Survey-Question-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/Timer-Survey-Question-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/Timer-Survey-Question-md.webp 768w ,https://bramha.work/media/posts/4/responsive/Timer-Survey-Question-lg.webp 1024w"></figure>
+<p> </p>
+<div style="background: #fff5f5; padding: 16px; border-radius: 8px; border: 1px solid #fed7d7; text-align: center;">
+<div style="font-size: 1.5rem; font-weight: 800; color: #9b2c2c;">61% responders</div>
+<div style="font-size: 0.75rem; font-weight: bold; color: #c53030; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">agreed that the new timers fit their lifestyle better</div>
+</div>
+<p> </p>
 <hr>
 <p>To close off the new game loop that I proposed, I <strong>added a quit screen</strong> that set goals and anticipation to encourage the user to come back.</p>
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/Screenshot_20251215_083431_Guild-of-Guardians.png" alt="" width="900" height="420" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Screenshot_20251215_083431_Guild-of-Guardians-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251215_083431_Guild-of-Guardians-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251215_083431_Guild-of-Guardians-md.webp 768w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251215_083431_Guild-of-Guardians-lg.webp 1024w">
@@ -1763,7 +1771,7 @@
 </figure>
 <p>Inspired by reminder badges of messaging apps, I pivoted the design to add a floating reminder badge that replaced a one time tutorial and still taught the user that this item was clickable.</p>
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/FloatingActionButton-ezgif.com-optimize-2.gif" alt="" width="900" height="421">
-<figcaption>Final Iteration - Adding a gentle motion and a button shaped badge made it clearer that the chest is clickable</figcaption>
+<figcaption>Final Iteration - Adding button shaped badge with gentle motion made it clearer that the chest is clickable</figcaption>
 </figure>
 <p>During testing, we found a 100% completion rate for actions related to collecting rewards from any screen in the game. Users could remember how to access the screen and claim their rewards. </p>
 <figure class="post__image"><img loading="lazy" src="https://bramha.work/media/posts/4/Figma-User-Flow-2.png" alt="" width="900" height="844" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Figma-User-Flow-2-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/Figma-User-Flow-2-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/Figma-User-Flow-2-md.webp 768w ,https://bramha.work/media/posts/4/responsive/Figma-User-Flow-2-lg.webp 1024w">
@@ -1783,13 +1791,22 @@
 <li>"It's nice to get all my rewards at the start and then just go into playing. Earlier, I did not look forward to using energy for the 15 minutes before I got to start playing what I actually wanted"</li>
 <li>"Thank god y'all removed the arbitrary timer. Now I can consistently play every evening when I'm actually free"</li>
 </ol>
-<p><span style="text-decoration: underline;">Question 2 - "On a scale of 1 (Completely Disagree) to 5 (Completely Agree), do you feel the new timers and rewards make the overall game more enjoyable"</span></p>
+<p><span style="text-decoration: underline;">Question 2 - "On a scale of 1 (Completely Disagree) to 5 (Completely Agree), do you feel the new way of collecting rewards make the overall game more enjoyable?"</span></p>
 <figure class="post__image post__image--center"><img loading="lazy"  src="https://bramha.work/media/posts/4/Screenshot-2026-01-10-075400-2.png" alt="" width="900" height="352" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Screenshot-2026-01-10-075400-2-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/Screenshot-2026-01-10-075400-2-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/Screenshot-2026-01-10-075400-2-md.webp 768w ,https://bramha.work/media/posts/4/responsive/Screenshot-2026-01-10-075400-2-lg.webp 1024w"></figure>
-<br>
+<p> </p>
 <div style="background: #fff5f5; padding: 16px; border-radius: 8px; border: 1px solid #fed7d7; text-align: center;">
 <div style="font-size: 1.5rem; font-weight: 800; color: #9b2c2c;">72% responders</div>
 <div style="font-size: 0.75rem; font-weight: bold; color: #c53030; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">Completely agreed that this user flow improved the overall game</div>
 </div>
+<p> </p>
+<p><span style="text-decoration: underline;">Question 3 - "On a scale of 1 (Completely Disagree) to 5 (Completely Agree), do you feel the new timers are better suited for your lifestyle?"</span></p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://bramha.work/media/posts/4/Timer-Survey-Question.png" alt="" width="900" height="349" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Timer-Survey-Question-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/Timer-Survey-Question-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/Timer-Survey-Question-md.webp 768w ,https://bramha.work/media/posts/4/responsive/Timer-Survey-Question-lg.webp 1024w"></figure>
+<p> </p>
+<div style="background: #fff5f5; padding: 16px; border-radius: 8px; border: 1px solid #fed7d7; text-align: center;">
+<div style="font-size: 1.5rem; font-weight: 800; color: #9b2c2c;">61% responders</div>
+<div style="font-size: 0.75rem; font-weight: bold; color: #c53030; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">agreed that the new timers fit their lifestyle better</div>
+</div>
+<p> </p>
 <hr>
 <p>To close off the new game loop that I proposed, I <strong>added a quit screen</strong> that set goals and anticipation to encourage the user to come back.</p>
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/Screenshot_20251215_083431_Guild-of-Guardians.png" alt="" width="900" height="420" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Screenshot_20251215_083431_Guild-of-Guardians-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251215_083431_Guild-of-Guardians-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251215_083431_Guild-of-Guardians-md.webp 768w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251215_083431_Guild-of-Guardians-lg.webp 1024w">
