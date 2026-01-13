@@ -3,7 +3,7 @@
     <title>Bramha Dalvi</title>
     <link href="https://bramha.work/feed.xml" rel="self" />
     <link href="https://bramha.work" />
-    <updated>2026-01-12T19:19:17+11:00</updated>
+    <updated>2026-01-13T16:11:53+11:00</updated>
     <author>
         <name>Bramha</name>
     </author>
@@ -538,7 +538,7 @@
 </div>
 </div>
 </div>
-<p>What <strong>I quickly realised was that the UI cannot be one size fits all for these many segments.</strong> Users need tons of customisability to change the experience to their needs</p>
+<p>What <strong>I quickly realised was that the UI cannot be one size fits all for these many user segments.</strong> Users need tons of customisability to change the experience to their needs</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:list {"ordered":true} --></p>
 <ol class="wp-block-list">
@@ -557,7 +557,7 @@
 <h3>Solution</h3>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p>So I first began with working on a core responsive UI that would offer the base experience on all devices. It involved not only designing and validating layouts in Figma, but also working closely with UI engineers to build appropriate tools such as</p>
+<p>I first began with working on a core responsive UI that would offer the base experience on all devices. It involved not only designing and validating layouts in Figma, but also working closely with UI engineers to build appropriate tools such as</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:list {"ordered":true} --></p>
 <ol class="wp-block-list">
@@ -684,7 +684,7 @@
 </div>
 <div><hr></div>
 <div>
-<div style="font-size: 1.5rem; font-weight: 800; color: #1a202c;">~37% of participants</div>
+<div style="font-size: 1.5rem; font-weight: 800; color: #1a202c;">~47% of participants</div>
 <div style="font-size: 0.75rem; font-weight: bold; color: #2d3748; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">failed to recreate contextual outcomes, such as hovering on an item with the cursor for help tooltips, when moving from PC to mobile</div>
 <div>
 <div style="font-size: 0.75rem; font-weight: bold; color: #2d3748; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;"> </div>
@@ -739,14 +739,10 @@
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/6/R-Mobile-Interactions.gif" alt="" width="900" height="420">
 <figcaption>Mobile scroll containers do not have buttons for scroll and support free from horizontal and vertical scroll. I had to define behaviours that felt intuitive on specific platforms</figcaption>
 </figure>
-<br>
 <div style="background: #fff5f5; padding: 16px; border-radius: 8px; border: 1px solid #fed7d7; text-align: center;">
 <div style="font-size: 1.5rem; font-weight: 800; color: #9b2c2c;">almost 90% the participants</div>
 <div style="font-size: 0.75rem; font-weight: bold; color: #c53030; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">felt confident about the mobile Ui because it looked similar to an app they already used (e.g. - netflix, spotify)</div>
 </div>
-<br>
-<p><!-- wp:image {"id":98,"width":"690px","height":"auto","sizeSlug":"large","linkDestination":"none","align":"center"} --></p>
-<p> </p>
 <p><!-- /wp:image --></p>
 <p><!-- wp:paragraph --></p>
 <hr>
@@ -1302,7 +1298,6 @@
 <figure class="post__image"><img loading="lazy" src="https://bramha.work/media/posts/4/Figma-User-Flow-2.png" alt="" width="900" height="844" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Figma-User-Flow-2-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/Figma-User-Flow-2-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/Figma-User-Flow-2-md.webp 768w ,https://bramha.work/media/posts/4/responsive/Figma-User-Flow-2-lg.webp 1024w">
 <figcaption>This was the final mocked up user flow in an interactable Figma prototype.</figcaption>
 </figure>
-<figure></figure>
 <figure>The complete AFK Rewards experience</figure>
 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/snkVRbZXBeM" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <p>Complete AFK Rewards loop</p>
@@ -1363,6 +1358,7 @@
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/Graph-of-players-attempting-and-quitting.png" alt="" width="900" height="354" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Graph-of-players-attempting-and-quitting-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/Graph-of-players-attempting-and-quitting-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/Graph-of-players-attempting-and-quitting-md.webp 768w ,https://bramha.work/media/posts/4/responsive/Graph-of-players-attempting-and-quitting-lg.webp 1024w">
 <figcaption>This is a graph of average attempts of a dungeon (denoted by columns) and sum of players who quit after attempting but never clearing that specific dungeon. I could easily observe many dungeons where users were basically hitting their head against a wall</figcaption>
 </figure>
+<br>
 <div style="background: #f7fafc; padding: 16px; border-radius: 8px; border: 1px solid #e2e8f0; text-align: center;">
 <div style="font-size: 1.5rem; font-weight: 800; color: #1a202c;">46% of churned users</div>
 <div style="font-size: 0.75rem; font-weight: bold; color: #2d3748; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">had attempted and lost at the same dungeon 2+ time in their first week</div>
@@ -1378,6 +1374,7 @@
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/Guardian-Usage-Data.png" alt="" width="1167" height="326" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Guardian-Usage-Data-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/Guardian-Usage-Data-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/Guardian-Usage-Data-md.webp 768w ,https://bramha.work/media/posts/4/responsive/Guardian-Usage-Data-lg.webp 1024w">
 <figcaption>I could see a clear difference in heroes used by successful players (on the left) vs unsuccessful players who quit the game (on the right) by looking at the data</figcaption>
 </figure>
+<br>
 <div style="background: #f7fafc; padding: 16px; border-radius: 8px; border: 1px solid #e2e8f0; text-align: center;">
 <div style="font-size: 1.5rem; font-weight: 800; color: #1a202c;">about 50% users who quit</div>
 <div style="font-size: 0.75rem; font-weight: bold; color: #2d3748; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">Made no changes to their comp between attempt #1 and #2</div>
@@ -1432,6 +1429,7 @@
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/image-3.png" alt="" width="700" height="396" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/image-3-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/image-3-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/image-3-md.webp 768w ,https://bramha.work/media/posts/4/responsive/image-3-lg.webp 1024w">
 <figcaption>I created this design in Figma with existing components of the design system as we did not have the availability of a UI designer for this feature. I got to exercise my visual design chops, although it would have been much faster and better with a dedicated visual designer</figcaption>
 </figure>
+<br>
 <div style="background: #fff5f5; padding: 16px; border-radius: 8px; border: 1px solid #fed7d7; text-align: center;">
 <div style="font-size: 1.5rem; font-weight: 800; color: #9b2c2c;">+38% higher likelihood</div>
 <div style="font-size: 0.75rem; font-weight: bold; color: #c53030; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">a user who received would retain compared to one who did not</div>
@@ -1440,6 +1438,7 @@
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/Screenshot_20251117_090321_Guild-of-Guardians.png" alt="" width="900" height="420" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Screenshot_20251117_090321_Guild-of-Guardians-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251117_090321_Guild-of-Guardians-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251117_090321_Guild-of-Guardians-md.webp 768w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251117_090321_Guild-of-Guardians-lg.webp 1024w">
 <figcaption>Before - The old offer had no context and was not paired with a moment of delight. Data showed that 99% of players closed the popup in under 1 second, and the team hypothesised together that a low quality offer is actually detrimental to retention</figcaption>
 </figure>
+<br>
 <div style="background: #f7fafc; padding: 16px; border-radius: 8px; border: 1px solid #e2e8f0; text-align: center;">
 <div style="font-size: 1.5rem; font-weight: 800; color: #1a202c;">99.9% users</div>
 <div style="font-size: 0.75rem; font-weight: bold; color: #2d3748; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">Closed this popup instantly</div>
@@ -1447,6 +1446,7 @@
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/New-Offer.png" alt="" width="900" height="420" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/New-Offer-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/New-Offer-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/New-Offer-md.webp 768w ,https://bramha.work/media/posts/4/responsive/New-Offer-lg.webp 1024w">
 <figcaption>After - The new offer had context and clear value proposition along with an improved presentation. I was confident in it's ability to outperform the old offer</figcaption>
 </figure>
+<br>
 <div style="background: #fff5f5; padding: 16px; border-radius: 8px; border: 1px solid #fed7d7; text-align: center;">
 <div style="font-size: 1.5rem; font-weight: 800; color: #9b2c2c;">More than doubled</div>
 <div style="font-size: 0.75rem; font-weight: bold; color: #c53030; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">purchases compared to the old offer</div>
@@ -1787,7 +1787,6 @@
 <figure class="post__image"><img loading="lazy" src="https://bramha.work/media/posts/4/Figma-User-Flow-2.png" alt="" width="900" height="844" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Figma-User-Flow-2-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/Figma-User-Flow-2-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/Figma-User-Flow-2-md.webp 768w ,https://bramha.work/media/posts/4/responsive/Figma-User-Flow-2-lg.webp 1024w">
 <figcaption>This was the final mocked up user flow in an interactable Figma prototype.</figcaption>
 </figure>
-<figure></figure>
 <figure>The complete AFK Rewards experience</figure>
 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/snkVRbZXBeM" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <p>Complete AFK Rewards loop</p>
@@ -1848,6 +1847,7 @@
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/Graph-of-players-attempting-and-quitting.png" alt="" width="900" height="354" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Graph-of-players-attempting-and-quitting-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/Graph-of-players-attempting-and-quitting-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/Graph-of-players-attempting-and-quitting-md.webp 768w ,https://bramha.work/media/posts/4/responsive/Graph-of-players-attempting-and-quitting-lg.webp 1024w">
 <figcaption>This is a graph of average attempts of a dungeon (denoted by columns) and sum of players who quit after attempting but never clearing that specific dungeon. I could easily observe many dungeons where users were basically hitting their head against a wall</figcaption>
 </figure>
+<br>
 <div style="background: #f7fafc; padding: 16px; border-radius: 8px; border: 1px solid #e2e8f0; text-align: center;">
 <div style="font-size: 1.5rem; font-weight: 800; color: #1a202c;">46% of churned users</div>
 <div style="font-size: 0.75rem; font-weight: bold; color: #2d3748; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">had attempted and lost at the same dungeon 2+ time in their first week</div>
@@ -1863,6 +1863,7 @@
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/Guardian-Usage-Data.png" alt="" width="1167" height="326" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Guardian-Usage-Data-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/Guardian-Usage-Data-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/Guardian-Usage-Data-md.webp 768w ,https://bramha.work/media/posts/4/responsive/Guardian-Usage-Data-lg.webp 1024w">
 <figcaption>I could see a clear difference in heroes used by successful players (on the left) vs unsuccessful players who quit the game (on the right) by looking at the data</figcaption>
 </figure>
+<br>
 <div style="background: #f7fafc; padding: 16px; border-radius: 8px; border: 1px solid #e2e8f0; text-align: center;">
 <div style="font-size: 1.5rem; font-weight: 800; color: #1a202c;">about 50% users who quit</div>
 <div style="font-size: 0.75rem; font-weight: bold; color: #2d3748; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">Made no changes to their comp between attempt #1 and #2</div>
@@ -1917,6 +1918,7 @@
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/image-3.png" alt="" width="700" height="396" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/image-3-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/image-3-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/image-3-md.webp 768w ,https://bramha.work/media/posts/4/responsive/image-3-lg.webp 1024w">
 <figcaption>I created this design in Figma with existing components of the design system as we did not have the availability of a UI designer for this feature. I got to exercise my visual design chops, although it would have been much faster and better with a dedicated visual designer</figcaption>
 </figure>
+<br>
 <div style="background: #fff5f5; padding: 16px; border-radius: 8px; border: 1px solid #fed7d7; text-align: center;">
 <div style="font-size: 1.5rem; font-weight: 800; color: #9b2c2c;">+38% higher likelihood</div>
 <div style="font-size: 0.75rem; font-weight: bold; color: #c53030; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">a user who received would retain compared to one who did not</div>
@@ -1925,6 +1927,7 @@
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/Screenshot_20251117_090321_Guild-of-Guardians.png" alt="" width="900" height="420" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Screenshot_20251117_090321_Guild-of-Guardians-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251117_090321_Guild-of-Guardians-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251117_090321_Guild-of-Guardians-md.webp 768w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251117_090321_Guild-of-Guardians-lg.webp 1024w">
 <figcaption>Before - The old offer had no context and was not paired with a moment of delight. Data showed that 99% of players closed the popup in under 1 second, and the team hypothesised together that a low quality offer is actually detrimental to retention</figcaption>
 </figure>
+<br>
 <div style="background: #f7fafc; padding: 16px; border-radius: 8px; border: 1px solid #e2e8f0; text-align: center;">
 <div style="font-size: 1.5rem; font-weight: 800; color: #1a202c;">99.9% users</div>
 <div style="font-size: 0.75rem; font-weight: bold; color: #2d3748; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">Closed this popup instantly</div>
@@ -1932,6 +1935,7 @@
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/New-Offer.png" alt="" width="900" height="420" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/New-Offer-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/New-Offer-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/New-Offer-md.webp 768w ,https://bramha.work/media/posts/4/responsive/New-Offer-lg.webp 1024w">
 <figcaption>After - The new offer had context and clear value proposition along with an improved presentation. I was confident in it's ability to outperform the old offer</figcaption>
 </figure>
+<br>
 <div style="background: #fff5f5; padding: 16px; border-radius: 8px; border: 1px solid #fed7d7; text-align: center;">
 <div style="font-size: 1.5rem; font-weight: 800; color: #9b2c2c;">More than doubled</div>
 <div style="font-size: 0.75rem; font-weight: bold; color: #c53030; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">purchases compared to the old offer</div>
