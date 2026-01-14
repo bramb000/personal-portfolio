@@ -3,7 +3,7 @@
     <title>Bramha Dalvi</title>
     <link href="https://bramha.work/feed.xml" rel="self" />
     <link href="https://bramha.work" />
-    <updated>2026-01-13T19:41:18+11:00</updated>
+    <updated>2026-01-15T07:53:06+11:00</updated>
     <author>
         <name>Bramha</name>
     </author>
@@ -1012,7 +1012,7 @@
 <p><!-- wp:paragraph --></p>
 <h1>Context</h1>
 <p> </p>
-<p><strong>Guild of Guardians is a midcore RPG</strong> game where users create teams of 5 guardians to duke it out against monsters, enemies, and other players. In the first 7 to 10 days, the users are expected to play the Adventure mode where they explore the story, learn about the characters, and fight some easy monsters to learn about the game. They need to earn gold to strengthen their equipment and collect souls to level up their heroes.</p>
+<p><strong>Guild of Guardians is a squad RPG</strong> game where users create teams of 5 heroes to duke it out against monsters, enemies, and other players. In the first 7 to 10 days, the users are expected to play the Adventure mode where they explore the story, learn about the characters, and fight some easy monsters to learn about the game. They need to earn gold to strengthen their equipment and collect souls to level up their heroes.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>We had a problem, our D7 retention, the percent of players still continuing to play by the 7th day since they installed, was low. Which means we lost players who we spend lots of money to acquire which reduced the efficiency of our marketing budget.</p>
@@ -1143,7 +1143,7 @@
 <p><!-- wp:paragraph --></p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p>The averages are different and it explains correlation. But <strong>how do I know if the problem is with session per day and not with overall ability of the game to delight? If that were true, we would see very low engagement in the first session</strong> - but the opposite was true with a healthy average 25 minutes first session length. The game had a healthy D1 retention compared to industry benchmarks which means that it was making an impression, just <strong>failing to hook players into coming back and forming habits</strong>.</p>
+<p>The averages are different and it explains correlation. But <strong>how do I know if the problem is with session per day and not with overall ability of the game to delight? If that were true, we would see very low engagement in the first session</strong> - but the opposite was true with a healthy average 25 minutes first session length. The game had a healthy D1 retention compared to industry benchmarks which means that it was making a good impression, just <strong>failing to hook players into coming back and forming habits</strong>.</p>
 <p>Proceeding with this investigation - in Guild of Guardians, you get gold and other resources for playing. And you can use those resources to get powerful heroes, stronger swords, and sturdier shields to defeat bigger monsters. What's the catch? <strong>If you don't login in enough times</strong>, you can get as much gold as you're supposed to. So <strong>you're weaker</strong>, the boss is more difficult because your weapons are weaker. This perfectly <strong>aligned with the original observation that users were logging in less than once per daily were failing to defeat specific bosses and dungeons</strong>.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
@@ -1259,7 +1259,7 @@
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/Frame-68.png" alt="" width="4665" height="834" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Frame-68-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/Frame-68-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/Frame-68-md.webp 768w ,https://bramha.work/media/posts/4/responsive/Frame-68-lg.webp 1024w">
 <figcaption>Wireframing the new screens and the golden path</figcaption>
 </figure>
-<p>My process starts with a brain dump and creating 5-6 quick sketches of a layout. Here are 2 concepts I stored from the general set of throwaway layouts I create.</p>
+<p>My process starts with a brain dump and creating 5-6 quick sketches of a layout. Here are some concepts at various stages of the flow a general set of throwaway layouts I created for exploration.</p>
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/IMG_0528-1.PNG" alt="" width="900" height="718" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/IMG_0528-1-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/IMG_0528-1-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/IMG_0528-1-md.webp 768w ,https://bramha.work/media/posts/4/responsive/IMG_0528-1-lg.webp 1024w">
 <figcaption>Some hand-drawn throwaway concepts</figcaption>
 </figure>
@@ -1359,7 +1359,7 @@
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:separator --></p>
 <hr>
-<p>After implementing this feature, <strong>I found out through analysing further data as a retroanalysis that players would get stuck at specific dungeons in the campaign mode and they would quit the game after trying a few more times</strong>. This was a highly correlated factor to low D7 retention.</p>
+<p>After implementing this feature, I was looking at what are the last 3-4 things a user does before they quit the game, especially those who quit in their first week. <strong>I found out through analysing further data that users would get stuck at specific dungeons in the campaign mode and they would quit the game after trying a few more times</strong>. This was a highly correlated factor to low D7 retention.</p>
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/Graph-of-players-attempting-and-quitting.png" alt="" width="900" height="354" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Graph-of-players-attempting-and-quitting-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/Graph-of-players-attempting-and-quitting-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/Graph-of-players-attempting-and-quitting-md.webp 768w ,https://bramha.work/media/posts/4/responsive/Graph-of-players-attempting-and-quitting-lg.webp 1024w">
 <figcaption>This is a graph of average attempts of a dungeon (denoted by columns) and sum of players who quit after attempting but never clearing that specific dungeon. I could easily observe many dungeons where users were basically hitting their head against a wall</figcaption>
 </figure>
@@ -1373,7 +1373,7 @@
 </div>
 </div>
 <p> </p>
-<p>After analysing the data of what heroes they were using to fight, <strong>it turned out they were using weaker strategic teams</strong>. I went around the office and asked employees who did not work on Guild of Guardians but played it regularly for their unbiased feedback on this specific issue. Many of them replied with not knowing why an enemy was powerful to then be able to infer what is the best team of heroes to use against them and only being able to proceed after getting that information from other advanced players.</p>
+<p>After analysing the data of what heroes they were using to fight and their account level, <strong>it turned out they were using weaker strategic teams despite being at an adequate enough power level</strong>. I went around the office and asked employees who did not work on Guild of Guardians but played it regularly for their unbiased feedback on this specific issue. Many of them replied with not knowing why an enemy was powerful to then be able to infer what is the best team of heroes to use against them and only being able to proceed after getting that information from other advanced players.</p>
 <p><strong>I wrote SQL queries to pull data of user behaviour from the last 60 days to validate this anecdotal data with statistically significant data.</strong></p>
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/Guardian-Usage-Data.png" alt="" width="1167" height="326" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Guardian-Usage-Data-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/Guardian-Usage-Data-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/Guardian-Usage-Data-md.webp 768w ,https://bramha.work/media/posts/4/responsive/Guardian-Usage-Data-lg.webp 1024w">
 <figcaption>I could see a clear difference in heroes used by successful players (on the left) vs unsuccessful players who quit the game (on the right) by looking at the data</figcaption>
@@ -1422,9 +1422,10 @@
 </figure>
 </div></div>
 <hr>
-<p>The <strong>next piece was to add a goal at the end of the 7 days to build anticipation</strong> and increase the odds of retaining to day 7.</p>
-<p>Since our game had a plethora of legendary heroes that players wanted and would open gacha for and hope to get, <strong>I created a 7 day reward that let you pick 1 legendary guardian. This let players experience choice and autonomy at the end of long commitment.</strong> The hypothesis was that delayed gratification would make players stay longer than day 7 in anticipation of further dopamine rushes. The UI design for this feature was specifically chosen to look like a countdown calendar so the players had something to look forward to not only the next day but also a bumper reward at the end of the week.</p>
-<p>This feature was not a big driver of early retention, but I observed a small bump in retention from Day 5 and Day 6 to Day 7 retention, which let me infer that this feature had great additional incentives for players who had already gotten over the earlier hurdles.</p>
+<p>The <strong>next piece was to add a goal at the end of the 7 days to build anticipation and boost retention</strong>.</p>
+<p>Since our game had a plethora of legendary heroes that players wanted and would open gacha for and hope to get, <strong>I created a 7 day reward that let you pick 1 legendary guardian. This let players experience choice and autonomy at the end of long commitment.</strong></p>
+<p><strong>The hypothesis was that delayed gratification would make players stay longer</strong> than day 7 in anticipation of further dopamine rushes. The UI design for this feature was specifically chosen to look like a countdown calendar so the players had something to look forward to not only the next day but also a bumper reward at the end of the week.</p>
+<p>This feature was not a big driver of early retention, but I observed a small bump in retention from Day 5 and Day 6 to Day 7 retention, which let me infer that <strong>this feature had great additional incentives for players who had already gotten over the earlier hurdles.</strong></p>
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/Screenshot_20251210_075732_Guild-of-Guardians.png" alt="" width="900" height="420" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Screenshot_20251210_075732_Guild-of-Guardians-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251210_075732_Guild-of-Guardians-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251210_075732_Guild-of-Guardians-md.webp 768w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251210_075732_Guild-of-Guardians-lg.webp 1024w">
 <figcaption>Daily instant gratification rewards to create micro goals and a big delayed gratification reward at the end of the week with clear goals, context, and progress to create macro goals</figcaption>
 </figure>
@@ -1507,7 +1508,7 @@
 <p><!-- wp:paragraph --></p>
 <h1>Context</h1>
 <p> </p>
-<p><strong>Guild of Guardians is a midcore RPG</strong> game where users create teams of 5 guardians to duke it out against monsters, enemies, and other players. In the first 7 to 10 days, the users are expected to play the Adventure mode where they explore the story, learn about the characters, and fight some easy monsters to learn about the game. They need to earn gold to strengthen their equipment and collect souls to level up their heroes.</p>
+<p><strong>Guild of Guardians is a squad RPG</strong> game where users create teams of 5 heroes to duke it out against monsters, enemies, and other players. In the first 7 to 10 days, the users are expected to play the Adventure mode where they explore the story, learn about the characters, and fight some easy monsters to learn about the game. They need to earn gold to strengthen their equipment and collect souls to level up their heroes.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>We had a problem, our D7 retention, the percent of players still continuing to play by the 7th day since they installed, was low. Which means we lost players who we spend lots of money to acquire which reduced the efficiency of our marketing budget.</p>
@@ -1638,7 +1639,7 @@
 <p><!-- wp:paragraph --></p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p>The averages are different and it explains correlation. But <strong>how do I know if the problem is with session per day and not with overall ability of the game to delight? If that were true, we would see very low engagement in the first session</strong> - but the opposite was true with a healthy average 25 minutes first session length. The game had a healthy D1 retention compared to industry benchmarks which means that it was making an impression, just <strong>failing to hook players into coming back and forming habits</strong>.</p>
+<p>The averages are different and it explains correlation. But <strong>how do I know if the problem is with session per day and not with overall ability of the game to delight? If that were true, we would see very low engagement in the first session</strong> - but the opposite was true with a healthy average 25 minutes first session length. The game had a healthy D1 retention compared to industry benchmarks which means that it was making a good impression, just <strong>failing to hook players into coming back and forming habits</strong>.</p>
 <p>Proceeding with this investigation - in Guild of Guardians, you get gold and other resources for playing. And you can use those resources to get powerful heroes, stronger swords, and sturdier shields to defeat bigger monsters. What's the catch? <strong>If you don't login in enough times</strong>, you can get as much gold as you're supposed to. So <strong>you're weaker</strong>, the boss is more difficult because your weapons are weaker. This perfectly <strong>aligned with the original observation that users were logging in less than once per daily were failing to defeat specific bosses and dungeons</strong>.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
@@ -1754,7 +1755,7 @@
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/Frame-68.png" alt="" width="4665" height="834" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Frame-68-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/Frame-68-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/Frame-68-md.webp 768w ,https://bramha.work/media/posts/4/responsive/Frame-68-lg.webp 1024w">
 <figcaption>Wireframing the new screens and the golden path</figcaption>
 </figure>
-<p>My process starts with a brain dump and creating 5-6 quick sketches of a layout. Here are 2 concepts I stored from the general set of throwaway layouts I create.</p>
+<p>My process starts with a brain dump and creating 5-6 quick sketches of a layout. Here are some concepts at various stages of the flow a general set of throwaway layouts I created for exploration.</p>
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/IMG_0528-1.PNG" alt="" width="900" height="718" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/IMG_0528-1-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/IMG_0528-1-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/IMG_0528-1-md.webp 768w ,https://bramha.work/media/posts/4/responsive/IMG_0528-1-lg.webp 1024w">
 <figcaption>Some hand-drawn throwaway concepts</figcaption>
 </figure>
@@ -1854,7 +1855,7 @@
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:separator --></p>
 <hr>
-<p>After implementing this feature, <strong>I found out through analysing further data as a retroanalysis that players would get stuck at specific dungeons in the campaign mode and they would quit the game after trying a few more times</strong>. This was a highly correlated factor to low D7 retention.</p>
+<p>After implementing this feature, I was looking at what are the last 3-4 things a user does before they quit the game, especially those who quit in their first week. <strong>I found out through analysing further data that users would get stuck at specific dungeons in the campaign mode and they would quit the game after trying a few more times</strong>. This was a highly correlated factor to low D7 retention.</p>
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/Graph-of-players-attempting-and-quitting.png" alt="" width="900" height="354" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Graph-of-players-attempting-and-quitting-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/Graph-of-players-attempting-and-quitting-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/Graph-of-players-attempting-and-quitting-md.webp 768w ,https://bramha.work/media/posts/4/responsive/Graph-of-players-attempting-and-quitting-lg.webp 1024w">
 <figcaption>This is a graph of average attempts of a dungeon (denoted by columns) and sum of players who quit after attempting but never clearing that specific dungeon. I could easily observe many dungeons where users were basically hitting their head against a wall</figcaption>
 </figure>
@@ -1868,7 +1869,7 @@
 </div>
 </div>
 <p> </p>
-<p>After analysing the data of what heroes they were using to fight, <strong>it turned out they were using weaker strategic teams</strong>. I went around the office and asked employees who did not work on Guild of Guardians but played it regularly for their unbiased feedback on this specific issue. Many of them replied with not knowing why an enemy was powerful to then be able to infer what is the best team of heroes to use against them and only being able to proceed after getting that information from other advanced players.</p>
+<p>After analysing the data of what heroes they were using to fight and their account level, <strong>it turned out they were using weaker strategic teams despite being at an adequate enough power level</strong>. I went around the office and asked employees who did not work on Guild of Guardians but played it regularly for their unbiased feedback on this specific issue. Many of them replied with not knowing why an enemy was powerful to then be able to infer what is the best team of heroes to use against them and only being able to proceed after getting that information from other advanced players.</p>
 <p><strong>I wrote SQL queries to pull data of user behaviour from the last 60 days to validate this anecdotal data with statistically significant data.</strong></p>
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/Guardian-Usage-Data.png" alt="" width="1167" height="326" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Guardian-Usage-Data-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/Guardian-Usage-Data-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/Guardian-Usage-Data-md.webp 768w ,https://bramha.work/media/posts/4/responsive/Guardian-Usage-Data-lg.webp 1024w">
 <figcaption>I could see a clear difference in heroes used by successful players (on the left) vs unsuccessful players who quit the game (on the right) by looking at the data</figcaption>
@@ -1917,9 +1918,10 @@
 </figure>
 </div></div>
 <hr>
-<p>The <strong>next piece was to add a goal at the end of the 7 days to build anticipation</strong> and increase the odds of retaining to day 7.</p>
-<p>Since our game had a plethora of legendary heroes that players wanted and would open gacha for and hope to get, <strong>I created a 7 day reward that let you pick 1 legendary guardian. This let players experience choice and autonomy at the end of long commitment.</strong> The hypothesis was that delayed gratification would make players stay longer than day 7 in anticipation of further dopamine rushes. The UI design for this feature was specifically chosen to look like a countdown calendar so the players had something to look forward to not only the next day but also a bumper reward at the end of the week.</p>
-<p>This feature was not a big driver of early retention, but I observed a small bump in retention from Day 5 and Day 6 to Day 7 retention, which let me infer that this feature had great additional incentives for players who had already gotten over the earlier hurdles.</p>
+<p>The <strong>next piece was to add a goal at the end of the 7 days to build anticipation and boost retention</strong>.</p>
+<p>Since our game had a plethora of legendary heroes that players wanted and would open gacha for and hope to get, <strong>I created a 7 day reward that let you pick 1 legendary guardian. This let players experience choice and autonomy at the end of long commitment.</strong></p>
+<p><strong>The hypothesis was that delayed gratification would make players stay longer</strong> than day 7 in anticipation of further dopamine rushes. The UI design for this feature was specifically chosen to look like a countdown calendar so the players had something to look forward to not only the next day but also a bumper reward at the end of the week.</p>
+<p>This feature was not a big driver of early retention, but I observed a small bump in retention from Day 5 and Day 6 to Day 7 retention, which let me infer that <strong>this feature had great additional incentives for players who had already gotten over the earlier hurdles.</strong></p>
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/Screenshot_20251210_075732_Guild-of-Guardians.png" alt="" width="900" height="420" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Screenshot_20251210_075732_Guild-of-Guardians-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251210_075732_Guild-of-Guardians-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251210_075732_Guild-of-Guardians-md.webp 768w ,https://bramha.work/media/posts/4/responsive/Screenshot_20251210_075732_Guild-of-Guardians-lg.webp 1024w">
 <figcaption>Daily instant gratification rewards to create micro goals and a big delayed gratification reward at the end of the week with clear goals, context, and progress to create macro goals</figcaption>
 </figure>
@@ -1960,17 +1962,19 @@
 </figure>
 <p>With feedback from some other team members outside our team, everyone on my team eventually aligned that we want to reduce these two screens into one because players were falling into a habit of closing popups and we had to make a shorter, snappier interaction.</p>
 <p><strong>Stage 2 - Iteration 2 polished by the UI artist based on my guidelines and direction</strong>. It included wording like "Free" and an immediate follow up offer, making the free part look like a clear sales hook. It also looked like an offer from the get go. I wanted to push for more subtelty.</p>
-<figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/image-6.png" alt="" width="900" height="253" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/image-6-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/image-6-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/image-6-md.webp 768w ,https://bramha.work/media/posts/4/responsive/image-6-lg.webp 1024w"></figure>
-<p><strong>Stage 3 - Iteration 3 polished by the UI artist based on my feedback from Stage 2</strong>. We A/B tested stage 3 with 10% of our incoming new players as a 5% and 5% split, and it performed better than the old offer. But I pushed the team to improve it from the stage 3 version as it not have any grounding in narrative context which was something we had feedback from late game players in our Discord who wished for more lore and context around why certain features exist. After all, they don't want to play a video game that could have just been a spreadsheet. So I really wanted to get started with lacing all in-game events with some narrative explanation to get our new players used to the fact that this is a rich and varied world.</p>
-<p><strong>We A/B tested the Stage 3 vs the final version in a similar setup and the final version outperformed this one by 4% on claiming the free hero and by over 10% on purchasing the offer!</strong></p>
-<figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/image-4.png" alt="" width="900" height="259" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/image-4-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/image-4-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/image-4-md.webp 768w ,https://bramha.work/media/posts/4/responsive/image-4-lg.webp 1024w">
-<figcaption></figcaption>
+<figure class="post__image"><img loading="lazy" src="https://bramha.work/media/posts/4/image-6.png" alt="" width="900" height="253" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/image-6-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/image-6-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/image-6-md.webp 768w ,https://bramha.work/media/posts/4/responsive/image-6-lg.webp 1024w">
+<figcaption>We did not release this iteration</figcaption>
 </figure>
+<p><strong>Stage 3 - Iteration 3 polished by the UI artist based on my feedback from Stage 2</strong>. We A/B tested stage 3 with 10% of our incoming new players as a 5% and 5% split, and it performed better than the old offer. But I pushed the team to improve it from the stage 3 version as it not have any grounding in narrative context which was something we had feedback from late game players in our Discord who wished for more lore and context around why certain features exist. After all, they don't want to play a video game that could have just been a spreadsheet. So I really wanted to get started with lacing all in-game events with some narrative explanation to get our new players used to the fact that this is a rich and varied world.</p>
+<figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/image-4.png" alt="" width="900" height="259" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/image-4-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/image-4-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/image-4-md.webp 768w ,https://bramha.work/media/posts/4/responsive/image-4-lg.webp 1024w">
+<figcaption>This version performed about 61% better than the old offer, but I wanted to push the design to include more lore and context to truly delight the user</figcaption>
+</figure>
+<p><strong>We A/B tested the Stage 3 vs the final version (seen at the top of this section) in a similar setup and the final version outperformed this one by 4% on claiming the free hero and by over 50% on purchasing the offer!</strong></p>
 <hr>
 <h1>Result</h1>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p><strong>We saw our D7 retention increase by nearly 25% after all features were shipped.</strong></p>
+<p><strong>Our D7 retention increase by nearly 25% after all features were shipped.</strong></p>
 <p>If you remember the session per day distribution that I analysed at the start of this project, it started looking a normal distribution. The "average" fell down to 1.1, but more users were playing at least once per day and overall less users churned from the game and improved D7 retention.</p>
 <p>In nerd terms - the bimodal distribution eventually regressed to a normal distribution, and fewer overall players churned after solving user pain points. What this means was that we no longer had a k-shaped behaviour where the most engaged players were playing so much that it pulled the average up and gave us the wrong impression of the game.</p>
 <p>If you remember the initial data point that I looked at the beginning, the inference of the logistic regression model was that there is a 16% higher likelihood of users engaging if their sessions per day increased by 1 unit. Even though the average came down, within a sample, the number of total users experiencing higher sessions per day increase. This resulted in total net volume increase of retained users to day 7, and effectively increased day 7 retention.</p>
@@ -1979,7 +1983,7 @@
 </figure>
 <p>While it is difficult to attribute the results to any single change, we continuously monitored data and collected qualitative feedback through community managers engaging with the player base to gauge the estimated weighted impact of individual changes. I built dashboards to track main health metrics such as average sessions per day, D7 retention, average session length, etc. </p>
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/Retention-growth-2.png" alt="" width="782" height="480" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Retention-growth-2-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/Retention-growth-2-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/Retention-growth-2-md.webp 768w ,https://bramha.work/media/posts/4/responsive/Retention-growth-2-lg.webp 1024w"><br>
-<figcaption>This is a mocked visualisation of an approximation of real data as the real data is proprietary</figcaption>
+<figcaption>This is a mocked visualisation of an approximation data as the real data is proprietary</figcaption>
 </figure>
 <p>Over the course of development we collectively found out, unsurpisingly, that impact on D7 retention followed an 80/20 principle i.e major impact came from the earliest, biggest changes (such as building up the away from keyboard idle rewards and readjusting some of the milestones and rewards) and the marginal gains of impact from later, smaller changes became smaller and smaller.</p>
 <p>At that point, it made sense for me to propose to our Executive Producer to dissolve the "D7 Retention" strike team and reallocate people to other features in development.</p>
@@ -1989,7 +1993,7 @@
 <h1>Learning</h1>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p><strong>This was a major block of work that took multiple months and was shipped over multiple releases.</strong> The discovery phase started by understanding that what players are lacking is beyond the screen, it's a mismatch of the game's user experience and their habits and lifestyle. Once we understood that, we knew we had to make critical changes to features besides just updating the UI.</p>
+<p><strong>This was a major block of work that took multiple months and was shipped over multiple releases.</strong> The discovery phase started by understanding what users are lacking is beyond the screen, it's a mismatch of the game's user experience and their habits and lifestyle. Once we understood that, we knew we had to make critical changes to features besides just updating the UI.</p>
 <p><strong>But with hypothesis and insights backed by data about player behaviour, we could confidently commit to this long endeavour to deliver value with constant iteration</strong> and see each addition having an impact on our business goals. Confidence in vision is key to keep the team motivated when the development period is long and uncertain.</p>
 <p>Usually I rely on a team of data analysts but on a small, under-resourced team <strong>I had to basically also be the lead data analyst on this feature</strong>. This block of work <strong>deeply tested my ability to source data and craft hypothesis</strong> to choose the correct solutions and priorities for them. If you want to see my full in-depth analysis that I did at the start of the feature to convince, align, and motivate the team as to why these problems are important, you can read the lengthy report here - <a href="https://docs.google.com/document/d/1E_Y0sQC5yAS__0F0BeOLr5f_QueWJYBsCgnhGpbD7vE/edit?usp=sharing" target="_blank" rel="noopener noreferrer">LINK</a>. This Google Doc may take you upto 15 minutes to read.</p>
 <p> </p>
