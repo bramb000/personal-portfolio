@@ -10,6 +10,19 @@
     },
     "items": [
         {
+            "id": "https://bramha.work/publishing-my-first-book/",
+            "url": "https://bramha.work/publishing-my-first-book/",
+            "title": "Releasing my first book!",
+            "content_html": "<p>I've always written stories for children inspired by some of my favourite messages and life lessons.</p>\n<p>In 2025 I published my first children's story book, written and illustrated by me.</p>\n<p class=\"align-center\"><a href=\"https://www.amazon.com.au/Tales-Hedgehog-Fox-Bramha-Dalvi/dp/B0DZWV15P8\" class=\"custom-btn\">Get my book!</a></p>\n<p> </p>\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://bramha.work/media/posts/15/Screenshot-2026-01-15-163351.png\" alt=\"\" width=\"900\" height=\"1264\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://bramha.work/media/posts/15/responsive/Screenshot-2026-01-15-163351-xs.webp 300w ,https://bramha.work/media/posts/15/responsive/Screenshot-2026-01-15-163351-sm.webp 480w ,https://bramha.work/media/posts/15/responsive/Screenshot-2026-01-15-163351-md.webp 768w ,https://bramha.work/media/posts/15/responsive/Screenshot-2026-01-15-163351-lg.webp 1024w\"></figure>\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://bramha.work/media/posts/15/Screenshot-2026-01-15-163436.png\" alt=\"\" width=\"900\" height=\"1354\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://bramha.work/media/posts/15/responsive/Screenshot-2026-01-15-163436-xs.webp 300w ,https://bramha.work/media/posts/15/responsive/Screenshot-2026-01-15-163436-sm.webp 480w ,https://bramha.work/media/posts/15/responsive/Screenshot-2026-01-15-163436-md.webp 768w ,https://bramha.work/media/posts/15/responsive/Screenshot-2026-01-15-163436-lg.webp 1024w\"></figure>\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://bramha.work/media/posts/15/h-and-f-page.png\" alt=\"\" width=\"900\" height=\"1219\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://bramha.work/media/posts/15/responsive/h-and-f-page-xs.webp 300w ,https://bramha.work/media/posts/15/responsive/h-and-f-page-sm.webp 480w ,https://bramha.work/media/posts/15/responsive/h-and-f-page-md.webp 768w ,https://bramha.work/media/posts/15/responsive/h-and-f-page-lg.webp 1024w\"></figure>",
+            "author": {
+                "name": "Bramha"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-01-15T16:31:22+11:00",
+            "date_modified": "2026-01-15T16:40:00+11:00"
+        },
+        {
             "id": "https://bramha.work/using-ai-for-clearer-and-precise-team-communication/",
             "url": "https://bramha.work/using-ai-for-clearer-and-precise-team-communication/",
             "title": "Using AI for clearer and precise team communication",

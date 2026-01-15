@@ -3,12 +3,34 @@
     <title>Bramha Dalvi</title>
     <link href="https://bramha.work/feed.xml" rel="self" />
     <link href="https://bramha.work" />
-    <updated>2026-01-15T07:53:06+11:00</updated>
+    <updated>2026-01-15T16:40:00+11:00</updated>
     <author>
         <name>Bramha</name>
     </author>
     <id>https://bramha.work</id>
 
+    <entry>
+        <title>Releasing my first book!</title>
+        <author>
+            <name>Bramha</name>
+        </author>
+        <link href="https://bramha.work/publishing-my-first-book/"/>
+        <id>https://bramha.work/publishing-my-first-book/</id>
+
+        <updated>2026-01-15T16:31:22+11:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <p>I've always written stories for children inspired by some of my favourite messages and life lessons.</p>
+<p>In 2025 I published my first children's story book, written and illustrated by me.</p>
+<p class="align-center"><a href="https://www.amazon.com.au/Tales-Hedgehog-Fox-Bramha-Dalvi/dp/B0DZWV15P8" class="custom-btn">Get my book!</a></p>
+<p> </p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://bramha.work/media/posts/15/Screenshot-2026-01-15-163351.png" alt="" width="900" height="1264" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/15/responsive/Screenshot-2026-01-15-163351-xs.webp 300w ,https://bramha.work/media/posts/15/responsive/Screenshot-2026-01-15-163351-sm.webp 480w ,https://bramha.work/media/posts/15/responsive/Screenshot-2026-01-15-163351-md.webp 768w ,https://bramha.work/media/posts/15/responsive/Screenshot-2026-01-15-163351-lg.webp 1024w"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://bramha.work/media/posts/15/Screenshot-2026-01-15-163436.png" alt="" width="900" height="1354" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/15/responsive/Screenshot-2026-01-15-163436-xs.webp 300w ,https://bramha.work/media/posts/15/responsive/Screenshot-2026-01-15-163436-sm.webp 480w ,https://bramha.work/media/posts/15/responsive/Screenshot-2026-01-15-163436-md.webp 768w ,https://bramha.work/media/posts/15/responsive/Screenshot-2026-01-15-163436-lg.webp 1024w"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://bramha.work/media/posts/15/h-and-f-page.png" alt="" width="900" height="1219" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/15/responsive/h-and-f-page-xs.webp 300w ,https://bramha.work/media/posts/15/responsive/h-and-f-page-sm.webp 480w ,https://bramha.work/media/posts/15/responsive/h-and-f-page-md.webp 768w ,https://bramha.work/media/posts/15/responsive/h-and-f-page-lg.webp 1024w"></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Using AI for clearer and precise team communication</title>
         <author>
