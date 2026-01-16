@@ -3,7 +3,7 @@
     <title>Bramha Dalvi</title>
     <link href="https://bramha.work/feed.xml" rel="self" />
     <link href="https://bramha.work" />
-    <updated>2026-01-15T16:52:03+11:00</updated>
+    <updated>2026-01-17T09:24:52+11:00</updated>
     <author>
         <name>Bramha</name>
     </author>
@@ -1998,9 +1998,21 @@
 <h1>Result</h1>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p><strong>Our D7 retention increase by nearly 25% after all features were shipped.</strong></p>
+<p> </p>
+<div style="background: #fff5f5; padding: 16px; border-radius: 8px; border: 1px solid #fed7d7; text-align: center;">
+<div style="font-size: 1.5rem; font-weight: 800; color: #9b2c2c;">+25% increase</div>
+<div style="font-size: 0.75rem; font-weight: bold; color: #c53030; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">in D7 Retention</div>
+</div>
+<p> </p>
 <p>If you remember the session per day distribution that I analysed at the start of this project, it started looking a normal distribution. The "average" fell down to 1.1, but more users were playing at least once per day and overall less users churned from the game and improved D7 retention.</p>
-<p>In nerd terms - the bimodal distribution eventually regressed to a normal distribution, and fewer overall players churned after solving user pain points. What this means was that we no longer had a k-shaped behaviour where the most engaged players were playing so much that it pulled the average up and gave us the wrong impression of the game.</p>
+<p>This was driven by more players collecting all their daily rewards from the new user flow, which respected user lifestyle and habits, compared to the previous flow.</p>
+<p> </p>
+<div style="background: #fff5f5; padding: 16px; border-radius: 8px; border: 1px solid #fed7d7; text-align: center;">
+<div style="font-size: 1.5rem; font-weight: 800; color: #9b2c2c;">+200% increase</div>
+<div style="font-size: 0.75rem; font-weight: bold; color: #c53030; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">in players who were collecting all the rewards</div>
+</div>
+<p> </p>
+<p>Getting super nerdy - the bimodal distribution eventually regressed to a normal distribution, and fewer overall players churned after solving user pain points. What this means was that we no longer had a k-shaped behaviour where the most engaged players were playing so much that it pulled the average up and gave us the wrong impression of the game.</p>
 <p>If you remember the initial data point that I looked at the beginning, the inference of the logistic regression model was that there is a 16% higher likelihood of users engaging if their sessions per day increased by 1 unit. Even though the average came down, within a sample, the number of total users experiencing higher sessions per day increase. This resulted in total net volume increase of retained users to day 7, and effectively increased day 7 retention.</p>
 <figure class="post__image post__image--center"><figure class="post__image post__image--center"><img loading="lazy"  src="https://bramha.work/media/posts/4/Smoother-Bell-Curve.png" alt="" width="900" height="552" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Smoother-Bell-Curve-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/Smoother-Bell-Curve-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/Smoother-Bell-Curve-md.webp 768w ,https://bramha.work/media/posts/4/responsive/Smoother-Bell-Curve-lg.webp 1024w"></figure>
 <figcaption>The "average" is lower but the outcome is more consistent for more players than before with overall higher retention. That's the beauty of really understanding statistics and numbers</figcaption>
