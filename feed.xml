@@ -3,7 +3,7 @@
     <title>Bramha Dalvi</title>
     <link href="https://bramha.work/feed.xml" rel="self" />
     <link href="https://bramha.work" />
-    <updated>2026-01-18T11:01:33+11:00</updated>
+    <updated>2026-01-20T10:56:49+11:00</updated>
     <author>
         <name>Bramha</name>
     </author>
@@ -1315,7 +1315,7 @@
 <figcaption>The chest fills up giving a sense of delight. User collect reward when they are not playing but I wanted to make sure the feeling was captured even if they observed the screen, although a super rare case</figcaption>
 </figure>
 <p><strong>I always expected</strong> and my instinct was confirmed via playtests <strong>that the chest on the screen did not look like a button and did not look clickable, and in early internal testing users were confused</strong> on how to actually collect rewards. While the chest managed to delight users, it lost some aspect of standard usability - consistency with the rest of the UI so the users know what is interactable and what to expect.</p>
-<p><strong>To re-focus and bring some aspects of this interaction back to usability, I decided a tutorial for the first visit to this screen</strong> was the best solution to teach the player that something which does not look like a button is actually a button. During internal playtests, it worked, but something about it felt inelegant. It felt like a one time coaching interaction that could be missed if the user was not paying attention</p>
+<p><strong>To re-focus and bring some aspects of this interaction back to usability, I decided a tutorial for the first visit to this screen</strong> was the best solution to teach the player that something which does not look like a button is actually a button. During internal playtests, I asked participants after 24 hours if they could recreate the task and 1 in 5 testers failed. Their feedback was that they were not paying attention during the original tutorial and never learnt it. This solution was a no-go because of this issue.</p>
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/afk-tutorial.png" alt="" width="900" height="420" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/afk-tutorial-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/afk-tutorial-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/afk-tutorial-md.webp 768w ,https://bramha.work/media/posts/4/responsive/afk-tutorial-lg.webp 1024w">
 <figcaption>Iteration 1 - This is the quick and greybox tutorial I mocked up in Figma that coached users that non-button elements were clickable</figcaption>
 </figure>
@@ -1323,9 +1323,9 @@
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/FloatingActionButton-ezgif.com-optimize-2.gif" alt="" width="900" height="421">
 <figcaption>Final Iteration - Adding button shaped badge with gentle motion made it clearer that the chest is clickable</figcaption>
 </figure>
-<p>During testing, we found a 100% completion rate for actions related to collecting rewards from any screen in the game. Users could remember how to access the screen and claim their rewards. </p>
+<p>During testing, we found a 100% completion rate for actions related to collecting rewards from any screen in the game. </p>
 <figure class="post__image"><img loading="lazy" src="https://bramha.work/media/posts/4/Figma-User-Flow-2.png" alt="" width="900" height="844" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Figma-User-Flow-2-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/Figma-User-Flow-2-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/Figma-User-Flow-2-md.webp 768w ,https://bramha.work/media/posts/4/responsive/Figma-User-Flow-2-lg.webp 1024w">
-<figcaption>This was the final mocked up user flow in an interactable Figma prototype.</figcaption>
+<figcaption>This was the final mocked up user flow in an interactable Figma prototype. It underwent many iterations to reach the final version as we learnt more through playtesting</figcaption>
 </figure>
 <figure>The complete AFK Rewards experience</figure>
 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/snkVRbZXBeM" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
@@ -1811,7 +1811,7 @@
 <figcaption>The chest fills up giving a sense of delight. User collect reward when they are not playing but I wanted to make sure the feeling was captured even if they observed the screen, although a super rare case</figcaption>
 </figure>
 <p><strong>I always expected</strong> and my instinct was confirmed via playtests <strong>that the chest on the screen did not look like a button and did not look clickable, and in early internal testing users were confused</strong> on how to actually collect rewards. While the chest managed to delight users, it lost some aspect of standard usability - consistency with the rest of the UI so the users know what is interactable and what to expect.</p>
-<p><strong>To re-focus and bring some aspects of this interaction back to usability, I decided a tutorial for the first visit to this screen</strong> was the best solution to teach the player that something which does not look like a button is actually a button. During internal playtests, it worked, but something about it felt inelegant. It felt like a one time coaching interaction that could be missed if the user was not paying attention</p>
+<p><strong>To re-focus and bring some aspects of this interaction back to usability, I decided a tutorial for the first visit to this screen</strong> was the best solution to teach the player that something which does not look like a button is actually a button. During internal playtests, I asked participants after 24 hours if they could recreate the task and 1 in 5 testers failed. Their feedback was that they were not paying attention during the original tutorial and never learnt it. This solution was a no-go because of this issue.</p>
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/afk-tutorial.png" alt="" width="900" height="420" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/afk-tutorial-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/afk-tutorial-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/afk-tutorial-md.webp 768w ,https://bramha.work/media/posts/4/responsive/afk-tutorial-lg.webp 1024w">
 <figcaption>Iteration 1 - This is the quick and greybox tutorial I mocked up in Figma that coached users that non-button elements were clickable</figcaption>
 </figure>
@@ -1819,9 +1819,9 @@
 <figure class="post__image post__image--center"><img loading="lazy" src="https://bramha.work/media/posts/4/FloatingActionButton-ezgif.com-optimize-2.gif" alt="" width="900" height="421">
 <figcaption>Final Iteration - Adding button shaped badge with gentle motion made it clearer that the chest is clickable</figcaption>
 </figure>
-<p>During testing, we found a 100% completion rate for actions related to collecting rewards from any screen in the game. Users could remember how to access the screen and claim their rewards. </p>
+<p>During testing, we found a 100% completion rate for actions related to collecting rewards from any screen in the game. </p>
 <figure class="post__image"><img loading="lazy" src="https://bramha.work/media/posts/4/Figma-User-Flow-2.png" alt="" width="900" height="844" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://bramha.work/media/posts/4/responsive/Figma-User-Flow-2-xs.webp 300w ,https://bramha.work/media/posts/4/responsive/Figma-User-Flow-2-sm.webp 480w ,https://bramha.work/media/posts/4/responsive/Figma-User-Flow-2-md.webp 768w ,https://bramha.work/media/posts/4/responsive/Figma-User-Flow-2-lg.webp 1024w">
-<figcaption>This was the final mocked up user flow in an interactable Figma prototype.</figcaption>
+<figcaption>This was the final mocked up user flow in an interactable Figma prototype. It underwent many iterations to reach the final version as we learnt more through playtesting</figcaption>
 </figure>
 <figure>The complete AFK Rewards experience</figure>
 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/snkVRbZXBeM" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
