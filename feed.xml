@@ -3,7 +3,7 @@
     <title>Bramha Dalvi</title>
     <link href="https://bramha.work/feed.xml" rel="self" />
     <link href="https://bramha.work" />
-    <updated>2026-01-20T10:56:49+11:00</updated>
+    <updated>2026-01-20T11:09:39+11:00</updated>
     <author>
         <name>Bramha</name>
     </author>
@@ -1070,8 +1070,20 @@
 <p>A quick before and after of the features and screens I worked on throughout this entire process</p>
 <p>Old user flow to use adventure energy, get rewards, upgrade, and fight</p>
 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/nJ4OENCLzkE" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+<br>
+<div style="background: #f7fafc; padding: 16px; border-radius: 8px; border: 1px solid #e2e8f0; text-align: center;">
+<div style="font-size: 1.5rem; font-weight: 800; color: #1a202c;">7-10 clicks and open app 3 times a day</div>
+<div style="font-size: 0.75rem; font-weight: bold; color: #2d3748; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">to get rewards that you have already earned</div>
+</div>
+<br>
 <p>New user flow to get rewards as soon you open the game, upgrade, and get into combat</p>
 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/reWvwvFF8CQ" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+<br>
+<div style="background: #fff5f5; padding: 16px; border-radius: 8px; border: 1px solid #fed7d7; text-align: center;">
+<div style="font-size: 1.5rem; font-weight: 800; color: #9b2c2c;">2 clicks and open app 2 times a day</div>
+<div style="font-size: 0.75rem; font-weight: bold; color: #c53030; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">to get rewards that you have already earned</div>
+</div>
+<br>
 <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="2">
 <figure class="gallery__item"><a href="https://bramha.work/media/posts/4/gallery/Screenshot_20250915_114738_Guild-of-Guardians-2.png" data-size="2316x1080"><img loading="lazy" src="https://bramha.work/media/posts/4/gallery/Screenshot_20250915_114738_Guild-of-Guardians-2-thumbnail.webp" alt="" width="768" height="358"></a>
 <figcaption>Before - No visual goal setting</figcaption>
@@ -1566,8 +1578,20 @@
 <p>A quick before and after of the features and screens I worked on throughout this entire process</p>
 <p>Old user flow to use adventure energy, get rewards, upgrade, and fight</p>
 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/nJ4OENCLzkE" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+<br>
+<div style="background: #f7fafc; padding: 16px; border-radius: 8px; border: 1px solid #e2e8f0; text-align: center;">
+<div style="font-size: 1.5rem; font-weight: 800; color: #1a202c;">7-10 clicks and open app 3 times a day</div>
+<div style="font-size: 0.75rem; font-weight: bold; color: #2d3748; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">to get rewards that you have already earned</div>
+</div>
+<br>
 <p>New user flow to get rewards as soon you open the game, upgrade, and get into combat</p>
 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/reWvwvFF8CQ" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+<br>
+<div style="background: #fff5f5; padding: 16px; border-radius: 8px; border: 1px solid #fed7d7; text-align: center;">
+<div style="font-size: 1.5rem; font-weight: 800; color: #9b2c2c;">2 clicks and open app 2 times a day</div>
+<div style="font-size: 0.75rem; font-weight: bold; color: #c53030; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px;">to get rewards that you have already earned</div>
+</div>
+<br>
 <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="2">
 <figure class="gallery__item"><a href="https://bramha.work/media/posts/4/gallery/Screenshot_20250915_114738_Guild-of-Guardians-2.png" data-size="2316x1080"><img loading="lazy" src="https://bramha.work/media/posts/4/gallery/Screenshot_20250915_114738_Guild-of-Guardians-2-thumbnail.webp" alt="" width="768" height="358"></a>
 <figcaption>Before - No visual goal setting</figcaption>
